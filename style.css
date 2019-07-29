@@ -12,7 +12,7 @@ header {
 	right: 0;
 	z-index: 2;
 	font-size: 19px;
-	height: 28px;
+	height: 45px;
 	padding: 3px 6px;
 	background: rgba(0,0,0,.7);
 	color: white;
@@ -97,9 +97,8 @@ header a.active {
 	top: 0;
 	left: 0;
 	z-index: 2;
-	margin: 42px 0 0 7px;
+	margin: 50px 0 0 7px;
 	padding-bottom: 5px;
-	overflow: scroll;
 	max-height: 702px;
 }
 
@@ -238,19 +237,4 @@ body { height: 100%; margin: 0; padding: 0 }
 
 #info-body img {
 	width: 100%;
-}
-
-/**
- * info window
- */
-
-.scrollable {
-	height: 400px;
-	overflow: scroll;
-}
-
-@media only screen and (max-device-width: 568px) { 
-	.scrollable {
-		height: 250px;
-	}
 }

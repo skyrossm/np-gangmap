@@ -140,20 +140,14 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Glitches',
+			name: 'Personal Houses',
 			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: true
 		},
 		{
-			name: 'Wall breaches',
+			name: 'Headquaters',
 			icon: 'General/wall-breach.png',
-			type: 'General',
-			enabled: true
-		},
-		{
-			name: 'Vehicles',
-			icon: 'General/cars.png',
 			type: 'General',
 			enabled: true
 		}
@@ -256,14 +250,12 @@ $(function() {
 	var MapView = Backbone.View.extend({
 
 		initialize: function() {
-			this.mapType = 'Road';
+			this.mapType = 'Atlas';
 			this.mapDetails = { 'Atlas': '#0fa8d2', 'Satellite': '#143d6b', 'Road': '#1862ad' };
 			this.mapOptions = {
 				center: new google.maps.LatLng(66, -125),
 				zoom: 4,
 				disableDefaultUI: true,
-				mapTypeControl: true,
-				mapTypeControlOptions: { mapTypeIds: _.keys(this.mapDetails) },
 				mapTypeId: this.mapType
 			};
 
@@ -273,7 +265,6 @@ $(function() {
 
 			this.listenTo(Vent, 'locations:visible', this.showLocations);
 			this.listenTo(Vent, 'locations:invisible', this.hideLocations);
-
 			this.listenTo(Vent, 'location:clicked', this.popupLocation);
 		},
 
