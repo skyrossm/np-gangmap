@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Interactive GTA V Glitch map</title>
+	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,100,300,500">
+	<link rel="stylesheet" href="fontawesome/css/font-awesome.css">
+	<link rel="stylesheet" href="style.css">
+
+	<script src="js/libs/jquery-min.js"></script>
+	<script src="js/libs/underscore-min.js"></script>
+	<script src="js/libs/backbone-min.js"></script>
+	<script src="js/libs/handlebars.js"></script>
+	<script src="//www.google.com/jsapi"></script>
+	<script src="//maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+	<script src="js/app.js"></script>
+	
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+</head>
+<body class="">
+
+	<header>
+		<p class="left"><a href="//gta5-map.github.io/">Interactive GTA V Glitch map</a></p>
+		<ul class="right">
+			<li class="social-reddit"><a href="http://www.reddit.com/r/gtaglitches/comments/29e25u/release_interactive_gta_v_glitch_and_wall_breach/" target="_blank"><img src="icons/reddit.png" width="20px" alt="Upvote on reddit" /></a></li>
+			<li class="social-github"><iframe src="http://ghbtns.com/github-btn.html?user=gta5-map&repo=gta5-map.github.io&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="128" height="20"></iframe></li>
+			<li class="social-twitter"><a href="https://twitter.com/frdmn" class="twitter-follow-button" data-show-count="false" data-lang="en">Follow</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
+		</ul>
+	</header>
+
+	<div id="tour-nav">
+		<a href="#" class="left">&laquo; <span id="tour-prev"></span></a>
+		<h3>Nuclear Waste Tour</h3>
+		<a href="#" class="right"><span id="tour-next"></span> &raquo;</a>
+	</div>
+
+	<div id="map" style="background:#1862ad;"></div>
+
+	<div id="tour-info"></div>
+
+	<script type="x/template" id="categoriesTemplate">
+		{{#each categories}}
+			<section class="type">
+				<h3>{{name}}</h3>
+				<ul>
+					{{#each types}}
+						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="{{assetsUrl}}icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a> <!--<a href="#tour" class="tt"></a>--></li>
+					{{/each}}
+				</ul>
+			</section>
+		{{/each}}
+	</script>
+
+	<script type="x/template" id="categoryDetailsTemplate">
+		<section class="type">
+			<h3><a href="#" class="back details"><i class="icon-chevron-sign-left"></i></a> {{type.name}}</h3>
+			<ul>
+				{{#each locations}}
+					<li data-id="{{id}}"><label>{{title}}</label></li>
+				{{/each}}
+			</ul>
+		</section>
+	</script>
+
+	<script type="x/template" id="markerPopupTemplate2">
+		<div id="info-window" style="max-width:420px;">
+			<div class="scrollable">
+				<span class="header">
+					<h3>{{title}}</h3>
+				</span>
+				<div id="info-body">
+					{{#if notes}}
+						<br>
+						<p>{{notes}}</p>
+					{{/if}}
+					{{#if video}}
+						<div class="video-{{id}}">
+							<br>
+							<h4>Video</h4>
+							<div class="youtubewrapper">
+								<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
+							</div>
+							{{#if video.yt_user}}
+								<p>
+									<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
+										Video by {{video.yt_user}}
+									</a>
+								</p>
+							{{/if}}
+						</div>
+					{{/if}}
+					{{#if images}}
+						<br>
+			     		<h4>Images</h4>
+					{{/if}}
+					{{#each images}}
+						<div class="image-{{id}}">
+					     	<span>{{headline}}</span>
+					     	<img src="{{url}}" class="image-{{id}}">
+					     	<p>
+								<a href="{{contact}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
+									Image by {{author}}
+								</a>              
+					     	</p>
+					    </div>
+					    <br>
+			     	{{/each}}
+					{{#each credit}}
+						<p style="overflow:hidden;clear:both;text-align:right;">
+							<a href="{{#if where}}{{where}}{{else}}#{{/if}}" target="_blank" style="color:#222;font-size:.8em;">
+								{{what}} by {{who}}
+							</a>
+						</p>
+					{{/each}}
+				</div>
+			</div>
+		</div>
+	</script>
+
+	<div id="typeDetails" class="types"></div>
+
+	<div id="types" class="types"></div>
+
+</body>
+</html>
