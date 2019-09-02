@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Interactive GTA V Glitch map</title>
+	<title>NoPixel Gang Map</title>
 	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,100,300,500">
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" href="fontawesome/css/font-awesome.css">
@@ -72,6 +72,22 @@
 					{{#if notes}}
 						<br>
 						<p>{{notes}}</p>
+					{{/if}}
+					{{#if video}}
+						<div class="video-{{id}}">
+							<br>
+							<h4>Video</h4>
+							<div class="youtubewrapper">
+								<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
+							</div>
+							{{#if video.yt_user}}
+								<p>
+									<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
+										Video by {{video.yt_user}}
+									</a>
+								</p>
+							{{/if}}
+						</div>
 					{{/if}}
 					{{#if images}}
 						<br>

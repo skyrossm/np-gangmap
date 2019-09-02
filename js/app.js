@@ -65,14 +65,17 @@ $(function() {
 
 	var LocationModel = Backbone.Model.extend({
 		initialize: function() {
-			var marker = new google.maps.Marker({
-				position: new google.maps.LatLng(this.get('lat'), this.get('lng')),
-				icon: {
-					url: assetsUrl()+'icons/'+categories.getIcon(this.get('type')),
-					scaledSize: new google.maps.Size(32, 37),
-				}
+			var polyCoords = this.get('latlngarray');
+			
+			var marker = new google.maps.Polygon({
+				paths: polyCoords,
+				strokeColor: this.get('strokecolor'),
+				strokeOpacity: 0.8,
+				strokeWeight: 2,
+				fillColor: this.get('fillcolor'),
+				fillOpacity: 0.35
 			});
-
+			
 			_.bindAll(this, 'markerClicked');
 			google.maps.event.addListener(marker, 'click', this.markerClicked);
 
@@ -84,10 +87,7 @@ $(function() {
 		},
 
 		removeHighlight: function() {
-			this.get('marker').setIcon({
-				url: this.get('marker').getIcon().url,
-				scaledSize: new google.maps.Size(22, 22)
-			});
+			
 		},
 
 		highlightMarker: function() {
@@ -98,10 +98,6 @@ $(function() {
 				if (currentMarker) currentMarker.removeHighlight();
 				mapView.closePopupLocation();
 				currentMarker = this;
-				this.get('marker').setIcon({
-					url: this.get('marker').getIcon().url,
-					scaledSize: new google.maps.Size(32, 32)
-				});
 			}
 		}
 	});
@@ -140,13 +136,13 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Personal Houses',
-			icon: 'General/glitches.png',
+			name: 'Gang Areas',
+			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
 		},
 		{
-			name: 'Headquaters',
+			name: 'Neutral Zones',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
@@ -224,8 +220,8 @@ $(function() {
 		showMarker: function(e) {
 			var location = locations.get($(e.currentTarget).data('id'));
 			location.highlightMarker();
-			map.panTo(location.get('marker').getPosition());
-			map.setZoom(5);
+			map.panTo(location.get('marker').getPath().getAt(0));
+			map.setZoom(7);
 		},
 
 		render: function() {
@@ -356,7 +352,6 @@ $(function() {
 			if ( ! coord) {
 				return null;
 			}
-
 			return assetsUrl() + 'tiles/' + this.mapType.toLowerCase() + '/' + zoomLevel + '-' + coord.x + '_' + coord.y + '.png';
 		},
 
@@ -397,6 +392,7 @@ $(function() {
 		hideLocations: function(locations) {
 			_.each(locations, function(location) {
 				location.get('marker').setVisible(false);
+				
 			});
 		},
 
@@ -433,8 +429,8 @@ $(function() {
 			        	maxHeight: 300
 				    });
 				}
-
-				infoWindow.open(this.map, location.get('marker'));
+				infoWindow.setPosition(location.get("marker").getPath().getAt(0));
+				infoWindow.open(this.map);
 
 				this.closePopupLocation();
 				this.currentInfoWindow = infoWindow;

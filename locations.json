@@ -1,47 +1,88 @@
 [
   {
     "id":1,
-    "type":"Personal Houses",
-    "title":"Charles Johnson",
-    "notes":"#1 Mirror Park Lane - Part of the Chang Gang.",
+    "type":"Gang Areas",
+    "title":"Leanbois",
+    "notes":"",
     "order":1,
-    "lat":68.370,
-    "lng":-114.289
+	"strokecolor":"#FF0000",
+	"fillcolor":"#FF0000",
+    "latlngarray": [
+		{"lat": 62.954, "lng": -125.148},
+		{"lat": 62.744, "lng": -126.038},
+		{"lat": 62.109, "lng": -124.376},
+		{"lat": 62.406, "lng": -123.771}
+	]
   },
   {
     "id":2,
-    "type":"Personal Houses",
-    "title":"Siz Fulker",
-    "notes":"#9999 Mirror Park Lane - Part of the Tang Gang.",
+    "type":"Gang Areas",
+    "title":"Ballas",
+    "notes":"",
     "order":2,
-    "lat":67.063,
-    "lng":-114.916
+	"strokecolor":"#551a8b",
+	"fillcolor":"#551a8b",
+    "latlngarray": [
+		{"lat": 62.109, "lng": -124.376},
+		{"lat": 61.876, "lng": -123.929},
+		{"lat": 61.637, "lng": -123.698},
+		{"lat": 61.637, "lng": -123.291},
+		{"lat": 61.835, "lng": -123.181},
+		{"lat": 62.272, "lng": -122.377},
+		{"lat": 62.587, "lng": -123.113},
+		{"lat": 62.324, "lng": -123.610},
+		{"lat": 62.406, "lng": -123.771}
+	]
   },
   {
     "id":3,
-    "type":"Personal Houses",
-    "title":"Al Saab",
-    "notes":"#16 Grove Street - Part of the Leanbois.",
-    "order":3,
-    "lat":62.383,
-    "lng":-125.049
+    "type":"Gang Areas",
+    "title":"Crafting Table",
+    "notes":"Currently claimed by: Ballas, Leanbois, Russians, Chang Gang?",
+    "order":2,
+	"strokecolor":"#000000",
+	"fillcolor":"#606060",
+    "latlngarray": [
+		{"lat": 62.711, "lng": -122.919},
+		{"lat": 62.587, "lng": -123.113},
+		{"lat": 62.272, "lng": -122.377},
+		{"lat": 62.418, "lng": -122.139}
+	]
   },
   {
     "id":4,
-    "type":"Personal Houses",
-    "title":"Lang Buddha",
-    "notes":"#17 Grove Street - Part of the Leanbois.",
-    "order":4,
-    "lat":62.346,
-    "lng":-124.836
+    "type":"Gang Areas",
+    "title":"Prune Street",
+    "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not actual gang terrority?",
+    "order":2,
+	"strokecolor":"#ffd1dc",
+	"fillcolor":"#ffd1dc",
+    "latlngarray": [
+		{"lat": 62.587, "lng": -123.113},
+		{"lat": 62.324, "lng": -123.610},
+		{"lat": 62.032, "lng": -122.791},
+		{"lat": 62.272, "lng": -122.377}
+	]
   },
   {
     "id":5,
-    "type":"Headquaters",
-    "title":"Chang Gang Mansion",
-    "notes":"Owned by Vinny Pistone, for usage by Chang Gang",
-    "order":5,
-    "lat":70.649,
-    "lng":-143.968
+    "type":"Gang Areas",
+    "title":"Aztecas",
+    "notes":"It's a blue world. Or, more like a blue street. Also north side cuh",
+    "order":2,
+	"strokecolor":"#0000FF",
+	"fillcolor":"#0000FF",
+    "latlngarray": [
+		{"lat": 63.331, "lng": -122.286},
+		{"lat": 62.943, "lng": -123.099},
+		{"lat": 62.505, "lng": -121.935},
+		{"lat": 62.908, "lng": -121.166}
+	],
+	"video":{
+      "yt_id":"68ugkg9RePc",
+      "yt_user":"blisscorporation",
+      "start":"0:00",
+      "end":"3:39"
+    }
   }
 ]
