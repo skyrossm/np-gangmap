@@ -45,7 +45,7 @@ $(function() {
 	var currentMarker;
 	
 	var assetsUrl = function() {
-		return window.location.hostname = 'https://skyrossm.github.io/np-gangmap/';
+		return 'https://skyrossm.github.io/np-gangmap/';
 	};
 
 	Handlebars.registerHelper('assetsUrl', assetsUrl);
