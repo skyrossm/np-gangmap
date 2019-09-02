@@ -1,6 +1,6 @@
 NoPixel Territory map
 ====
-
+[Live page](https://skyrossm.github.io/np-gangmap/)
 This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
 
 ## Screenshots
@@ -13,11 +13,12 @@ This interactive (Google) map shows you the location of current NoPixel territor
 
 ![screenshot-4](https://i.imgur.com/VMuDSrK.png)
 
-## Usage
+## How to host yourself
 
 1. Clone this repository
 2. [Download the missing map tiles](https://mega.co.nz/#!HR1xgIQQ!I2cq1hDeWfm6A3BleDfOlTz747EpCUlX15tCt1h2IN8) and extract them into an folder called "tiles/"
 3. Run `python -m SimpleHTTPServer` in the source folder if you don't have an Nginx/Apache
+3.b Python 3 run 'python -m http.server'
 
 ## License
 
@@ -25,7 +26,7 @@ This interactive (Google) map shows you the location of current NoPixel territor
 
 ## Version
 
-0.5
+1.0
 
 ## Credits
 
