@@ -216,7 +216,9 @@ $(function() {
 		showMarker: function(e) {
 			var location = locations.get($(e.currentTarget).data('id'));
 			location.highlightMarker();
-			map.panTo(location.get('marker').getPath().getAt(0));
+			var bounds = new google.maps.LatLngBounds()
+			location.get('marker').getPath().forEach(function(element,index){bounds.extend(element)})
+			map.panTo(bounds.getCenter());
 			map.setZoom(7);
 		},
 
@@ -425,7 +427,9 @@ $(function() {
 			        	maxHeight: 300
 				    });
 				}
-				infoWindow.setPosition(location.get("marker").getPath().getAt(0));
+				var bounds = new google.maps.LatLngBounds()
+				location.get('marker').getPath().forEach(function(element,index){bounds.extend(element)})
+				infoWindow.setPosition(bounds.getCenter());
 				infoWindow.open(this.map);
 
 				this.closePopupLocation();
