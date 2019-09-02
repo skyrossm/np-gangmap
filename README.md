@@ -1,4 +1,4 @@
-NoPixel Gang map
+NoPixel Territory map
 ====
 
 This interactive (Google) map shows you the location of current NoPixel gang zones.
