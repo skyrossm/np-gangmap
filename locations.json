@@ -299,7 +299,7 @@
   {
     "id":17,
     "type":"Territory Areas",
-    "title":"H.O.A",
+    "title":"H.O.A.",
     "notes":"Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/HOA",
     "order":2,
@@ -440,6 +440,23 @@
 		{"lat": 64.734, "lng": -123.595},
 		{"lat": 64.846, "lng": -123.056},
 		{"lat": 64.944, "lng": -123.221}
+	]
+  },
+  {
+    "id":26,
+    "type":"Territory Areas",
+    "title":"The Dam",
+    "notes":"Claimed by HOA",
+    "order":2,
+	"strokecolor":"#FFA500",
+	"fillcolor":"#FFA500",
+    "latlngarray": [
+		{"lat": 69.823, "lng": -108.579},
+		{"lat": 69.724, "lng": -108.909},
+		{"lat": 69.598, "lng": -108.678},
+		{"lat": 69.394, "lng": -108.623},
+		{"lat": 69.410, "lng": -108.000},
+		{"lat": 69.675, "lng": -108.260}
 	]
   }
 ]
