@@ -267,7 +267,7 @@
 	]
   },
   {
-    "id":15,
+    "id":16,
     "type":"Territory Areas",
     "title":"The Russians",
     "notes":"Da Comrade, you may not like us, but you must like vodka.",
@@ -284,7 +284,7 @@
 	]
   },
   {
-    "id":16,
+    "id":17,
     "type":"Territory Areas",
     "title":"H.O.A",
     "notes":"Homeowners of Mirror Park.",
@@ -302,7 +302,7 @@
 	]
   },
   {
-    "id":17,
+    "id":18,
     "type":"Territory Areas",
     "title":"The Lost MC",
     "notes":"New biker stuff and such.",
@@ -332,7 +332,7 @@
 	]
   },
   {
-    "id":18,
+    "id":19,
     "type":"Neutral Zones",
     "title":"Pink Cage Motel",
     "notes":"Prime time hostage taking",
@@ -347,7 +347,7 @@
 	]
   },
   {
-    "id":19,
+    "id":20,
     "type":"Neutral Zones",
     "title":"West Side Motel",
     "notes":"Prime time hostage taking VOL. 2",
@@ -362,7 +362,7 @@
 	]
   },
   {
-    "id":21,
+    "id":22,
     "type":"Neutral Zones",
     "title":"Pillbox Medical Center",
     "notes":"EMS GANG GANG AYAYA",
@@ -377,7 +377,7 @@
 	]
   },
   {
-    "id":22,
+    "id":23,
     "type":"Neutral Zones",
     "title":"Mission Row PD",
     "notes":"Oink oink oink oink. Snort.",
@@ -389,6 +389,21 @@
 		{"lat": 65.906, "lng": -120.516},
 		{"lat": 65.937, "lng": -119.813},
 		{"lat": 66.151, "lng": -119.813}
+	]
+  },
+  {
+    "id":24,
+    "type":"Neutral Zones",
+    "title":"Vanilla Unicorn",
+    "notes":"Is this place even used? (Owned by GSF)",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#800080",
+    "latlngarray": [
+		{"lat": 64.897, "lng": -123.770},
+		{"lat": 64.734, "lng": -123.595},
+		{"lat": 64.846, "lng": -123.056},
+		{"lat": 64.944, "lng": -123.221}
 	]
   }
 ]
