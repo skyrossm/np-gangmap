@@ -136,7 +136,7 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Gang Areas',
+			name: 'Territory Areas',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true

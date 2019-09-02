@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>NoPixel Gang Map</title>
+	<title>NoPixel Territory Map</title>
 	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,100,300,500">
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" href="fontawesome/css/font-awesome.css">
@@ -20,7 +20,7 @@
 </head>
 <body>
 	<header>
-		<p class="left" style="padding-top: 5px;"><a href="">NoPixel Gang Map</a></p>
+		<p class="left" style="padding-top: 5px;"><a href="">NoPixel Territory Map</a></p>
 		<ul class="right">
 				<a href="#" class="btn btn-primary" onclick="map.setMapTypeId('Atlas');">Atlas</a>
 				<a href="#" class="btn btn-primary" onclick="map.setMapTypeId('Satellite');">Satellite</a>
@@ -30,7 +30,7 @@
 
 	<div id="tour-nav">
 		<a href="#" class="left">&laquo; <span id="tour-prev"></span></a>
-		<h3>Gang Tour</h3>
+		<h3>Territory Tour</h3>
 		<a href="#" class="right"><span id="tour-next"></span> &raquo;</a>
 	</div>
 
@@ -78,7 +78,7 @@
 							<br>
 							<h4>Video</h4>
 							<div class="youtubewrapper">
-								<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
+								<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
 							</div>
 							{{#if video.yt_user}}
 								<p>

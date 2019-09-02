@@ -1,9 +1,9 @@
 [
   {
     "id":1,
-    "type":"Gang Areas",
+    "type":"Territory Areas",
     "title":"Leanbois",
-    "notes":"",
+    "notes":"Vote Lean to keep the city clean",
     "order":1,
 	"strokecolor":"#FF0000",
 	"fillcolor":"#FF0000",
@@ -16,9 +16,9 @@
   },
   {
     "id":2,
-    "type":"Gang Areas",
+    "type":"Territory Areas",
     "title":"Ballas",
-    "notes":"",
+    "notes":"Ye. Ye. Ye. Ye. Ye. Dayum.",
     "order":2,
 	"strokecolor":"#551a8b",
 	"fillcolor":"#551a8b",
@@ -36,7 +36,7 @@
   },
   {
     "id":3,
-    "type":"Gang Areas",
+    "type":"Territory Areas",
     "title":"Crafting Table",
     "notes":"Currently claimed by: Ballas, Leanbois, Russians, Chang Gang?",
     "order":2,
@@ -51,9 +51,9 @@
   },
   {
     "id":4,
-    "type":"Gang Areas",
+    "type":"Territory Areas",
     "title":"Prune Street",
-    "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not actual gang terrority?",
+    "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not actual gang Territory?",
     "order":2,
 	"strokecolor":"#ffd1dc",
 	"fillcolor":"#ffd1dc",
@@ -66,7 +66,7 @@
   },
   {
     "id":5,
-    "type":"Gang Areas",
+    "type":"Territory Areas",
     "title":"Aztecas",
     "notes":"It's a blue world. Or, more like a blue street. Also north side cuh",
     "order":2,
@@ -84,5 +84,311 @@
       "start":"0:00",
       "end":"3:39"
     }
+  },
+  {
+    "id":6,
+    "type":"Territory Areas",
+    "title":"Grove Street Families",
+    "notes":"Ay you know we always down to chill.",
+    "order":2,
+	"strokecolor":"#008000",
+	"fillcolor":"#008000",
+    "latlngarray": [
+		{"lat": 64.215, "lng": -123.635},
+		{"lat": 64.330, "lng": -124.063},
+		{"lat": 64.301, "lng": -125.909},
+		{"lat": 63.874, "lng": -126.898},
+		{"lat": 63.084, "lng": -126.898},
+		{"lat": 62.850, "lng": -126.239}
+	],
+	"video":{
+      "yt_id":"_2M8wtbdg6k",
+      "yt_user":"UCmrt_6WFfHMfiC0xtgR7Qxg",
+      "start":"0:00",
+      "end":"4:57"
+    }
+  },
+  {
+    "id":7,
+    "type":"Territory Areas",
+    "title":"Vagos",
+    "notes":"IM TELLLLIN YOOUUUUUUUUUUUUUUUUUUUUUU",
+    "order":2,
+	"strokecolor":"#FFFF00",
+	"fillcolor":"#FFFF00",
+    "latlngarray": [
+		{"lat": 62.289, "lng": -121.860},
+		{"lat": 61.826, "lng": -122.706},
+		{"lat": 61.638, "lng": -122.952},
+		{"lat": 61.591, "lng": -122.585},
+		{"lat": 61.026, "lng": -121.115},
+		{"lat": 61.475, "lng": -120.027},
+		{"lat": 61.985, "lng": -121.082},
+		{"lat": 62.058, "lng": -121.267}
+	],
+	"video":{
+      "yt_id":"M6R1aWQXFao",
+      "yt_user":"UC4irjUYpgjMTg0Wq8WhVNYQ",
+      "start":"0:00",
+      "end":"3:25"
+    }
+  },
+  {
+    "id":8,
+    "type":"Territory Areas",
+    "title":"The Smeltery",
+    "notes":"Claimed by the Vagos",
+    "order":2,
+	"strokecolor":"#FFFF00",
+	"fillcolor":"#FFFF00",
+    "latlngarray": [
+		{"lat": 62.236, "lng": -115.217},
+		{"lat": 61.453, "lng": -115.338},
+		{"lat": 61.463, "lng": -114.063},
+		{"lat": 61.526, "lng": -112.745},
+		{"lat": 62.348, "lng": -113.821}
+	]
+  },
+  {
+    "id":15,
+    "type":"Territory Areas",
+    "title":"Pawnshop",
+    "notes":"Pay the tax or be banana'd D:",
+    "order":2,
+	"strokecolor":"#FFFF00",
+	"fillcolor":"#FFFF00",
+    "latlngarray": [
+		{"lat": 64.900, "lng": -122.916},
+		{"lat": 64.791, "lng": -123.168},
+		{"lat": 64.688, "lng": -122.784},
+		{"lat": 64.852, "lng": -122.586}
+	]
+  },
+  {
+    "id":9,
+    "type":"Territory Areas",
+    "title":"Aztecas East Side",
+    "notes":"Blue, but not so blue.",
+    "order":2,
+	"strokecolor":"#0000FF",
+	"fillcolor":"#0000FF",
+    "latlngarray": [
+		{"lat": 64.180, "lng": -113.902},
+		{"lat": 63.712, "lng": -113.902},
+		{"lat": 63.075, "lng": -113.441},
+		{"lat": 63.499, "lng": -111.749},
+		{"lat": 64.043, "lng": -110.321},
+		{"lat": 63.860, "lng": -112.221},
+		{"lat": 64.200, "lng": -112.474}
+	]
+  },
+  {
+    "id":10,
+    "type":"Territory Areas",
+    "title":"Bondi Boys MC",
+    "notes":"Give me a home among the gumtrees. With lots of plum trees. A sheep or two, a k-kangaroo. A clothesline out the back. Verandah out the front. And an old rocking chair",
+    "order":2,
+	"strokecolor":"#1560bd",
+	"fillcolor":"#1560bd",
+    "latlngarray": [
+		{"lat": 66.579, "lng": -137.638},
+		{"lat": 66.134, "lng": -138.715},
+		{"lat": 65.577, "lng": -137.781},
+		{"lat": 65.160, "lng": -137.770},
+		{"lat": 64.447, "lng": -137.189},
+		{"lat": 64.180, "lng": -138.320},
+		{"lat": 62.576, "lng": -136.189},
+		{"lat": 63.463, "lng": -134.168},
+		{"lat": 64.584, "lng": -135.871},
+		{"lat": 66.428, "lng": -137.310}
+	]
+  },
+  {
+    "id":11,
+    "type":"Territory Areas",
+    "title":"Little Seoul",
+    "notes":"Koreans x Chang Gang",
+    "order":2,
+	"strokecolor":"#fd5e53",
+	"fillcolor":"#fd5e53",
+    "latlngarray": [
+		{"lat": 67.281, "lng": -131.770},
+		{"lat": 66.221, "lng": -131.770},
+		{"lat": 66.221, "lng": -129.886},
+		{"lat": 66.485, "lng": -129.578},
+		{"lat": 66.877, "lng": -129.578},
+		{"lat": 67.093, "lng": -129.935},
+		{"lat": 67.281, "lng": -129.935}
+	]
+  },
+  {
+    "id":12,
+    "type":"Territory Areas",
+    "title":"Ace King",
+    "notes":"Koreans. Blackjack is hosted here.",
+    "order":2,
+	"strokecolor":"#fd5e53",
+	"fillcolor":"#fd5e53",
+    "latlngarray": [
+		{"lat": 69.057, "lng": -123.763},
+		{"lat": 68.911, "lng": -123.950},
+		{"lat": 68.859, "lng": -123.598},
+		{"lat": 69.009, "lng": -123.400}
+	]
+  },
+  {
+    "id":13,
+    "type":"Territory Areas",
+    "title":"The Casino",
+    "notes":"Koreans :)",
+    "order":2,
+	"strokecolor":"#fd5e53",
+	"fillcolor":"#fd5e53",
+    "latlngarray": [
+		{"lat": 70.011, "lng": -115.523},
+		{"lat": 69.800, "lng": -116.050},
+		{"lat": 69.616, "lng": -115.226},
+		{"lat": 69.900, "lng": -114.710}
+	]
+  },
+  {
+    "id":14,
+    "type":"Territory Areas",
+    "title":"Quickfix",
+    "notes":"Fill me in :)",
+    "order":2,
+	"strokecolor":"#747474",
+	"fillcolor":"#747474",
+    "latlngarray": [
+		{"lat": 69.418, "lng": -115.109},
+		{"lat": 69.239, "lng": -115.493},
+		{"lat": 69.048, "lng": -114.658},
+		{"lat": 69.197, "lng": -114.230}
+	]
+  },
+  {
+    "id":15,
+    "type":"Territory Areas",
+    "title":"The Russians",
+    "notes":"Da Comrade, you may not like us, but you must like vodka.",
+    "order":2,
+	"strokecolor":"#fd5e53",
+	"fillcolor":"#fd5e53",
+    "latlngarray": [
+		{"lat": 57.356, "lng": -117.026},
+		{"lat": 54.927, "lng": -117.026},
+		{"lat": 54.927, "lng": -111.983},
+		{"lat": 56.493, "lng": -111.983},
+		{"lat": 56.493, "lng": -112.730},
+		{"lat": 57.356, "lng": -112.730}
+	]
+  },
+  {
+    "id":16,
+    "type":"Territory Areas",
+    "title":"H.O.A",
+    "notes":"Homeowners of Mirror Park.",
+    "order":2,
+	"strokecolor":"#FFA500",
+	"fillcolor":"#FFA500",
+    "latlngarray": [
+		{"lat": 68.870, "lng": -112.796},
+		{"lat": 68.442, "lng": -114.521},
+		{"lat": 67.907, "lng": -116.674},
+		{"lat": 67.540, "lng": -116.674},
+		{"lat": 66.738, "lng": -114.345},
+		{"lat": 66.738, "lng": -110.643},
+		{"lat": 67.857, "lng": -110.643}
+	]
+  },
+  {
+    "id":17,
+    "type":"Territory Areas",
+    "title":"The Lost MC",
+    "notes":"New biker stuff and such.",
+    "order":2,
+	"strokecolor":"#000000",
+	"fillcolor":"#ffffff",
+    "latlngarray": [
+		{"lat": 79.261, "lng": -123.992},
+		{"lat": 78.994, "lng": -125.607},
+		{"lat": 78.827, "lng": -123.003},
+		{"lat": 79.205, "lng": -123.168}
+	]
+  },
+  {
+    "id":20,
+    "type":"Territory Areas",
+    "title":"The Scrapyard",
+    "notes":"I wonder what you do here...",
+    "order":2,
+	"strokecolor":"#7F5200",
+	"fillcolor":"#7F5200",
+    "latlngarray": [
+		{"lat": 78.043, "lng": -101.833},
+		{"lat": 77.758, "lng": -101.902},
+		{"lat": 77.758, "lng": -100.836},
+		{"lat": 78.043, "lng": -100.836}
+	]
+  },
+  {
+    "id":18,
+    "type":"Neutral Zones",
+    "title":"Pink Cage Motel",
+    "notes":"Prime time hostage taking",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+		{"lat": 69.108, "lng": -121.987},
+		{"lat": 68.951, "lng": -122.141},
+		{"lat": 68.820, "lng": -121.207},
+		{"lat": 68.998, "lng": -121.031}
+	]
+  },
+  {
+    "id":19,
+    "type":"Neutral Zones",
+    "title":"West Side Motel",
+    "notes":"Prime time hostage taking VOL. 2",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+		{"lat": 67.462, "lng": -138.802},
+		{"lat": 67.315, "lng": -139.424},
+		{"lat": 67.217, "lng": -139.072},
+		{"lat": 67.353, "lng": -138.578}
+	]
+  },
+  {
+    "id":21,
+    "type":"Neutral Zones",
+    "title":"Pillbox Medical Center",
+    "notes":"EMS GANG GANG AYAYA",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+		{"lat": 67.728, "lng": -121.734},
+		{"lat": 67.485, "lng": -122.000},
+		{"lat": 67.367, "lng": -121.140},
+		{"lat": 67.695, "lng": -120.679}
+	]
+  },
+  {
+    "id":22,
+    "type":"Neutral Zones",
+    "title":"Mission Row PD",
+    "notes":"Oink oink oink oink. Snort.",
+    "order":2,
+	"strokecolor":"#FF0000",
+	"fillcolor":"#0000FF",
+    "latlngarray": [
+		{"lat": 66.151, "lng": -120.516},
+		{"lat": 65.906, "lng": -120.516},
+		{"lat": 65.937, "lng": -119.813},
+		{"lat": 66.151, "lng": -119.813}
+	]
   }
 ]
