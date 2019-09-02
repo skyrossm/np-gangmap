@@ -320,15 +320,30 @@
     "id":20,
     "type":"Territory Areas",
     "title":"The Scrapyard",
-    "notes":"I wonder what you do here...",
+    "notes":"Shared between the bikers, Ashenfell and BBC at different times of the day",
     "order":2,
-	"strokecolor":"#7F5200",
-	"fillcolor":"#7F5200",
+	"strokecolor":"#000000",
+	"fillcolor":"#ffffff",
     "latlngarray": [
 		{"lat": 78.043, "lng": -101.833},
 		{"lat": 77.758, "lng": -101.902},
 		{"lat": 77.758, "lng": -100.836},
 		{"lat": 78.043, "lng": -100.836}
+	]
+  },
+    {
+    "id":25,
+    "type":"Territory Areas",
+    "title":"Sandy Shores",
+    "notes":"Don't get robbed by the bikers",
+    "order":2,
+	"strokecolor":"#000000",
+	"fillcolor":"#ffffff",
+    "latlngarray": [
+		{"lat": 79.109, "lng": -104.576},
+		{"lat": 79.588, "lng": -106.038},
+		{"lat": 78.940, "lng": -113.047},
+		{"lat": 78.680, "lng": -108.051}
 	]
   },
   {
@@ -347,7 +362,7 @@
 	]
   },
   {
-    "id":20,
+    "id":21,
     "type":"Neutral Zones",
     "title":"West Side Motel",
     "notes":"Prime time hostage taking VOL. 2",
