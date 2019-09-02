@@ -49,7 +49,7 @@ $(function() {
 	var currentMarker;
 	
 	var assetsUrl = function() {
-		return window.location.hostname == 'http://skyrossm.github.io/np-gangmap/';
+		return window.location.hostname = http://gta5-map.github.io/;
 	};
 
 	Handlebars.registerHelper('assetsUrl', assetsUrl);
