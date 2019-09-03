@@ -523,5 +523,22 @@
 		{"lat": 65.931, "lng": -122.500},
 		{"lat": 66.528, "lng": -121.962}
 	]
+  },
+  {
+    "id":31,
+    "type":"Territory Areas",
+    "title":"DeathDealer MC",
+    "notes":"The north is strong.",
+    "order":2,
+	"strokecolor":"#FFFFFF",
+	"fillcolor":"#000",
+    "latlngarray": [
+		{"lat": 83.222, "lng": -125.764},
+		{"lat": 83.173, "lng": -126.178},
+		{"lat": 83.072, "lng": -126.716},
+		{"lat": 83.028, "lng": -126.343},
+		{"lat": 83.112, "lng": -125.673},
+		{"lat": 83.164, "lng": -125.189}
+	]
   }
 ]
