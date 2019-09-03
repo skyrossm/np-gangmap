@@ -540,5 +540,22 @@
 		{"lat": 83.112, "lng": -125.673},
 		{"lat": 83.164, "lng": -125.189}
 	]
+  },
+  {
+    "id":32,
+    "type":"Territory Areas",
+    "title":"El Rancho",
+    "notes":"Claimed by the vagos but not currently patrolling.",
+    "order":2,
+	"strokecolor":"#FFFF00",
+	"fillcolor":"#FFFF00",
+    "latlngarray": [
+		{"lat": 63.713, "lng": -119.247},
+		{"lat": 62.405, "lng": -121.653},
+		{"lat": 62.041, "lng": -120.785},
+		{"lat": 62.343, "lng": -119.313},
+		{"lat": 62.567, "lng": -118.950},
+		{"lat": 63.552, "lng": -118.841}
+	]
   }
 ]
