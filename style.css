@@ -201,7 +201,8 @@ body { height: 100%; margin: 0; padding: 0 }
 
 @media only screen and (max-device-width: 568px) { 
 	.right {
-		display: none;
+		/*display: none;*/
+		max-width: 300px;
 	}
 
 	.types {

@@ -30,10 +30,9 @@
 		{"lat": 61.637, "lng": -123.698},
 		{"lat": 61.637, "lng": -123.291},
 		{"lat": 61.835, "lng": -123.181},
-		{"lat": 62.272, "lng": -122.377},
-		{"lat": 62.587, "lng": -123.113},
-		{"lat": 62.324, "lng": -123.610},
-		{"lat": 62.406, "lng": -123.771}
+		{"lat": 62.032, "lng": -122.791},
+		{"lat": 62.260, "lng": -123.698},
+		{"lat": 62.331, "lng": -123.917}
 	]
   },
   {
@@ -62,7 +61,7 @@
 	"fillcolor":"#ffd1dc",
     "latlngarray": [
 		{"lat": 62.587, "lng": -123.113},
-		{"lat": 62.324, "lng": -123.610},
+		{"lat": 62.260, "lng": -123.698},
 		{"lat": 62.032, "lng": -122.791},
 		{"lat": 62.272, "lng": -122.377}
 	]
@@ -215,7 +214,7 @@
     "id":11,
     "type":"Territory Areas",
     "title":"Little Seoul",
-    "notes":"Koreans x Chang Gang. Also a popular gas station here.",
+    "notes":"Koreans claimed this area. Chang Gang residences and also a popular gas station here.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
     "order":2,
 	"strokecolor":"#fd5e53",
@@ -306,7 +305,10 @@
 	"strokecolor":"#FFA500",
 	"fillcolor":"#FFA500",
     "latlngarray": [
-		{"lat": 68.870, "lng": -112.796},
+		{"lat": 68.808, "lng": -113.097},
+		{"lat": 68.997, "lng": -114.492},
+		{"lat": 68.620, "lng": -115.174},
+		{"lat": 68.463, "lng": -114.437},
 		{"lat": 68.442, "lng": -114.521},
 		{"lat": 67.907, "lng": -116.674},
 		{"lat": 67.540, "lng": -116.674},
@@ -457,6 +459,69 @@
 		{"lat": 69.394, "lng": -108.623},
 		{"lat": 69.410, "lng": -108.000},
 		{"lat": 69.675, "lng": -108.260}
+	]
+  },
+  {
+    "id":27,
+    "type":"Territory Areas",
+    "title":"Pillbox Train Yard",
+    "notes":"Claimed by HOA",
+    "order":2,
+	"strokecolor":"#FFA500",
+	"fillcolor":"#FFA500",
+    "latlngarray": [
+		{"lat": 68.398, "lng": -119.082},
+		{"lat": 67.949, "lng": -120.005},
+		{"lat": 67.309, "lng": -120.005},
+		{"lat": 67.292, "lng": -119.324},
+		{"lat": 67.804, "lng": -118.928},
+		{"lat": 68.150, "lng": -117.962}
+	]
+  },
+  {
+    "id":28,
+    "type":"Neutral Zones",
+    "title":"The Courthouse",
+    "notes":"Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Department_of_Justice",
+    "order":2,
+	"strokecolor":"#002d70",
+	"fillcolor":"#ffeab9",
+    "latlngarray": [
+		{"lat": 68.434, "lng": -122.685},
+		{"lat": 68.043, "lng": -123.059},
+		{"lat": 68.047, "lng": -121.795},
+		{"lat": 68.275, "lng": -121.612}
+	]
+  },
+  {
+    "id":29,
+    "type":"Neutral Zones",
+    "title":"Integrity Tower",
+    "notes":"The upgraded apartments for high-class citizens.",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#000000",
+    "latlngarray": [
+		{"lat": 67.298, "lng": -122.184},
+		{"lat": 66.763, "lng": -122.722},
+		{"lat": 66.645, "lng": -121.887},
+		{"lat": 67.179, "lng": -121.382}
+	]
+  },
+  {
+    "id":30,
+    "type":"Territory Areas",
+    "title":"Legion Square",
+    "notes":"Claimed by the Misfits, next to Creampie Creations and Cop Killer Records",
+    "order":2,
+	"strokecolor":"#FFFFFF",
+	"fillcolor":"#0080ff",
+    "latlngarray": [
+		{"lat": 66.655, "lng": -122.808},
+		{"lat": 66.056, "lng": -123.357},
+		{"lat": 65.931, "lng": -122.500},
+		{"lat": 66.528, "lng": -121.962}
 	]
   }
 ]

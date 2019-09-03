@@ -72,10 +72,22 @@ $(function() {
 				fillOpacity: 0.35
 			});
 			
+			var bounds = new google.maps.LatLngBounds()
+			polyCoords.forEach(function(element,index){bounds.extend(element)})
+			
+			var mapLabel = new MapLabel({
+				position: bounds.getCenter(),
+				text: this.get('title'),
+				strokeWeight: 1,
+				strokeColor: "#000",
+				fontColor: this.get('fillcolor'),
+				zIndex: 10000
+			});
+		
 			_.bindAll(this, 'markerClicked');
 			google.maps.event.addListener(marker, 'click', this.markerClicked);
-
-			this.set({ marker: marker });
+			this.set({ marker: marker, label: mapLabel });
+			
 		},
 
 		markerClicked: function() {
@@ -144,7 +156,7 @@ $(function() {
 			enabled: true
 		}
 	]);
-
+	var showingLabels;
 	var CategoriesView = Backbone.View.extend({
 
 		initialize: function() {
@@ -169,13 +181,24 @@ $(function() {
 				type = $e.val(),
 				showLocations = $e.is(':checked'),
 				models = locations.where({ type: type });
-
+				allLocations = locations.models;
+				
+			if(type == "labels" && showLocations){
+				Vent.trigger('labels:visible', allLocations);
+				showingLabels = true;
+			}else if(type == "labels"){
+				Vent.trigger('labels:invisible', allLocations);
+				showingLabels = false;
+			}
+			
 			if (showLocations) {
 				Vent.trigger('locations:visible', models);
+				if(showingLabels) Vent.trigger('labels:visible', models);
 			}
 			else {
 				Vent.trigger('locations:invisible', models);
-			}	
+				if(showingLabels) Vent.trigger('labels:invisible', models);
+			}
 		},
 
 		showDetails: function(e) {
@@ -259,6 +282,8 @@ $(function() {
 
 			this.listenTo(Vent, 'locations:visible', this.showLocations);
 			this.listenTo(Vent, 'locations:invisible', this.hideLocations);
+			this.listenTo(Vent, 'labels:visible', this.showLabels);
+			this.listenTo(Vent, 'labels:invisible', this.hideLabels);
 			this.listenTo(Vent, 'location:clicked', this.popupLocation);
 		},
 
@@ -386,11 +411,26 @@ $(function() {
 				marker.setVisible(true);
 			}, this);
 		},
+		
+		showLabels: function(locations) {
+			_.each(locations, function(location) {
+				var label = location.get('label');
+				if(!label.getMap()){
+					label.setMap(this.map);
+				}
+				label.set('fontSize', 16);
+			}, this);
+		},
 
 		hideLocations: function(locations) {
 			_.each(locations, function(location) {
 				location.get('marker').setVisible(false);
-				
+			});
+		},
+		
+		hideLabels: function(locations) {
+			_.each(locations, function(location) {
+				location.get('label').set('fontSize', 0);
 			});
 		},
 
@@ -477,5 +517,5 @@ $(function() {
 		var x = locations.findWhere({ title: navTo });
 		if (x) Vent.trigger('location:clicked', x, true);
 	});
-
+	
 });
