@@ -181,7 +181,7 @@ $(function() {
 				type = $e.val(),
 				showLocations = $e.is(':checked'),
 				models = locations.where({ type: type });
-				allLocations = locations.models;
+				allLocations = locations.filter(function(loc) { return loc.get('marker').visible !== false });
 				
 			if(type == "labels" && showLocations){
 				Vent.trigger('labels:visible', allLocations);
@@ -335,7 +335,6 @@ $(function() {
 					position: e.latLng
 				});
 				window.locs.push(marker);
-
 				// Check if coords mode is enabled
 				if (showCoordinations) {
 					// Update/create info window
@@ -519,3 +518,12 @@ $(function() {
 	});
 	
 });
+	function printArray() {
+		var msg = "[\n";
+		var i;
+		for(i = 0;i < window.locs.length; i++){
+			msg += '{"lat": ' + window.locs[i].position.lat().toFixed(3) + ', "lng": ' + window.locs[i].position.lng().toFixed(3) + '}' + (window.locs.length-1 == i ? '' : ',') + '\n';
+		}
+		msg += "]";
+		console.log(msg);
+	}
