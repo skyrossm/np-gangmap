@@ -252,8 +252,6 @@ $(function() {
 				type: this.options.type.toJSON(),
 				locations: _(locs).map(function(x) {
 					var d = x.toJSON();
-					if (name == 'Money') name = 'Hidden Package';
-					d.title = d.title.replace(name+' ', '');
 					return d;
 				})
 			}));
@@ -271,7 +269,7 @@ $(function() {
 			this.mapDetails = { 'Atlas': '#0fa8d2', 'Satellite': '#143d6b', 'Road': '#1862ad' };
 			this.mapOptions = {
 				center: new google.maps.LatLng(66, -125),
-				zoom: 4,
+				zoom: 5,
 				disableDefaultUI: true,
 				mapTypeId: this.mapType
 			};

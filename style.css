@@ -190,6 +190,11 @@ float: right;
 .gm-style-mtc {
 	margin-top: 40px !important;
 }
+.listview {
+	overflow-y: scroll;
+    max-height: 500px;
+}
+}
 
 .hidden {
 	display: none;

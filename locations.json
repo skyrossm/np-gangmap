@@ -386,7 +386,7 @@
     "notes":"Prime time hostage taking",
     "order":2,
 	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
+	"fillcolor":"#fff",
     "latlngarray": [
 		{"lat": 69.108, "lng": -121.987},
 		{"lat": 68.951, "lng": -122.141},
@@ -401,7 +401,7 @@
     "notes":"Prime time hostage taking VOL. 2",
     "order":2,
 	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
+	"fillcolor":"#fff",
     "latlngarray": [
 		{"lat": 67.462, "lng": -138.802},
 		{"lat": 67.315, "lng": -139.424},
@@ -417,7 +417,7 @@
 	"wiki_link":"https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",
     "order":2,
 	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
+	"fillcolor":"#fff",
     "latlngarray": [
 		{"lat": 67.728, "lng": -121.734},
 		{"lat": 67.485, "lng": -122.000},
