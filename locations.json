@@ -557,5 +557,20 @@
 		{"lat": 62.567, "lng": -118.950},
 		{"lat": 63.552, "lng": -118.841}
 	]
+  },
+  {
+    "id":33,
+    "type":"Territory Areas",
+    "title":"Cop Killa Records",
+    "notes":"Headquarter and studios of CKR",
+    "order":2,
+	"strokecolor":"#B2951A",
+	"fillcolor":"#666666",
+    "latlngarray": [
+		{"lat": 67.238, "lng": -121.027},
+		{"lat": 67.234, "lng": -120.753},
+		{"lat": 66.917, "lng": -121.324},
+		{"lat": 66.921, "lng": -120.742}
+	]
   }
 ]
