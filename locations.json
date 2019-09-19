@@ -607,5 +607,26 @@
 		{"lat": 68.980, "lng": -140.212},
 		{"lat": 69.064, "lng": -139.933}
 	]
+  },
+  {
+    "id":35,
+    "type":"Neutral Zones",
+    "title":"Parsons Hill",
+    "notes":"A Rehabilitation & Health Care Center for 51-50'd patients/criminals to stay out of regular prison.",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFB6C1",
+    "latlngarray": [
+{"lat": 72.540, "lng": -139.174},
+{"lat": 72.327, "lng": -140.255},
+{"lat": 72.184, "lng": -140.145},
+{"lat": 72.120, "lng": -140.365},
+{"lat": 72.055, "lng": -140.299},
+{"lat": 72.035, "lng": -140.167},
+{"lat": 72.120, "lng": -139.530},
+{"lat": 72.261, "lng": -138.739},
+{"lat": 72.401, "lng": -138.849},
+{"lat": 72.500, "lng": -138.959}
+]
   }
 ]
