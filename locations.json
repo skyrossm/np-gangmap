@@ -632,7 +632,7 @@
   {
     "id":36,
     "type":"Territory Areas",
-    "title":"Vinewood",
+    "title":"Vinewood Hills",
     "notes":"Patrolled by the HOA for house robberies",
     "order":2,
 	"strokecolor":"#FFA500",
@@ -665,10 +665,8 @@
 {"lat": 72.944, "lng": -126.232},
 {"lat": 72.984, "lng": -126.903},
 {"lat": 72.965, "lng": -127.343},
-{"lat": 72.535, "lng": -128.441},
 {"lat": 72.679, "lng": -127.892},
 {"lat": 72.482, "lng": -131.495},
-{"lat": 72.485, "lng": -129.210},
 {"lat": 72.349, "lng": -131.753},
 {"lat": 72.272, "lng": -132.796},
 {"lat": 72.208, "lng": -133.434},
@@ -684,5 +682,39 @@
 {"lat": 71.000, "lng": -134.949},
 {"lat": 70.809, "lng": -135.004}
 ]
+  },
+  {
+    "id":37,
+    "type":"Territory Areas",
+    "title":"Oxy Shop",
+    "notes":"Currently Controlled by LB x Vagos",
+    "order":2,
+	"strokecolor":"#FF0000",
+	"fillcolor":"#FF0000",
+    "latlngarray": [
+{"lat": 63.867, "lng": -123.947},
+{"lat": 63.526, "lng": -124.607},
+{"lat": 63.319, "lng": -124.068},
+{"lat": 63.565, "lng": -123.079}
+]
+  },
+  {
+    "id":37,
+    "type":"Territory Areas",
+    "title":"Amarillo Vista",
+    "notes":"Controlled by the Misfits, Pixie house is here.",
+    "order":2,
+	"strokecolor":"#0080ff",
+	"fillcolor":"#0080ff",
+    "latlngarray": [
+{"lat": 63.388, "lng": -111.611},
+{"lat": 63.126, "lng": -111.205},
+{"lat": 62.871, "lng": -110.974},
+{"lat": 62.756, "lng": -111.831},
+{"lat": 62.549, "lng": -113.018},
+{"lat": 62.966, "lng": -113.358},
+{"lat": 63.160, "lng": -112.402}
+]
+
   }
 ]
