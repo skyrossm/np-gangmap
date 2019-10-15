@@ -272,7 +272,7 @@ $(function() {
 				zoom: 5,
 				disableDefaultUI: true,
 				mapTypeId: this.mapType,
-				backgroundColor:  'none'
+				backgroundColor:  'hsla(0, 0%, 0%, 0)'
 			};
 
 			_.bindAll(this, 'getTileImage', 'updateMapBackground');
