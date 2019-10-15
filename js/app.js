@@ -271,7 +271,8 @@ $(function() {
 				center: new google.maps.LatLng(66, -125),
 				zoom: 5,
 				disableDefaultUI: true,
-				mapTypeId: this.mapType
+				mapTypeId: this.mapType,
+				backgroundColor: 'transparent'
 			};
 
 			_.bindAll(this, 'getTileImage', 'updateMapBackground');
