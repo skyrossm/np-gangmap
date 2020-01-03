@@ -26,7 +26,8 @@
 		<p class="left" style="padding-top: 5px;"><a href="">NoPixel Territory Map</a></p>
 		<ul class="right">
 			<div class="dropdown">
-				<button class="btn btn-primary hidden" id="createzone" onclick="printArray()">Print location array</button>
+				<button class="btn btn-primary" id="toggleruler" onclick="toggleRuler();$(this).css('display', 'none');">Add Distance Ruler</button>
+				<button class="btn btn-primary" id="createzone" onclick="printArray()">Print location array</button>
 				<button class="btn btn-secondary dropdown-toggle" type="button" id="ddmenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Select Map Type
 				</button>
