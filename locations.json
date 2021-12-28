@@ -501,27 +501,33 @@
   },
   {
     "id":26,
-    "type":"Territory Areas",
-    "title":"The Dam",
-    "notes":"Claimed by HOA",
+    "type":"Neutral Zones",
+    "title":"Paleto Bay Sherrif's Office",
+    "notes":"PBSO headquarters ran by Kyle Pred.",
     "order":2,
-	"strokecolor":"#FFA500",
-	"fillcolor":"#FFA500",
+	"strokecolor":"#FF0000",
+	"fillcolor":"#0000FF",
     "latlngarray": [
-		
-	]
+{"lat": 82.638, "lng": -128.805},
+{"lat": 82.600, "lng": -129.124},
+{"lat": 82.555, "lng": -128.794},
+{"lat": 82.582, "lng": -128.673}
+]
   },
   {
     "id":27,
-    "type":"Territory Areas",
-    "title":"Mirror Park Railyard",
-    "notes":"Claimed by HOA",
+    "type":"Neutral Zones",
+    "title":"Grandma's",
+    "notes":"Where you go to pick up your gang after a shootout.",
     "order":2,
 	"strokecolor":"#FFA500",
 	"fillcolor":"#FFA500",
     "latlngarray": [
-		
-	]
+{"lat": 81.177, "lng": -101.018},
+{"lat": 81.229, "lng": -100.743},
+{"lat": 81.192, "lng": -100.457},
+{"lat": 81.144, "lng": -100.776}
+]
   },
   {
     "id":28,
@@ -561,8 +567,8 @@
     "notes":"Once Condemned MC, Mayhem MC are trying to be like a phoenix rising out of the ashes in Paleto Bay.",
 	  "wiki_link":"https://nopixel.fandom.com/wiki/Mayhem",
     "order":2,
-	"strokecolor":"#FFFFFF",
-	"fillcolor":"#000",
+	"strokecolor":"#000000",
+	"fillcolor":"#FFFFFF",
     "latlngarray": [
 {"lat": 83.086, "lng": -125.732},
 {"lat": 83.024, "lng": -126.182},
@@ -654,9 +660,9 @@
   },
   {
     "id":38,
-    "type":"Territory Areas",
-    "title":"Amarillo Vista",
-    "notes":"Controlled by the Misfits, Pixie house is here.",
+    "type":"Neutral Zones",
+    "title":"Deans World",
+    "notes":"Where the farmers market ends up at night, Deans world is also where you can buy stuff, hold concerts on the main stage and ride a rollercoaster.",
     "order":2,
 	"strokecolor":"#0080ff",
 	"fillcolor":"#0080ff",
@@ -668,13 +674,17 @@
     {
     "id":39,
     "type":"Neutral Zones",
-    "title":"North Side Motel",
-    "notes":"Prime time hostage taking VOL. 3",
+    "title":"Andi Jones Farmers Market",
+    "notes":"Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff.",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#fff",
-    "latlngarray":   [
+    "latlngarray": [
+{"lat": 82.746, "lng": -127.769},
+{"lat": 82.786, "lng": -127.417},
+{"lat": 82.754, "lng": -127.153},
+{"lat": 82.707, "lng": -127.461}
+] 
 
-]
   }
 ]
