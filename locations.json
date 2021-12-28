@@ -490,8 +490,8 @@
     "notes":"Owned by Dexx and GSF, The VU is a neutral zone but don't get caught lacking.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
     "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#800080",
+	"strokecolor":"#008000",
+	"fillcolor":"#008000",
     "latlngarray": [
 		{"lat": 64.897, "lng": -123.770},
 		{"lat": 64.734, "lng": -123.595},
