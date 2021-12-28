@@ -62,15 +62,22 @@
   {
     "id":4,
     "type":"Territory Areas",
-    "title":"Prune Street",
-    "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not an actual gang area. Respect the name.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Prune_Gang",
+    "title":"Brogue Street Kingz",
+    "notes":"Brogue Street Kingz is a southside gang run by OTT and is located on Brogue Ave. We Da Kingz",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
     "order":2,
-	"strokecolor":"#ffd1dc",
-	"fillcolor":"#ffd1dc",
+	"strokecolor":"#ff0000",
+	"fillcolor":"#ff0000",
     "latlngarray": [
-		
-	]
+{"lat": 62.504, "lng": -121.946},
+{"lat": 62.897, "lng": -121.177},
+{"lat": 63.324, "lng": -122.287},
+{"lat": 63.176, "lng": -122.595},
+{"lat": 63.211, "lng": -122.770},
+{"lat": 63.087, "lng": -123.001},
+{"lat": 63.062, "lng": -122.935},
+{"lat": 62.967, "lng": -123.144}
+]
   },
   {
     "id":5,
