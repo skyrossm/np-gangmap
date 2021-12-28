@@ -278,28 +278,37 @@
   {
     "id":12,
     "type":"Territory Areas",
-    "title":"Ace King",
-    "notes":"Koreans. Blackjack is hosted here.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+    "title":"Natural Born Crackheads",
+    "notes":"Natural Born Crackheads, also known as NBC, is a gang created and founded by Daquan Dumas and Guy Jones.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Natural_Born_Crackheads",
     "order":2,
 	"strokecolor":"#fd5e53",
 	"fillcolor":"#fd5e53",
     "latlngarray": [
-		
-	]
+{"lat": 70.348, "lng": -125.701},
+{"lat": 70.374, "lng": -126.701},
+{"lat": 70.114, "lng": -126.712},
+{"lat": 70.088, "lng": -126.438},
+{"lat": 69.971, "lng": -125.877}
+]
   },
   {
     "id":13,
     "type":"Territory Areas",
-    "title":"The Casino",
-    "notes":"Koreans, but the casino is not used very much as nothing actually works.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+    "title":"La Fuente Blanca",
+    "notes":"La Fuenta Blanca, also known as The Ranch, is a ranch owned by Speedy and is protected by the Vagos.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/La_Fuente_Blanca",
     "order":2,
-	"strokecolor":"#fd5e53",
-	"fillcolor":"#fd5e53",
+	"strokecolor":"#FFFF00",
+	"fillcolor":"#FFFF00",
     "latlngarray": [
-		
-	]
+{"lat": 73.343, "lng": -111.918},
+{"lat": 73.337, "lng": -109.951},
+{"lat": 72.900, "lng": -109.806},
+{"lat": 72.890, "lng": -111.004},
+{"lat": 73.108, "lng": -111.059},
+{"lat": 73.070, "lng": -111.850}
+]
   },
   {
     "id":14,
