@@ -82,14 +82,24 @@
   {
     "id":5,
     "type":"Territory Areas",
-    "title":"Aztecas",
-    "notes":"It's a blue world. Or, more like a blue street. Also north side cuh. Controls the Traphouse in the area too",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Aztecas",
+    "title":"Marabunta Grande",
+    "notes":"The Marabunta Grande, are an El Salvadorian based street gang operating out of Fudge Lane, in the El Burro Heights area. Viva la Mara",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Marabunta_Grande",
     "order":2,
-	"strokecolor":"#0000FF",
-	"fillcolor":"#0000FF",
+	"strokecolor":"#4169e1",
+	"fillcolor":"#4169e1",
     "latlngarray": [
-
+{"lat": 63.439, "lng": -113.787},
+{"lat": 62.525, "lng": -113.062},
+{"lat": 62.888, "lng": -110.754},
+{"lat": 63.493, "lng": -111.480},
+{"lat": 63.868, "lng": -110.337},
+{"lat": 63.940, "lng": -110.667},
+{"lat": 63.824, "lng": -111.359},
+{"lat": 63.839, "lng": -111.633},
+{"lat": 63.781, "lng": -111.930},
+{"lat": 63.766, "lng": -112.139},
+{"lat": 63.493, "lng": -113.292}
 ],
 	"video":{
       "yt_id":"68ugkg9RePc",
