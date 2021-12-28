@@ -202,27 +202,37 @@
   {
     "id":15,
     "type":"Territory Areas",
-    "title":"Pawnshop",
-    "notes":"Who know who owns this place anymore",
+    "title":"The Angels",
+    "notes":"The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
+	  "wiki_link":"https://nopixel.fandom.com/wiki/Angels",
     "order":2,
 	"strokecolor":"#FFFFFF",
 	"fillcolor":"#FFFFFF",
     "latlngarray": [
-
+{"lat": 69.318, "lng": -139.095},
+{"lat": 69.434, "lng": -139.392},
+{"lat": 69.546, "lng": -139.468},
+{"lat": 69.653, "lng": -139.106},
+{"lat": 69.680, "lng": -138.568},
+{"lat": 69.546, "lng": -138.557},
+{"lat": 69.423, "lng": -138.721}
 ]
   },
   {
     "id":9,
     "type":"Territory Areas",
-    "title":"Aztecas East Side",
-    "notes":"More territory claimed by Aztecas",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Aztecas",
+    "title":"Sinister Souls MC",
+    "notes":"The Sinister Souls MC is a 1% Motorcycle Club.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Sinister_Souls_MC",
     "order":2,
-	"strokecolor":"#0000FF",
-	"fillcolor":"#0000FF",
+	"strokecolor":"#4B0082",
+	"fillcolor":"#4B0082",
     "latlngarray": [
-		
-	]
+{"lat": 69.246, "lng": -115.544},
+{"lat": 69.436, "lng": -115.017},
+{"lat": 69.304, "lng": -114.578},
+{"lat": 69.109, "lng": -115.028}
+]
   },
   {
     "id":10,
