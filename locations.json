@@ -15,25 +15,22 @@
     "id":2,
     "type":"Territory Areas",
     "title":"Ballas",
-    "notes":"A once forgotten gang, the Ballas were brought to life with the return of Curtis Davis III, however, the Lean Bois are now claiming their long held territory.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/East_Side_Ballaz",
+    "notes":"Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Ballas",
     "order":1,
 	"strokecolor":"#551a8b",
 	"fillcolor":"#551a8b",
     "latlngarray": [
-		{"lat": 62.109, "lng": -124.376},
-		{"lat": 61.876, "lng": -123.929},
-		{"lat": 61.637, "lng": -123.698},
-		{"lat": 61.637, "lng": -123.291},
-		{"lat": 61.835, "lng": -123.181},
-		{"lat": 62.032, "lng": -122.791},
-		{"lat": 62.260, "lng": -123.698},
-		{"lat": 62.331, "lng": -123.917},
-	    	{"lat": 62.957, "lng": -125.134},
-		{"lat": 62.802, "lng": -125.947},
-		{"lat": 62.741, "lng": -126.034},
-		{"lat": 62.111, "lng": -124.376},
-		{"lat": 62.402, "lng": -123.771}
+		{"lat": 62.955, "lng": -125.077},
+		{"lat": 62.426, "lng": -123.737},
+		{"lat": 62.744, "lng": -123.099},
+		{"lat": 62.390, "lng": -122.111},
+		{"lat": 61.820, "lng": -123.143},
+		{"lat": 61.627, "lng": -123.264},
+		{"lat": 61.622, "lng": -123.671},
+		{"lat": 61.918, "lng": -124.022},
+		{"lat": 62.104, "lng": -124.396},
+		{"lat": 62.724, "lng": -126.044}
 	]
   },
   {
@@ -45,10 +42,7 @@
 	"strokecolor":"#551a8b",
 	"fillcolor":"#551a8b",
     "latlngarray": [
-		{"lat": 62.711, "lng": -122.919},
-		{"lat": 62.587, "lng": -123.113},
-		{"lat": 62.272, "lng": -122.377},
-		{"lat": 62.418, "lng": -122.139}
+		
 	]
   },
   {
@@ -61,10 +55,7 @@
 	"strokecolor":"#ffd1dc",
 	"fillcolor":"#ffd1dc",
     "latlngarray": [
-		{"lat": 62.587, "lng": -123.113},
-		{"lat": 62.260, "lng": -123.698},
-		{"lat": 62.032, "lng": -122.791},
-		{"lat": 62.272, "lng": -122.377}
+		
 	]
   },
   {
