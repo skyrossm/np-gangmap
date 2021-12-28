@@ -2,13 +2,19 @@
   {
     "id":1,
     "type":"Territory Areas",
-    "title":"Lean Bois",
-    "notes":"A group of friends now turned street gang. They're up to antics everyday, causing a stir in the south side.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Lean_Bois",
+    "title":"The Mandem",
+    "notes":"British gang that do more than just run a record label. Mandem on Top.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/The_Mandem",
     "order":1,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#FF0000",
+	"strokecolor":"#000000",
+	"fillcolor":"#FFFFFF",
     "latlngarray": [
+		{"lat": 68.523, "lng": -139.772},
+		{"lat": 68.886, "lng": -140.069},
+		{"lat": 68.763, "lng": -139.267},
+		{"lat": 68.981, "lng": -139.794},
+		{"lat": 68.779, "lng": -140.157},
+		{"lat": 68.671, "lng": -140.201}
 ]
   },
   {
@@ -35,9 +41,10 @@
   },
   {
     "id":3,
-    "type":"Territory Areas",
-    "title":"Grove Traphouse",
-    "notes":"Once owned by the LB, now under Ballas control",
+    "type":"Neutral Zone",
+    "title":"Clean Manor",
+    "notes":"CLean Manor is owned by Lang Buddha and co-owned by the Cleanbois members. The Manor should be a neutral ground for all gang-related affairs.",
+	  "wiki_link":"https://nopixel.fandom.com/wiki/Clean_Manor",
     "order":2,
 	"strokecolor":"#551a8b",
 	"fillcolor":"#551a8b",
