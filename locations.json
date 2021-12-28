@@ -68,10 +68,7 @@
 	"strokecolor":"#0000FF",
 	"fillcolor":"#0000FF",
     "latlngarray": [
-{"lat": 63.230, "lng": -123.861},
-{"lat": 63.501, "lng": -122.762},
-{"lat": 62.911, "lng": -121.158},
-{"lat": 62.514, "lng": -121.927}
+
 ],
 	"video":{
       "yt_id":"68ugkg9RePc",
@@ -84,7 +81,7 @@
     "id":6,
     "type":"Territory Areas",
     "title":"GSF",
-    "notes":"Ay you know we always down to chill.",
+    "notes":"Grove Street Families are one of the largest South Side street gangs operating out of Forum Drive. They also own the Vanilla Unicorn. ",
 	"wiki_link":"https://nopixel.fandom.com/wiki/The_Families",
     "order":2,
 	"strokecolor":"#008000",
