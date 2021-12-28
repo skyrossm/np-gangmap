@@ -185,13 +185,18 @@
   {
     "id":8,
     "type":"Territory Areas",
-    "title":"The Smeltery",
-    "notes":"Claimed by the Vagos, although they usually don't hold it down.",
+    "title":"Alta Street Ruff Rydaz",
+    "notes":"Alta Street Ruff Rydaz (A.K.A The Blocks/Block Gang), are a crew that will do anything and sell anything for $50.",
+	  "wiki_link":"https://nopixel.fandom.com/wiki/Alta_Street_Ruff_Rydaz",
     "order":2,
 	"strokecolor":"#FFFF00",
 	"fillcolor":"#FFFF00",
     "latlngarray": [
-
+{"lat": 66.028, "lng": -126.944},
+{"lat": 66.188, "lng": -128.097},
+{"lat": 66.584, "lng": -128.108},
+{"lat": 66.554, "lng": -127.669},
+{"lat": 66.431, "lng": -126.581}
 ]
   },
   {
