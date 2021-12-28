@@ -527,50 +527,49 @@
     "id":28,
     "type":"Neutral Zones",
     "title":"The Courthouse",
-    "notes":"Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
+    "notes":"Where questionable raids are signed and justice is sometimes served",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Department_of_Justice",
     "order":2,
 	"strokecolor":"#002d70",
 	"fillcolor":"#ffeab9",
     "latlngarray": [
-		
-	]
+{"lat": 68.694, "lng": -130.022},
+{"lat": 69.042, "lng": -130.560},
+{"lat": 69.199, "lng": -129.615},
+{"lat": 68.853, "lng": -129.033}
+]
   },
   {
     "id":29,
     "type":"Neutral Zones",
-    "title":"Integrity Tower",
-    "notes":"The upgraded apartments for high-class citizens.",
+    "title":"Rich Apartments",
+    "notes":"The tier 3 apartments for high-class citizens.",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#000000",
     "latlngarray": [
-
+{"lat": 67.697, "lng": -125.027},
+{"lat": 67.689, "lng": -124.477},
+{"lat": 67.446, "lng": -124.686},
+{"lat": 67.517, "lng": -125.192}
 ]
-  },
-  {
-    "id":30,
-    "type":"Territory Areas",
-    "title":"Legion Square",
-    "notes":"Claimed by the Misfits, next to Creampie Creations and Cop Killer Records",
-    "order":2,
-	"strokecolor":"#FFFFFF",
-	"fillcolor":"#0080ff",
-    "latlngarray": [
-		
-	]
   },
   {
     "id":31,
     "type":"Territory Areas",
-    "title":"Mayhem MC",
-    "notes":"Once Condemned MC, Mayhem MC are trying to be like a phoenix rising out of the ashes in Paleto.",
+    "title":"Mayhem",
+    "notes":"Once Condemned MC, Mayhem MC are trying to be like a phoenix rising out of the ashes in Paleto Bay.",
+	  "wiki_link":"https://nopixel.fandom.com/wiki/Mayhem",
     "order":2,
 	"strokecolor":"#FFFFFF",
 	"fillcolor":"#000",
     "latlngarray": [
-		
-	]
+{"lat": 83.086, "lng": -125.732},
+{"lat": 83.024, "lng": -126.182},
+{"lat": 83.001, "lng": -125.995},
+{"lat": 83.054, "lng": -125.479}
+]
+
   },
   {
     "id":32,
