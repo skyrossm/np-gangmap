@@ -555,11 +555,16 @@
     "title":"UwU Cafe",
     "notes":"UwU.",
     "order":2,
-	"strokecolor":"#FFFFFF",
-	"fillcolor":"#000",
+	"strokecolor":"#dea5a4",
+	"fillcolor":"#dea5a4",
     "latlngarray": [
-		
-	]
+{"lat": 65.846, "lng": -129.923},
+{"lat": 65.855, "lng": -130.615},
+{"lat": 65.683, "lng": -130.593},
+{"lat": 65.674, "lng": -130.395},
+{"lat": 65.461, "lng": -130.395},
+{"lat": 65.452, "lng": -129.956}
+]
   },
   {
     "id":32,
