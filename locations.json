@@ -628,6 +628,53 @@
     "latlngarray": [
 ]
   },
+{
+    "id":43,
+    "type":"Neutral Zones",
+    "title":"PDM",
+    "notes":"Dont complain if you get robbed here",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+
+]
+  },
+{
+    "id":42,
+    "type":"Neutral Zones",
+    "title":"Tuner Shop",
+    "notes":"Dont complain if you get robbed here",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+
+]
+  },
+{
+    "id":40,
+    "type":"Neutral Zones",
+    "title":"Ottos Auto",
+    "notes":"Dont complain if you get robbed here",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+
+]
+  },  {
+    "id":41,
+    "type":"Neutral Zones",
+    "title":"Hayes",
+    "notes":"Dont complain if you get robbed here",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+
+]
+  },
   {
     "id":39,
     "type":"Neutral Zones",
