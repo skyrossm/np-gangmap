@@ -655,7 +655,10 @@
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#FFC0CB",
     "latlngarray": [
-
+{"lat": 65.733, "lng": -125.169},
+{"lat": 65.693, "lng": -124.619},
+{"lat": 65.516, "lng": -124.751},
+{"lat": 65.502, "lng": -125.355}
 ]
   },
 {
