@@ -2,18 +2,19 @@
   {
     "id":1,
     "type":"Territory Areas",
-    "title":"Lean Bois",
-    "notes":"A group of friends now turned street gang. They're up to antics everyday, causing a stir in the south side.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Lean_Bois",
+    "title":"The Mandem",
+    "notes":"British gang that do more than just run a record label. Mandem on Top.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/The_Mandem",
     "order":1,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#FF0000",
+	"strokecolor":"#000000",
+	"fillcolor":"#FFFFFF",
     "latlngarray": [
-{"lat": 62.957, "lng": -125.134},
-{"lat": 62.802, "lng": -125.947},
-{"lat": 62.741, "lng": -126.034},
-{"lat": 62.111, "lng": -124.376},
-{"lat": 62.402, "lng": -123.771}
+			{"lat": 68.523, "lng": -139.772},
+			{"lat": 68.763, "lng": -139.267},
+			{"lat": 68.981, "lng": -139.794},
+	    		{"lat": 68.886, "lng": -140.069},
+			{"lat": 68.779, "lng": -140.157},
+			{"lat": 68.671, "lng": -140.201}
 ]
   }
   
