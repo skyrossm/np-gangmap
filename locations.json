@@ -17,5 +17,160 @@
 			{"lat": 68.671, "lng": -140.201}
 ]
   }
-  
+  ,
+  {
+    "id":2,
+    "type":"Territory Areas",
+    "title":"Ballas",
+    "notes":"Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Ballas",
+    "order":1,
+	"strokecolor":"#551a8b",
+	"fillcolor":"#551a8b",
+    "latlngarray": [
+			{"lat": 62.955, "lng": -125.077},
+			{"lat": 62.426, "lng": -123.737},
+			{"lat": 62.744, "lng": -123.099},
+			{"lat": 62.390, "lng": -122.111},
+			{"lat": 61.820, "lng": -123.143},
+			{"lat": 61.627, "lng": -123.264},
+			{"lat": 61.622, "lng": -123.671},
+			{"lat": 61.918, "lng": -124.022},
+			{"lat": 62.104, "lng": -124.396},
+			{"lat": 62.724, "lng": -126.044}
+	]
+  },
+  {
+    "id":3,
+    "type":"Territory Areas",
+    "title":"Clean Manor",
+    "notes":"CLean Manor is owned by Lang Buddha and co-owned by the Cleanbois members. The Manor should be a neutral ground for all gang-related affairs.",
+	  "wiki_link":"https://nopixel.fandom.com/wiki/Clean_Manor",
+    "order":2,
+	"strokecolor":"#551a8b",
+	"fillcolor":"#551a8b",
+    "latlngarray": [
+			{"lat": 71.127, "lng": -142.732},
+			{"lat": 70.808, "lng": -142.908},
+			{"lat": 70.805, "lng": -142.600},
+			{"lat": 70.812, "lng": -142.413},
+			{"lat": 70.942, "lng": -141.633},
+			{"lat": 71.241, "lng": -141.589},
+			{"lat": 71.244, "lng": -142.380},
+			{"lat": 71.230, "lng": -142.578}
+	]
+  },
+  {
+    "id":4,
+    "type":"Territory Areas",
+    "title":"Brogue Street Kingz",
+    "notes":"Brogue Street Kingz is a southside gang run by OTT and is located on Brogue Ave. We Da Kingz",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+    "order":2,
+	"strokecolor":"#ff0000",
+	"fillcolor":"#ff0000",
+    "latlngarray": [
+			{"lat": 62.504, "lng": -121.946},
+			{"lat": 62.897, "lng": -121.177},
+			{"lat": 63.324, "lng": -122.287},
+			{"lat": 63.176, "lng": -122.595},
+			{"lat": 63.211, "lng": -122.770},
+			{"lat": 63.087, "lng": -123.001},
+			{"lat": 63.062, "lng": -122.935},
+			{"lat": 62.967, "lng": -123.144}
+	]
+  },
+  {
+    "id":5,
+    "type":"Territory Areas",
+    "title":"Marabunta Grande",
+    "notes":"The Marabunta Grande, are an El Salvadorian based street gang operating out of Fudge Lane, in the El Burro Heights area. Viva la Mara",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Marabunta_Grande",
+    "order":2,
+	"strokecolor":"#4169e1",
+	"fillcolor":"#4169e1",
+    "latlngarray": [
+			{"lat": 63.439, "lng": -113.787},
+			{"lat": 62.525, "lng": -113.062},
+			{"lat": 62.888, "lng": -110.754},
+			{"lat": 63.493, "lng": -111.480},
+			{"lat": 63.868, "lng": -110.337},
+			{"lat": 63.940, "lng": -110.667},
+			{"lat": 63.824, "lng": -111.359},
+			{"lat": 63.839, "lng": -111.633},
+			{"lat": 63.781, "lng": -111.930},
+			{"lat": 63.766, "lng": -112.139},
+			{"lat": 63.493, "lng": -113.292}
+	],
+
+  },
+  {
+    "id":6,
+    "type":"Territory Areas",
+    "title":"GSF",
+    "notes":"Grove Street Families are one of the largest South Side street gangs operating out of Forum Drive. They also own the Vanilla Unicorn. ",
+	"wiki_link":"https://nopixel.fandom.com/wiki/The_Families",
+    "order":2,
+	"strokecolor":"#008000",
+	"fillcolor":"#008000",
+    "latlngarray": [
+			{"lat": 62.822, "lng": -126.270},
+			{"lat": 63.077, "lng": -126.951},
+			{"lat": 63.643, "lng": -126.962},
+			{"lat": 64.074, "lng": -126.544},
+			{"lat": 64.132, "lng": -126.314},
+			{"lat": 64.299, "lng": -125.951},
+			{"lat": 64.332, "lng": -125.501},
+			{"lat": 64.361, "lng": -124.171},
+			{"lat": 64.313, "lng": -123.952},
+			{"lat": 64.199, "lng": -123.666}
+	],
+
+  },
+  {
+    "id":7,
+    "type":"Territory Areas",
+    "title":"Vagos",
+    "notes":"After the passing of Jesus, Speedy is the new El Jefe and made the Vagos what they are today. His signature line is IM TELLIN YOU PUTO",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Vagos",
+    "order":2,
+	"strokecolor":"#FFFF00",
+	"fillcolor":"#FFFF00",
+    "latlngarray": [
+			{"lat": 61.619, "lng": -122.928},
+			{"lat": 61.582, "lng": -122.631},
+			{"lat": 61.566, "lng": -122.555},
+			{"lat": 61.493, "lng": -122.313},
+			{"lat": 61.425, "lng": -122.181},
+			{"lat": 61.060, "lng": -121.379},
+			{"lat": 61.023, "lng": -121.170},
+			{"lat": 61.023, "lng": -120.972},
+			{"lat": 61.060, "lng": -120.819},
+			{"lat": 61.188, "lng": -120.533},
+			{"lat": 61.383, "lng": -120.181},
+			{"lat": 61.451, "lng": -120.028},
+			{"lat": 61.546, "lng": -119.764},
+			{"lat": 61.603, "lng": -119.511},
+			{"lat": 61.874, "lng": -119.094},
+			{"lat": 62.183, "lng": -118.731},
+			{"lat": 62.357, "lng": -118.698},
+			{"lat": 62.922, "lng": -118.610},
+			{"lat": 63.541, "lng": -118.555},
+			{"lat": 63.628, "lng": -118.654},
+			{"lat": 63.789, "lng": -119.072},
+			{"lat": 63.393, "lng": -119.841},
+			{"lat": 63.290, "lng": -119.995},
+			{"lat": 62.887, "lng": -120.786},
+			{"lat": 62.802, "lng": -120.918},
+			{"lat": 62.392, "lng": -121.654},
+			{"lat": 62.295, "lng": -121.851},
+			{"lat": 61.692, "lng": -122.895}
+	],
+	"video":{
+      "yt_id":"M6R1aWQXFao",
+      "yt_user":"UC4irjUYpgjMTg0Wq8WhVNYQ",
+      "start":"0:00",
+      "end":"3:25"
+    }
+  }
 ]
