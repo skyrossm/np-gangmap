@@ -446,14 +446,17 @@
   {
     "id":21,
     "type":"Neutral Zones",
-    "title":"West Side Motel",
-    "notes":"Prime time hostage taking VOL. 2",
+    "title":"Grandpa",
+    "notes":"Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#fff",
     "latlngarray": [
-		
-	]
+	{"lat": 81.020, "lng": -134.422},
+	{"lat": 80.984, "lng": -134.477},
+	{"lat": 80.973, "lng": -134.279},
+	{"lat": 81.018, "lng": -134.180}
+    ]
   },
   {
     "id":22,
@@ -505,8 +508,8 @@
   {
     "id":26,
     "type":"Neutral Zones",
-    "title":"Paleto Bay Sherrif's Office",
-    "notes":"PBSO headquarters ran by Kyle Pred.",
+    "title":"PBSO",
+    "notes":"Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
     "order":2,
 	"strokecolor":"#FF0000",
 	"fillcolor":"#0000FF",
@@ -677,11 +680,11 @@
     {
     "id":39,
     "type":"Neutral Zones",
-    "title":"Andi Jones Farmers Market",
+    "title":"Farmers Market",
     "notes":"Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff.",
     "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#fff",
+	"strokecolor":"#000000",
+	"fillcolor":"#000000",
     "latlngarray": [
 {"lat": 82.746, "lng": -127.769},
 {"lat": 82.786, "lng": -127.417},
