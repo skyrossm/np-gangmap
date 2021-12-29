@@ -587,7 +587,7 @@
   {
     "id":34,
     "type":"Neutral Zones",
-    "title":"Rooster Rest, Inn and Card shop",
+    "title":"Rooster Rest",
     "notes":"ramen shop",
     "order":2,
 	"strokecolor":"#ffd1dc",
@@ -675,6 +675,18 @@
 
 ]
   },
+	  {
+    "id":44,
+    "type":"Neutral Zones",
+    "title":"Iron Hog Repairs",
+    "notes":"Specializing in motorcycles, Iron Hog is a mechanic shop located in Sandy Shores and is protected by the Lost MC",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+
+]
+  },
   {
     "id":39,
     "type":"Neutral Zones",
@@ -696,6 +708,12 @@
 	"strokecolor":"#0080ff",
 	"fillcolor":"#0080ff",
     "latlngarray": [
+{"lat": 63.719, "lng": -119.826},
+{"lat": 63.845, "lng": -120.144},
+{"lat": 63.762, "lng": -120.408},
+{"lat": 63.675, "lng": -120.639},
+{"lat": 63.474, "lng": -120.111},
+{"lat": 63.558, "lng": -119.980}
 ]
 
   },
@@ -703,7 +721,7 @@
     "id":37,
     "type":"Neutral Zones",
     "title":"Harmony",
-    "notes":"Prime time hostage taking VOL. 3",
+    "notes":"Come get your cars fixed here",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#fff",
