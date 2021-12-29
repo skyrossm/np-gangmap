@@ -638,19 +638,23 @@
   {
     "id":36,
     "type":"Territory Areas",
-    "title":"Italian Crime Family",
-    "notes":"Crime Family",
+    "title":"Balbini Crime Family",
+    "notes":"The Balbani Crime Family, (BCF) is an organized crime syndicate that operates within the City of Los Santos.",
     "order":2,
 	"strokecolor":"#FFA500",
 	"fillcolor":"#FFA500",
     "latlngarray": [
+{"lat": 70.397, "lng": -143.131},
+{"lat": 70.511, "lng": -142.681},
+{"lat": 70.353, "lng": -142.373},
+{"lat": 70.234, "lng": -142.681}
 ]
   },
 {
     "id":43,
     "type":"Neutral Zones",
     "title":"PDM",
-    "notes":"Dont complain if you get robbed here",
+    "notes":"Buy most cars here.",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#FFC0CB",
@@ -730,7 +734,10 @@
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#FFC0CB",
     "latlngarray": [
-
+{"lat": 75.950, "lng": -127.223},
+{"lat": 75.912, "lng": -126.982},
+{"lat": 75.856, "lng": -127.124},
+{"lat": 75.888, "lng": -127.366}
 ]
   },
 {
