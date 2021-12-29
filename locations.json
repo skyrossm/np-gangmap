@@ -721,6 +721,21 @@
 
 ]
   },
+{
+    "id":45,
+    "type":"Neutral Zones",
+    "title":"Vultur Lé Culturé ",
+    "notes":"Vultur Lé Culturé, also known simply as the Gallery, is an art gallery and auction house founded by Ramee El-Rahman",
+    "order":2,
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#FFC0CB",
+    "latlngarray": [
+{"lat": 69.921, "lng": -129.856},
+{"lat": 69.894, "lng": -128.439},
+{"lat": 69.724, "lng": -128.450},
+{"lat": 69.746, "lng": -129.933}
+]
+  },
   {
     "id":38,
     "type":"Territory Areas",
