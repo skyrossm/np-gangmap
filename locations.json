@@ -2,104 +2,85 @@
   {
     "id":1,
     "type":"Territory Areas",
-    "title":"The Mandem",
-    "notes":"British gang that do more than just run a record label. Mandem on Top.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/The_Mandem",
+    "title":"Lean Bois",
+    "notes":"A group of friends now turned street gang. They're up to antics everyday, causing a stir in the south side.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Lean_Bois",
     "order":1,
-	"strokecolor":"#000000",
-	"fillcolor":"#FFFFFF",
+	"strokecolor":"#FF0000",
+	"fillcolor":"#FF0000",
     "latlngarray": [
-		{"lat": 68.523, "lng": -139.772},
-		{"lat": 68.763, "lng": -139.267},
-		{"lat": 68.981, "lng": -139.794},
-	    	{"lat": 68.886, "lng": -140.069},
-	   	{"lat": 68.779, "lng": -140.157},
-		{"lat": 68.671, "lng": -140.201}
+{"lat": 62.957, "lng": -125.134},
+{"lat": 62.802, "lng": -125.947},
+{"lat": 62.741, "lng": -126.034},
+{"lat": 62.111, "lng": -124.376},
+{"lat": 62.402, "lng": -123.771}
 ]
   },
   {
     "id":2,
     "type":"Territory Areas",
     "title":"Ballas",
-    "notes":"Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Ballas",
+    "notes":"A once forgotten gang, the Ballas were brought to life with the return of Curtis Davis III, however, the Lean Bois are now claiming their long held territory.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/East_Side_Ballaz",
     "order":1,
 	"strokecolor":"#551a8b",
 	"fillcolor":"#551a8b",
     "latlngarray": [
-		{"lat": 62.955, "lng": -125.077},
-		{"lat": 62.426, "lng": -123.737},
-		{"lat": 62.744, "lng": -123.099},
-		{"lat": 62.390, "lng": -122.111},
-		{"lat": 61.820, "lng": -123.143},
-		{"lat": 61.627, "lng": -123.264},
-		{"lat": 61.622, "lng": -123.671},
-		{"lat": 61.918, "lng": -124.022},
-		{"lat": 62.104, "lng": -124.396},
-		{"lat": 62.724, "lng": -126.044}
+		{"lat": 62.109, "lng": -124.376},
+		{"lat": 61.876, "lng": -123.929},
+		{"lat": 61.637, "lng": -123.698},
+		{"lat": 61.637, "lng": -123.291},
+		{"lat": 61.835, "lng": -123.181},
+		{"lat": 62.032, "lng": -122.791},
+		{"lat": 62.260, "lng": -123.698},
+		{"lat": 62.331, "lng": -123.917}
 	]
   },
   {
     "id":3,
     "type":"Territory Areas",
-    "title":"Clean Manor",
-    "notes":"CLean Manor is owned by Lang Buddha and co-owned by the Cleanbois members. The Manor should be a neutral ground for all gang-related affairs.",
-	  "wiki_link":"https://nopixel.fandom.com/wiki/Clean_Manor",
+    "title":"Grove Traphouse",
+    "notes":"Once owned by the LB, now under Ballas control",
     "order":2,
 	"strokecolor":"#551a8b",
 	"fillcolor":"#551a8b",
     "latlngarray": [
-{"lat": 71.127, "lng": -142.732},
-{"lat": 70.808, "lng": -142.908},
-{"lat": 70.805, "lng": -142.600},
-{"lat": 70.812, "lng": -142.413},
-{"lat": 70.942, "lng": -141.633},
-{"lat": 71.241, "lng": -141.589},
-{"lat": 71.244, "lng": -142.380},
-{"lat": 71.230, "lng": -142.578}
-]
+		{"lat": 62.711, "lng": -122.919},
+		{"lat": 62.587, "lng": -123.113},
+		{"lat": 62.272, "lng": -122.377},
+		{"lat": 62.418, "lng": -122.139}
+	]
   },
   {
     "id":4,
     "type":"Territory Areas",
-    "title":"Brogue Street Kingz",
-    "notes":"Brogue Street Kingz is a southside gang run by OTT and is located on Brogue Ave. We Da Kingz",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+    "title":"Prune Street",
+    "notes":"Claimed by Eugune Zuckerberg, inventor of the frisbee, but not an actual gang area. Respect the name.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Prune_Gang",
     "order":2,
-	"strokecolor":"#ff0000",
-	"fillcolor":"#ff0000",
+	"strokecolor":"#ffd1dc",
+	"fillcolor":"#ffd1dc",
     "latlngarray": [
-{"lat": 62.504, "lng": -121.946},
-{"lat": 62.897, "lng": -121.177},
-{"lat": 63.324, "lng": -122.287},
-{"lat": 63.176, "lng": -122.595},
-{"lat": 63.211, "lng": -122.770},
-{"lat": 63.087, "lng": -123.001},
-{"lat": 63.062, "lng": -122.935},
-{"lat": 62.967, "lng": -123.144}
-]
+		{"lat": 62.587, "lng": -123.113},
+		{"lat": 62.260, "lng": -123.698},
+		{"lat": 62.032, "lng": -122.791},
+		{"lat": 62.272, "lng": -122.377}
+	]
   },
   {
     "id":5,
     "type":"Territory Areas",
-    "title":"Marabunta Grande",
-    "notes":"The Marabunta Grande, are an El Salvadorian based street gang operating out of Fudge Lane, in the El Burro Heights area. Viva la Mara",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Marabunta_Grande",
+    "title":"Aztecas",
+    "notes":"It's a blue world. Or, more like a blue street. Also north side cuh. Controls the Traphouse in the area too",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Aztecas",
     "order":2,
-	"strokecolor":"#4169e1",
-	"fillcolor":"#4169e1",
+	"strokecolor":"#0000FF",
+	"fillcolor":"#0000FF",
     "latlngarray": [
-{"lat": 63.439, "lng": -113.787},
-{"lat": 62.525, "lng": -113.062},
-{"lat": 62.888, "lng": -110.754},
-{"lat": 63.493, "lng": -111.480},
-{"lat": 63.868, "lng": -110.337},
-{"lat": 63.940, "lng": -110.667},
-{"lat": 63.824, "lng": -111.359},
-{"lat": 63.839, "lng": -111.633},
-{"lat": 63.781, "lng": -111.930},
-{"lat": 63.766, "lng": -112.139},
-{"lat": 63.493, "lng": -113.292}
+{"lat": 63.230, "lng": -123.861},
+{"lat": 63.501, "lng": -122.762},
+{"lat": 62.911, "lng": -121.158},
+{"lat": 62.514, "lng": -121.927}
 ],
 	"video":{
       "yt_id":"68ugkg9RePc",
@@ -112,23 +93,19 @@
     "id":6,
     "type":"Territory Areas",
     "title":"GSF",
-    "notes":"Grove Street Families are one of the largest South Side street gangs operating out of Forum Drive. They also own the Vanilla Unicorn. ",
+    "notes":"Ay you know we always down to chill.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/The_Families",
     "order":2,
 	"strokecolor":"#008000",
 	"fillcolor":"#008000",
     "latlngarray": [
-{"lat": 62.822, "lng": -126.270},
-{"lat": 63.077, "lng": -126.951},
-{"lat": 63.643, "lng": -126.962},
-{"lat": 64.074, "lng": -126.544},
-{"lat": 64.132, "lng": -126.314},
-{"lat": 64.299, "lng": -125.951},
-{"lat": 64.332, "lng": -125.501},
-{"lat": 64.361, "lng": -124.171},
-{"lat": 64.313, "lng": -123.952},
-{"lat": 64.199, "lng": -123.666}
-],
+		{"lat": 64.215, "lng": -123.635},
+		{"lat": 64.330, "lng": -124.063},
+		{"lat": 64.301, "lng": -125.909},
+		{"lat": 63.874, "lng": -126.898},
+		{"lat": 63.084, "lng": -126.898},
+		{"lat": 62.850, "lng": -126.239}
+	],
 	"video":{
       "yt_id":"_2M8wtbdg6k",
       "yt_user":"UCmrt_6WFfHMfiC0xtgR7Qxg",
@@ -146,34 +123,18 @@
 	"strokecolor":"#FFFF00",
 	"fillcolor":"#FFFF00",
     "latlngarray": [
-{"lat": 61.619, "lng": -122.928},
-{"lat": 61.582, "lng": -122.631},
-{"lat": 61.566, "lng": -122.555},
-{"lat": 61.493, "lng": -122.313},
-{"lat": 61.425, "lng": -122.181},
-{"lat": 61.060, "lng": -121.379},
-{"lat": 61.023, "lng": -121.170},
-{"lat": 61.023, "lng": -120.972},
-{"lat": 61.060, "lng": -120.819},
-{"lat": 61.188, "lng": -120.533},
-{"lat": 61.383, "lng": -120.181},
-{"lat": 61.451, "lng": -120.028},
-{"lat": 61.546, "lng": -119.764},
-{"lat": 61.603, "lng": -119.511},
-{"lat": 61.874, "lng": -119.094},
-{"lat": 62.183, "lng": -118.731},
-{"lat": 62.357, "lng": -118.698},
-{"lat": 62.922, "lng": -118.610},
-{"lat": 63.541, "lng": -118.555},
-{"lat": 63.628, "lng": -118.654},
-{"lat": 63.789, "lng": -119.072},
-{"lat": 63.393, "lng": -119.841},
-{"lat": 63.290, "lng": -119.995},
-{"lat": 62.887, "lng": -120.786},
-{"lat": 62.802, "lng": -120.918},
-{"lat": 62.392, "lng": -121.654},
-{"lat": 62.295, "lng": -121.851},
-{"lat": 61.692, "lng": -122.895}
+{"lat": 62.295, "lng": -121.865},
+{"lat": 61.728, "lng": -122.865},
+{"lat": 61.624, "lng": -122.942},
+{"lat": 61.592, "lng": -122.612},
+{"lat": 61.498, "lng": -122.304},
+{"lat": 61.145, "lng": -121.546},
+{"lat": 61.028, "lng": -121.195},
+{"lat": 61.039, "lng": -120.920},
+{"lat": 61.145, "lng": -120.634},
+{"lat": 61.309, "lng": -120.349},
+{"lat": 61.477, "lng": -120.019},
+{"lat": 61.997, "lng": -121.107}
 ],
 	"video":{
       "yt_id":"M6R1aWQXFao",
@@ -185,54 +146,62 @@
   {
     "id":8,
     "type":"Territory Areas",
-    "title":"Alta Street Ruff Rydaz",
-    "notes":"Alta Street Ruff Rydaz (A.K.A The Blocks/Block Gang), are a crew that will do anything and sell anything for $50. Located at the 'poor' apartments.",
-	  "wiki_link":"https://nopixel.fandom.com/wiki/Alta_Street_Ruff_Rydaz",
+    "title":"The Smeltery",
+    "notes":"Claimed by the Vagos, although they usually don't hold it down.",
     "order":2,
 	"strokecolor":"#FFFF00",
 	"fillcolor":"#FFFF00",
     "latlngarray": [
-{"lat": 66.028, "lng": -126.944},
-{"lat": 66.188, "lng": -128.097},
-{"lat": 66.584, "lng": -128.108},
-{"lat": 66.554, "lng": -127.669},
-{"lat": 66.431, "lng": -126.581}
+{"lat": 62.257, "lng": -115.231},
+{"lat": 61.441, "lng": -115.376},
+{"lat": 61.462, "lng": -114.035},
+{"lat": 61.451, "lng": -113.420},
+{"lat": 61.472, "lng": -113.091},
+{"lat": 61.535, "lng": -112.717},
+{"lat": 61.791, "lng": -113.003},
+{"lat": 62.065, "lng": -113.409},
+{"lat": 62.214, "lng": -113.684},
+{"lat": 62.346, "lng": -113.805},
+{"lat": 62.356, "lng": -113.803},
+{"lat": 62.254, "lng": -114.758}
 ]
   },
   {
     "id":15,
     "type":"Territory Areas",
-    "title":"The Angels",
-    "notes":"The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
-	  "wiki_link":"https://nopixel.fandom.com/wiki/Angels",
+    "title":"Pawnshop",
+    "notes":"Who know who owns this place anymore",
     "order":2,
-	"strokecolor":"#000000",
+	"strokecolor":"#FFFFFF",
 	"fillcolor":"#FFFFFF",
     "latlngarray": [
-{"lat": 69.318, "lng": -139.095},
-{"lat": 69.434, "lng": -139.392},
-{"lat": 69.546, "lng": -139.468},
-{"lat": 69.653, "lng": -139.106},
-{"lat": 69.680, "lng": -138.568},
-{"lat": 69.546, "lng": -138.557},
-{"lat": 69.423, "lng": -138.721}
+{"lat": 64.901, "lng": -122.899},
+{"lat": 64.827, "lng": -123.041},
+{"lat": 64.794, "lng": -123.184},
+{"lat": 64.742, "lng": -123.052},
+{"lat": 64.681, "lng": -122.789},
+{"lat": 64.775, "lng": -122.613},
+{"lat": 64.850, "lng": -122.580}
 ]
   },
   {
     "id":9,
     "type":"Territory Areas",
-    "title":"Sinister Souls MC",
-    "notes":"The Sinister Souls MC is a 1% Motorcycle Club.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Sinister_Souls_MC",
+    "title":"Aztecas East Side",
+    "notes":"More territory claimed by Aztecas",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Aztecas",
     "order":2,
-	"strokecolor":"#4B0082",
-	"fillcolor":"#4B0082",
+	"strokecolor":"#0000FF",
+	"fillcolor":"#0000FF",
     "latlngarray": [
-{"lat": 69.246, "lng": -115.544},
-{"lat": 69.436, "lng": -115.017},
-{"lat": 69.304, "lng": -114.578},
-{"lat": 69.109, "lng": -115.028}
-]
+		{"lat": 64.180, "lng": -113.902},
+		{"lat": 63.712, "lng": -113.902},
+		{"lat": 63.075, "lng": -113.441},
+		{"lat": 63.499, "lng": -111.749},
+		{"lat": 64.043, "lng": -110.321},
+		{"lat": 63.860, "lng": -112.221},
+		{"lat": 64.200, "lng": -112.474}
+	]
   },
   {
     "id":10,
@@ -260,7 +229,7 @@
     "id":11,
     "type":"Territory Areas",
     "title":"Little Seoul",
-    "notes":"Whilst both the Koreans and the Yakuza currently claim parts of this area, CG has a fortess here as well.",
+    "notes":"Koreans claimed this area also a popular gas station here.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
     "order":2,
 	"strokecolor":"#fd5e53",
@@ -278,53 +247,50 @@
   {
     "id":12,
     "type":"Territory Areas",
-    "title":"NBC",
-    "notes":"Natural Born Crackheads, is a gang created and founded by Daquan Dumas and Guy Jones.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Natural_Born_Crackheads",
+    "title":"Ace King",
+    "notes":"Koreans. Blackjack is hosted here.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
     "order":2,
 	"strokecolor":"#fd5e53",
 	"fillcolor":"#fd5e53",
     "latlngarray": [
-{"lat": 70.348, "lng": -125.701},
-{"lat": 70.374, "lng": -126.701},
-{"lat": 70.114, "lng": -126.712},
-{"lat": 70.088, "lng": -126.438},
-{"lat": 69.971, "lng": -125.877}
-]
+		{"lat": 69.057, "lng": -123.763},
+		{"lat": 68.911, "lng": -123.950},
+		{"lat": 68.859, "lng": -123.598},
+		{"lat": 69.009, "lng": -123.400}
+	]
   },
   {
     "id":13,
     "type":"Territory Areas",
-    "title":"La Fuente Blanca",
-    "notes":"La Fuenta Blanca, also known as The Ranch, is a ranch owned by Speedy and is protected by the Vagos.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/La_Fuente_Blanca",
+    "title":"The Casino",
+    "notes":"Koreans, but the casino is not used very much as nothing actually works.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
     "order":2,
-	"strokecolor":"#FFFF00",
-	"fillcolor":"#FFFF00",
+	"strokecolor":"#fd5e53",
+	"fillcolor":"#fd5e53",
     "latlngarray": [
-{"lat": 73.343, "lng": -111.918},
-{"lat": 73.337, "lng": -109.951},
-{"lat": 72.900, "lng": -109.806},
-{"lat": 72.890, "lng": -111.004},
-{"lat": 73.108, "lng": -111.059},
-{"lat": 73.070, "lng": -111.850}
-]
+		{"lat": 70.011, "lng": -115.523},
+		{"lat": 69.800, "lng": -116.050},
+		{"lat": 69.616, "lng": -115.226},
+		{"lat": 69.900, "lng": -114.710}
+	]
   },
   {
     "id":14,
-    "type":"Neutral Zones",
-    "title":"SDSO",
-    "notes":"Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
+    "type":"Territory Areas",
+    "title":"Quickfix",
+    "notes":"Fill me in :)",
+	"wiki_link":"https://nopixel.fandom.com/wiki/QuickFix_(Clubhouse)",
     "order":2,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#0000FF",
+	"strokecolor":"#747474",
+	"fillcolor":"#747474",
     "latlngarray": [
-{"lat": 78.972, "lng": -106.920},
-{"lat": 79.035, "lng": -106.305},
-{"lat": 79.108, "lng": -106.547},
-{"lat": 79.043, "lng": -107.151}
-]
+		{"lat": 69.418, "lng": -115.109},
+		{"lat": 69.239, "lng": -115.493},
+		{"lat": 69.048, "lng": -114.658},
+		{"lat": 69.197, "lng": -114.230}
+	]
   },
   {
     "id":16,
@@ -336,14 +302,19 @@
 	"strokecolor":"#0000FF",
 	"fillcolor":"#fd5e53",
     "latlngarray": [
-		
+		{"lat": 57.356, "lng": -117.026},
+		{"lat": 54.927, "lng": -117.026},
+		{"lat": 54.927, "lng": -111.983},
+		{"lat": 56.493, "lng": -111.983},
+		{"lat": 56.493, "lng": -112.730},
+		{"lat": 57.356, "lng": -112.730}
 	]
   },
   {
     "id":17,
     "type":"Territory Areas",
-    "title":"H.O.A.",
-    "notes":"Dont bother trying to move in without approval.",
+    "title":"H.O.A. / Mirror Park",
+    "notes":"Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/HOA",
     "order":2,
 	"strokecolor":"#FFA500",
@@ -364,8 +335,8 @@
   {
     "id":18,
     "type":"Territory Areas",
-    "title":"The Lost MC Stab City",
-    "notes":"The Lost MCs clubhouse, situated in Stab City. Smoke on the Water grows weed here",
+    "title":"The Lost MC",
+    "notes":"Moved from the Quickfix clubhouse, the bikers now have a new building in Stab City",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Lost_MC",
     "order":2,
 	"strokecolor":"#000000",
@@ -386,61 +357,38 @@
 	"strokecolor":"#000000",
 	"fillcolor":"#ffffff",
     "latlngarray": [
-		
+		{"lat": 78.043, "lng": -101.833},
+		{"lat": 77.758, "lng": -101.902},
+		{"lat": 77.758, "lng": -100.836},
+		{"lat": 78.043, "lng": -100.836}
 	]
   },
     {
     "id":25,
     "type":"Territory Areas",
-    "title":"Lost MC Sandy Shores",
-    "notes":"Lost MC lives, breathes and owns Sandy, don't forget otherwise.",
+    "title":"Sandy Shores",
+    "notes":"Don't get robbed by the bikers, also watch for angry locals.",
     "order":2,
 	"strokecolor":"#000000",
 	"fillcolor":"#ffffff",
     "latlngarray": [
-{"lat": 78.508, "lng": -122.021},
-{"lat": 78.908, "lng": -121.384},
-{"lat": 78.887, "lng": -118.747},
-{"lat": 79.063, "lng": -116.023},
-{"lat": 78.984, "lng": -113.342},
-{"lat": 79.030, "lng": -112.024},
-{"lat": 79.183, "lng": -111.123},
-{"lat": 79.302, "lng": -110.793},
-{"lat": 79.175, "lng": -110.640},
-{"lat": 79.347, "lng": -109.189},
-{"lat": 79.440, "lng": -109.849},
-{"lat": 79.432, "lng": -108.596},
-{"lat": 79.568, "lng": -107.623},
-{"lat": 79.596, "lng": -106.546},
-{"lat": 79.584, "lng": -105.492},
-{"lat": 79.504, "lng": -104.459},
-{"lat": 79.392, "lng": -103.756},
-{"lat": 79.270, "lng": -103.075},
-{"lat": 79.101, "lng": -104.503},
-{"lat": 78.699, "lng": -108.019},
-{"lat": 78.860, "lng": -106.600},
-{"lat": 79.041, "lng": -107.149},
-{"lat": 79.108, "lng": -106.523},
-{"lat": 79.033, "lng": -106.292},
-{"lat": 78.970, "lng": -106.919},
-{"lat": 78.864, "lng": -106.567}
-{"lat": 78.291, "lng": -106.788},
-{"lat": 78.025, "lng": -107.689},
-{"lat": 77.641, "lng": -110.765},
-{"lat": 77.631, "lng": -114.215},
-{"lat": 77.883, "lng": -115.401},
-{"lat": 78.107, "lng": -117.599},
-{"lat": 78.362, "lng": -122.235}
-]
+		{"lat": 79.109, "lng": -104.576},
+		{"lat": 79.543, "lng": -106.024},
+		{"lat": 79.509, "lng": -107.661},
+		{"lat": 79.194, "lng": -109.594},
+		{"lat": 78.953, "lng": -113.011},
+		{"lat": 78.772, "lng": -111.891},
+		{"lat": 78.671, "lng": -109.118},
+		{"lat": 78.717, "lng": -108.135}
+	]
   },
   {
     "id":19,
-    "type":"Territory Areas",
-    "title":"Gulag Gang",
-    "notes":"Pink Cage once owned by Pink Gang for about a minute, Gulag Gang are taking over the empty territory for their own",
-	  "wiki_link":"https://nopixel.fandom.com/wiki/Gulag_Gang",
+    "type":"Neutral Zones",
+    "title":"Pink Cage Motel",
+    "notes":"Prime time hostage taking",
     "order":2,
-	"strokecolor":"#FD1451",
+	"strokecolor":"#FFC0CB",
 	"fillcolor":"#fff",
     "latlngarray": [
 		{"lat": 69.108, "lng": -121.987},
@@ -452,23 +400,23 @@
   {
     "id":21,
     "type":"Neutral Zones",
-    "title":"Grandpa",
-    "notes":"Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
+    "title":"West Side Motel",
+    "notes":"Prime time hostage taking VOL. 2",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#fff",
     "latlngarray": [
-	{"lat": 81.020, "lng": -134.422},
-	{"lat": 80.984, "lng": -134.477},
-	{"lat": 80.973, "lng": -134.279},
-	{"lat": 81.018, "lng": -134.180}
-    ]
+		{"lat": 67.462, "lng": -138.802},
+		{"lat": 67.315, "lng": -139.424},
+		{"lat": 67.217, "lng": -139.072},
+		{"lat": 67.353, "lng": -138.578}
+	]
   },
   {
     "id":22,
     "type":"Neutral Zones",
     "title":"Pillbox Medical Center",
-    "notes":"Come here when you don't skip medical",
+    "notes":"EMS GANG GANG AYAYA",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",
     "order":2,
 	"strokecolor":"#FFC0CB",
@@ -484,7 +432,7 @@
     "id":23,
     "type":"Neutral Zones",
     "title":"Mission Row PD",
-    "notes":"LSPD headquarters ran by Sam Baas, although all cops will use this PD.",
+    "notes":"Oink oink oink oink. Snort. More like a pig pen.",
     "order":2,
 	"strokecolor":"#FF0000",
 	"fillcolor":"#0000FF",
@@ -499,11 +447,11 @@
     "id":24,
     "type":"Neutral Zones",
     "title":"Vanilla Unicorn",
-    "notes":"Owned by Dexx and GSF, The VU is a neutral zone but don't get caught lacking.",
+    "notes":"Now owned by Nino Chavez, the VU is a new southside netural zone.",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
     "order":2,
-	"strokecolor":"#008000",
-	"fillcolor":"#008000",
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#800080",
     "latlngarray": [
 		{"lat": 64.897, "lng": -123.770},
 		{"lat": 64.734, "lng": -123.595},
@@ -513,92 +461,120 @@
   },
   {
     "id":26,
-    "type":"Neutral Zones",
-    "title":"PBSO",
-    "notes":"Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
-    "order":2,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#0000FF",
-    "latlngarray": [
-{"lat": 82.638, "lng": -128.805},
-{"lat": 82.600, "lng": -129.124},
-{"lat": 82.555, "lng": -128.794},
-{"lat": 82.582, "lng": -128.673}
-]
-  },
-  {
-    "id":27,
-    "type":"Neutral Zones",
-    "title":"Grandma's",
-    "notes":"Where you go to pick up your gang after a shootout.",
+    "type":"Territory Areas",
+    "title":"The Dam",
+    "notes":"Claimed by HOA",
     "order":2,
 	"strokecolor":"#FFA500",
 	"fillcolor":"#FFA500",
     "latlngarray": [
-{"lat": 81.177, "lng": -101.018},
-{"lat": 81.229, "lng": -100.743},
-{"lat": 81.192, "lng": -100.457},
-{"lat": 81.144, "lng": -100.776}
-]
+		{"lat": 69.823, "lng": -108.579},
+		{"lat": 69.724, "lng": -108.909},
+		{"lat": 69.598, "lng": -108.678},
+		{"lat": 69.394, "lng": -108.623},
+		{"lat": 69.410, "lng": -108.000},
+		{"lat": 69.675, "lng": -108.260}
+	]
+  },
+  {
+    "id":27,
+    "type":"Territory Areas",
+    "title":"Mirror Park Railyard",
+    "notes":"Claimed by HOA",
+    "order":2,
+	"strokecolor":"#FFA500",
+	"fillcolor":"#FFA500",
+    "latlngarray": [
+		{"lat": 68.398, "lng": -119.082},
+		{"lat": 67.949, "lng": -120.005},
+		{"lat": 67.309, "lng": -120.005},
+		{"lat": 67.292, "lng": -119.324},
+		{"lat": 67.804, "lng": -118.928},
+		{"lat": 68.150, "lng": -117.962}
+	]
   },
   {
     "id":28,
     "type":"Neutral Zones",
     "title":"The Courthouse",
-    "notes":"Where questionable raids are signed and justice is sometimes served",
+    "notes":"Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
 	"wiki_link":"https://nopixel.fandom.com/wiki/Department_of_Justice",
     "order":2,
 	"strokecolor":"#002d70",
 	"fillcolor":"#ffeab9",
     "latlngarray": [
-{"lat": 68.694, "lng": -130.022},
-{"lat": 69.042, "lng": -130.560},
-{"lat": 69.199, "lng": -129.615},
-{"lat": 68.853, "lng": -129.033}
-]
+		{"lat": 68.434, "lng": -122.685},
+		{"lat": 68.043, "lng": -123.059},
+		{"lat": 68.047, "lng": -121.795},
+		{"lat": 68.275, "lng": -121.612}
+	]
   },
   {
     "id":29,
     "type":"Neutral Zones",
-    "title":"Rich Apartments",
-    "notes":"The tier 3 apartments for high-class citizens.",
+    "title":"Integrity Tower",
+    "notes":"The upgraded apartments for high-class citizens.",
     "order":2,
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#000000",
     "latlngarray": [
-{"lat": 67.697, "lng": -125.027},
-{"lat": 67.689, "lng": -124.477},
-{"lat": 67.446, "lng": -124.686},
-{"lat": 67.517, "lng": -125.192}
+{"lat": 67.477, "lng": -122.005},
+{"lat": 67.334, "lng": -122.170},
+{"lat": 67.223, "lng": -121.357},
+{"lat": 67.367, "lng": -121.181}
 ]
+  },
+  {
+    "id":30,
+    "type":"Territory Areas",
+    "title":"Legion Square",
+    "notes":"Claimed by the Misfits, next to Creampie Creations and Cop Killer Records",
+    "order":2,
+	"strokecolor":"#FFFFFF",
+	"fillcolor":"#0080ff",
+    "latlngarray": [
+		{"lat": 66.655, "lng": -122.808},
+		{"lat": 66.056, "lng": -123.357},
+		{"lat": 65.931, "lng": -122.500},
+		{"lat": 66.528, "lng": -121.962}
+	]
   },
   {
     "id":31,
     "type":"Territory Areas",
-    "title":"Mayhem",
-    "notes":"Once Condemned MC, Mayhem MC are trying to be like a phoenix rising out of the ashes in Paleto Bay.",
-	  "wiki_link":"https://nopixel.fandom.com/wiki/Mayhem",
+    "title":"DeathDealer MC",
+    "notes":"The north is strong.",
     "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#FFFFFF",
+	"strokecolor":"#FFFFFF",
+	"fillcolor":"#000",
     "latlngarray": [
-{"lat": 83.086, "lng": -125.732},
-{"lat": 83.024, "lng": -126.182},
-{"lat": 83.001, "lng": -125.995},
-{"lat": 83.054, "lng": -125.479}
-]
-
+		{"lat": 83.222, "lng": -125.764},
+		{"lat": 83.173, "lng": -126.178},
+		{"lat": 83.072, "lng": -126.716},
+		{"lat": 83.028, "lng": -126.343},
+		{"lat": 83.112, "lng": -125.673},
+		{"lat": 83.164, "lng": -125.189}
+	]
   },
   {
     "id":32,
     "type":"Territory Areas",
     "title":"El Rancho",
-    "notes":"You better not be robbing a house in vagos territory.",
+    "notes":"Claimed by the vagos but not currently patrolling.",
     "order":2,
 	"strokecolor":"#FFFF00",
 	"fillcolor":"#FFFF00",
     "latlngarray": [
-
+{"lat": 63.723, "lng": -119.210},
+{"lat": 62.395, "lng": -121.671},
+{"lat": 62.031, "lng": -120.759},
+{"lat": 62.339, "lng": -119.265},
+{"lat": 62.445, "lng": -119.078},
+{"lat": 62.542, "lng": -118.946},
+{"lat": 62.934, "lng": -118.858},
+{"lat": 63.327, "lng": -118.814},
+{"lat": 63.538, "lng": -118.814},
+{"lat": 63.641, "lng": -118.979}
 ]
   },
   {
@@ -610,7 +586,10 @@
 	"strokecolor":"#B2951A",
 	"fillcolor":"#666666",
     "latlngarray": [
-		
+		{"lat": 67.238, "lng": -121.027},
+		{"lat": 66.917, "lng": -121.324},
+		{"lat": 66.921, "lng": -120.742},
+	  	{"lat": 67.234, "lng": -120.753}
 	]
   },
   {
@@ -622,7 +601,14 @@
 	"strokecolor":"#ffd1dc",
 	"fillcolor":"#ffd1dc",
     "latlngarray": [
-		
+		{"lat": 69.291, "lng": -140.384},
+		{"lat": 68.974, "lng": -142.746},
+		{"lat": 68.588, "lng": -141.933},
+		{"lat": 68.451, "lng": -141.131},
+		{"lat": 68.652, "lng": -140.471},
+		{"lat": 68.887, "lng": -140.340},
+		{"lat": 68.980, "lng": -140.212},
+		{"lat": 69.064, "lng": -139.933}
 	]
   },
   {
@@ -655,7 +641,49 @@
 	"strokecolor":"#FFA500",
 	"fillcolor":"#FFA500",
     "latlngarray": [
-
+{"lat": 70.602, "lng": -135.026},
+{"lat": 70.588, "lng": -134.015},
+{"lat": 70.463, "lng": -132.982},
+{"lat": 70.456, "lng": -132.125},
+{"lat": 70.595, "lng": -131.005},
+{"lat": 70.573, "lng": -129.752},
+{"lat": 70.515, "lng": -128.522},
+{"lat": 70.522, "lng": -128.082},
+{"lat": 70.581, "lng": -127.533},
+{"lat": 70.595, "lng": -127.050},
+{"lat": 70.581, "lng": -126.346},
+{"lat": 70.573, "lng": -125.665},
+{"lat": 70.602, "lng": -124.699},
+{"lat": 70.588, "lng": -124.281},
+{"lat": 70.871, "lng": -123.886},
+{"lat": 71.050, "lng": -123.248},
+{"lat": 71.135, "lng": -122.369},
+{"lat": 71.280, "lng": -122.325},
+{"lat": 71.442, "lng": -122.084},
+{"lat": 71.714, "lng": -122.008},
+{"lat": 71.975, "lng": -121.744},
+{"lat": 72.338, "lng": -121.898},
+{"lat": 72.823, "lng": -121.555},
+{"lat": 72.971, "lng": -125.049},
+{"lat": 72.944, "lng": -126.232},
+{"lat": 72.984, "lng": -126.903},
+{"lat": 72.965, "lng": -127.343},
+{"lat": 72.679, "lng": -127.892},
+{"lat": 72.482, "lng": -131.495},
+{"lat": 72.349, "lng": -131.753},
+{"lat": 72.272, "lng": -132.796},
+{"lat": 72.208, "lng": -133.434},
+{"lat": 72.241, "lng": -134.149},
+{"lat": 72.335, "lng": -134.957},
+{"lat": 72.241, "lng": -136.107},
+{"lat": 71.857, "lng": -137.535},
+{"lat": 71.671, "lng": -138.375},
+{"lat": 71.379, "lng": -139.957},
+{"lat": 70.946, "lng": -139.941},
+{"lat": 71.003, "lng": -138.663},
+{"lat": 71.043, "lng": -136.839},
+{"lat": 71.000, "lng": -134.949},
+{"lat": 70.809, "lng": -135.004}
 ]
   },
   {
@@ -667,39 +695,44 @@
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#FFC0CB",
     "latlngarray": [
-
+{"lat": 63.867, "lng": -123.947},
+{"lat": 63.526, "lng": -124.607},
+{"lat": 63.319, "lng": -124.068},
+{"lat": 63.565, "lng": -123.079}
 ]
   },
   {
     "id":38,
-    "type":"Neutral Zones",
-    "title":"Deans World",
-    "notes":"Where the farmers market ends up at night, Deans world is also where you can buy stuff, hold concerts on the main stage and ride a rollercoaster.",
+    "type":"Territory Areas",
+    "title":"Amarillo Vista",
+    "notes":"Controlled by the Misfits, Pixie house is here.",
     "order":2,
 	"strokecolor":"#0080ff",
 	"fillcolor":"#0080ff",
     "latlngarray": [
-{"lat": 66.081, "lng": -140.506},
-{"lat": 65.852, "lng": -139.770},
-{"lat": 65.349, "lng": -140.869},
-{"lat": 65.563, "lng": -141.561}
+{"lat": 63.388, "lng": -111.611},
+{"lat": 63.126, "lng": -111.205},
+{"lat": 62.871, "lng": -110.974},
+{"lat": 62.756, "lng": -111.831},
+{"lat": 62.549, "lng": -113.018},
+{"lat": 62.966, "lng": -113.358},
+{"lat": 63.160, "lng": -112.402}
 ]
 
   },
     {
     "id":39,
     "type":"Neutral Zones",
-    "title":"Farmers Market",
-    "notes":"Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff.",
+    "title":"North Side Motel",
+    "notes":"Prime time hostage taking VOL. 3",
     "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#000000",
-    "latlngarray": [
-{"lat": 82.746, "lng": -127.769},
-{"lat": 82.786, "lng": -127.417},
-{"lat": 82.754, "lng": -127.153},
-{"lat": 82.707, "lng": -127.461}
-] 
-
+	"strokecolor":"#FFC0CB",
+	"fillcolor":"#fff",
+    "latlngarray":   [
+{"lat": 70.580, "lng": -119.984},
+{"lat": 70.378, "lng": -120.170},
+{"lat": 70.300, "lng": -119.335},
+{"lat": 70.477, "lng": -119.149}
+]
   }
 ]
