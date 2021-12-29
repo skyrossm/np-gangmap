@@ -661,9 +661,13 @@
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#FFC0CB",
     "latlngarray": [
-
+{"lat": 66.753, "lng": -116.883},
+{"lat": 66.745, "lng": -116.587},
+{"lat": 66.666, "lng": -116.598},
+{"lat": 66.671, "lng": -116.861}
 ]
-  },  {
+  }, 
+{
     "id":41,
     "type":"Neutral Zones",
     "title":"Hayes",
@@ -675,7 +679,7 @@
 
 ]
   },
-	  {
+ {
     "id":44,
     "type":"Neutral Zones",
     "title":"Iron Hog Repairs",
