@@ -708,6 +708,10 @@
 	"strokecolor":"#FFC0CB",
 	"fillcolor":"#fff",
     "latlngarray":   [
+{"lat": 77.014, "lng": -113.307},
+{"lat": 76.915, "lng": -113.318},
+{"lat": 76.918, "lng": -112.824},
+{"lat": 77.012, "lng": -112.813}
 ]
   }
 ]
