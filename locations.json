@@ -1,3 +1,49 @@
+[
+  {
+    "id":1,
+    "type":"Territory Areas",
+    "title":"The Mandem",
+    "notes":"British gang that do more than just run a record label. Mandem on Top.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/The_Mandem",
+    "order":1,
+	"strokecolor":"#000000",
+	"fillcolor":"#FFFFFF",
+    "latlngarray": [
+			{"lat": 68.523, "lng": -139.772},
+			{"lat": 68.763, "lng": -139.267},
+			{"lat": 68.981, "lng": -139.794},
+	    	{"lat": 68.886, "lng": -140.069},
+			{"lat": 68.779, "lng": -140.157},
+			{"lat": 68.671, "lng": -140.201}
+]
+  },
+  {
+    "id":2,
+    "type":"Territory Areas",
+    "title":"Ballas",
+    "notes":"Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Ballas",
+    "order":1,
+	"strokecolor":"#551a8b",
+	"fillcolor":"#551a8b",
+    "latlngarray": [
+			{"lat": 62.955, "lng": -125.077},
+			{"lat": 62.426, "lng": -123.737},
+			{"lat": 62.744, "lng": -123.099},
+			{"lat": 62.390, "lng": -122.111},
+			{"lat": 61.820, "lng": -123.143},
+			{"lat": 61.627, "lng": -123.264},
+			{"lat": 61.622, "lng": -123.671},
+			{"lat": 61.918, "lng": -124.022},
+			{"lat": 62.104, "lng": -124.396},
+			{"lat": 62.724, "lng": -126.044}
+	]
+  },
+  {
+    "id":3,
+    "type":"Territory Areas",
+    "title":"Clean Manor",
+    "notes":"CLean Manor is owned by Lang Buddha and co-owned by the Cleanbois members. The Manor should be a neutral ground for all gang-related affairs.",
 	  "wiki_link":"https://nopixel.fandom.com/wiki/Clean_Manor",
     "order":2,
 	"strokecolor":"#551a8b",
@@ -54,29 +100,6 @@
 			{"lat": 63.781, "lng": -111.930},
 			{"lat": 63.766, "lng": -112.139},
 			{"lat": 63.493, "lng": -113.292}
-	],
-
-  },
-  {
-    "id":6,
-    "type":"Territory Areas",
-    "title":"GSF",
-    "notes":"Grove Street Families are one of the largest South Side street gangs operating out of Forum Drive. They also own the Vanilla Unicorn. ",
-	"wiki_link":"https://nopixel.fandom.com/wiki/The_Families",
-    "order":2,
-	"strokecolor":"#008000",
-	"fillcolor":"#008000",
-    "latlngarray": [
-			{"lat": 62.822, "lng": -126.270},
-			{"lat": 63.077, "lng": -126.951},
-			{"lat": 63.643, "lng": -126.962},
-			{"lat": 64.074, "lng": -126.544},
-			{"lat": 64.132, "lng": -126.314},
-			{"lat": 64.299, "lng": -125.951},
-			{"lat": 64.332, "lng": -125.501},
-			{"lat": 64.361, "lng": -124.171},
-			{"lat": 64.313, "lng": -123.952},
-			{"lat": 64.199, "lng": -123.666}
 	],
 
   }
