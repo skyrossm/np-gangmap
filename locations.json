@@ -186,7 +186,7 @@
     "id":8,
     "type":"Territory Areas",
     "title":"Alta Street Ruff Rydaz",
-    "notes":"Alta Street Ruff Rydaz (A.K.A The Blocks/Block Gang), are a crew that will do anything and sell anything for $50.",
+    "notes":"Alta Street Ruff Rydaz (A.K.A The Blocks/Block Gang), are a crew that will do anything and sell anything for $50. Located at the 'poor' apartments.",
 	  "wiki_link":"https://nopixel.fandom.com/wiki/Alta_Street_Ruff_Rydaz",
     "order":2,
 	"strokecolor":"#FFFF00",
@@ -206,7 +206,7 @@
     "notes":"The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
 	  "wiki_link":"https://nopixel.fandom.com/wiki/Angels",
     "order":2,
-	"strokecolor":"#FFFFFF",
+	"strokecolor":"#000000",
 	"fillcolor":"#FFFFFF",
     "latlngarray": [
 {"lat": 69.318, "lng": -139.095},
@@ -312,16 +312,19 @@
   },
   {
     "id":14,
-    "type":"Territory Areas",
-    "title":"Quickfix",
-    "notes":"Fill me in :)",
-	"wiki_link":"https://nopixel.fandom.com/wiki/QuickFix_(Clubhouse)",
+    "type":"Neutral Zones",
+    "title":"Senora Desert Sheriff's Office",
+    "notes":"Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
     "order":2,
-	"strokecolor":"#747474",
-	"fillcolor":"#747474",
+	"strokecolor":"#FF0000",
+	"fillcolor":"#0000FF",
     "latlngarray": [
-		
-	]
+{"lat": 78.972, "lng": -106.920},
+{"lat": 79.035, "lng": -106.305},
+{"lat": 79.108, "lng": -106.547},
+{"lat": 79.043, "lng": -107.151}
+]
   },
   {
     "id":16,
