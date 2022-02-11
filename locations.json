@@ -976,5 +976,23 @@
 			{"lat": 68.892, "lng": -130.774},
 			{"lat": 68.935, "lng": -131.148}
 		]
+	},
+	{
+		"id": 52,
+		"type": "Neutral Zones",
+		"title": "Benny's Original Motor Works",
+		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
+		"order": 2,
+		"strokecolor": "#8B2126",
+		"fillcolor": "#8B2126",
+		"latlngarray": [
+			{"lat": 65.965, "lng": -124.981},
+			{"lat": 65.808, "lng": -123.927},
+			{"lat": 65.545, "lng": -124.212},
+			{"lat": 65.531, "lng": -124.729},
+			{"lat": 65.699, "lng": -124.608},
+			{"lat": 65.771, "lng": -125.135}
+		]
 	}
 ]
