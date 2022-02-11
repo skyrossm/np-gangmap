@@ -878,5 +878,22 @@
 			{"lat": 69.372, "lng": -114.826},
 			{"lat": 69.522, "lng": -115.101}
 		]
+	},
+	{
+		"id": 46,
+		"type": "Neutral Zones",
+		"title": "Maldini's Pizzeria",
+		"notes": "Maldini's Pizzeria is Co-owned by Vinny Pistone and Mr. Kebun.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Maldini%27s_Pizzeria",
+		"order": 2,
+		"strokecolor": "#E759E1",
+		"fillcolor": "#E759E1",
+		"latlngarray": [
+			{"lat": 66.913, "lng": -116.871},
+			{"lat": 67.183, "lng": -116.882},
+			{"lat": 67.136, "lng": -116.651},
+			{"lat": 67.059, "lng": -116.421},
+			{"lat": 66.913, "lng": -116.190}
+		]
 	}
 ]
