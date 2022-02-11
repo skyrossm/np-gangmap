@@ -805,5 +805,21 @@
 {"lat": 62.269, "lng": -128.773},
 {"lat": 62.397, "lng": -128.482}
 ]
+	},
+	{
+	"id":43,
+	"type":"Neutral Zones",
+	"title":"Little Seoul Gas Station",
+	"notes":"A very popular gas station located in Little Seoul.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Little_Seoul",
+	"order":2,
+	"strokecolor":"#705B29",
+	"fillcolor":"#705B29",
+	"latlngarray": [
+{"lat": 66.221, "lng": -131.770},
+{"lat": 66.221, "lng": -131.400},
+{"lat": 66.380, "lng": -131.400},
+{"lat": 66.380, "lng": -131.770}
+]
 	}
 ]
