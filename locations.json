@@ -1026,5 +1026,21 @@
 			{"lat": 66.383, "lng": -116.189},
 			{"lat": 66.383, "lng": -116.881}
 		]
+	},
+	{
+		"id": 55,
+		"type": "Neutral Zones",
+		"title": "Paleto Bank",
+		"notes": "Paleto Bank (Blaine County Savings Bank) is the second stage progression of bank robberies.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
+		"order": 2,
+		"strokecolor": "#FFD700",
+		"fillcolor": "#FFD700",
+		"latlngarray": [
+{"lat": 83.152, "lng": -126.021},
+{"lat": 83.205, "lng": -125.604},
+{"lat": 83.165, "lng": -125.197},
+{"lat": 83.111, "lng": -125.670}
+		]
 	}
 ]
