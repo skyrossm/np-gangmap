@@ -1042,5 +1042,21 @@
 {"lat": 83.165, "lng": -125.197},
 {"lat": 83.111, "lng": -125.670}
 		]
+	},
+	{
+		"id": 56,
+		"type": "Neutral Zones",
+		"title": "Premium Deluxe Motorsport",
+		"notes": "Premium Deluxe Motorsport, or PDM as most call it, is a car dealership run by businessman Leslie Lingberg. PDM is the place where most people buy their first car in city. PDM has a working relationship with Diamond Hand Credit who provide financing to prospective car buyers.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Premium_Deluxe_Motorsport",
+		"order": 2,
+		"strokecolor": "#00CAD8",
+		"fillcolor": "#00CAD8",
+		"latlngarray": [
+			{"lat": 65.531, "lng": -124.729},
+			{"lat": 65.699, "lng": -124.608},
+			{"lat": 65.771, "lng": -125.135},
+			{"lat": 65.513, "lng": -125.349}
+		]
 	}
 ]
