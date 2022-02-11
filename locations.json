@@ -821,5 +821,21 @@
 {"lat": 66.380, "lng": -131.400},
 {"lat": 66.380, "lng": -131.770}
 ]
+	},
+	{
+	"id":38,
+	"type":"Territory Areas",
+	"title":"Chang Gang Compound",
+	"notes":"This is where Chang Gang wakes up.",
+	"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
+	"order":2,
+	"strokecolor":"#0080FF",
+	"fillcolor":"#0080FF",
+	"latlngarray": [
+{"lat": 66.615, "lng": -131.400},
+{"lat": 66.615, "lng": -130.900},
+{"lat": 66.350, "lng": -130.900},
+{"lat": 66.350, "lng": -131.400}
+]
 	}
 ]
