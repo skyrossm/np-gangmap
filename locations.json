@@ -994,5 +994,21 @@
 			{"lat": 65.699, "lng": -124.608},
 			{"lat": 65.771, "lng": -125.135}
 		]
+	},
+	{
+		"id": 53,
+		"type": "Neutral Zones",
+		"title": "The City Vault",
+		"notes": "The City Vault (Pacific Standard Public Deposit Bank) is the third stage and fourth progression of bank robberies.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
+		"order": 2,
+		"strokecolor": "#FFD700",
+		"fillcolor": "#FFD700",
+		"latlngarray": [
+			{"lat": 70.293, "lng": -119.325},
+			{"lat": 70.437, "lng": -120.633},
+			{"lat": 70.163, "lng": -120.918},
+			{"lat": 70.009, "lng": -119.644}
+		]
 	}
 ]
