@@ -752,5 +752,23 @@
 {"lat": 58.061, "lng": -128.385},
 {"lat": 57.850, "lng": -128.080}
 ]
+  },
+	{
+	"id":41,
+	"type":"Neutral Zones",
+	"title":"UWU Café",
+	"notes":"UwU Café is a restaurant created and owned by Ash Ketchup. Benji Ramos, Sherry Paie and Attorney James Haze each own a small percentage of the company and help run it",
+	"wiki_link":"https://nopixel.fandom.com/wiki/UwU_Caf%C3%A9",
+	"order":2,
+	"strokecolor":"#E759E1",
+	"fillcolor":"#E759E1",
+	"latlngarray": [
+{"lat": 66.166, "lng": -129.914},
+{"lat": 66.159, "lng": -130.651},
+{"lat": 66.003, "lng": -130.728},
+{"lat": 65.797, "lng": -130.970},
+{"lat": 65.707, "lng": -130.618},
+{"lat": 65.725, "lng": -129.893}
+]
   }
 ]
