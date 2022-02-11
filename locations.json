@@ -1010,5 +1010,21 @@
 			{"lat": 70.163, "lng": -120.918},
 			{"lat": 70.009, "lng": -119.644}
 		]
+	},
+	{
+		"id": 54,
+		"type": "Neutral Zones",
+		"title": "H&O Exports",
+		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/H%26O_Exports",
+		"order": 2,
+		"strokecolor": "#00CAD8",
+		"fillcolor": "#00CADA",
+		"latlngarray": [
+			{"lat": 66.546, "lng": -116.881},
+			{"lat": 66.567, "lng": -116.174},
+			{"lat": 66.383, "lng": -116.189},
+			{"lat": 66.383, "lng": -116.881}
+		]
 	}
 ]
