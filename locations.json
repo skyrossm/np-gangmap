@@ -837,5 +837,24 @@
 {"lat": 66.350, "lng": -130.900},
 {"lat": 66.350, "lng": -131.400}
 ]
+	},
+	{
+	"id":44,
+	"type":"Neutral Zones",
+	"title":"Alta Street Apartments",
+	"notes":"The Apartments is where new players wake up.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/Alta_Street_Projects",
+	"order":2,
+	"strokecolor":"#705B29",
+	"fillcolor":"#705B29",
+	"latlngarray": [
+{"lat": 66.022, "lng": -126.945},
+{"lat": 66.196, "lng": -128.209},
+{"lat": 66.583, "lng": -128.198},
+{"lat": 66.557, "lng": -127.638},
+{"lat": 66.500, "lng": -127.200},
+{"lat": 66.337, "lng": -127.319},
+{"lat": 66.255, "lng": -126.740}
+]
 	}
 ]
