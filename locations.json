@@ -896,5 +896,21 @@
 			{"lat": 67.059, "lng": -116.421},
 			{"lat": 66.913, "lng": -116.190}
 		]
+	},
+	{
+		"id": 47,
+		"type": "Territory Areas",
+		"title": "Chang Gang Garage",
+		"notes": "An indoor meeting place for Chang Gang to work on their cars.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 62.885, "lng": -115.320},
+			{"lat": 62.935, "lng": -116.331},
+			{"lat": 63.327, "lng": -116.232},
+			{"lat": 63.312, "lng": -115.221}
+		]
 	}
 ]
