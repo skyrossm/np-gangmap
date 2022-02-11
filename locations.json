@@ -280,7 +280,7 @@
 		"id": 14,
 		"type": "Territory Areas",
 		"title": "Quickfix",
-		"notes": "Fill me in :)",
+		"notes": "A meeting place for The Four Equestrians (4EQ)",
 		"wiki_link": "https://nopixel.fandom.com/wiki/QuickFix_(Clubhouse)",
 		"order": 2,
 		"strokecolor": "#747474",
@@ -855,6 +855,28 @@
 			{"lat": 66.500, "lng": -127.200},
 			{"lat": 66.337, "lng": -127.319},
 			{"lat": 66.255, "lng": -126.740}
+		]
+	},
+	{
+		"id": 45,
+		"type": "Neutral Zones",
+		"title": "The Vinewood Racetrack",
+		"notes": "4EQ is an entertainment and event planning company operating out of East Vinewood. They own the Vinewood Racetrack, which is behind Diamond Casino and Resort, currently occupy the QuickFix near the Racetrack as one of their less official meeting locations, and were given office #3 in East Vinewood on the corner of Occupation Avenue & Power Street by Thomas Dwayne to conduct official business. They have no direct affiliation with the casino despite their sharing of a campus. 4EQ's name is a shortening of The Four Equestrians.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Alta_Street_Projects",
+		"order": 2,
+		"strokecolor": "#705B29",
+		"fillcolor": "#705B29",
+		"latlngarray": [
+			{"lat": 69.690, "lng": -115.078},
+			{"lat": 70.611, "lng": -113.320},
+			{"lat": 70.674, "lng": -112.893},
+			{"lat": 70.648, "lng": -112.486},
+			{"lat": 70.550, "lng": -112.157},
+			{"lat": 70.348, "lng": -112.113},
+			{"lat": 69.395, "lng": -113.827},
+			{"lat": 69.322, "lng": -114.365},
+			{"lat": 69.372, "lng": -114.826},
+			{"lat": 69.522, "lng": -115.101}
 		]
 	}
 ]
