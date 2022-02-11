@@ -734,5 +734,23 @@
 {"lat": 70.300, "lng": -119.335},
 {"lat": 70.477, "lng": -119.149}
 ]
+  },
+    {
+    "id":40,
+    "type":"Neutral Zones",
+    "title":"DODO Logistics",
+    "notes":"Randy Bullet's freight company.",
+    "order":2,
+	"strokecolor":"#00CAD8",
+	"fillcolor":"#00CAD8",
+    "latlngarray":   [
+{"lat": 57.107, "lng": -129.539},
+{"lat": 57.781, "lng": -130.143},
+{"lat": 58.030, "lng": -129.690},
+{"lat": 57.833, "lng": -129.319},
+{"lat": 58.049, "lng": -128.968},
+{"lat": 58.061, "lng": -128.385},
+{"lat": 57.850, "lng": -128.080}
+]
   }
 ]
