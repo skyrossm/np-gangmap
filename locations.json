@@ -775,5 +775,35 @@
 {"lat": 65.707, "lng": -130.618},
 {"lat": 65.725, "lng": -129.893}
 ]
-  }
+	},
+	{
+	"id":42,
+	"type":"Neutral Zones",
+	"title":"National Paintball Association",
+	"notes":"The National Paintball Association (NPA) is a professional paintball league in San Andreas.",
+	"wiki_link":"https://nopixel.fandom.com/wiki/National_Paintball_Association",
+	"order":2,
+	"strokecolor":"#705B29",
+	"fillcolor":"#705B29",
+	"latlngarray": [
+{"lat": 62.488, "lng": -128.125},
+{"lat": 62.494, "lng": -127.817},
+{"lat": 62.468, "lng": -127.455},
+{"lat": 62.509, "lng": -127.026},
+{"lat": 62.382, "lng": -126.894},
+{"lat": 62.146, "lng": -126.312},
+{"lat": 61.935, "lng": -126.125},
+{"lat": 61.681, "lng": -126.125},
+{"lat": 61.472, "lng": -126.246},
+{"lat": 61.372, "lng": -126.169},
+{"lat": 61.230, "lng": -126.861},
+{"lat": 61.230, "lng": -127.147},
+{"lat": 61.577, "lng": -128.487},
+{"lat": 61.790, "lng": -128.817},
+{"lat": 62.023, "lng": -129.015},
+{"lat": 62.213, "lng": -128.971},
+{"lat": 62.269, "lng": -128.773},
+{"lat": 62.397, "lng": -128.482}
+]
+	}
 ]
