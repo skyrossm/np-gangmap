@@ -912,5 +912,23 @@
 			{"lat": 63.327, "lng": -116.232},
 			{"lat": 63.312, "lng": -115.221}
 		]
+	},
+	{
+		"id": 48,
+		"type": "Neutral Zones",
+		"title": "Burger Shot",
+		"notes": "Burger Shot is a chain of fast-food restaurants specializing in hamburgers. Burger Shot is the food of choice in Los Santos. The company offers many delicious menu items and is owned by Dean Watson with Shelly Smith as CEO and Cassie Cupcake as COO.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Burger_Shot",
+		"order": 2,
+		"strokecolor": "#E759E1",
+		"fillcolor": "#E759E1",
+		"latlngarray": [
+			{"lat": 66.876, "lng": -135.096},
+			{"lat": 66.785, "lng": -134.745},
+			{"lat": 66.720, "lng": -134.327},
+			{"lat": 66.537, "lng": -134.624},
+			{"lat": 66.348, "lng": -135.426},
+			{"lat": 66.629, "lng": -135.876}
+		]
 	}
 ]
