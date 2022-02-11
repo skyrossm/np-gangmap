@@ -960,5 +960,21 @@
 			"start": "0:00",
 			"end": "1:16"
 		}
+	},
+	{
+		"id": 51,
+		"type": "Neutral Zones",
+		"title": "Vangelico Jewelry Store",
+		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
+		"order": 2,
+		"strokecolor": "#FFD700",
+		"fillcolor": "#FFD700",
+		"latlngarray": [
+			{"lat": 69.026, "lng": -130.686},
+			{"lat": 68.685, "lng": -130.126},
+			{"lat": 68.633, "lng": -130.346},
+			{"lat": 68.892, "lng": -130.774},
+			{"lat": 68.935, "lng": -131.148}
+		]
 	}
 ]
