@@ -936,5 +936,29 @@
 			"start": "0:00",
 			"end": "1:26"
 		}
+	},
+	{
+		"id": 50,
+		"type": "Neutral Zones",
+		"title": "Tuner Shop",
+		"notes": "The Tuner Shop, also known as the Tuna Shop, is a repair shop and car dealership owned by Eddie Marshall. He owns 52%. It is managed by Tommy Cruizer, and its Sales Operations are run by Mary Mushkin, Chip Wheeler and Eddie himself.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Tuner_Shop",
+		"order": 2,
+		"strokecolor": "#00CAD8",
+		"fillcolor": "#00CAD8",
+		"latlngarray": [
+			{"lat": 54.980, "lng": -123.575},
+			{"lat": 57.800, "lng": -123.575},
+			{"lat": 58.069, "lng": -123.155},
+			{"lat": 58.069, "lng": -122.808},
+			{"lat": 57.601, "lng": -121.479},
+			{"lat": 54.980, "lng": -121.609}
+		],
+		"video": {
+			"yt_id": "cIf7AJA3Id4",
+			"yt_user": "TwitchFiles",
+			"start": "0:00",
+			"end": "1:16"
+		}
 	}
 ]
