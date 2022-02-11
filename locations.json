@@ -23,8 +23,8 @@
 		"notes": "A once forgotten gang, the Ballas were brought to life with the return of Curtis Davis III, however, the Lean Bois are now claiming their long held territory.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/East_Side_Ballaz",
 		"order": 1,
-		"strokecolor": "#551a8b",
-		"fillcolor": "#551a8b",
+		"strokecolor": "#551A8B",
+		"fillcolor": "#551A8B",
 		"latlngarray": [
 			{"lat": 62.109, "lng": -124.376},
 			{"lat": 61.876, "lng": -123.929},
@@ -42,8 +42,8 @@
 		"title": "Grove Traphouse",
 		"notes": "Once owned by the LB, now under Ballas control",
 		"order": 2,
-		"strokecolor": "#551a8b",
-		"fillcolor": "#551a8b",
+		"strokecolor": "#551A8B",
+		"fillcolor": "#551A8B",
 		"latlngarray": [
 			{"lat": 62.711, "lng": -122.919},
 			{"lat": 62.587, "lng": -123.113},
@@ -58,8 +58,8 @@
 		"notes": "Claimed by Eugune Zuckerberg, inventor of the frisbee, but not an actual gang area. Respect the name.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Prune_Gang",
 		"order": 2,
-		"strokecolor": "#ffd1dc",
-		"fillcolor": "#ffd1dc",
+		"strokecolor": "#FFD1DC",
+		"fillcolor": "#FFD1DC",
 		"latlngarray": [
 			{"lat": 62.587, "lng": -123.113},
 			{"lat": 62.260, "lng": -123.698},
@@ -210,8 +210,8 @@
 		"notes": "Give me a home among the gumtrees. With lots of plum trees. A sheep or two, a k-kangaroo. A clothesline out the back. Verandah out the front. And an old rocking chair",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
 		"order": 2,
-		"strokecolor": "#1560bd",
-		"fillcolor": "#1560bd",
+		"strokecolor": "#1560BD",
+		"fillcolor": "#1560BD",
 		"latlngarray": [
 			{"lat": 66.579, "lng": -137.638},
 			{"lat": 66.134, "lng": -138.715},
@@ -232,8 +232,8 @@
 		"notes": "The majority of Little Seoul is owned by Chang Gang. Their main location is at the Chang Gang compound. Mr.K has given his blessing to Sun Moon's gang, The Korean Mafia, to reside in Little Seoul. The Korean Mafia lives across the street from the Chang Gang compound.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Little_Seoul",
 		"order": 2,
-		"strokecolor": "#fd5e53",
-		"fillcolor": "#fd5e53",
+		"strokecolor": "#FD5E53",
+		"fillcolor": "#FD5E53",
 		"latlngarray": [
 			{"lat": 67.281, "lng": -131.770},
 			{"lat": 66.221, "lng": -131.770},
@@ -251,8 +251,8 @@
 		"notes": "Koreans. Blackjack is hosted here.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
 		"order": 2,
-		"strokecolor": "#fd5e53",
-		"fillcolor": "#fd5e53",
+		"strokecolor": "#FD5E53",
+		"fillcolor": "#FD5E53",
 		"latlngarray": [
 			{"lat": 69.057, "lng": -123.763},
 			{"lat": 68.911, "lng": -123.950},
@@ -267,8 +267,8 @@
 		"notes": "Koreans, but the casino is not used very much as nothing actually works.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
 		"order": 2,
-		"strokecolor": "#fd5e53",
-		"fillcolor": "#fd5e53",
+		"strokecolor": "#FD5E53",
+		"fillcolor": "#FD5E53",
 		"latlngarray": [
 			{"lat": 70.011, "lng": -115.523},
 			{"lat": 69.800, "lng": -116.050},
@@ -340,7 +340,7 @@
 		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
 		"order": 2,
 		"strokecolor": "#000000",
-		"fillcolor": "#ffffff",
+		"fillcolor": "#FFFFFF",
 		"latlngarray": [
 			{"lat": 79.261, "lng": -123.992},
 			{"lat": 78.994, "lng": -125.607},
@@ -355,7 +355,7 @@
 		"notes": "Shared between the bikers, Ashenfell and BBC at different times of the day",
 		"order": 2,
 		"strokecolor": "#000000",
-		"fillcolor": "#ffffff",
+		"fillcolor": "#FFFFFF",
 		"latlngarray": [
 			{"lat": 78.043, "lng": -101.833},
 			{"lat": 77.758, "lng": -101.902},
@@ -370,7 +370,7 @@
 		"notes": "Don't get robbed by the bikers, also watch for angry locals.",
 		"order": 2,
 		"strokecolor": "#000000",
-		"fillcolor": "#ffffff",
+		"fillcolor": "#FFFFFF",
 		"latlngarray": [
 			{"lat": 79.109, "lng": -104.576},
 			{"lat": 79.543, "lng": -106.024},
@@ -389,7 +389,7 @@
 		"notes": "Prime time hostage taking",
 		"order": 2,
 		"strokecolor": "#FFC0CB",
-		"fillcolor": "#fff",
+		"fillcolor": "#FFFFFF",
 		"latlngarray": [
 			{"lat": 69.108, "lng": -121.987},
 			{"lat": 68.951, "lng": -122.141},
@@ -404,7 +404,7 @@
 		"notes": "Prime time hostage taking VOL. 2",
 		"order": 2,
 		"strokecolor": "#FFC0CB",
-		"fillcolor": "#fff",
+		"fillcolor": "#FFFFFF",
 		"latlngarray": [
 			{"lat": 67.462, "lng": -138.802},
 			{"lat": 67.315, "lng": -139.424},
@@ -420,7 +420,7 @@
 		"wiki_link": "https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",
 		"order": 2,
 		"strokecolor": "#FFC0CB",
-		"fillcolor": "#fff",
+		"fillcolor": "#FFFFFF",
 		"latlngarray": [
 			{"lat": 67.728, "lng": -121.734},
 			{"lat": 67.485, "lng": -122.000},
@@ -500,8 +500,8 @@
 		"notes": "Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
 		"order": 2,
-		"strokecolor": "#002d70",
-		"fillcolor": "#ffeab9",
+		"strokecolor": "#002D70",
+		"fillcolor": "#FFEAB9",
 		"latlngarray": [
 			{"lat": 68.434, "lng": -122.685},
 			{"lat": 68.043, "lng": -123.059},
@@ -532,7 +532,7 @@
 		"wiki_link": "https://nopixel.fandom.com/wiki/Misfits",
 		"order": 2,
 		"strokecolor": "#FFFFFF",
-		"fillcolor": "#0080ff",
+		"fillcolor": "#0080FF",
 		"latlngarray": [
 			{"lat": 66.655, "lng": -122.808},
 			{"lat": 66.056, "lng": -123.357},
@@ -546,8 +546,8 @@
 		"title": "DeathDealer MC",
 		"notes": "The north is strong.",
 		"order": 2,
-		"strokecolor": "#FFFFFF",
-		"fillcolor": "#000",
+		"strokecolor": "#FF0000",
+		"fillcolor": "#000000",
 		"latlngarray": [
 			{"lat": 83.222, "lng": -125.764},
 			{"lat": 83.173, "lng": -126.178},
@@ -601,8 +601,8 @@
 		"notes": "Claimed by Prune Gang. It's a real monkaW place.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Prune_Gang",
 		"order": 2,
-		"strokecolor": "#ffd1dc",
-		"fillcolor": "#ffd1dc",
+		"strokecolor": "#FFD1DC",
+		"fillcolor": "#FFD1DC",
 		"latlngarray": [
 			{"lat": 69.291, "lng": -140.384},
 			{"lat": 68.974, "lng": -142.746},
@@ -712,8 +712,8 @@
 		"notes": "Controlled by the Misfits, Pixie house is here.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Misfits",
 		"order": 2,
-		"strokecolor": "#0080ff",
-		"fillcolor": "#0080ff",
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
 		"latlngarray": [
 			{"lat": 63.388, "lng": -111.611},
 			{"lat": 63.126, "lng": -111.205},
@@ -731,7 +731,7 @@
 		"notes": "Prime time hostage taking VOL. 3",
 		"order": 2,
 		"strokecolor": "#FFC0CB",
-		"fillcolor": "#fff",
+		"fillcolor": "#FFC0CD",
 		"latlngarray": [
 			{"lat": 70.580, "lng": -119.9840},
 			{"lat": 70.378, "lng": -120.170},
