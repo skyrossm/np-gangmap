@@ -1058,5 +1058,25 @@
 			{"lat": 65.771, "lng": -125.135},
 			{"lat": 65.513, "lng": -125.349}
 		]
+	},
+	{
+		"id": 57,
+		"type": "Neutral Zones",
+		"title": "AirX Flight School",
+		"notes": "AirX is owned by Jackie Snow. Knowing their passion, skill, and experience for flying, Bryce Miller, Tony Corleone, and Olivia Copper were the first to be recruited into the flight school. Bryce was hired as Flight Chief/Manager and Instructor of AirX. Tony and Copper were also hired as Flight Instructors. AirX Flight School operates out of Fort Zancudo military base.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/AirX_Flight_School",
+		"order": 2,
+		"strokecolor": "#00CAD8",
+		"fillcolor": "#00CAD8",
+		"latlngarray": [
+			{"lat": 78.524, "lng": -152.210},
+			{"lat": 78.243, "lng": -153.034},
+			{"lat": 77.043, "lng": -143.124},
+			{"lat": 77.450, "lng": -140.740},
+			{"lat": 78.178, "lng": -140.663},
+			{"lat": 78.526, "lng": -143.607},
+			{"lat": 78.607, "lng": -147.522},
+			{"lat": 78.469, "lng": -150.594}
+		]
 	}
 ]
