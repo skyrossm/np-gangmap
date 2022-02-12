@@ -172,8 +172,8 @@
 		"title": "Pawnshop",
 		"notes": "Who know who owns this place anymore",
 		"order": 2,
-		"strokecolor": "#FFFFFF",
-		"fillcolor": "#FFFFFF",
+		"strokecolor": "#FF00FF",
+		"fillcolor": "#FF00FF",
 		"latlngarray": [
 			{"lat": 64.901, "lng": -122.899},
 			{"lat": 64.827, "lng": -123.041},
@@ -564,8 +564,8 @@
 		"title": "El Rancho",
 		"notes": "Claimed by the vagos but not currently patrolling.",
 		"order": 2,
-		"strokecolor": "#FFFF00",
-		"fillcolor": "#FFFF00",
+		"strokecolor": "#FFAF00",
+		"fillcolor": "#FFAF00",
 		"latlngarray": [
 			{"lat": 63.723, "lng": -119.210},
 			{"lat": 62.395, "lng": -121.671},
