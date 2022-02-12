@@ -447,7 +447,7 @@
 		"id": 24,
 		"type": "Neutral Zones",
 		"title": "Vanilla Unicorn",
-		"notes": "Now owned by Nino Chavez, the VU is a new southside netural zone.",
+		"notes": "The place used to be strip club and was owned by Liv Lassen and Dexx Martin. The club offered exclusive memberships for influential citizens allowing entrance into the Vanilla Unicorn for those who purchased a subscription. The state shut down the location after Liv Lassen was deported from the state by Federal order. Dexx repurchased the club with Jessie Jugg and have since repurposed it as a private entertainment club. The VU sold permanent VIP memberships for a limited time prior to the business's reopening. During renovation hot tubs and towel racks were installed. Additionally, camera and computer equipment was purchased for their Mitch.tv streaming deal.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
 		"order": 2,
 		"strokecolor": "#FFC0CB",
@@ -1005,10 +1005,10 @@
 		"strokecolor": "#FFD700",
 		"fillcolor": "#FFD700",
 		"latlngarray": [
-			{"lat": 70.293, "lng": -119.325},
-			{"lat": 70.437, "lng": -120.633},
-			{"lat": 70.163, "lng": -120.918},
-			{"lat": 70.009, "lng": -119.644}
+			{"lat": 70.359, "lng": -122.446},
+			{"lat": 70.590, "lng": -122.194},
+			{"lat": 70.536, "lng": -121.666},
+			{"lat": 70.284, "lng": -121.916}
 		]
 	},
 	{
@@ -1037,10 +1037,10 @@
 		"strokecolor": "#FFD700",
 		"fillcolor": "#FFD700",
 		"latlngarray": [
-{"lat": 83.152, "lng": -126.021},
-{"lat": 83.205, "lng": -125.604},
-{"lat": 83.165, "lng": -125.197},
-{"lat": 83.111, "lng": -125.670}
+			{"lat": 83.152, "lng": -126.021},
+			{"lat": 83.205, "lng": -125.604},
+			{"lat": 83.165, "lng": -125.197},
+			{"lat": 83.111, "lng": -125.670}
 		]
 	},
 	{
@@ -1058,5 +1058,86 @@
 			{"lat": 65.771, "lng": -125.135},
 			{"lat": 65.513, "lng": -125.349}
 		]
+	},
+	{
+		"id": 57,
+		"type": "Neutral Zones",
+		"title": "AirX Flight School",
+		"notes": "AirX is owned by Jackie Snow. Knowing their passion, skill, and experience for flying, Bryce Miller, Tony Corleone, and Olivia Copper were the first to be recruited into the flight school. Bryce was hired as Flight Chief/Manager and Instructor of AirX. Tony and Copper were also hired as Flight Instructors. AirX Flight School operates out of Fort Zancudo military base.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/AirX_Flight_School",
+		"order": 2,
+		"strokecolor": "#00CAD8",
+		"fillcolor": "#00CAD8",
+		"latlngarray": [
+			{"lat": 78.524, "lng": -152.210},
+			{"lat": 78.243, "lng": -153.034},
+			{"lat": 77.043, "lng": -143.124},
+			{"lat": 77.450, "lng": -140.740},
+			{"lat": 78.178, "lng": -140.663},
+			{"lat": 78.526, "lng": -143.607},
+			{"lat": 78.607, "lng": -147.522},
+			{"lat": 78.469, "lng": -150.594}
+		]
+	},
+	{
+		"id": 58,
+		"type": "Neutral Zones",
+		"title": "The Cinema",
+		"notes": "The filming spot of The Kebun Springer Show.",
+		"order": 2,
+		"strokecolor": "#00CAD8",
+		"fillcolor": "#00CADA",
+		"latlngarray": [
+			{"lat": 70.185, "lng": -121.097},
+			{"lat": 70.488, "lng": -120.779},
+			{"lat": 70.543, "lng": -121.239},
+			{"lat": 70.244, "lng": -121.570}
+		],
+		"video": {
+			"yt_id": "s_y9R9C6Jfk",
+			"yt_user": "UCZke-nfZhNhmkAaCoR_ugDg",
+			"start": "0:00",
+			"end": "4:10"
+		}
+	},
+	{
+		"id": 59,
+		"type": "Neutral Zones",
+		"title": "Mr. Kebun's Dojo",
+		"notes": "A place to practice martial arts and swordsmanship.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Mr._Kebun",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 70.284, "lng": -121.916},
+			{"lat": 70.536, "lng": -121.647},
+			{"lat": 70.543, "lng": -121.239},
+			{"lat": 70.244, "lng": -121.570}
+		]
+	},
+	{
+		"id": 60,
+		"type": "Territory Areas",
+		"title": "The Mandem Block",
+		"notes": "The Mandem Block, sometimes referred to as The Mandem Compound, is The Mandem's base of operations, where they live and have most of their meetings.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Mandem_Block",
+		"order": 2,
+		"strokecolor": "#FFC0C0",
+		"fillcolor": "#00FF00",
+		"latlngarray": [
+			{"lat": 68.995, "lng": -139.775},
+			{"lat": 68.892, "lng": -140.049},
+			{"lat": 68.793, "lng": -140.126},
+			{"lat": 68.673, "lng": -140.170},
+			{"lat": 68.537, "lng": -139.764},
+			{"lat": 68.781, "lng": -139.247}
+		],
+		"video": {
+			"yt_id": "Ga3RJc8W3Yc",
+			"yt_user": "zerkaa",
+			"start": "0:00",
+			"end": "2:40"
+		}
 	}
 ]
