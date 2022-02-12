@@ -1092,7 +1092,13 @@
 			{"lat": 70.488, "lng": -120.779},
 			{"lat": 70.543, "lng": -121.239},
 			{"lat": 70.244, "lng": -121.570}
-		]
+		],
+		"video": {
+			"yt_id": "s_y9R9C6Jfk",
+			"yt_user": "UCZke-nfZhNhmkAaCoR_ugDg",
+			"start": "0:00",
+			"end": "4:10"
+		}
 	},
 	{
 		"id": 59,
