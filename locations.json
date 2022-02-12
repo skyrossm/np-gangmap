@@ -1078,5 +1078,20 @@
 			{"lat": 78.607, "lng": -147.522},
 			{"lat": 78.469, "lng": -150.594}
 		]
+	},
+	{
+		"id": 58,
+		"type": "Neutral Zones",
+		"title": "The Cinema",
+		"notes": "The filming spot of The Kebun Springer Show.",
+		"order": 2,
+		"strokecolor": "#00CAD8",
+		"fillcolor": "#00CADA",
+		"latlngarray": [
+			{"lat": 70.185, "lng": -121.097},
+			{"lat": 70.488, "lng": -120.779},
+			{"lat": 70.543, "lng": -121.239},
+			{"lat": 70.244, "lng": -121.570}
+		]
 	}
 ]
