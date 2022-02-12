@@ -1,201 +1,201 @@
 [
-  {
-    "id":1,
-    "type":"Territory Areas",
-    "title":"The Mandem",
-    "notes":"British gang that does more than just run a record label.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/The_Mandem",
-    "order":1,
-	"strokecolor":"#000000",
-	"fillcolor":"#FFFFFF",
-    "latlngarray": [
-{"lat": 68.523, "lng": -139.772},
-{"lat": 68.763, "lng": -139.267},
-{"lat": 68.981, "lng": -139.794},
-{"lat": 68.886, "lng": -140.069},
-{"lat": 68.779, "lng": -140.157},
-{"lat": 68.671, "lng": -140.201}
-]
-  },
-  {
-    "id":2,
-    "type":"Territory Areas",
-    "title":"Ballas",
-    "notes":"Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Ballas",
-    "order":1,
-	"strokecolor":"#551a8b",
-	"fillcolor":"#551a8b",
-    "latlngarray": [
-{"lat": 62.955, "lng": -125.077},
-{"lat": 62.426, "lng": -123.737},
-{"lat": 62.744, "lng": -123.099},
-{"lat": 62.390, "lng": -122.111},
-{"lat": 61.820, "lng": -123.143},
-{"lat": 61.627, "lng": -123.264},
-{"lat": 61.622, "lng": -123.671},
-{"lat": 61.918, "lng": -124.022},
-{"lat": 62.104, "lng": -124.396},
-{"lat": 62.724, "lng": -126.044}
-	]
-  },
-  {
-    "id":3,
-    "type":"Territory Areas",
-    "title":"CLean Manor",
-    "notes":"CLean Manor is owned by Lang Buddha and co-owned by the Cleanbois members. The Manor should be a neutral ground for all gang-related affairs.",
-    "order":2,
-	"strokecolor":"#551a8b",
-	"fillcolor":"#551a8b",
-    "latlngarray": [
-{"lat": 71.127, "lng": -142.732},
-{"lat": 70.808, "lng": -142.908},
-{"lat": 70.805, "lng": -142.600},
-{"lat": 70.812, "lng": -142.413},
-{"lat": 70.942, "lng": -141.633},
-{"lat": 71.241, "lng": -141.589},
-{"lat": 71.244, "lng": -142.380},
-{"lat": 71.230, "lng": -142.578}
-	]
-  },
-  {
-    "id":4,
-    "type":"Territory Areas",
-    "title":"Brogue Street Kingz",
-    "notes":"Brogue Street Kingz is a southside gang run by OTT and is located on Brogue Ave. We Da Kingz.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
-    "order":2,
-	"strokecolor":"#ff0000",
-	"fillcolor":"#ff0000",
-    "latlngarray": [
-{"lat": 62.504, "lng": -121.946},
-{"lat": 62.897, "lng": -121.177},
-{"lat": 63.324, "lng": -122.287},
-{"lat": 63.176, "lng": -122.595},
-{"lat": 63.211, "lng": -122.770},
-{"lat": 63.087, "lng": -123.001},
-{"lat": 63.062, "lng": -122.935},
-{"lat": 62.967, "lng": -123.144}
-	]
-  },
-  {
-    "id":5,
-    "type":"Territory Areas",
-    "title":"Marabunta Grande",
-    "notes":"The Marabunta Grande, are an El Salvadorian based street gang operating out of Fudge Lane, in the El Burro Heights area. Viva la Mara",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Marabunta_Grande",
-    "order":2,
-	"strokecolor":"#4169e1",
-	"fillcolor":"#4169e1",
-    "latlngarray": [
-{"lat": 63.856, "lng": -111.956},
-{"lat": 63.623, "lng": -112.857},
-{"lat": 63.442, "lng": -113.692},
-{"lat": 63.081, "lng": -113.417},
-{"lat": 62.564, "lng": -112.901},
-{"lat": 62.756, "lng": -111.714},
-{"lat": 62.861, "lng": -111.011},
-{"lat": 63.081, "lng": -111.143},
-{"lat": 63.373, "lng": -111.615},
-{"lat": 63.842, "lng": -110.440},
-{"lat": 64.006, "lng": -110.758}
-]
-},
-  {
-    "id":6,
-    "type":"Territory Areas",
-    "title":"GSF",
-    "notes":"Grove Street Families are one of the largest South Side street gangs operating out of Forum Drive. They also own the Vanilla Unicorn.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/The_Families",
-    "order":2,
-	"strokecolor":"#008000",
-	"fillcolor":"#008000",
-    "latlngarray": [
-{"lat": 62.822, "lng": -126.270},
-{"lat": 63.077, "lng": -126.951},
-{"lat": 63.643, "lng": -126.962},
-{"lat": 64.074, "lng": -126.544},
-{"lat": 64.132, "lng": -126.314},
-{"lat": 64.299, "lng": -125.951},
-{"lat": 64.332, "lng": -125.501},
-{"lat": 64.361, "lng": -124.171},
-{"lat": 64.313, "lng": -123.952},
-{"lat": 64.199, "lng": -123.666}
-	]
-  },
-  {
-    "id":7,
-    "type":"Territory Areas",
-    "title":"Vagos",
-    "notes":"After the passing of Jesus, Speedy is the new El Jefe and made the Vagos what they are today.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Vagos",
-    "order":2,
-	"strokecolor":"#FFFF00",
-	"fillcolor":"#FFFF00",
-    "latlngarray": [
-{"lat": 61.619, "lng": -122.928},
-{"lat": 61.582, "lng": -122.631},
-{"lat": 61.566, "lng": -122.555},
-{"lat": 61.493, "lng": -122.313},
-{"lat": 61.425, "lng": -122.181},
-{"lat": 61.060, "lng": -121.379},
-{"lat": 61.023, "lng": -121.170},
-{"lat": 61.023, "lng": -120.972},
-{"lat": 61.060, "lng": -120.819},
-{"lat": 61.188, "lng": -120.533},
-{"lat": 61.383, "lng": -120.181},
-{"lat": 61.451, "lng": -120.028},
-{"lat": 61.546, "lng": -119.764},
-{"lat": 61.603, "lng": -119.511},
-{"lat": 61.874, "lng": -119.094},
-{"lat": 62.183, "lng": -118.731},
-{"lat": 62.357, "lng": -118.698},
-{"lat": 62.922, "lng": -118.610},
-{"lat": 63.541, "lng": -118.555},
-{"lat": 63.628, "lng": -118.654},
-{"lat": 63.789, "lng": -119.072},
-{"lat": 63.393, "lng": -119.841},
-{"lat": 63.290, "lng": -119.995},
-{"lat": 62.887, "lng": -120.786},
-{"lat": 62.802, "lng": -120.918},
-{"lat": 62.392, "lng": -121.654},
-{"lat": 62.295, "lng": -121.851},
-{"lat": 61.692, "lng": -122.895}
-],
-	"video":{
-      "yt_id":"M6R1aWQXFao",
-      "yt_user":"UC4irjUYpgjMTg0Wq8WhVNYQ",
-      "start":"0:00",
-      "end":"3:25"
-    }
-  },
-  {
-    "id":8,
-    "type":"Territory Areas",
-    "title":"Alta Street Ruff Rydaz",
-    "notes":"Alta Street Ruff Rydaz (A.K.A The Blocks/Block Gang), are a crew that will do anything and sell anything for $50. Located at the 'poor' apartments.",
-	  "wiki_link":"https://nopixel.fandom.com/wiki/Alta_Street_Ruff_Rydaz",
-    "order":2,
-	"strokecolor":"#FFFF00",
-	"fillcolor":"#FFFF00",
-    "latlngarray": [
+	{
+		"id": 1,
+		"type": "Territory Areas",
+		"title": "The Mandem",
+		"notes": "British gang that does more than just run a record label.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/The_Mandem",
+		"order": 1,
+		"strokecolor": "#000000",
+		"fillcolor": "#FFFFFF",
+		"latlngarray": [
+			{"lat": 68.523, "lng": -139.772},
+			{"lat": 68.763, "lng": -139.267},
+			{"lat": 68.981, "lng": -139.794},
+			{"lat": 68.886, "lng": -140.069},
+			{"lat": 68.779, "lng": -140.157},
+			{"lat": 68.671, "lng": -140.201}
+		]
+	},
+	{
+		"id": 2,
+		"type": "Territory Areas",
+		"title": "Ballas",
+		"notes": "Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Ballas",
+		"order": 1,
+		"strokecolor": "#551a8b",
+		"fillcolor": "#551a8b",
+		"latlngarray": [
+			{"lat": 62.955, "lng": -125.077},
+			{"lat": 62.426, "lng": -123.737},
+			{"lat": 62.744, "lng": -123.099},
+			{"lat": 62.390, "lng": -122.111},
+			{"lat": 61.820, "lng": -123.143},
+			{"lat": 61.627, "lng": -123.264},
+			{"lat": 61.622, "lng": -123.671},
+			{"lat": 61.918, "lng": -124.022},
+			{"lat": 62.104, "lng": -124.396},
+			{"lat": 62.724, "lng": -126.044}
+		]
+	},
+	{
+		"id": 3,
+		"type": "Territory Areas",
+		"title": "CLean Manor",
+		"notes": "CLean Manor is owned by Lang Buddha and co-owned by the Cleanbois members. The Manor should be a neutral ground for all gang-related affairs.",
+		"order": 2,
+		"strokecolor": "#551a8b",
+		"fillcolor": "#551a8b",
+		"latlngarray": [
+			{"lat": 71.127, "lng": -142.732},
+			{"lat": 70.808, "lng": -142.908},
+			{"lat": 70.805, "lng": -142.600},
+			{"lat": 70.812, "lng": -142.413},
+			{"lat": 70.942, "lng": -141.633},
+			{"lat": 71.241, "lng": -141.589},
+			{"lat": 71.244, "lng": -142.380},
+			{"lat": 71.230, "lng": -142.578}
+		]
+	},
+	{
+		"id": 4,
+		"type": "Territory Areas",
+		"title": "Brogue Street Kingz",
+		"notes": "Brogue Street Kingz is a southside gang run by OTT and is located on Brogue Ave. We Da Kingz.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
+		"order": 2,
+		"strokecolor": "#ff0000",
+		"fillcolor": "#ff0000",
+		"latlngarray": [
+			{"lat": 62.504, "lng": -121.946},
+			{"lat": 62.897, "lng": -121.177},
+			{"lat": 63.324, "lng": -122.287},
+			{"lat": 63.176, "lng": -122.595},
+			{"lat": 63.211, "lng": -122.770},
+			{"lat": 63.087, "lng": -123.001},
+			{"lat": 63.062, "lng": -122.935},
+			{"lat": 62.967, "lng": -123.144}
+		]
+	},
+	{
+		"id": 5,
+		"type": "Territory Areas",
+		"title": "Marabunta Grande",
+		"notes": "The Marabunta Grande, are an El Salvadorian based street gang operating out of Fudge Lane, in the El Burro Heights area. Viva la Mara",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Marabunta_Grande",
+		"order": 2,
+		"strokecolor": "#4169e1",
+		"fillcolor": "#4169e1",
+		"latlngarray": [
+			{"lat": 63.856, "lng": -111.956},
+			{"lat": 63.623, "lng": -112.857},
+			{"lat": 63.442, "lng": -113.692},
+			{"lat": 63.081, "lng": -113.417},
+			{"lat": 62.564, "lng": -112.901},
+			{"lat": 62.756, "lng": -111.714},
+			{"lat": 62.861, "lng": -111.011},
+			{"lat": 63.081, "lng": -111.143},
+			{"lat": 63.373, "lng": -111.615},
+			{"lat": 63.842, "lng": -110.440},
+			{"lat": 64.006, "lng": -110.758}
+		]
+	},
+	{
+		"id": 6,
+		"type": "Territory Areas",
+		"title": "GSF",
+		"notes": "Grove Street Families are one of the largest South Side street gangs operating out of Forum Drive. They also own the Vanilla Unicorn.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Th_Families",
+		"order": 2,
+		"strokecolor": "#008000",
+		"fillcolor": "#008000",
+		"latlngarray": [
+			{"lat": 62.822, "lng": -126.270},
+			{"lat": 63.077, "lng": -126.951},
+			{"lat": 63.643, "lng": -126.962},
+			{"lat": 64.074, "lng": -126.544},
+			{"lat": 64.132, "lng": -126.314},
+			{"lat": 64.299, "lng": -125.951},
+			{"lat": 64.332, "lng": -125.501},
+			{"lat": 64.361, "lng": -124.171},
+			{"lat": 64.313, "lng": -123.952},
+			{"lat": 64.199, "lng": -123.666}
+		]
+	},
+	{
+		"id": 7,
+		"type": "Territory Areas",
+		"title": "Vagos",
+		"notes": "After the passing of Jesus, Speedy is the new El Jefe and made the Vagos what they are today.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Vagos",
+		"order": 2,
+		"strokecolor": "#FFFF00",
+		"fillcolor": "#FFFF00",
+		"latlngarray": [
+			{"lat": 61.619, "lng": -122.928},
+			{"lat": 61.582, "lng": -122.631},
+			{"lat": 61.566, "lng": -122.555},
+			{"lat": 61.493, "lng": -122.313},
+			{"lat": 61.425, "lng": -122.181},
+			{"lat": 61.060, "lng": -121.379},
+			{"lat": 61.023, "lng": -121.170},
+			{"lat": 61.023, "lng": -120.972},
+			{"lat": 61.060, "lng": -120.819},
+			{"lat": 61.188, "lng": -120.533},
+			{"lat": 61.383, "lng": -120.181},
+			{"lat": 61.451, "lng": -120.028},
+			{"lat": 61.546, "lng": -119.764},
+			{"lat": 61.603, "lng": -119.511},
+			{"lat": 61.874, "lng": -119.094},
+			{"lat": 62.183, "lng": -118.731},
+			{"lat": 62.357, "lng": -118.698},
+			{"lat": 62.922, "lng": -118.610},
+			{"lat": 63.541, "lng": -118.555},
+			{"lat": 63.628, "lng": -118.654},
+			{"lat": 63.789, "lng": -119.072},
+			{"lat": 63.393, "lng": -119.841},
+			{"lat": 63.290, "lng": -119.995},
+			{"lat": 62.887, "lng": -120.786},
+			{"lat": 62.802, "lng": -120.918},
+			{"lat": 62.392, "lng": -121.654},
+			{"lat": 62.295, "lng": -121.851},
+			{"lat": 61.692, "lng": -122.895}
+		],
+		"video": {
+			"yt_id": "M6R1aWQXFao",
+			"yt_user": "UC4irjUYpgjMTg0Wq8WhVNYQ",
+			"start": "0:00",
+			"end": "3:25"
+		}
+	},
+	{
+		"id": 8,
+		"type": "Territory Areas",
+		"title": "Alta Street Ruff Rydaz",
+		"notes": "Alta Street Ruff Rydaz (A.K.A The Blocks/Block Gang), are a crew that will do anything and sell anything for $50. Located at the 'poor' apartments.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Alta_Street_Ruff_Rydaz",
+		"order": 2,
+		"strokecolor": "#FFFF00",
+		"fillcolor": "#FFFF00",
+		"latlngarray": [
 			{"lat": 66.028, "lng": -126.944},
 			{"lat": 66.188, "lng": -128.097},
 			{"lat": 66.584, "lng": -128.108},
 			{"lat": 66.554, "lng": -127.669},
 			{"lat": 66.431, "lng": -126.581}
-]
-  },
-  {
-    "id":15,
-    "type":"Territory Areas",
-    "title":"The Angels",
-    "notes":"The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
-	  "wiki_link":"https://nopixel.fandom.com/wiki/Angels",
-    "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#FFFFFF",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 15,
+		"type": "Territory Areas",
+		"title": "The Angels",
+		"notes": "The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Angels",
+		"order": 2,
+		"strokecolor": "#000000",
+		"fillcolor": "#FFFFFF",
+		"latlngarray": [
 			{"lat": 69.318, "lng": -139.095},
 			{"lat": 69.434, "lng": -139.392},
 			{"lat": 69.546, "lng": -139.468},
@@ -203,56 +203,56 @@
 			{"lat": 69.680, "lng": -138.568},
 			{"lat": 69.546, "lng": -138.557},
 			{"lat": 69.423, "lng": -138.721}
-]
-  },
-  {
-    "id":9,
-    "type":"Territory Areas",
-    "title":"Sinister Souls MC",
-    "notes":"The Sinister Souls MC is a 1% Motorcycle Club.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Sinister_Souls_MC",
-    "order":2,
-	"strokecolor":"#4B0082",
-	"fillcolor":"#4B0082",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 9,
+		"type": "Territory Areas",
+		"title": "Sinister Souls MC",
+		"notes": "The Sinister Souls MC is a 1% Motorcycle Club.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Sinister_Souls_MC",
+		"order": 2,
+		"strokecolor": "#4B0082",
+		"fillcolor": "#4B0082",
+		"latlngarray": [
 			{"lat": 69.246, "lng": -115.544},
 			{"lat": 69.436, "lng": -115.017},
 			{"lat": 69.304, "lng": -114.578},
 			{"lat": 69.109, "lng": -115.028}
-	]
-  },
-  {
-    "id":10,
-    "type":"Territory Areas",
-    "title":"Bondi Boys MC",
-    "notes":"Give me a home among the gumtrees. With lots of plum trees. A sheep or two, a k-kangaroo. A clothesline out the back. Verandah out the front. And an old rocking chair",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
-    "order":2,
-	"strokecolor":"#1560bd",
-	"fillcolor":"#1560bd",
-    "latlngarray": [
-		{"lat": 66.579, "lng": -137.638},
-		{"lat": 66.134, "lng": -138.715},
-		{"lat": 65.577, "lng": -137.781},
-		{"lat": 65.160, "lng": -137.770},
-		{"lat": 64.447, "lng": -137.189},
-		{"lat": 64.180, "lng": -138.320},
-		{"lat": 62.576, "lng": -136.189},
-		{"lat": 63.463, "lng": -134.168},
-		{"lat": 64.584, "lng": -135.871},
-		{"lat": 66.428, "lng": -137.310}
-	]
-  },
-  {
-    "id":11,
-    "type":"Territory Areas",
-    "title":"Little Seoul",
-    "notes":"CG owns Little seoul, but both the Yakuza and the Koreans would dispute their ownership.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Chang_Gang",
-    "order":2,
-	"strokecolor":"#fd5e53",
-	"fillcolor":"#fd5e53",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 10,
+		"type": "Territory Areas",
+		"title": "Bondi Boys MC",
+		"notes": "Give me a home among the gumtrees. With lots of plum trees. A sheep or two, a k-kangaroo. A clothesline out the back. Verandah out the front. And an old rocking chair",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
+		"order": 2,
+		"strokecolor": "#1560bd",
+		"fillcolor": "#1560bd",
+		"latlngarray": [
+			{"lat": 66.579, "lng": -137.638},
+			{"lat": 66.134, "lng": -138.715},
+			{"lat": 65.577, "lng": -137.781},
+			{"lat": 65.160, "lng": -137.770},
+			{"lat": 64.447, "lng": -137.189},
+			{"lat": 64.180, "lng": -138.320},
+			{"lat": 62.576, "lng": -136.189},
+			{"lat": 63.463, "lng": -134.168},
+			{"lat": 64.584, "lng": -135.871},
+			{"lat": 66.428, "lng": -137.310}
+		]
+	},
+	{
+		"id": 11,
+		"type": "Territory Areas",
+		"title": "Little Seoul",
+		"notes": "CG owns Little seoul, but both the Yakuza and the Koreans would dispute their ownership.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
+		"order": 2,
+		"strokecolor": "#fd5e53",
+		"fillcolor": "#fd5e53",
+		"latlngarray": [
 			{"lat": 67.281, "lng": -131.770},
 			{"lat": 66.221, "lng": -131.770},
 			{"lat": 66.221, "lng": -129.886},
@@ -260,578 +260,577 @@
 			{"lat": 66.877, "lng": -129.578},
 			{"lat": 67.093, "lng": -129.935},
 			{"lat": 67.281, "lng": -129.935}
-	]
-  },
-  {
-    "id":12,
-    "type":"Territory Areas",
-    "title":"NBC",
-    "notes":"Natural Born Crackheads, is a gang created and founded by Daquan Dumas and Guy Jones.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Natural_Born_Crackheads",
-    "order":2,
-	"strokecolor":"#fd5e53",
-	"fillcolor":"#fd5e53",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 12,
+		"type": "Territory Areas",
+		"title": "NBC",
+		"notes": "Natural Born Crackheads, is a gang created and founded by Daquan Dumas and Guy Jones.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Natural_Born_Crackheads",
+		"order": 2,
+		"strokecolor": "#fd5e53",
+		"fillcolor": "#fd5e53",
+		"latlngarray": [
 			{"lat": 70.348, "lng": -125.701},
 			{"lat": 70.374, "lng": -126.701},
 			{"lat": 70.114, "lng": -126.712},
 			{"lat": 70.088, "lng": -126.438},
 			{"lat": 69.971, "lng": -125.877}
-	]
-  },
-  {
-    "id":13,
-    "type":"Neutral Zones",
-    "title":"The Casino",
-    "notes":"Where money is lost to Dean Watson.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Diamond_Casino_and_Resort",
-    "order":2,
-	"strokecolor":"#fd5e53",
-	"fillcolor":"#fd5e53",
-    "latlngarray": [
-		{"lat": 70.011, "lng": -115.523},
-		{"lat": 69.800, "lng": -116.050},
-		{"lat": 69.616, "lng": -115.226},
-		{"lat": 69.900, "lng": -114.710}
-	]
-  },
-  {
-    "id":14,
-    "type":"Territory Areas",
-    "title":"La Fuente Blanca",
-    "notes":"La Fuenta Blanca, also known as The Ranch, is a ranch owned by Speedy and is protected by the Vagos.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/La_Fuente_Blanca",
-    "order":2,
-	"strokecolor":"#FFFF00",
-	"fillcolor":"#FFFF00",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 13,
+		"type": "Neutral Zones",
+		"title": "The Casino",
+		"notes": "Where money is lost to Dean Watson.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Diamond_Casino_and_Resort",
+		"order": 2,
+		"strokecolor": "#fd5e53",
+		"fillcolor": "#fd5e53",
+		"latlngarray": [
+			{"lat": 70.011, "lng": -115.523},
+			{"lat": 69.800, "lng": -116.050},
+			{"lat": 69.616, "lng": -115.226},
+			{"lat": 69.900, "lng": -114.710}
+		]
+	},
+	{
+		"id": 14,
+		"type": "Territory Areas",
+		"title": "La Fuente Blanca",
+		"notes": "La Fuenta Blanca, also known as The Ranch, is a ranch owned by Speedy and is protected by the Vagos.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/La_Fuente_Blanca",
+		"order": 2,
+		"strokecolor": "#FFFF00",
+		"fillcolor": "#FFFF00",
+		"latlngarray": [
 			{"lat": 73.343, "lng": -111.918},
 			{"lat": 73.337, "lng": -109.951},
 			{"lat": 72.900, "lng": -109.806},
 			{"lat": 72.890, "lng": -111.004},
 			{"lat": 73.108, "lng": -111.059},
 			{"lat": 73.070, "lng": -111.850}
-	]
-  },
-  {
-    "id":16,
-    "type":"Neutral Zones",
-    "title":"SDSO",
-    "notes":"Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
-    "order":2,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#0000FF",
-    "latlngarray": [
-			{"lat": 78.972, "lng": -106.920},
+		]
+	},
+	{
+		"id": 16,
+		"type": "Neutral Zones",
+		"title": "SDSO",
+		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
+		"order": 2,
+		"strokecolor": "#FF0000",
+		"fillcolor": "#0000FF",
+		"latlngarray": [
+			{"lat": 78.972, "lng": -106.92},
 			{"lat": 79.035, "lng": -106.305},
 			{"lat": 79.108, "lng": -106.547},
 			{"lat": 79.043, "lng": -107.151}
-	]
-  },
-  {
-    "id":17,
-    "type":"Territory Areas",
-    "title":"H.O.A.",
-    "notes":"Dont bother trying to move in without approval.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/HOA",
-    "order":2,
-	"strokecolor":"#FFA500",
-	"fillcolor":"#FFA500",
-    "latlngarray": [
-		{"lat": 68.808, "lng": -113.097},
-		{"lat": 68.997, "lng": -114.492},
-		{"lat": 68.620, "lng": -115.174},
-		{"lat": 68.463, "lng": -114.437},
-		{"lat": 68.442, "lng": -114.521},
-		{"lat": 67.907, "lng": -116.674},
-		{"lat": 67.540, "lng": -116.674},
-		{"lat": 66.738, "lng": -114.345},
-		{"lat": 66.738, "lng": -110.643},
-		{"lat": 67.857, "lng": -110.643}
-	]
-  },
-  {
-    "id":18,
-    "type":"Territory Areas",
-    "title":"The Lost MC Stab City",
-    "notes":"The Lost MCs clubhouse, situated in Stab City. Smoke on the Water grows weed here",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Lost_MC",
-    "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#ffffff",
-    "latlngarray": [
-		{"lat": 79.261, "lng": -123.992},
-		{"lat": 78.994, "lng": -125.607},
-		{"lat": 78.827, "lng": -123.003},
-		{"lat": 79.205, "lng": -123.168}
-	]
-  },
-  {
-    "id":20,
-   "type":"Neutral Zones",
-    "title":"Grandpa",
-    "notes":"Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#fff",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 17,
+		"type": "Territory Areas",
+		"title": "H.O.A.",
+		"notes": "Dont bother trying to move in without approval.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/HOA",
+		"order": 2,
+		"strokecolor": "#FFA500",
+		"fillcolor": "#FFA500",
+		"latlngarray": [
+			{"lat": 68.808, "lng": -113.097},
+			{"lat": 68.997, "lng": -114.492},
+			{"lat": 68.620, "lng": -115.174},
+			{"lat": 68.463, "lng": -114.437},
+			{"lat": 68.442, "lng": -114.521},
+			{"lat": 67.907, "lng": -116.674},
+			{"lat": 67.540, "lng": -116.674},
+			{"lat": 66.738, "lng": -114.345},
+			{"lat": 66.738, "lng": -110.643},
+			{"lat": 67.857, "lng": -110.643}
+		]
+	},
+	{
+		"id": 18,
+		"type": "Territory Areas",
+		"title": "The Lost MC Stab City",
+		"notes": "The Lost MCs clubhouse, situated in Stab City. Smoke on the Water grows weed here",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
+		"order": 2,
+		"strokecolor": "#000000",
+		"fillcolor": "#ffffff",
+		"latlngarray": [
+			{"lat": 79.261, "lng": -123.992},
+			{"lat": 78.994, "lng": -125.607},
+			{"lat": 78.827, "lng": -123.003},
+			{"lat": 79.205, "lng": -123.168}
+		]
+	},
+	{
+		"id": 20,
+		"type": "Neutral Zones",
+		"title": "Grandpa",
+		"notes": "Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#fff",
+		"latlngarray": [
 			{"lat": 81.020, "lng": -134.422},
 			{"lat": 80.984, "lng": -134.477},
 			{"lat": 80.973, "lng": -134.279},
 			{"lat": 81.018, "lng": -134.180}
-	]
-  },
-    {
-    "id":25,
-    "type":"Territory Areas",
-    "title":"Lost MC Sandy Shores",
-    "notes":"Lost MC lives, breathes and owns Sandy, don't forget otherwise.",
-    "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#ffffff",
-    "latlngarray": [
-{"lat": 78.959, "lng": -120.978},
-{"lat": 78.938, "lng": -119.594},
-{"lat": 78.900, "lng": -118.583},
-{"lat": 78.967, "lng": -117.616},
-{"lat": 78.967, "lng": -117.243},
-{"lat": 79.064, "lng": -116.166},
-{"lat": 79.068, "lng": -115.792},
-{"lat": 79.009, "lng": -115.397},
-{"lat": 78.988, "lng": -114.782},
-{"lat": 78.997, "lng": -114.101},
-{"lat": 79.001, "lng": -113.793},
-{"lat": 78.976, "lng": -113.419},
-{"lat": 79.001, "lng": -112.540},
-{"lat": 79.051, "lng": -111.947},
-{"lat": 79.130, "lng": -111.376},
-{"lat": 79.291, "lng": -110.893},
-{"lat": 79.282, "lng": -110.629},
-{"lat": 79.237, "lng": -110.695},
-{"lat": 79.163, "lng": -110.629},
-{"lat": 79.221, "lng": -110.080},
-{"lat": 79.286, "lng": -109.640},
-{"lat": 79.323, "lng": -109.245},
-{"lat": 79.380, "lng": -109.091},
-{"lat": 79.453, "lng": -109.860},
-{"lat": 79.473, "lng": -109.706},
-{"lat": 79.424, "lng": -108.519},
-{"lat": 79.501, "lng": -108.168},
-{"lat": 79.573, "lng": -107.333},
-{"lat": 79.596, "lng": -105.905},
-{"lat": 79.529, "lng": -105.026},
-{"lat": 79.497, "lng": -104.455},
-{"lat": 79.262, "lng": -103.092},
-{"lat": 79.097, "lng": -104.498},
-{"lat": 78.946, "lng": -105.875},
-{"lat": 79.032, "lng": -106.249},
-{"lat": 79.107, "lng": -106.523},
-{"lat": 79.045, "lng": -107.149},
-{"lat": 78.959, "lng": -106.930},
-{"lat": 79.020, "lng": -106.314},
-{"lat": 78.936, "lng": -105.974},
-{"lat": 78.684, "lng": -108.138},
-{"lat": 78.630, "lng": -109.347},
-{"lat": 78.731, "lng": -112.203},
-{"lat": 78.723, "lng": -116.488},
-{"lat": 78.615, "lng": -120.575},
-{"lat": 78.787, "lng": -121.739},
-{"lat": 78.906, "lng": -121.432}
-]
-  },
-  {
-    "id":19,
-    "type":"Neutral Zones",
-    "title":"PBSO",
-    "notes":"Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
-    "order":2,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#0000FF",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 25,
+		"type": "Territory Areas",
+		"title": "Lost MC Sandy Shores",
+		"notes": "Lost MC lives, breathes and owns Sandy, don't forget otherwise.",
+		"order": 2,
+		"strokecolor": "#000000",
+		"fillcolor": "#ffffff",
+		"latlngarray": [
+			{"lat": 78.959, "lng": -120.978},
+			{"lat": 78.938, "lng": -119.594},
+			{"lat": 78.900, "lng": -118.583},
+			{"lat": 78.967, "lng": -117.616},
+			{"lat": 78.967, "lng": -117.243},
+			{"lat": 79.064, "lng": -116.166},
+			{"lat": 79.068, "lng": -115.792},
+			{"lat": 79.009, "lng": -115.397},
+			{"lat": 78.988, "lng": -114.782},
+			{"lat": 78.997, "lng": -114.101},
+			{"lat": 79.001, "lng": -113.793},
+			{"lat": 78.976, "lng": -113.419},
+			{"lat": 79.001, "lng": -112.540},
+			{"lat": 79.051, "lng": -111.947},
+			{"lat": 79.130, "lng": -111.376},
+			{"lat": 79.291, "lng": -110.893},
+			{"lat": 79.282, "lng": -110.629},
+			{"lat": 79.237, "lng": -110.695},
+			{"lat": 79.163, "lng": -110.629},
+			{"lat": 79.221, "lng": -110.080},
+			{"lat": 79.286, "lng": -109.640},
+			{"lat": 79.323, "lng": -109.245},
+			{"lat": 79.380, "lng": -109.091},
+			{"lat": 79.453, "lng": -109.860},
+			{"lat": 79.473, "lng": -109.706},
+			{"lat": 79.424, "lng": -108.519},
+			{"lat": 79.501, "lng": -108.168},
+			{"lat": 79.573, "lng": -107.333},
+			{"lat": 79.596, "lng": -105.905},
+			{"lat": 79.529, "lng": -105.026},
+			{"lat": 79.497, "lng": -104.455},
+			{"lat": 79.262, "lng": -103.092},
+			{"lat": 79.097, "lng": -104.498},
+			{"lat": 78.946, "lng": -105.875},
+			{"lat": 79.032, "lng": -106.249},
+			{"lat": 79.107, "lng": -106.523},
+			{"lat": 79.045, "lng": -107.149},
+			{"lat": 78.959, "lng": -106.930},
+			{"lat": 79.020, "lng": -106.314},
+			{"lat": 78.936, "lng": -105.974},
+			{"lat": 78.684, "lng": -108.138},
+			{"lat": 78.630, "lng": -109.347},
+			{"lat": 78.731, "lng": -112.203},
+			{"lat": 78.723, "lng": -116.488},
+			{"lat": 78.615, "lng": -120.575},
+			{"lat": 78.787, "lng": -121.739},
+			{"lat": 78.906, "lng": -121.432}
+		]
+	},
+	{
+		"id": 19,
+		"type": "Neutral Zones",
+		"title": "PBSO",
+		"notes": "Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
+		"order": 2,
+		"strokecolor": "#FF0000",
+		"fillcolor": "#0000FF",
+		"latlngarray": [
 			{"lat": 82.638, "lng": -128.805},
 			{"lat": 82.600, "lng": -129.124},
 			{"lat": 82.555, "lng": -128.794},
 			{"lat": 82.582, "lng": -128.673}
-	]
-  },
-  {
-    "id":21,
-    "type":"Neutral Zones",
-    "title":"Grandma's",
-    "notes":"Where you go to pick up your gang after a shootout.",
-    "order":2,
-	"strokecolor":"#FFA500",
-	"fillcolor":"#FFA500",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 21,
+		"type": "Neutral Zones",
+		"title": "Grandma's",
+		"notes": "Where you go to pick up your gang after a shootout.",
+		"order": 2,
+		"strokecolor": "#FFA500",
+		"fillcolor": "#FFA500",
+		"latlngarray": [
 			{"lat": 81.177, "lng": -101.018},
 			{"lat": 81.229, "lng": -100.743},
 			{"lat": 81.192, "lng": -100.457},
 			{"lat": 81.144, "lng": -100.776}
-	]
-  },
-  {
-    "id":22,
-    "type":"Neutral Zones",
-    "title":"Pillbox Medical Center",
-    "notes":"Shoot here and get a free terrorism charge.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#fff",
-    "latlngarray": [
-		{"lat": 67.728, "lng": -121.734},
-		{"lat": 67.485, "lng": -122.000},
-		{"lat": 67.367, "lng": -121.140},
-		{"lat": 67.695, "lng": -120.679}
-	]
-  },
-  {
-    "id":23,
-    "type":"Neutral Zones",
-    "title":"Mission Row PD",
-    "notes":"LSPD headquarters ran by Sam Baas, although all cops will use this PD.",
-	  "wiki_link":"https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
-    "order":2,
-	"strokecolor":"#FF0000",
-	"fillcolor":"#0000FF",
-    "latlngarray": [
-		{"lat": 66.151, "lng": -120.516},
-		{"lat": 65.906, "lng": -120.516},
-		{"lat": 65.937, "lng": -119.813},
-		{"lat": 66.151, "lng": -119.813}
-	]
-  },
-  {
-    "id":24,
-    "type":"Neutral Zones",
-    "title":"Vanilla Unicorn",
-    "notes":"Owned by Dexx and GSF, The VU is a neutral zone but don't get caught lacking.",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
-    "order":2,
-	"strokecolor":"#008000",
-	"fillcolor":"#008000",
-    "latlngarray": [
-		{"lat": 64.897, "lng": -123.770},
-		{"lat": 64.734, "lng": -123.595},
-		{"lat": 64.846, "lng": -123.056},
-		{"lat": 64.944, "lng": -123.221}
-	]
-  },
-  {
-    "id":26,
-    "type":"Neutral Zones",
-    "title":"Rich Apartments",
-    "notes":"The tier 3 apartments for high-class citizens.",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#000000",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 22,
+		"type": "Neutral Zones",
+		"title": "Pillbox Medical Center",
+		"notes": "Shoot here and get a free terrorism charge.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#fff",
+		"latlngarray": [
+			{"lat": 67.728, "lng": -121.734},
+			{"lat": 67.485, "lng": -122.000},
+			{"lat": 67.367, "lng": -121.140},
+			{"lat": 67.695, "lng": -120.679}
+		]
+	},
+	{
+		"id": 23,
+		"type": "Neutral Zones",
+		"title": "Mission Row PD",
+		"notes": "LSPD headquarters ran by Sam Baas, although all cops will use this PD.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
+		"order": 2,
+		"strokecolor": "#FF0000",
+		"fillcolor": "#0000FF",
+		"latlngarray": [
+			{"lat": 66.151, "lng": -120.516},
+			{"lat": 65.906, "lng": -120.516},
+			{"lat": 65.937, "lng": -119.813},
+			{"lat": 66.151, "lng": -119.813}
+		]
+	},
+	{
+		"id": 24,
+		"type": "Neutral Zones",
+		"title": "Vanilla Unicorn",
+		"notes": "Owned by Dexx and GSF, The VU is a neutral zone but don't get caught lacking.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
+		"order": 2,
+		"strokecolor": "#008000",
+		"fillcolor": "#008000",
+		"latlngarray": [
+			{"lat": 64.897, "lng": -123.77},
+			{"lat": 64.734, "lng": -123.595},
+			{"lat": 64.846, "lng": -123.056},
+			{"lat": 64.944, "lng": -123.221}
+		]
+	},
+	{
+		"id": 26,
+		"type": "Neutral Zones",
+		"title": "Rich Apartments",
+		"notes": "The tier 3 apartments for high-class citizens.",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#000000",
+		"latlngarray": [
 			{"lat": 67.697, "lng": -125.027},
 			{"lat": 67.689, "lng": -124.477},
 			{"lat": 67.446, "lng": -124.686},
 			{"lat": 67.517, "lng": -125.192}
-	]
-  },
-  {
-    "id":27,
-    "type":"Territory Areas",
-    "title":"Mayhem",
-    "notes":"Once Condemned MC, Mayhem MC are trying to be like a phoenix rising out of the ashes in Paleto Bay.",
-	  "wiki_link":"https://nopixel.fandom.com/wiki/Mayhem",
-    "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#FFFFFF",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 27,
+		"type": "Territory Areas",
+		"title": "Mayhem",
+		"notes": "Once Condemned MC, Mayhem MC are trying to be like a phoenix rising out of the ashes in Paleto Bay.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Mayhem",
+		"order": 2,
+		"strokecolor": "#000000",
+		"fillcolor": "#FFFFFF",
+		"latlngarray": [
 			{"lat": 83.086, "lng": -125.732},
 			{"lat": 83.024, "lng": -126.182},
 			{"lat": 83.001, "lng": -125.995},
 			{"lat": 83.054, "lng": -125.479}
-	]
-  },
-  {
-    "id":28,
-    "type":"Neutral Zones",
-    "title":"The Courthouse",
-    "notes":"Where questionable raids are signed and justice is sometimes served",
-	"wiki_link":"https://nopixel.fandom.com/wiki/Department_of_Justice",
-    "order":2,
-	"strokecolor":"#002d70",
-	"fillcolor":"#ffeab9",
-    "latlngarray": [
-		{"lat": 68.694, "lng": -130.022},
-		{"lat": 69.042, "lng": -130.560},
-		{"lat": 69.199, "lng": -129.615},
-		{"lat": 68.853, "lng": -129.033}
-	]
-  },
-  {
-    "id":29,
-    "type":"Neutral Zones",
-    "title":"Deans World",
-    "notes":"Where the farmers market ends up at night, Deans world is also where you can buy stuff, hold concerts on the main stage and ride a rollercoaster.",
-    "order":2,
-	"strokecolor":"#0080ff",
-	"fillcolor":"#0080ff",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 28,
+		"type": "Neutral Zones",
+		"title": "The Courthouse",
+		"notes": "Where questionable raids are signed and justice is sometimes served",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
+		"order": 2,
+		"strokecolor": "#002d70",
+		"fillcolor": "#ffeab9",
+		"latlngarray": [
+			{"lat": 68.694, "lng": -130.022},
+			{"lat": 69.042, "lng": -130.560},
+			{"lat": 69.199, "lng": -129.615},
+			{"lat": 68.853, "lng": -129.033}
+		]
+	},
+	{
+		"id": 29,
+		"type": "Neutral Zones",
+		"title": "Deans World",
+		"notes": "Where the farmers market ends up at night, Deans world is also where you can buy stuff, hold concerts on the main stage and ride a rollercoaster.",
+		"order": 2,
+		"strokecolor": "#0080ff",
+		"fillcolor": "#0080ff",
+		"latlngarray": [
 			{"lat": 66.081, "lng": -140.506},
 			{"lat": 65.852, "lng": -139.770},
 			{"lat": 65.349, "lng": -140.869},
 			{"lat": 65.563, "lng": -141.561}
-]
-  },
-  {
-    "id":30,
-    "type":"Neutral Zones",
-    "title":"Farmers Market",
-    "notes":"Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff.",
-    "order":2,
-	"strokecolor":"#000000",
-	"fillcolor":"#000000",
-    "latlngarray": [
+		]
+	},
+	{
+		"id": 30,
+		"type": "Neutral Zones",
+		"title": "Farmers Market",
+		"notes": "Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff.",
+		"order": 2,
+		"strokecolor": "#000000",
+		"fillcolor": "#000000",
+		"latlngarray": [
 			{"lat": 82.746, "lng": -127.769},
 			{"lat": 82.786, "lng": -127.417},
 			{"lat": 82.754, "lng": -127.153},
 			{"lat": 82.707, "lng": -127.461}
-	]
-  },
-  {
-    "id":31,
-    "type":"Neutral Zones",
-    "title":"UwU Cafe",
-    "notes":"UwU.",
-    "order":2,
-	"strokecolor":"#dea5a4",
-	"fillcolor":"#dea5a4",
-    "latlngarray": [
-{"lat": 65.846, "lng": -129.923},
-{"lat": 65.855, "lng": -130.615},
-{"lat": 65.683, "lng": -130.593},
-{"lat": 65.674, "lng": -130.395},
-{"lat": 65.461, "lng": -130.395},
-{"lat": 65.452, "lng": -129.956}
-]
-  },
-  {
-    "id":32,
-    "type":"Neutral Zones",
-    "title":"BurgerShot",
-    "notes":"",
-    "order":2,
-	"strokecolor":"#FFFF00",
-	"fillcolor":"#FFFF00",
-    "latlngarray": [
-{"lat": 66.485, "lng": -136.373},
-{"lat": 66.327, "lng": -136.175},
-{"lat": 66.419, "lng": -135.725},
-{"lat": 66.590, "lng": -135.988}
-]
-  },
-  {
-    "id":33,
-    "type":"Neutral Zones",
-    "title":"Maldinis",
-    "notes":"Pizza",
-    "order":2,
-	"strokecolor":"#B2951A",
-	"fillcolor":"#666666",
-    "latlngarray": [
-{"lat": 67.166, "lng": -116.894},
-{"lat": 67.119, "lng": -116.619},
-{"lat": 66.951, "lng": -116.575},
-{"lat": 66.956, "lng": -116.883}
-]
-  },
-  {
-    "id":34,
-    "type":"Neutral Zones",
-    "title":"Rooster Rest",
-    "notes":"ramen shop",
-    "order":2,
-	"strokecolor":"#ffd1dc",
-	"fillcolor":"#ffd1dc",
-    "latlngarray": [
-{"lat": 70.751, "lng": -126.799},
-{"lat": 70.656, "lng": -126.821},
-{"lat": 70.645, "lng": -126.469},
-{"lat": 70.580, "lng": -126.502},
-{"lat": 70.561, "lng": -125.766},
-{"lat": 70.703, "lng": -125.744},
-{"lat": 70.769, "lng": -125.964}
-]
-  },
-  {
-    "id":35,
-    "type":"Neutral Zones",
-    "title":"Parsons Hill",
-    "notes":"A Rehabilitation & Health Care Center for 51-50'd patients/criminals to stay out of regular prison.",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFB6C1",
-    "latlngarray": [
-{"lat": 72.540, "lng": -139.174},
-{"lat": 72.327, "lng": -140.255},
-{"lat": 72.184, "lng": -140.145},
-{"lat": 72.120, "lng": -140.365},
-{"lat": 72.055, "lng": -140.299},
-{"lat": 72.035, "lng": -140.167},
-{"lat": 72.120, "lng": -139.530},
-{"lat": 72.261, "lng": -138.739},
-{"lat": 72.401, "lng": -138.849},
-{"lat": 72.500, "lng": -138.959}
-]
-  },
-  {
-    "id":36,
-    "type":"Territory Areas",
-    "title":"Balbini Crime Family",
-    "notes":"The Balbani Crime Family, (BCF) is an organized crime syndicate that operates within the City of Los Santos.",
-    "order":2,
-	"strokecolor":"#FFA500",
-	"fillcolor":"#FFA500",
-    "latlngarray": [
-{"lat": 70.397, "lng": -143.131},
-{"lat": 70.511, "lng": -142.681},
-{"lat": 70.353, "lng": -142.373},
-{"lat": 70.234, "lng": -142.681}
-]
-  },
-{
-    "id":43,
-    "type":"Neutral Zones",
-    "title":"PDM",
-    "notes":"Buy most cars here.",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
-    "latlngarray": [
-{"lat": 65.733, "lng": -125.169},
-{"lat": 65.693, "lng": -124.619},
-{"lat": 65.516, "lng": -124.751},
-{"lat": 65.502, "lng": -125.355}
-]
-  },
-{
-    "id":42,
-    "type":"Neutral Zones",
-    "title":"Tuner Shop",
-    "notes":"Dont complain if you get robbed here",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
-    "latlngarray": [
-{"lat": 56.758, "lng": -123.419},
-{"lat": 56.758, "lng": -122.683},
-{"lat": 56.341, "lng": -122.694},
-{"lat": 56.347, "lng": -123.408}
-]
-  },
-{
-    "id":40,
-    "type":"Neutral Zones",
-    "title":"Ottos Auto",
-    "notes":"Dont complain if you get robbed here",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
-    "latlngarray": [
-{"lat": 66.753, "lng": -116.883},
-{"lat": 66.745, "lng": -116.587},
-{"lat": 66.666, "lng": -116.598},
-{"lat": 66.671, "lng": -116.861}
-]
-  }, 
-{
-    "id":41,
-    "type":"Neutral Zones",
-    "title":"Hayes",
-    "notes":"Dont complain if you get robbed here",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
-    "latlngarray": [
-{"lat": 68.174, "lng": -138.342},
-{"lat": 68.108, "lng": -138.232},
-{"lat": 68.039, "lng": -138.485},
-{"lat": 68.116, "lng": -138.628}
-]
-  },
- {
-    "id":44,
-    "type":"Neutral Zones",
-    "title":"Iron Hog Repairs",
-    "notes":"Specializing in motorcycles, Iron Hog is a mechanic shop located in Sandy Shores and is protected by the Lost MC",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
-    "latlngarray": [
-{"lat": 78.410, "lng": -107.330},
-{"lat": 78.333, "lng": -107.088},
-{"lat": 78.308, "lng": -107.385},
-{"lat": 78.384, "lng": -107.604}
-]
-  },
-  {
-    "id":39,
-    "type":"Neutral Zones",
-    "title":"The Fence",
-    "notes":"Dont complain if you get robbed here",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
-    "latlngarray": [
-{"lat": 75.950, "lng": -127.223},
-{"lat": 75.912, "lng": -126.982},
-{"lat": 75.856, "lng": -127.124},
-{"lat": 75.888, "lng": -127.366}
-]
-  },
-{
-    "id":45,
-    "type":"Neutral Zones",
-    "title":"Vultur Lé Culturé ",
-    "notes":"Vultur Lé Culturé, also known simply as the Gallery, is an art gallery and auction house founded by Ramee El-Rahman",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#FFC0CB",
-    "latlngarray": [
-{"lat": 69.921, "lng": -129.856},
-{"lat": 69.894, "lng": -128.439},
-{"lat": 69.724, "lng": -128.450},
-{"lat": 69.746, "lng": -129.933}
-]
-  },
-  {
-    "id":38,
-    "type":"Territory Areas",
-    "title":"Aztecas",
-    "notes":"Aztecas reborn under the leadership of Tom Ryan.",
-    "order":2,
-	"strokecolor":"#0080ff",
-	"fillcolor":"#0080ff",
-    "latlngarray": [
-{"lat": 63.719, "lng": -119.826},
-{"lat": 63.845, "lng": -120.144},
-{"lat": 63.762, "lng": -120.408},
-{"lat": 63.675, "lng": -120.639},
-{"lat": 63.474, "lng": -120.111},
-{"lat": 63.558, "lng": -119.980}
-]
-
-  },
-    {
-    "id":37,
-    "type":"Neutral Zones",
-    "title":"Harmony",
-    "notes":"Come get your cars fixed here",
-    "order":2,
-	"strokecolor":"#FFC0CB",
-	"fillcolor":"#fff",
-    "latlngarray":   [
-{"lat": 77.014, "lng": -113.307},
-{"lat": 76.915, "lng": -113.318},
-{"lat": 76.918, "lng": -112.824},
-{"lat": 77.012, "lng": -112.813}
-]
-  }
+		]
+	},
+	{
+		"id": 31,
+		"type": "Neutral Zones",
+		"title": "UwU Cafe",
+		"notes": "UwU.",
+		"order": 2,
+		"strokecolor": "#dea5a4",
+		"fillcolor": "#dea5a4",
+		"latlngarray": [
+			{"lat": 65.846, "lng": -129.923},
+			{"lat": 65.855, "lng": -130.615},
+			{"lat": 65.683, "lng": -130.593},
+			{"lat": 65.674, "lng": -130.395},
+			{"lat": 65.461, "lng": -130.395},
+			{"lat": 65.452, "lng": -129.956}
+		]
+	},
+	{
+		"id": 32,
+		"type": "Neutral Zones",
+		"title": "BurgerShot",
+		"notes": "",
+		"order": 2,
+		"strokecolor": "#FFFF00",
+		"fillcolor": "#FFFF00",
+		"latlngarray": [
+			{"lat": 66.485, "lng": -136.373},
+			{"lat": 66.327, "lng": -136.175},
+			{"lat": 66.419, "lng": -135.725},
+			{"lat": 66.590, "lng": -135.988}
+		]
+	},
+	{
+		"id": 33,
+		"type": "Neutral Zones",
+		"title": "Maldinis",
+		"notes": "Pizza",
+		"order": 2,
+		"strokecolor": "#B2951A",
+		"fillcolor": "#666666",
+		"latlngarray": [
+			{"lat": 67.166, "lng": -116.894},
+			{"lat": 67.119, "lng": -116.619},
+			{"lat": 66.951, "lng": -116.575},
+			{"lat": 66.956, "lng": -116.883}
+		]
+	},
+	{
+		"id": 34,
+		"type": "Neutral Zones",
+		"title": "Rooster Rest",
+		"notes": "ramen shop",
+		"order": 2,
+		"strokecolor": "#ffd1dc",
+		"fillcolor": "#ffd1dc",
+		"latlngarray": [
+			{"lat": 70.751, "lng": -126.799},
+			{"lat": 70.656, "lng": -126.821},
+			{"lat": 70.645, "lng": -126.469},
+			{"lat": 70.580, "lng": -126.502},
+			{"lat": 70.561, "lng": -125.766},
+			{"lat": 70.703, "lng": -125.744},
+			{"lat": 70.769, "lng": -125.964}
+		]
+	},
+	{
+		"id": 35,
+		"type": "Neutral Zones",
+		"title": "Parsons Hill",
+		"notes": "A Rehabilitation & Health Care Center for 51-50'd patients/criminals to stay out of regular prison.",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#FFB6C1",
+		"latlngarray": [
+			{"lat": 72.540, "lng": -139.174},
+			{"lat": 72.327, "lng": -140.255},
+			{"lat": 72.184, "lng": -140.145},
+			{"lat": 72.120, "lng": -140.365},
+			{"lat": 72.055, "lng": -140.299},
+			{"lat": 72.035, "lng": -140.167},
+			{"lat": 72.120, "lng": -139.530},
+			{"lat": 72.261, "lng": -138.739},
+			{"lat": 72.401, "lng": -138.849},
+			{"lat": 72.500, "lng": -138.959}
+		]
+	},
+	{
+		"id": 36,
+		"type": "Territory Areas",
+		"title": "Balbini Crime Family",
+		"notes": "The Balbani Crime Family, (BCF) is an organized crime syndicate that operates within the City of Los Santos.",
+		"order": 2,
+		"strokecolor": "#FFA500",
+		"fillcolor": "#FFA500",
+		"latlngarray": [
+			{"lat": 70.397, "lng": -143.131},
+			{"lat": 70.511, "lng": -142.681},
+			{"lat": 70.353, "lng": -142.373},
+			{"lat": 70.234, "lng": -142.681}
+		]
+	},
+	{
+		"id": 43,
+		"type": "Neutral Zones",
+		"title": "PDM",
+		"notes": "Buy most cars here.",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#FFC0CB",
+		"latlngarray": [
+			{"lat": 65.733, "lng": -125.169},
+			{"lat": 65.693, "lng": -124.619},
+			{"lat": 65.516, "lng": -124.751},
+			{"lat": 65.502, "lng": -125.355}
+		]
+	},
+	{
+		"id": 42,
+		"type": "Neutral Zones",
+		"title": "Tuner Shop",
+		"notes": "Dont complain if you get robbed here",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#FFC0CB",
+		"latlngarray": [
+			{"lat": 56.758, "lng": -123.419},
+			{"lat": 56.758, "lng": -122.683},
+			{"lat": 56.341, "lng": -122.694},
+			{"lat": 56.347, "lng": -123.408}
+		]
+	},
+	{
+		"id": 40,
+		"type": "Neutral Zones",
+		"title": "Ottos Auto",
+		"notes": "Dont complain if you get robbed here",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#FFC0CB",
+		"latlngarray": [
+			{"lat": 66.753, "lng": -116.883},
+			{"lat": 66.745, "lng": -116.587},
+			{"lat": 66.666, "lng": -116.598},
+			{"lat": 66.671, "lng": -116.861}
+		]
+	},
+	{
+		"id": 41,
+		"type": "Neutral Zones",
+		"title": "Hayes",
+		"notes": "Dont complain if you get robbed here",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#FFC0CB",
+		"latlngarray": [
+			{"lat": 68.174, "lng": -138.342},
+			{"lat": 68.108, "lng": -138.232},
+			{"lat": 68.039, "lng": -138.485},
+			{"lat": 68.116, "lng": -138.628}
+		]
+	},
+	{
+		"id": 44,
+		"type": "Neutral Zones",
+		"title": "Iron Hog Repairs",
+		"notes": "Specializing in motorcycles, Iron Hog is a mechanic shop located in Sandy Shores and is protected by the Lost MC",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#FFC0CB",
+		"latlngarray": [
+			{"lat": 78.410, "lng": -107.330},
+			{"lat": 78.333, "lng": -107.088},
+			{"lat": 78.308, "lng": -107.385},
+			{"lat": 78.384, "lng": -107.604}
+		]
+	},
+	{
+		"id": 39,
+		"type": "Neutral Zones",
+		"title": "The Fence",
+		"notes": "Dont complain if you get robbed here",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#FFC0CB",
+		"latlngarray": [
+			{"lat": 75.950, "lng": -127.223},
+			{"lat": 75.912, "lng": -126.982},
+			{"lat": 75.856, "lng": -127.124},
+			{"lat": 75.888, "lng": -127.366}
+		]
+	},
+	{
+		"id": 45,
+		"type": "Neutral Zones",
+		"title": "Vultur Lé Culturé ",
+		"notes": "Vultur Lé Culturé, also known simply as the Gallery, is an art gallery and auction house founded by Ramee El-Rahman",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#FFC0CB",
+		"latlngarray": [
+			{"lat": 69.921, "lng": -129.856},
+			{"lat": 69.894, "lng": -128.439},
+			{"lat": 69.724, "lng": -128.450},
+			{"lat": 69.746, "lng": -129.933}
+		]
+	},
+	{
+		"id": 38,
+		"type": "Territory Areas",
+		"title": "Aztecas",
+		"notes": "Aztecas reborn under the leadership of Tom Ryan.",
+		"order": 2,
+		"strokecolor": "#0080ff",
+		"fillcolor": "#0080ff",
+		"latlngarray": [
+			{"lat": 63.719, "lng": -119.826},
+			{"lat": 63.845, "lng": -120.144},
+			{"lat": 63.762, "lng": -120.408},
+			{"lat": 63.675, "lng": -120.639},
+			{"lat": 63.474, "lng": -120.111},
+			{"lat": 63.558, "lng": -119.980}
+		]
+	},
+	{
+		"id": 37,
+		"type": "Neutral Zones",
+		"title": "Harmony",
+		"notes": "Come get your cars fixed here",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#fff",
+		"latlngarray": [
+			{"lat": 77.014, "lng": -113.307},
+			{"lat": 76.915, "lng": -113.318},
+			{"lat": 76.918, "lng": -112.824},
+			{"lat": 77.012, "lng": -112.813}
+		]
+	}
 ]
