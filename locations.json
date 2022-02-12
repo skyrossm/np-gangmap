@@ -1,23 +1,5 @@
 [
 	{
-		"id": 1,
-		"type": "Territory Areas",
-		"title": "The Mandem",
-		"notes": "British gang that does more than just run a record label.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/The_Mandem",
-		"order": 1,
-		"strokecolor": "#000000",
-		"fillcolor": "#FFFFFF",
-		"latlngarray": [
-			{"lat": 68.523, "lng": -139.772},
-			{"lat": 68.763, "lng": -139.267},
-			{"lat": 68.981, "lng": -139.794},
-			{"lat": 68.886, "lng": -140.069},
-			{"lat": 68.779, "lng": -140.157},
-			{"lat": 68.671, "lng": -140.201}
-		]
-	},
-	{
 		"id": 2,
 		"type": "Territory Areas",
 		"title": "Ballas",
@@ -99,28 +81,6 @@
 			{"lat": 63.373, "lng": -111.615},
 			{"lat": 63.842, "lng": -110.440},
 			{"lat": 64.006, "lng": -110.758}
-		]
-	},
-	{
-		"id": 6,
-		"type": "Territory Areas",
-		"title": "GSF",
-		"notes": "Grove Street Families are one of the largest South Side street gangs operating out of Forum Drive. They also own the Vanilla Unicorn.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Th_Families",
-		"order": 2,
-		"strokecolor": "#008000",
-		"fillcolor": "#008000",
-		"latlngarray": [
-			{"lat": 62.822, "lng": -126.270},
-			{"lat": 63.077, "lng": -126.951},
-			{"lat": 63.643, "lng": -126.962},
-			{"lat": 64.074, "lng": -126.544},
-			{"lat": 64.132, "lng": -126.314},
-			{"lat": 64.299, "lng": -125.951},
-			{"lat": 64.332, "lng": -125.501},
-			{"lat": 64.361, "lng": -124.171},
-			{"lat": 64.313, "lng": -123.952},
-			{"lat": 64.199, "lng": -123.666}
 		]
 	},
 	{
@@ -222,47 +182,6 @@
 		]
 	},
 	{
-		"id": 10,
-		"type": "Territory Areas",
-		"title": "Bondi Boys MC",
-		"notes": "Give me a home among the gumtrees. With lots of plum trees. A sheep or two, a k-kangaroo. A clothesline out the back. Verandah out the front. And an old rocking chair",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
-		"order": 2,
-		"strokecolor": "#1560bd",
-		"fillcolor": "#1560bd",
-		"latlngarray": [
-			{"lat": 66.579, "lng": -137.638},
-			{"lat": 66.134, "lng": -138.715},
-			{"lat": 65.577, "lng": -137.781},
-			{"lat": 65.160, "lng": -137.770},
-			{"lat": 64.447, "lng": -137.189},
-			{"lat": 64.180, "lng": -138.320},
-			{"lat": 62.576, "lng": -136.189},
-			{"lat": 63.463, "lng": -134.168},
-			{"lat": 64.584, "lng": -135.871},
-			{"lat": 66.428, "lng": -137.310}
-		]
-	},
-	{
-		"id": 11,
-		"type": "Territory Areas",
-		"title": "Little Seoul",
-		"notes": "CG owns Little seoul, but both the Yakuza and the Koreans would dispute their ownership.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
-		"order": 2,
-		"strokecolor": "#fd5e53",
-		"fillcolor": "#fd5e53",
-		"latlngarray": [
-			{"lat": 67.281, "lng": -131.770},
-			{"lat": 66.221, "lng": -131.770},
-			{"lat": 66.221, "lng": -129.886},
-			{"lat": 66.485, "lng": -129.578},
-			{"lat": 66.877, "lng": -129.578},
-			{"lat": 67.093, "lng": -129.935},
-			{"lat": 67.281, "lng": -129.935}
-		]
-	},
-	{
 		"id": 12,
 		"type": "Territory Areas",
 		"title": "NBC",
@@ -277,22 +196,6 @@
 			{"lat": 70.114, "lng": -126.712},
 			{"lat": 70.088, "lng": -126.438},
 			{"lat": 69.971, "lng": -125.877}
-		]
-	},
-	{
-		"id": 13,
-		"type": "Neutral Zones",
-		"title": "The Casino",
-		"notes": "Where money is lost to Dean Watson.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Diamond_Casino_and_Resort",
-		"order": 2,
-		"strokecolor": "#fd5e53",
-		"fillcolor": "#fd5e53",
-		"latlngarray": [
-			{"lat": 70.011, "lng": -115.523},
-			{"lat": 69.800, "lng": -116.050},
-			{"lat": 69.616, "lng": -115.226},
-			{"lat": 69.900, "lng": -114.710}
 		]
 	},
 	{
@@ -327,28 +230,6 @@
 			{"lat": 79.035, "lng": -106.305},
 			{"lat": 79.108, "lng": -106.547},
 			{"lat": 79.043, "lng": -107.151}
-		]
-	},
-	{
-		"id": 17,
-		"type": "Territory Areas",
-		"title": "H.O.A.",
-		"notes": "Dont bother trying to move in without approval.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/HOA",
-		"order": 2,
-		"strokecolor": "#FFA500",
-		"fillcolor": "#FFA500",
-		"latlngarray": [
-			{"lat": 68.808, "lng": -113.097},
-			{"lat": 68.997, "lng": -114.492},
-			{"lat": 68.620, "lng": -115.174},
-			{"lat": 68.463, "lng": -114.437},
-			{"lat": 68.442, "lng": -114.521},
-			{"lat": 67.907, "lng": -116.674},
-			{"lat": 67.540, "lng": -116.674},
-			{"lat": 66.738, "lng": -114.345},
-			{"lat": 66.738, "lng": -110.643},
-			{"lat": 67.857, "lng": -110.643}
 		]
 	},
 	{
@@ -471,54 +352,6 @@
 		]
 	},
 	{
-		"id": 22,
-		"type": "Neutral Zones",
-		"title": "Pillbox Medical Center",
-		"notes": "Shoot here and get a free terrorism charge.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",
-		"order": 2,
-		"strokecolor": "#FFC0CB",
-		"fillcolor": "#fff",
-		"latlngarray": [
-			{"lat": 67.728, "lng": -121.734},
-			{"lat": 67.485, "lng": -122.000},
-			{"lat": 67.367, "lng": -121.140},
-			{"lat": 67.695, "lng": -120.679}
-		]
-	},
-	{
-		"id": 23,
-		"type": "Neutral Zones",
-		"title": "Mission Row PD",
-		"notes": "LSPD headquarters ran by Sam Baas, although all cops will use this PD.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
-		"order": 2,
-		"strokecolor": "#FF0000",
-		"fillcolor": "#0000FF",
-		"latlngarray": [
-			{"lat": 66.151, "lng": -120.516},
-			{"lat": 65.906, "lng": -120.516},
-			{"lat": 65.937, "lng": -119.813},
-			{"lat": 66.151, "lng": -119.813}
-		]
-	},
-	{
-		"id": 24,
-		"type": "Neutral Zones",
-		"title": "Vanilla Unicorn",
-		"notes": "Owned by Dexx and GSF, The VU is a neutral zone but don't get caught lacking.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
-		"order": 2,
-		"strokecolor": "#008000",
-		"fillcolor": "#008000",
-		"latlngarray": [
-			{"lat": 64.897, "lng": -123.77},
-			{"lat": 64.734, "lng": -123.595},
-			{"lat": 64.846, "lng": -123.056},
-			{"lat": 64.944, "lng": -123.221}
-		]
-	},
-	{
 		"id": 26,
 		"type": "Neutral Zones",
 		"title": "Rich Apartments",
@@ -547,22 +380,6 @@
 			{"lat": 83.024, "lng": -126.182},
 			{"lat": 83.001, "lng": -125.995},
 			{"lat": 83.054, "lng": -125.479}
-		]
-	},
-	{
-		"id": 28,
-		"type": "Neutral Zones",
-		"title": "The Courthouse",
-		"notes": "Where questionable raids are signed and justice is sometimes served",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
-		"order": 2,
-		"strokecolor": "#002d70",
-		"fillcolor": "#ffeab9",
-		"latlngarray": [
-			{"lat": 68.694, "lng": -130.022},
-			{"lat": 69.042, "lng": -130.560},
-			{"lat": 69.199, "lng": -129.615},
-			{"lat": 68.853, "lng": -129.033}
 		]
 	},
 	{
@@ -596,53 +413,6 @@
 		]
 	},
 	{
-		"id": 31,
-		"type": "Neutral Zones",
-		"title": "UwU Cafe",
-		"notes": "UwU.",
-		"order": 2,
-		"strokecolor": "#dea5a4",
-		"fillcolor": "#dea5a4",
-		"latlngarray": [
-			{"lat": 65.846, "lng": -129.923},
-			{"lat": 65.855, "lng": -130.615},
-			{"lat": 65.683, "lng": -130.593},
-			{"lat": 65.674, "lng": -130.395},
-			{"lat": 65.461, "lng": -130.395},
-			{"lat": 65.452, "lng": -129.956}
-		]
-	},
-	{
-		"id": 32,
-		"type": "Neutral Zones",
-		"title": "BurgerShot",
-		"notes": "",
-		"order": 2,
-		"strokecolor": "#FFFF00",
-		"fillcolor": "#FFFF00",
-		"latlngarray": [
-			{"lat": 66.485, "lng": -136.373},
-			{"lat": 66.327, "lng": -136.175},
-			{"lat": 66.419, "lng": -135.725},
-			{"lat": 66.590, "lng": -135.988}
-		]
-	},
-	{
-		"id": 33,
-		"type": "Neutral Zones",
-		"title": "Maldinis",
-		"notes": "Pizza",
-		"order": 2,
-		"strokecolor": "#B2951A",
-		"fillcolor": "#666666",
-		"latlngarray": [
-			{"lat": 67.166, "lng": -116.894},
-			{"lat": 67.119, "lng": -116.619},
-			{"lat": 66.951, "lng": -116.575},
-			{"lat": 66.956, "lng": -116.883}
-		]
-	},
-	{
 		"id": 34,
 		"type": "Neutral Zones",
 		"title": "Rooster Rest",
@@ -661,27 +431,6 @@
 		]
 	},
 	{
-		"id": 35,
-		"type": "Neutral Zones",
-		"title": "Parsons Hill",
-		"notes": "A Rehabilitation & Health Care Center for 51-50'd patients/criminals to stay out of regular prison.",
-		"order": 2,
-		"strokecolor": "#FFC0CB",
-		"fillcolor": "#FFB6C1",
-		"latlngarray": [
-			{"lat": 72.540, "lng": -139.174},
-			{"lat": 72.327, "lng": -140.255},
-			{"lat": 72.184, "lng": -140.145},
-			{"lat": 72.120, "lng": -140.365},
-			{"lat": 72.055, "lng": -140.299},
-			{"lat": 72.035, "lng": -140.167},
-			{"lat": 72.120, "lng": -139.530},
-			{"lat": 72.261, "lng": -138.739},
-			{"lat": 72.401, "lng": -138.849},
-			{"lat": 72.500, "lng": -138.959}
-		]
-	},
-	{
 		"id": 36,
 		"type": "Territory Areas",
 		"title": "Balbini Crime Family",
@@ -694,36 +443,6 @@
 			{"lat": 70.511, "lng": -142.681},
 			{"lat": 70.353, "lng": -142.373},
 			{"lat": 70.234, "lng": -142.681}
-		]
-	},
-	{
-		"id": 43,
-		"type": "Neutral Zones",
-		"title": "PDM",
-		"notes": "Buy most cars here.",
-		"order": 2,
-		"strokecolor": "#FFC0CB",
-		"fillcolor": "#FFC0CB",
-		"latlngarray": [
-			{"lat": 65.733, "lng": -125.169},
-			{"lat": 65.693, "lng": -124.619},
-			{"lat": 65.516, "lng": -124.751},
-			{"lat": 65.502, "lng": -125.355}
-		]
-	},
-	{
-		"id": 42,
-		"type": "Neutral Zones",
-		"title": "Tuner Shop",
-		"notes": "Dont complain if you get robbed here",
-		"order": 2,
-		"strokecolor": "#FFC0CB",
-		"fillcolor": "#FFC0CB",
-		"latlngarray": [
-			{"lat": 56.758, "lng": -123.419},
-			{"lat": 56.758, "lng": -122.683},
-			{"lat": 56.341, "lng": -122.694},
-			{"lat": 56.347, "lng": -123.408}
 		]
 	},
 	{
