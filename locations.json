@@ -1093,5 +1093,21 @@
 			{"lat": 70.543, "lng": -121.239},
 			{"lat": 70.244, "lng": -121.570}
 		]
+	},
+	{
+		"id": 59,
+		"type": "Neutral Zones",
+		"title": "Mr. Kebun's Dojo",
+		"notes": "A place to practice martial arts and swordsmanship.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Mr._Kebun",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 70.284, "lng": -121.916},
+			{"lat": 70.536, "lng": -121.647},
+			{"lat": 70.543, "lng": -121.239},
+			{"lat": 70.244, "lng": -121.570}
+		]
 	}
 ]
