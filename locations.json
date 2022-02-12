@@ -1115,5 +1115,29 @@
 			{"lat": 70.543, "lng": -121.239},
 			{"lat": 70.244, "lng": -121.570}
 		]
+	},
+	{
+		"id": 60,
+		"type": "Territory Areas",
+		"title": "The Mandem Block",
+		"notes": "The Mandem Block, sometimes referred to as The Mandem Compound, is The Mandem's base of operations, where they live and have most of their meetings.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Mandem_Block",
+		"order": 2,
+		"strokecolor": "#FFC0C0",
+		"fillcolor": "#00FF00",
+		"latlngarray": [
+			{"lat": 68.995, "lng": -139.775},
+			{"lat": 68.892, "lng": -140.049},
+			{"lat": 68.793, "lng": -140.126},
+			{"lat": 68.673, "lng": -140.170},
+			{"lat": 68.537, "lng": -139.764},
+			{"lat": 68.781, "lng": -139.247}
+		],
+		"video": {
+			"yt_id": "Ga3RJc8W3Yc",
+			"yt_user": "zerkaa",
+			"start": "0:00",
+			"end": "2:40"
+		}
 	}
 ]
