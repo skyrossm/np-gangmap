@@ -154,6 +154,12 @@ $(function() {
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
+		},
+		{
+			name: 'Restaurants',
+			icon: 'General/wall-breach.png',
+			type: 'General',
+			enabled: true
 		}
 	]);
 	var showingLabels;
