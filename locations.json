@@ -9,9 +9,9 @@
 		"strokecolor": "#551A8B",
 		"fillcolor": "#551A8B",
 		"latlngarray": [
-			{"lat": 62.955, "lng": -125.077},
-			{"lat": 62.426, "lng": -123.737},
-			{"lat": 62.744, "lng": -123.099},
+			{"lat": 62.975, "lng": -125.072},
+			{"lat": 62.447, "lng": -123.687},
+			{"lat": 62.775, "lng": -123.094},
 			{"lat": 62.390, "lng": -122.111},
 			{"lat": 61.820, "lng": -123.143},
 			{"lat": 61.627, "lng": -123.264},
@@ -1454,6 +1454,21 @@
 			{"lat": 69.800, "lng": -116.050},
 			{"lat": 69.616, "lng": -115.226},
 			{"lat": 69.900, "lng": -114.710}
+		]
+	},
+	{
+		"id": 77,
+		"type": "Neutral Zones",
+		"title": "Mega Mall",
+		"notes": "A place to buy repair kits, radios, and body armor.",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 62.975, "lng": -125.072},
+			{"lat": 63.155, "lng": -124.116},
+			{"lat": 62.775, "lng": -123.094},
+			{"lat": 62.447, "lng": -123.687}
 		]
 	}
 ]
