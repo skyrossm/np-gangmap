@@ -1524,5 +1524,21 @@
 			{"lat": 67.935, "lng": -113.238},
 			{"lat": 67.927, "lng": -113.732}
 		]
+	},
+	{
+		"id": 82,
+		"type": "Neutral Zones",
+		"title": "Impound Lot",
+		"notes": "Where cars go when they get impounded.",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 65.422, "lng": -127.069},
+			{"lat": 65.422, "lng": -125.751},
+			{"lat": 65.330, "lng": -125.707},
+			{"lat": 65.298, "lng": -126.004},
+			{"lat": 65.316, "lng": -127.069}
+		]
 	}
 ]
