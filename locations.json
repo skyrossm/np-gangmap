@@ -492,16 +492,16 @@
 		"id": 23,
 		"type": "Neutral Zones",
 		"title": "Ottos Auto",
-		"notes": "Dont complain if you get robbed here",
+		"notes": "Ottos Autos is a second-hand car dealership and mechanic shop created by Otto Delmar. The ownership of the business is split three ways between the Diamond Casino and Resort (Dean Watson and Otto), Leslie Lingberg and Marlo Stanfield. As Otto is also the creator of Diamond Hand Credit the shop is able to offer fast and easy loans to people buying cars who need a little extra cash. With Leslie Lingberg being a 33% shareholder, the business has a partnership with PDM where people looking to sell cars will be directed to Ottos Autos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Ottos_Autos",
 		"order": 2,
-		"strokecolor": "#FFC0CB",
-		"fillcolor": "#FFC0CB",
+		"strokecolor": "#00CAD8",
+		"fillcolor": "#00CAD8",
 		"latlngarray": [
-			{"lat": 66.753, "lng": -116.883},
-			{"lat": 66.745, "lng": -116.587},
-			{"lat": 66.666, "lng": -116.598},
-			{"lat": 66.671, "lng": -116.861}
+			{"lat": 66.673, "lng": -116.869},
+			{"lat": 66.785, "lng": -116.869},
+			{"lat": 66.785, "lng": -116.504},
+			{"lat": 66.673, "lng": -116.504}
 		]
 	},
 	{
