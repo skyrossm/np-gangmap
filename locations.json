@@ -1439,5 +1439,21 @@
 			{"lat": 64.850, "lng": -121.733},
 			{"lat": 64.850, "lng": -122.304}
 		]
+	},
+	{
+		"id": 76,
+		"type": "Territory Areas",
+		"title": "The Casino",
+		"notes": "The Casino is owned and operated by Dean Watson and ran by Chief Executive Officer Cassie Cupcakes. Originally the CEO position was given to Kevin Whipaloo by both Dean Watson & Otto Delmar which he accepted with the terms being he would resign from Burger Shot. However, the next day Kevin ran out of town and has not been seen since. The Casino Heist is the fifth stage progression of bank robberies.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Diamond_Casino_and_Resort",
+		"order": 2,
+		"strokecolor": "#FD5E53",
+		"fillcolor": "#FD5E53",
+		"latlngarray": [
+			{"lat": 70.011, "lng": -115.523},
+			{"lat": 69.800, "lng": -116.050},
+			{"lat": 69.616, "lng": -115.226},
+			{"lat": 69.900, "lng": -114.710}
+		]
 	}
 ]
