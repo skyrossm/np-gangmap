@@ -1423,5 +1423,21 @@
 			{"lat": 70.543, "lng": -121.239},
 			{"lat": 70.244, "lng": -121.570}
 		]
+	},
+	{
+		"id": 75,
+		"type": "Neutral Zones",
+		"title": "Strawberry Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "#705B29",
+		"fillcolor": "#705B29",
+		"latlngarray": [
+			{"lat": 65.060, "lng": -122.260},
+			{"lat": 65.060, "lng": -121.733},
+			{"lat": 64.850, "lng": -121.733},
+			{"lat": 64.850, "lng": -122.304}
+		]
 	}
 ]
