@@ -1485,5 +1485,36 @@
 			{"lat": 78.439, "lng": -97.770},
 			{"lat": 78.597, "lng": -99.231}
 		]
+	},
+	{
+		"id": 79,
+		"type": "Neutral Zones",
+		"title": "San Chianski Mountain Gas Station",
+		"notes": "",
+		"order": 2,
+		"strokecolor": "#705B29",
+		"fillcolor": "#705B29",
+		"latlngarray": [
+			{"lat": 78.297, "lng": -98.128},
+			{"lat": 78.348, "lng": -98.590},
+			{"lat": 78.230, "lng": -98.930},
+			{"lat": 78.169, "lng": -98.458}
+		]
+	},
+	{
+		"id": 80,
+		"type": "Neutral Zones",
+		"title": "Mirror Park Gas Station",
+		"notes": "",
+		"order": 2,
+		"strokecolor": "#705B29",
+		"fillcolor": "#705B29",
+		"latlngarray": [
+			{"lat": 68.427, "lng": -112.926},
+			{"lat": 68.568, "lng": -112.904},
+			{"lat": 68.632, "lng": -112.981},
+			{"lat": 68.604, "lng": -113.453},
+			{"lat": 68.474, "lng": -113.389}
+		]
 	}
 ]
