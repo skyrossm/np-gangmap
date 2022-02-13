@@ -219,53 +219,6 @@
 	},
 	{
 		"id": 11,
-		"type": "Neutral Zones",
-		"title": "SDSO",
-		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
-		"order": 2,
-		"strokecolor": "#FF0000",
-		"fillcolor": "#0000FF",
-		"latlngarray": [
-			{"lat": 78.972, "lng": -106.92},
-			{"lat": 79.035, "lng": -106.305},
-			{"lat": 79.108, "lng": -106.547},
-			{"lat": 79.043, "lng": -107.151}
-		]
-	},
-	{
-		"id": 12,
-		"type": "Territory Areas",
-		"title": "The Lost MC Stab City",
-		"notes": "The Lost MCs clubhouse, situated in Stab City. Smoke on the Water grows weed here",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
-		"order": 2,
-		"strokecolor": "#000000",
-		"fillcolor": "#FFFFFF",
-		"latlngarray": [
-			{"lat": 79.261, "lng": -123.992},
-			{"lat": 78.994, "lng": -125.607},
-			{"lat": 78.827, "lng": -123.003},
-			{"lat": 79.205, "lng": -123.168}
-		]
-	},
-	{
-		"id": 13,
-		"type": "Neutral Zones",
-		"title": "Grandpa",
-		"notes": "Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
-		"order": 2,
-		"strokecolor": "#FFC0CB",
-		"fillcolor": "#FFFFFF",
-		"latlngarray": [
-			{"lat": 81.020, "lng": -134.422},
-			{"lat": 80.984, "lng": -134.477},
-			{"lat": 80.973, "lng": -134.279},
-			{"lat": 81.018, "lng": -134.180}
-		]
-	},
-	{
-		"id": 14,
 		"type": "Territory Areas",
 		"title": "Lost MC Sandy Shores",
 		"notes": "Lost MC lives, breathes and owns Sandy, don't forget otherwise.",
@@ -305,15 +258,7 @@
 			{"lat": 79.596, "lng": -105.905},
 			{"lat": 79.529, "lng": -105.026},
 			{"lat": 79.497, "lng": -104.455},
-			{"lat": 79.262, "lng": -103.092},
-			{"lat": 79.097, "lng": -104.498},
-			{"lat": 78.946, "lng": -105.875},
-			{"lat": 79.032, "lng": -106.249},
-			{"lat": 79.107, "lng": -106.523},
-			{"lat": 79.045, "lng": -107.149},
-			{"lat": 78.959, "lng": -106.930},
-			{"lat": 79.020, "lng": -106.314},
-			{"lat": 78.936, "lng": -105.974},
+			{"lat": 79.255, "lng": -102.994},
 			{"lat": 78.684, "lng": -108.138},
 			{"lat": 78.630, "lng": -109.347},
 			{"lat": 78.731, "lng": -112.203},
@@ -321,6 +266,53 @@
 			{"lat": 78.615, "lng": -120.575},
 			{"lat": 78.787, "lng": -121.739},
 			{"lat": 78.906, "lng": -121.432}
+		]
+	},
+	{
+		"id": 12,
+		"type": "Neutral Zones",
+		"title": "SDSO",
+		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
+		"order": 2,
+		"strokecolor": "#FF0000",
+		"fillcolor": "#0000FF",
+		"latlngarray": [
+			{"lat": 78.972, "lng": -106.92},
+			{"lat": 79.035, "lng": -106.305},
+			{"lat": 79.108, "lng": -106.547},
+			{"lat": 79.043, "lng": -107.151}
+		]
+	},
+	{
+		"id": 13,
+		"type": "Territory Areas",
+		"title": "The Lost MC Stab City",
+		"notes": "The Lost MCs clubhouse, situated in Stab City. Smoke on the Water grows weed here",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
+		"order": 2,
+		"strokecolor": "#000000",
+		"fillcolor": "#FFFFFF",
+		"latlngarray": [
+			{"lat": 79.261, "lng": -123.992},
+			{"lat": 78.994, "lng": -125.607},
+			{"lat": 78.827, "lng": -123.003},
+			{"lat": 79.205, "lng": -123.168}
+		]
+	},
+	{
+		"id": 14,
+		"type": "Neutral Zones",
+		"title": "Grandpa",
+		"notes": "Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#FFFFFF",
+		"latlngarray": [
+			{"lat": 81.020, "lng": -134.422},
+			{"lat": 80.984, "lng": -134.477},
+			{"lat": 80.973, "lng": -134.279},
+			{"lat": 81.018, "lng": -134.180}
 		]
 	},
 	{
