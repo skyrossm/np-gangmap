@@ -9,9 +9,9 @@
 		"strokecolor": "#551A8B",
 		"fillcolor": "#551A8B",
 		"latlngarray": [
-			{"lat": 62.955, "lng": -125.077},
-			{"lat": 62.426, "lng": -123.737},
-			{"lat": 62.744, "lng": -123.099},
+			{"lat": 62.975, "lng": -125.072},
+			{"lat": 62.447, "lng": -123.687},
+			{"lat": 62.775, "lng": -123.094},
 			{"lat": 62.390, "lng": -122.111},
 			{"lat": 61.820, "lng": -123.143},
 			{"lat": 61.627, "lng": -123.264},
@@ -26,6 +26,7 @@
 		"type": "Territory Areas",
 		"title": "CLean Manor",
 		"notes": "CLean Manor is owned by Lang Buddha and co-owned by the Cleanbois members. The Manor should be a neutral ground for all gang-related affairs.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Clean_Manor",
 		"order": 2,
 		"strokecolor": "#551A8B",
 		"fillcolor": "#551A8B",
@@ -218,56 +219,10 @@
 	},
 	{
 		"id": 11,
-		"type": "Neutral Zones",
-		"title": "SDSO",
-		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
-		"order": 2,
-		"strokecolor": "#FF0000",
-		"fillcolor": "#0000FF",
-		"latlngarray": [
-			{"lat": 78.972, "lng": -106.92},
-			{"lat": 79.035, "lng": -106.305},
-			{"lat": 79.108, "lng": -106.547},
-			{"lat": 79.043, "lng": -107.151}
-		]
-	},
-	{
-		"id": 12,
-		"type": "Territory Areas",
-		"title": "The Lost MC Stab City",
-		"notes": "The Lost MCs clubhouse, situated in Stab City. Smoke on the Water grows weed here",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
-		"order": 2,
-		"strokecolor": "#000000",
-		"fillcolor": "#FFFFFF",
-		"latlngarray": [
-			{"lat": 79.261, "lng": -123.992},
-			{"lat": 78.994, "lng": -125.607},
-			{"lat": 78.827, "lng": -123.003},
-			{"lat": 79.205, "lng": -123.168}
-		]
-	},
-	{
-		"id": 13,
-		"type": "Neutral Zones",
-		"title": "Grandpa",
-		"notes": "Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
-		"order": 2,
-		"strokecolor": "#FFC0CB",
-		"fillcolor": "#FFFFFF",
-		"latlngarray": [
-			{"lat": 81.020, "lng": -134.422},
-			{"lat": 80.984, "lng": -134.477},
-			{"lat": 80.973, "lng": -134.279},
-			{"lat": 81.018, "lng": -134.180}
-		]
-	},
-	{
-		"id": 14,
 		"type": "Territory Areas",
 		"title": "Lost MC Sandy Shores",
 		"notes": "Lost MC lives, breathes and owns Sandy, don't forget otherwise.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
 		"order": 2,
 		"strokecolor": "#000000",
 		"fillcolor": "#FFFFFF",
@@ -303,15 +258,7 @@
 			{"lat": 79.596, "lng": -105.905},
 			{"lat": 79.529, "lng": -105.026},
 			{"lat": 79.497, "lng": -104.455},
-			{"lat": 79.262, "lng": -103.092},
-			{"lat": 79.097, "lng": -104.498},
-			{"lat": 78.946, "lng": -105.875},
-			{"lat": 79.032, "lng": -106.249},
-			{"lat": 79.107, "lng": -106.523},
-			{"lat": 79.045, "lng": -107.149},
-			{"lat": 78.959, "lng": -106.930},
-			{"lat": 79.020, "lng": -106.314},
-			{"lat": 78.936, "lng": -105.974},
+			{"lat": 79.255, "lng": -102.994},
 			{"lat": 78.684, "lng": -108.138},
 			{"lat": 78.630, "lng": -109.347},
 			{"lat": 78.731, "lng": -112.203},
@@ -322,10 +269,58 @@
 		]
 	},
 	{
+		"id": 12,
+		"type": "Neutral Zones",
+		"title": "SDSO",
+		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
+		"order": 2,
+		"strokecolor": "#FF0000",
+		"fillcolor": "#0000FF",
+		"latlngarray": [
+			{"lat": 78.972, "lng": -106.92},
+			{"lat": 79.035, "lng": -106.305},
+			{"lat": 79.108, "lng": -106.547},
+			{"lat": 79.043, "lng": -107.151}
+		]
+	},
+	{
+		"id": 13,
+		"type": "Territory Areas",
+		"title": "The Lost MC Stab City",
+		"notes": "The Lost MCs clubhouse, situated in Stab City. Smoke on the Water grows weed here",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
+		"order": 2,
+		"strokecolor": "#000000",
+		"fillcolor": "#FFFFFF",
+		"latlngarray": [
+			{"lat": 79.261, "lng": -123.992},
+			{"lat": 78.994, "lng": -125.607},
+			{"lat": 78.827, "lng": -123.003},
+			{"lat": 79.205, "lng": -123.168}
+		]
+	},
+	{
+		"id": 14,
+		"type": "Neutral Zones",
+		"title": "Grandpa",
+		"notes": "Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
+		"order": 2,
+		"strokecolor": "#FFC0CB",
+		"fillcolor": "#FFFFFF",
+		"latlngarray": [
+			{"lat": 81.020, "lng": -134.422},
+			{"lat": 80.984, "lng": -134.477},
+			{"lat": 80.973, "lng": -134.279},
+			{"lat": 81.018, "lng": -134.180}
+		]
+	},
+	{
 		"id": 15,
 		"type": "Neutral Zones",
 		"title": "PBSO",
 		"notes": "Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Paleto_Bay_Sheriff%27s_Office",
 		"order": 2,
 		"strokecolor": "#FF0000",
 		"fillcolor": "#0000FF",
@@ -387,6 +382,7 @@
 		"type": "Neutral Zones",
 		"title": "Deans World",
 		"notes": "Where the farmers market ends up at night, Deans world is also where you can buy stuff, hold concerts on the main stage and ride a rollercoaster.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Dean_World",
 		"order": 2,
 		"strokecolor": "#0080ff",
 		"fillcolor": "#0080ff",
@@ -401,7 +397,8 @@
 		"id": 20,
 		"type": "Neutral Zones",
 		"title": "Farmers Market",
-		"notes": "Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff.",
+		"notes": "Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff. It is operational only during the day from 8am to 7pm. At night, the vendors are directed to operate at the Night Market of Dean World in Los Santos.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Andi_Jones_Farmers_Market",
 		"order": 2,
 		"strokecolor": "#000000",
 		"fillcolor": "#000000",
@@ -472,6 +469,7 @@
 		"type": "Territory Areas",
 		"title": "Balbini Crime Family",
 		"notes": "The Balbani Crime Family, (BCF) is an organized crime syndicate that operates within the City of Los Santos.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Balbani_Crime_Family",
 		"order": 2,
 		"strokecolor": "#FFA500",
 		"fillcolor": "#FFA500",
@@ -486,22 +484,24 @@
 		"id": 23,
 		"type": "Neutral Zones",
 		"title": "Ottos Auto",
-		"notes": "Dont complain if you get robbed here",
+		"notes": "Ottos Autos is a second-hand car dealership and mechanic shop created by Otto Delmar. The ownership of the business is split three ways between the Diamond Casino and Resort (Dean Watson and Otto), Leslie Lingberg and Marlo Stanfield. As Otto is also the creator of Diamond Hand Credit the shop is able to offer fast and easy loans to people buying cars who need a little extra cash. With Leslie Lingberg being a 33% shareholder, the business has a partnership with PDM where people looking to sell cars will be directed to Ottos Autos.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Ottos_Autos",
 		"order": 2,
-		"strokecolor": "#FFC0CB",
-		"fillcolor": "#FFC0CB",
+		"strokecolor": "#00CAD8",
+		"fillcolor": "#00CAD8",
 		"latlngarray": [
-			{"lat": 66.753, "lng": -116.883},
-			{"lat": 66.745, "lng": -116.587},
-			{"lat": 66.666, "lng": -116.598},
-			{"lat": 66.671, "lng": -116.861}
+			{"lat": 66.673, "lng": -116.869},
+			{"lat": 66.785, "lng": -116.869},
+			{"lat": 66.785, "lng": -116.504},
+			{"lat": 66.673, "lng": -116.504}
 		]
 	},
 	{
 		"id": 24,
 		"type": "Neutral Zones",
 		"title": "Hayes",
-		"notes": "Dont complain if you get robbed here",
+		"notes": "The repair shop was previously owned by Igor Skovacic. Ownership has since been passed on to Shane Powers.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Hayes_Auto_Body_Repairs",
 		"order": 2,
 		"strokecolor": "#FFC0CB",
 		"fillcolor": "#FFC0CB",
@@ -516,7 +516,8 @@
 		"id": 25,
 		"type": "Neutral Zones",
 		"title": "Iron Hog Repairs",
-		"notes": "Specializing in motorcycles, Iron Hog is a mechanic shop located in Sandy Shores and is protected by the Lost MC",
+		"notes": "Iron Hog is owned and run by Lucille Hellman, and originally operated out of the garage at the Lost MC compound in Stab City, when it was founded in 2020. In 2021, Iron Hog was relocated to its own building at the Sandy Shores Airfield, and made its grand opening on September 11th, 2021. The shop specializes in motorcycles and is protected by the Lost MC",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Iron_Hog_Repairs",
 		"order": 2,
 		"strokecolor": "#FFC0CB",
 		"fillcolor": "#FFC0CB",
@@ -547,6 +548,7 @@
 		"type": "Neutral Zones",
 		"title": "Vultur Lé Culturé ",
 		"notes": "Vultur Lé Culturé, also known simply as the Gallery, is an art gallery and auction house founded by Ramee El-Rahman",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Vultur_L%C3%A9_Cultur%C3%A9",
 		"order": 2,
 		"strokecolor": "#FFC0CB",
 		"fillcolor": "#FFC0CB",
@@ -562,6 +564,7 @@
 		"type": "Territory Areas",
 		"title": "Aztecas",
 		"notes": "Aztecas reborn under the leadership of Tom Ryan.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Aztecas",
 		"order": 2,
 		"strokecolor": "#0080FF",
 		"fillcolor": "#0080FF",
@@ -578,7 +581,8 @@
 		"id": 29,
 		"type": "Neutral Zones",
 		"title": "Harmony",
-		"notes": "Come get your cars fixed here",
+		"notes": "Harmony Repairs Garage or Harmony to most, is a well-known repair shop owned by Jordan Walker in Northern Blaine County.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Harmony_Repairs_Garage",
 		"order": 2,
 		"strokecolor": "#FFC0CB",
 		"fillcolor": "#FFFFFF",
@@ -592,8 +596,8 @@
 	{
 		"id": 30,
 		"type": "Territory Areas",
-		"title": "GSF",
-		"notes": "Ay you know we always down to chill.",
+		"title": "The Grove Street Families",
+		"notes": "Formerly known as the Grove Street Families (GSF), now known as The Families, the gang is known for the color Green. The Families started with OG members Dexx Martin, Chef, Ghost Storm & Tyrese Tyrone. They all lived in the area of Forum Drive, The Families are made up four separate gangs consisting of Forum Drive Families, Carson Avenue Families, Davis Neighborhood Families, and Chamberlain Gangster Families.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/The_Families",
 		"order": 2,
 		"strokecolor": "#008000",
@@ -689,7 +693,7 @@
 		]
 	},
 	{
-		"id": 36,
+		"id": 35,
 		"type": "Territory Areas",
 		"title": "The Mandem Block",
 		"notes": "The Mandem Block, sometimes referred to as The Mandem Compound, is The Mandem's base of operations, where they live and have most of their meetings.",
@@ -1410,6 +1414,131 @@
 			{"lat": 70.536, "lng": -121.647},
 			{"lat": 70.543, "lng": -121.239},
 			{"lat": 70.244, "lng": -121.570}
+		]
+	},
+	{
+		"id": 75,
+		"type": "Neutral Zones",
+		"title": "Strawberry Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "#705B29",
+		"fillcolor": "#705B29",
+		"latlngarray": [
+			{"lat": 65.060, "lng": -122.260},
+			{"lat": 65.060, "lng": -121.733},
+			{"lat": 64.850, "lng": -121.733},
+			{"lat": 64.850, "lng": -122.304}
+		]
+	},
+	{
+		"id": 76,
+		"type": "Territory Areas",
+		"title": "The Casino",
+		"notes": "The Casino is owned and operated by Dean Watson and ran by Chief Executive Officer Cassie Cupcakes. Originally the CEO position was given to Kevin Whipaloo by both Dean Watson & Otto Delmar which he accepted with the terms being he would resign from Burger Shot. However, the next day Kevin ran out of town and has not been seen since. The Casino Heist is the fifth stage progression of bank robberies.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Diamond_Casino_and_Resort",
+		"order": 2,
+		"strokecolor": "#FD5E53",
+		"fillcolor": "#FD5E53",
+		"latlngarray": [
+			{"lat": 70.011, "lng": -115.523},
+			{"lat": 69.800, "lng": -116.050},
+			{"lat": 69.616, "lng": -115.226},
+			{"lat": 69.900, "lng": -114.710}
+		]
+	},
+	{
+		"id": 77,
+		"type": "Neutral Zones",
+		"title": "Mega Mall",
+		"notes": "A place to buy repair kits, radios, and body armor.",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 62.975, "lng": -125.072},
+			{"lat": 63.155, "lng": -124.116},
+			{"lat": 62.775, "lng": -123.094},
+			{"lat": 62.447, "lng": -123.687}
+		]
+	},
+	{
+		"id": 78,
+		"type": "Neutral Zones",
+		"title": "You Tool",
+		"notes": "A place to buy repair kits, radios, and body armor.",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 78.816, "lng": -98.693},
+			{"lat": 78.739, "lng": -97.155},
+			{"lat": 78.439, "lng": -97.770},
+			{"lat": 78.597, "lng": -99.231}
+		]
+	},
+	{
+		"id": 79,
+		"type": "Neutral Zones",
+		"title": "San Chianski Mountain Gas Station",
+		"notes": "",
+		"order": 2,
+		"strokecolor": "#705B29",
+		"fillcolor": "#705B29",
+		"latlngarray": [
+			{"lat": 78.297, "lng": -98.128},
+			{"lat": 78.348, "lng": -98.590},
+			{"lat": 78.230, "lng": -98.930},
+			{"lat": 78.169, "lng": -98.458}
+		]
+	},
+	{
+		"id": 80,
+		"type": "Neutral Zones",
+		"title": "Mirror Park Gas Station",
+		"notes": "",
+		"order": 2,
+		"strokecolor": "#705B29",
+		"fillcolor": "#705B29",
+		"latlngarray": [
+			{"lat": 68.427, "lng": -112.926},
+			{"lat": 68.568, "lng": -112.904},
+			{"lat": 68.632, "lng": -112.981},
+			{"lat": 68.604, "lng": -113.453},
+			{"lat": 68.474, "lng": -113.389}
+		]
+	},
+	{
+		"id": 81,
+		"type": "Neutral Zones",
+		"title": "Digital Den",
+		"notes": "The Digital Den is an electronics business owned by Jacob Harth and Erin Cox",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Digital_Den",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 68.112, "lng": -113.589},
+			{"lat": 68.075, "lng": -113.139},
+			{"lat": 67.935, "lng": -113.238},
+			{"lat": 67.927, "lng": -113.732}
+		]
+	},
+	{
+		"id": 82,
+		"type": "Neutral Zones",
+		"title": "Impound Lot",
+		"notes": "Where cars go when they get impounded.",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 65.422, "lng": -127.069},
+			{"lat": 65.422, "lng": -125.751},
+			{"lat": 65.330, "lng": -125.707},
+			{"lat": 65.298, "lng": -126.004},
+			{"lat": 65.316, "lng": -127.069}
 		]
 	}
 ]
