@@ -1470,5 +1470,20 @@
 			{"lat": 62.775, "lng": -123.094},
 			{"lat": 62.447, "lng": -123.687}
 		]
+	},
+	{
+		"id": 78,
+		"type": "Neutral Zones",
+		"title": "You Tool",
+		"notes": "A place to buy repair kits, radios, and body armor.",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 78.816, "lng": -98.693},
+			{"lat": 78.739, "lng": -97.155},
+			{"lat": 78.439, "lng": -97.770},
+			{"lat": 78.597, "lng": -99.231}
+		]
 	}
 ]
