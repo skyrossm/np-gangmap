@@ -1516,5 +1516,21 @@
 			{"lat": 68.604, "lng": -113.453},
 			{"lat": 68.474, "lng": -113.389}
 		]
+	},
+	{
+		"id": 81,
+		"type": "Neutral Zones",
+		"title": "Digital Den",
+		"notes": "The Digital Den is an electronics business owned by Jacob Harth and Erin Cox",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Digital_Den",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 68.112, "lng": -113.589},
+			{"lat": 68.075, "lng": -113.139},
+			{"lat": 67.935, "lng": -113.238},
+			{"lat": 67.927, "lng": -113.732}
+		]
 	}
 ]
