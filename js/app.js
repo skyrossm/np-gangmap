@@ -32,18 +32,18 @@ $(function() {
 	// 		$('body').addClass('tour');
 	// 		$('#map').css({position:'relative'});
 	// 		window.isTourMode = true;
-	// 		var x = locations.findWhere({ type: 'Nuclear Waste' }); 
+	// 		var x = locations.findWhere({ type: 'Nuclear Waste' });
 	// 		Vent.trigger('location:clicked', x, true);
 	// 	}
 	// 	else {
-	// 		$('body').removeClass('tour');	
+	// 		$('body').removeClass('tour');
 	// 		$('#map').css({position:'absolute'});
 	// 		window.isTourMode = false;
 	// 	}
 	// });
-	
+
 	var currentMarker;
-	
+
 	var assetsUrl = function() {
 		return 'https://skyrossm.github.io/np-gangmap/';
 	};
@@ -62,7 +62,7 @@ $(function() {
 	var LocationModel = Backbone.Model.extend({
 		initialize: function() {
 			var polyCoords = this.get('latlngarray');
-			
+
 			var marker = new google.maps.Polygon({
 				paths: polyCoords,
 				strokeColor: this.get('strokecolor'),
@@ -71,10 +71,10 @@ $(function() {
 				fillColor: this.get('fillcolor'),
 				fillOpacity: 0.35
 			});
-			
+
 			var bounds = new google.maps.LatLngBounds()
 			polyCoords.forEach(function(element,index){bounds.extend(element)})
-			
+
 			var mapLabel = new MapLabel({
 				position: bounds.getCenter(),
 				text: this.get('title'),
@@ -83,11 +83,11 @@ $(function() {
 				fontColor: this.get('fillcolor'),
 				zIndex: 10000
 			});
-		
+
 			_.bindAll(this, 'markerClicked');
 			google.maps.event.addListener(marker, 'click', this.markerClicked);
 			this.set({ marker: marker, label: mapLabel });
-			
+
 		},
 
 		markerClicked: function() {
@@ -95,7 +95,7 @@ $(function() {
 		},
 
 		removeHighlight: function() {
-			
+
 		},
 
 		highlightMarker: function() {
@@ -182,7 +182,7 @@ $(function() {
 				showLocations = $e.is(':checked'),
 				models = locations.where({ type: type });
 				allLocations = locations.filter(function(loc) { return loc.get('marker').visible !== false });
-				
+
 			if(type == "labels" && showLocations){
 				Vent.trigger('labels:visible', allLocations);
 				showingLabels = true;
@@ -190,7 +190,7 @@ $(function() {
 				Vent.trigger('labels:invisible', allLocations);
 				showingLabels = false;
 			}
-			
+
 			if (showLocations) {
 				Vent.trigger('locations:visible', models);
 				if(showingLabels) Vent.trigger('labels:visible', models);
@@ -272,7 +272,7 @@ $(function() {
 				zoom: 5,
 				disableDefaultUI: true,
 				mapTypeId: this.mapType,
-				backgroundColor:  'hsla(0, 0%, 0%, 0)'
+				backgroundColor: 'hsla(0, 0%, 0%, 0)'
 			};
 
 			_.bindAll(this, 'getTileImage', 'updateMapBackground');
@@ -289,27 +289,27 @@ $(function() {
 		render: function() {
 
 			// Function to update coordination info windows
-		    function updateCoordinationWindow(markerobject){
-		        // Create new info window
+			function updateCoordinationWindow(markerobject){
+				// Create new info window
 				var infoWindow = new google.maps.InfoWindow;
 
 				// onClick listener
 				google.maps.event.addListener(markerobject, 'click', function(evt){
 					// Set content
-				    infoWindow.setOptions({
-				        content: '<p>' + 'Current Lat: ' + evt.latLng.lat().toFixed(3) + '<br>' + 'Current Lng: ' + evt.latLng.lng().toFixed(3) + '<br>' + 'Zoom Level: ' + map.getZoom() + '</p>'
-				    });
+					infoWindow.setOptions({
+						content: '<p>' + 'Current Lat: ' + evt.latLng.lat().toFixed(3) + '<br>' + 'Current Lng: ' + evt.latLng.lng().toFixed(3) + '<br>' + 'Zoom Level: ' + map.getZoom() + '</p>'
+					});
 
-				    // Open the info window
-				    infoWindow.open(map, markerobject);
+					// Open the info window
+					infoWindow.open(map, markerobject);
 				});
 
 				// onDrag listener
 				google.maps.event.addListener(markerobject, 'drag', function(evt){
 					// Set content
-				    infoWindow.setOptions({
-				        content: '<p>' + 'Current Lat: ' + evt.latLng.lat().toFixed(3) + '<br>' + 'Current Lng: ' + evt.latLng.lng().toFixed(3) + '<br>' + 'Zoom Level: ' + map.getZoom() + '</p>'
-				    });
+					infoWindow.setOptions({
+						content: '<p>' + 'Current Lat: ' + evt.latLng.lat().toFixed(3) + '<br>' + 'Current Lng: ' + evt.latLng.lng().toFixed(3) + '<br>' + 'Zoom Level: ' + map.getZoom() + '</p>'
+					});
 				});
 			}
 
@@ -409,7 +409,7 @@ $(function() {
 				marker.setVisible(true);
 			}, this);
 		},
-		
+
 		showLabels: function(locations) {
 			_.each(locations, function(location) {
 				var label = location.get('label');
@@ -425,7 +425,7 @@ $(function() {
 				location.get('marker').setVisible(false);
 			});
 		},
-		
+
 		hideLabels: function(locations) {
 			_.each(locations, function(location) {
 				location.get('label').set('fontSize', 0);
@@ -455,15 +455,15 @@ $(function() {
 					content: this.popupTemplate(location.toJSON()),
 				});
 
-			    infoWindow.setOptions({
-			        maxHeight: 400
-			    });
+				infoWindow.setOptions({
+					maxHeight: 400
+				});
 
 				if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-				    infoWindow.setOptions({
-				        maxWidth: 180,
-			        	maxHeight: 300
-				    });
+					infoWindow.setOptions({
+						maxWidth: 180,
+						maxHeight: 300
+					});
 				}
 				var bounds = new google.maps.LatLngBounds()
 				location.get('marker').getPath().forEach(function(element,index){bounds.extend(element)})
@@ -498,15 +498,15 @@ $(function() {
 		categoriesView.render();
 
 		categories.chain()
-				  .filter(function(c) { return c.get('enabled'); })
-				  .map(function(c) { return c.get('name'); })
-				  .map(function(name) {
-				  	return locations.where({ type: name })
-				  })
-				  .each(function(locs) {
-				  	Vent.trigger('locations:visible', locs);
-				  })
-				  .value();
+		.filter(function(c) { return c.get('enabled'); })
+		.map(function(c) { return c.get('name'); })
+		.map(function(name) {
+			return locations.where({ type: name })
+		})
+		.each(function(locs) {
+			Vent.trigger('locations:visible', locs);
+		})
+		.value();
 	});
 
 	$('#tour-prev, #tour-next').click(function(e) {
@@ -515,7 +515,7 @@ $(function() {
 		var x = locations.findWhere({ title: navTo });
 		if (x) Vent.trigger('location:clicked', x, true);
 	});
-	
+
 });
 	function printArray() {
 		var msg = "[\n";
@@ -526,76 +526,76 @@ $(function() {
 		msg += "]";
 		console.log(msg);
 	}
-	
+
 	function toggleRuler() {
 		addruler(window.map)
 	}
 
 function addruler(map) {
- 
-    ruler1 = new google.maps.Marker({
-        position: map.getCenter() ,
-        map: map,
-        draggable: true
-    });
- 
-    ruler2 = new google.maps.Marker({
-        position: map.getCenter() ,
-        map: map,
-        draggable: true
-    });
- 
-    var ruler1label = new Label({ map: map });
-    var ruler2label = new Label({ map: map });
-    ruler1label.bindTo('position', ruler1, 'position');
-    ruler2label.bindTo('position', ruler2, 'position');
- 
-    rulerpoly = new google.maps.Polyline({
-        path: [ruler1.position, ruler2.position] ,
-        strokeColor: "#FFFF00",
-        strokeOpacity: .7,
-        strokeWeight: 8
-    });
-    rulerpoly.setMap(map);
- 
-    ruler1label.set('text',"0m");
-    ruler2label.set('text',"0m");
- 
-    google.maps.event.addListener(ruler1, 'drag', function() {
-        rulerpoly.setPath([ruler1.getPosition(), ruler2.getPosition()]);
-        ruler1label.set('text',distance( ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
-        ruler2label.set('text',distance( ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
-    });
- 
-    google.maps.event.addListener(ruler2, 'drag', function() {
-        rulerpoly.setPath([ruler1.getPosition(), ruler2.getPosition()]);
-        ruler1label.set('text',distance( ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
-        ruler2label.set('text',distance( ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
-    });
-	
+
+	ruler1 = new google.maps.Marker({
+		position: map.getCenter() ,
+		map: map,
+		draggable: true
+	});
+
+	ruler2 = new google.maps.Marker({
+		position: map.getCenter() ,
+		map: map,
+		draggable: true
+	});
+
+	var ruler1label = new Label({ map: map });
+	var ruler2label = new Label({ map: map });
+	ruler1label.bindTo('position', ruler1, 'position');
+	ruler2label.bindTo('position', ruler2, 'position');
+
+	rulerpoly = new google.maps.Polyline({
+		path: [ruler1.position, ruler2.position] ,
+		strokeColor: "#FFFF00",
+		strokeOpacity: .7,
+		strokeWeight: 8
+	});
+	rulerpoly.setMap(map);
+
+	ruler1label.set('text',"0m");
+	ruler2label.set('text',"0m");
+
+	google.maps.event.addListener(ruler1, 'drag', function() {
+		rulerpoly.setPath([ruler1.getPosition(), ruler2.getPosition()]);
+		ruler1label.set('text',distance( ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
+		ruler2label.set('text',distance( ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
+	});
+
+	google.maps.event.addListener(ruler2, 'drag', function() {
+		rulerpoly.setPath([ruler1.getPosition(), ruler2.getPosition()]);
+		ruler1label.set('text',distance( ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
+		ruler2label.set('text',distance( ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
+	});
+
 	ruler1.setVisible(true);
 	ruler2.setVisible(true);
 	rulerpoly.setVisible(true);
 }
 
 function distance(lat1,lon1,lat2,lon2) {
-    var um = "km"; // km | ft (choose the constant)
-    var R = 6371;
-    if (um=="ft") {
-        R = 20924640; // ft
-    }
-    var dLat = (lat2-lat1) * Math.PI / 180;
-    var dLon = (lon2-lon1) * Math.PI / 180; 
-    var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-        Math.cos(lat1 * Math.PI / 180 ) * Math.cos(lat2 * Math.PI / 180 ) * 
-        Math.sin(dLon/2) * Math.sin(dLon/2); 
-    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a)); 
-    var d = (R * c) * 4;
-    if(um=="km") {
-        if (d > 1000) return Math.round(d/1000)+"km";
-        else if (d > 1) return Math.round(d)+"m";
-    }
-    return d;
+	var um = "km"; // km | ft (choose the constant)
+	var R = 6371;
+	if (um=="ft") {
+		R = 20924640; // ft
+	}
+	var dLat = (lat2-lat1) * Math.PI / 180;
+	var dLon = (lon2-lon1) * Math.PI / 180;
+	var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+		Math.cos(lat1 * Math.PI / 180 ) * Math.cos(lat2 * Math.PI / 180 ) *
+		Math.sin(dLon/2) * Math.sin(dLon/2);
+	var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+	var d = (R * c) * 4;
+	if(um=="km") {
+		if (d > 1000) return Math.round(d/1000)+"km";
+		else if (d > 1) return Math.round(d)+"m";
+	}
+	return d;
 }
 
 
@@ -608,14 +608,14 @@ function Label(opt_options) {
 
 	// Label specific
 	var span = this.span_ = document.createElement('span');
-	span.style.cssText = 'position: relative; left: 0%; top: -8px; ' +
-			  'white-space: nowrap; border: 0px; font-family:arial; font-weight:bold;' +
-			  'padding: 2px; background-color: #ddd; '+
-				'opacity: 1; '+
-				'filter: alpha(opacity=75); '+
-				'-ms-filter: "alpha(opacity=75)"; '+
-				'-khtml-opacity: 1; '+
-				'z-index:1000';
+	span.style.cssText = 'position: relative; left: 0%; top: -8px; '
+		+ 'white-space: nowrap; border: 0px; font-family:arial; font-weight:bold;'
+		+ 'padding: 2px; background-color: #ddd; '
+		+ 'opacity: 1; '
+		+ 'filter: alpha(opacity=75); '
+		+ '-ms-filter: "alpha(opacity=75)"; '
+		+ '-khtml-opacity: 1; '
+		+ 'z-index:1000';
 
 	var div = this.div_ = document.createElement('div');
 	div.appendChild(span);
@@ -628,7 +628,7 @@ Label.prototype.onAdd = function() {
 	var pane = this.getPanes().overlayLayer;
 	pane.appendChild(this.div_);
 
-	
+
 	// Ensures the label is redrawn if the text or position is changed.
 	var me = this;
 	this.listeners_ = [
@@ -637,7 +637,7 @@ Label.prototype.onAdd = function() {
 		google.maps.event.addListener(this, 'text_changed',
 		function() { me.draw(); })
 	];
-	
+
 };
 
 // Implement onRemove
