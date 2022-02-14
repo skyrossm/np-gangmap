@@ -1687,5 +1687,22 @@
 			{"lat": 66.638, "lng": -127.493},
 			{"lat": 66.691, "lng": -128.164}
 		]
+	},
+	{
+		"id": 86,
+		"type": "Restaurants",
+		"title": "Up n Atom",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "#E759E1",
+		"fillcolor": "#E759E1",
+		"latlngarray": [
+			{"lat": 70.694, "lng": -123.979},
+			{"lat": 70.720, "lng": -123.858},
+			{"lat": 70.690, "lng": -123.610},
+			{"lat": 70.523, "lng": -123.781},
+			{"lat": 70.559, "lng": -124.122}
+		]
 	}
 ]
