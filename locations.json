@@ -1293,7 +1293,7 @@
 	},
 	{
 		"id": 66,
-		"type": "Neutral Zones",
+		"type": "Heists",
 		"title": "Vangelico Jewelry Store",
 		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
 		"order": 2,
@@ -1327,7 +1327,7 @@
 	},
 	{
 		"id": 68,
-		"type": "Neutral Zones",
+		"type": "Heists",
 		"title": "The City Vault",
 		"notes": "The City Vault (Pacific Standard Public Deposit Bank) is the third stage and fourth progression of bank robberies.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
@@ -1359,7 +1359,7 @@
 	},
 	{
 		"id": 70,
-		"type": "Neutral Zones",
+		"type": "Heists",
 		"title": "Paleto Bank",
 		"notes": "Paleto Bank (Blaine County Savings Bank) is the second stage progression of bank robberies.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
@@ -1462,13 +1462,13 @@
 	},
 	{
 		"id": 76,
-		"type": "Territory Areas",
+		"type": "Heists",
 		"title": "The Casino",
 		"notes": "The Casino is owned and operated by Dean Watson and ran by Chief Executive Officer Cassie Cupcakes. Originally the CEO position was given to Kevin Whipaloo by both Dean Watson & Otto Delmar which he accepted with the terms being he would resign from Burger Shot. However, the next day Kevin ran out of town and has not been seen since. The Casino Heist is the fifth stage progression of bank robberies.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Diamond_Casino_and_Resort",
 		"order": 2,
-		"strokecolor": "#FD5E53",
-		"fillcolor": "#FD5E53",
+		"strokecolor": "#FFD700",
+		"fillcolor": "#FFD700",
 		"latlngarray": [
 			{"lat": 70.011, "lng": -115.523},
 			{"lat": 69.800, "lng": -116.050},
