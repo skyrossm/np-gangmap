@@ -702,6 +702,33 @@
 		]
 	},
 	{
+		"id": 3501,
+		"type": "Territory Areas",
+		"title": "The Mandem",
+		"notes": "The Mandem is a British gang that currently operates in Los Santos. They engage in criminal activities such as boosting, street racing, kidnapping, drug trafficking, gang wars and robbery. On August 19, 2021, Tommy was officially appointed as the leader of The Mandem.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/The_Mandem",
+		"order": 2,
+		"strokecolor": "#882222",
+		"fillcolor": "#228822",
+		"latlngarray": [
+			{"lat": 67.696, "lng": -140.670},
+			{"lat": 67.895, "lng": -140.077},
+			{"lat": 68.179, "lng": -138.879},
+			{"lat": 68.333, "lng": -138.209},
+			{"lat": 68.781, "lng": -139.247},
+			{"lat": 68.995, "lng": -139.775},
+			{"lat": 68.892, "lng": -140.049},
+			{"lat": 68.793, "lng": -140.126},
+			{"lat": 68.673, "lng": -140.170},
+			{"lat": 68.471, "lng": -140.571},
+			{"lat": 68.366, "lng": -140.989},
+			{"lat": 68.199, "lng": -141.318},
+			{"lat": 68.085, "lng": -141.538},
+			{"lat": 67.953, "lng": -141.472},
+			{"lat": 67.862, "lng": -141.263}
+		]
+	},
+	{
 		"id": 35,
 		"type": "Territory Areas",
 		"title": "The Mandem Block",
