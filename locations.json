@@ -1585,5 +1585,37 @@
 			{"lat": 68.269, "lng": -114.365},
 			{"lat": 68.387, "lng": -114.727}
 		]
+	},
+	{
+		"id": 84,
+		"type": "Territory Areas",
+		"title": "ZooMafia",
+		"notes": "New Mafia in Los Santos goes by the name ZooMafia. Italian based, where family means everything.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/ZooMafia",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 71.045, "lng": -125.590},
+			{"lat": 71.034, "lng": -125.436},
+			{"lat": 70.995, "lng": -125.304},
+			{"lat": 70.966, "lng": -125.106},
+			{"lat": 70.952, "lng": -124.908},
+			{"lat": 70.905, "lng": -124.601},
+			{"lat": 70.854, "lng": -124.392},
+			{"lat": 70.793, "lng": -124.008},
+			{"lat": 70.575, "lng": -124.282},
+			{"lat": 70.590, "lng": -124.579},
+			{"lat": 70.615, "lng": -124.821},
+			{"lat": 70.659, "lng": -125.260},
+			{"lat": 70.717, "lng": -125.644},
+			{"lat": 70.753, "lng": -125.809},
+			{"lat": 70.782, "lng": -125.875},
+			{"lat": 70.833, "lng": -125.919},
+			{"lat": 70.869, "lng": -125.908},
+			{"lat": 70.977, "lng": -125.743},
+			{"lat": 71.009, "lng": -125.721},
+			{"lat": 71.030, "lng": -125.666}
+		]
 	}
 ]
