@@ -94,10 +94,10 @@
 							<div class="youtubewrapper">
 								<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
 							</div>
-							{{#if video.yt_user}}
+							{{#if video.yt_user_link}}
 								<p>
-									<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
-										Video by {{video.yt_user}}
+									<a href="//www.youtube.com/{{video.yt_user_link}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
+										Video by {{video.yt_user_display}}
 									</a>
 								</p>
 							{{/if}}

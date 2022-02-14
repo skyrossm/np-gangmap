@@ -125,7 +125,8 @@
 		],
 		"video": {
 			"yt_id": "M6R1aWQXFao",
-			"yt_user": "UC4irjUYpgjMTg0Wq8WhVNYQ"
+			"yt_user_display": "MaximusBlack",
+			"yt_user_link": "user/maximusblack"
 		}
 	},
 	{
@@ -623,7 +624,8 @@
 		],
 		"video": {
 			"yt_id": "_2M8wtbdg6k",
-			"yt_user": "UCmrt_6WFfHMfiC0xtgR7Qxg"
+			"yt_user_display": "NIKAD",
+			"yt_user_link": "c/nikad"
 		}
 	},
 	{
@@ -747,7 +749,8 @@
 		],
 		"video": {
 			"yt_id": "Ga3RJc8W3Yc",
-			"yt_user": "zerkaa"
+			"yt_user_display": "Zerkaa",
+			"yt_user_link": "zerkaa"
 		}
 	},
 	{
@@ -1266,7 +1269,8 @@
 		],
 		"video": {
 			"yt_id": "O2zQEGiqtxk",
-			"yt_user": "Tongys"
+			"yt_user_display": "Tongys",
+			"yt_user_display": "c/tongys"
 		}
 	},
 	{
@@ -1288,7 +1292,8 @@
 		],
 		"video": {
 			"yt_id": "cIf7AJA3Id4",
-			"yt_user": "TwitchFiles"
+			"yt_user_display": "TwitchFiles",
+			"yt_user_link": "c/twitchfiles"
 		}
 	},
 	{
@@ -1339,7 +1344,12 @@
 			{"lat": 70.590, "lng": -122.194},
 			{"lat": 70.536, "lng": -121.666},
 			{"lat": 70.284, "lng": -121.916}
-		]
+		],
+		"video": {
+			"yt_id": "WkJP51cKxEs",
+			"yt_user_display": "xQcOW",
+			"yt_user_link": "c/xqcow"
+		}
 	},
 	{
 		"id": 69,
@@ -1425,7 +1435,8 @@
 		],
 		"video": {
 			"yt_id": "s_y9R9C6Jfk",
-			"yt_user": "UCZke-nfZhNhmkAaCoR_ugDg"
+			"yt_user_display": "LordKebun",
+			"yt_user_link": "c/lordkebun"
 		}
 	},
 	{
@@ -1551,7 +1562,12 @@
 			{"lat": 68.075, "lng": -113.139},
 			{"lat": 67.935, "lng": -113.238},
 			{"lat": 67.927, "lng": -113.732}
-		]
+		],
+		"video": {
+			"yt_id": "yUNRcSbb21o",
+			"yt_user_display": "xQcOW",
+			"yt_user_link": "c/xqcow"
+		}
 	},
 	{
 		"id": 82,
