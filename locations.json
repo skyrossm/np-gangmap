@@ -1704,5 +1704,38 @@
 			{"lat": 70.523, "lng": -123.781},
 			{"lat": 70.559, "lng": -124.122}
 		]
+	},
+	{
+		"id": 87,
+		"type": "Neutral Zones",
+		"title": "Kevin and Eric's Mansion",
+		"notes": "Kevin Ram and Eric Wolfenstein's mansion. Ray Mond was the third person to gain access to the  mansion.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Kevin_Ram",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 72.425, "lng": -124.389},
+			{"lat": 72.534, "lng": -124.862},
+			{"lat": 72.485, "lng": -125.301},
+			{"lat": 72.435, "lng": -125.235},
+			{"lat": 72.395, "lng": -125.268},
+			{"lat": 72.368, "lng": -125.367},
+			{"lat": 72.368, "lng": -125.576},
+			{"lat": 72.435, "lng": -125.719},
+			{"lat": 72.415, "lng": -125.785},
+			{"lat": 72.221, "lng": -126.389},
+			{"lat": 72.181, "lng": -126.048},
+			{"lat": 72.104, "lng": -125.730},
+			{"lat": 72.039, "lng": -125.334},
+			{"lat": 71.988, "lng": -125.092},
+			{"lat": 71.954, "lng": -124.719},
+			{"lat": 71.995, "lng": -124.400},
+			{"lat": 72.072, "lng": -124.257},
+			{"lat": 72.153, "lng": -124.246},
+			{"lat": 72.230, "lng": -124.312},
+			{"lat": 72.333, "lng": -124.543},
+			{"lat": 72.367, "lng": -124.543}
+		]
 	}
 ]
