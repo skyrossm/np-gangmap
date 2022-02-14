@@ -669,6 +669,45 @@
 		]
 	},
 	{
+		"id": 3301,
+		"type": "Territory Areas",
+		"title": "Chang Gang",
+		"notes": "Chang Gang (CG) is an organized crime syndicate founded on August 17th 2017. Said to be the most powerful gang in the city, usually gaining power by way of force and influence. CG has a large footprint in the criminal underworld, assisted by their consistent flow of money and weapons. Other than maintaining power, they engage in various criminal activities such as, bank robberies, murder, racketeering, drug manufacturing, gun trafficking, kidnapping, arson, gang wars, street racing, and police impersonation.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
+		"order": 2,
+		"strokecolor": "#0000FF",
+		"fillcolor": "#0000FF",
+		"latlngarray": [
+			{"lat": 66.938, "lng": -134.888},
+			{"lat": 67.148, "lng": -134.251},
+			{"lat": 67.254, "lng": -133.768},
+			{"lat": 67.297, "lng": -133.010},
+			{"lat": 67.297, "lng": -129.977},
+			{"lat": 67.101, "lng": -129.901},
+			{"lat": 67.002, "lng": -129.725},
+			{"lat": 66.869, "lng": -129.505},
+			{"lat": 66.718, "lng": -129.494},
+			{"lat": 66.469, "lng": -129.560},
+			{"lat": 66.213, "lng": -129.879},
+			{"lat": 66.217, "lng": -130.878},
+			{"lat": 66.040, "lng": -130.900},
+			{"lat": 65.941, "lng": -130.966},
+			{"lat": 65.847, "lng": -131.142},
+			{"lat": 65.635, "lng": -131.999},
+			{"lat": 65.973, "lng": -132.471},
+			{"lat": 66.226, "lng": -132.812},
+			{"lat": 66.473, "lng": -133.240},
+			{"lat": 66.644, "lng": -133.702},
+			{"lat": 66.783, "lng": -134.240},
+			{"lat": 66.869, "lng": -134.680}
+		],
+		"video": {
+			"yt_id": "mdi5DXQvUoo",
+			"yt_user_display": "CGpixel",
+			"yt_user_link": "channel/UCSf1gYBLZ3BbRIRhY193JxA"
+		}
+	},
+	{
 		"id": 33,
 		"type": "Territory Areas",
 		"title": "Little Seoul",
