@@ -18,7 +18,7 @@
 	<script src="//maps.googleapis.com/maps/api/js?v=3.exp&key="></script>
 	<script src="js/libs/maplabel-compiled.js"></script>
 	<script src="js/app.js"></script>
-	
+
 	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 </head>
 <body>
@@ -41,7 +41,7 @@
 		</ul>
 	</header>
 
-	<div id="tour-nav"> 
+	<div id="tour-nav">
 		<a href="#" class="left">&laquo; <span id="tour-prev"></span></a>
 		<h3>Territory Tour</h3>
 		<a href="#" class="right"><span id="tour-next"></span> &raquo;</a>
@@ -59,7 +59,7 @@
 						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="{{assetsUrl}}icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a> <!--<a href="#tour" class="tt"></a>--></li>
 					{{/each}}
 					<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="{{assetsUrl}}icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a> <!--<a href="#tour" class="tt"></a>--></li>
-					
+
 				</ul>
 			</section>
 		{{/each}}
@@ -92,12 +92,12 @@
 							<br>
 							<h4>Video</h4>
 							<div class="youtubewrapper">
-								<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=1&amp;autohide=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
+								<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=0&amp;autohide=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
 							</div>
-							{{#if video.yt_user}}
+							{{#if video.yt_user_link}}
 								<p>
-									<a href="//www.youtube.com/user/{{video.yt_user}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
-										Video by {{video.yt_user}}
+									<a href="//www.youtube.com/{{video.yt_user_link}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
+										Video by {{video.yt_user_display}}
 									</a>
 								</p>
 							{{/if}}

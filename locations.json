@@ -125,9 +125,8 @@
 		],
 		"video": {
 			"yt_id": "M6R1aWQXFao",
-			"yt_user": "UC4irjUYpgjMTg0Wq8WhVNYQ",
-			"start": "0:00",
-			"end": "3:25"
+			"yt_user_display": "MaximusBlack",
+			"yt_user_link": "user/maximusblack"
 		}
 	},
 	{
@@ -429,11 +428,14 @@
 			{"lat": 70.522, "lng": -128.082},
 			{"lat": 70.581, "lng": -127.533},
 			{"lat": 70.595, "lng": -127.050},
-			{"lat": 70.581, "lng": -126.346},
-			{"lat": 70.573, "lng": -125.665},
+			{"lat": 70.580, "lng": -126.502},
+			{"lat": 70.561, "lng": -125.766},
 			{"lat": 70.602, "lng": -124.699},
-			{"lat": 70.588, "lng": -124.281},
-			{"lat": 70.871, "lng": -123.886},
+			{"lat": 70.590, "lng": -124.579},
+			{"lat": 70.575, "lng": -124.282},
+			{"lat": 70.793, "lng": -124.008},
+			{"lat": 70.892, "lng": -123.835},
+			{"lat": 70.982, "lng": -123.560},
 			{"lat": 71.050, "lng": -123.248},
 			{"lat": 71.135, "lng": -122.369},
 			{"lat": 71.280, "lng": -122.325},
@@ -603,18 +605,27 @@
 		"strokecolor": "#008000",
 		"fillcolor": "#008000",
 		"latlngarray": [
-			{"lat": 64.215, "lng": -123.635},
-			{"lat": 64.330, "lng": -124.063},
-			{"lat": 64.301, "lng": -125.909},
-			{"lat": 63.874, "lng": -126.898},
-			{"lat": 63.084, "lng": -126.898},
-			{"lat": 62.850, "lng": -126.239}
+			{"lat": 63.322, "lng": -127.854},
+			{"lat": 63.738, "lng": -127.305},
+			{"lat": 63.995, "lng": -127.096},
+			{"lat": 64.216, "lng": -127.118},
+			{"lat": 64.240, "lng": -126.547},
+			{"lat": 64.496, "lng": -125.591},
+			{"lat": 64.491, "lng": -123.548},
+			{"lat": 64.586, "lng": -123.451},
+			{"lat": 64.893, "lng": -123.800},
+			{"lat": 64.921, "lng": -123.448},
+			{"lat": 64.995, "lng": -123.141},
+			{"lat": 65.069, "lng": -122.537},
+			{"lat": 64.883, "lng": -122.548},
+			{"lat": 64.767, "lng": -122.592},
+			{"lat": 62.857, "lng": -126.217},
+			{"lat": 63.082, "lng": -126.909}
 		],
 		"video": {
 			"yt_id": "_2M8wtbdg6k",
-			"yt_user": "UCmrt_6WFfHMfiC0xtgR7Qxg",
-			"start": "0:00",
-			"end": "4:57"
+			"yt_user_display": "NIKAD",
+			"yt_user_link": "c/nikad"
 		}
 	},
 	{
@@ -658,6 +669,45 @@
 		]
 	},
 	{
+		"id": 3301,
+		"type": "Territory Areas",
+		"title": "Chang Gang",
+		"notes": "Chang Gang (CG) is an organized crime syndicate founded on August 17th 2017. Said to be the most powerful gang in the city, usually gaining power by way of force and influence. CG has a large footprint in the criminal underworld, assisted by their consistent flow of money and weapons. Other than maintaining power, they engage in various criminal activities such as, bank robberies, murder, racketeering, drug manufacturing, gun trafficking, kidnapping, arson, gang wars, street racing, and police impersonation.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
+		"order": 2,
+		"strokecolor": "#0000FF",
+		"fillcolor": "#0000FF",
+		"latlngarray": [
+			{"lat": 66.938, "lng": -134.888},
+			{"lat": 67.148, "lng": -134.251},
+			{"lat": 67.254, "lng": -133.768},
+			{"lat": 67.297, "lng": -133.010},
+			{"lat": 67.297, "lng": -129.977},
+			{"lat": 67.101, "lng": -129.901},
+			{"lat": 67.002, "lng": -129.725},
+			{"lat": 66.869, "lng": -129.505},
+			{"lat": 66.718, "lng": -129.494},
+			{"lat": 66.469, "lng": -129.560},
+			{"lat": 66.213, "lng": -129.879},
+			{"lat": 66.217, "lng": -130.878},
+			{"lat": 66.040, "lng": -130.900},
+			{"lat": 65.941, "lng": -130.966},
+			{"lat": 65.847, "lng": -131.142},
+			{"lat": 65.635, "lng": -131.999},
+			{"lat": 65.973, "lng": -132.471},
+			{"lat": 66.226, "lng": -132.812},
+			{"lat": 66.473, "lng": -133.240},
+			{"lat": 66.644, "lng": -133.702},
+			{"lat": 66.783, "lng": -134.240},
+			{"lat": 66.869, "lng": -134.680}
+		],
+		"video": {
+			"yt_id": "mdi5DXQvUoo",
+			"yt_user_display": "CGpixel",
+			"yt_user_link": "channel/UCSf1gYBLZ3BbRIRhY193JxA"
+		}
+	},
+	{
 		"id": 33,
 		"type": "Territory Areas",
 		"title": "Little Seoul",
@@ -693,6 +743,33 @@
 		]
 	},
 	{
+		"id": 3501,
+		"type": "Territory Areas",
+		"title": "The Mandem",
+		"notes": "The Mandem is a British gang that currently operates in Los Santos. They engage in criminal activities such as boosting, street racing, kidnapping, drug trafficking, gang wars and robbery. On August 19, 2021, Tommy was officially appointed as the leader of The Mandem.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/The_Mandem",
+		"order": 2,
+		"strokecolor": "#882222",
+		"fillcolor": "#228822",
+		"latlngarray": [
+			{"lat": 67.696, "lng": -140.670},
+			{"lat": 67.895, "lng": -140.077},
+			{"lat": 68.179, "lng": -138.879},
+			{"lat": 68.333, "lng": -138.209},
+			{"lat": 68.781, "lng": -139.247},
+			{"lat": 68.995, "lng": -139.775},
+			{"lat": 68.892, "lng": -140.049},
+			{"lat": 68.793, "lng": -140.126},
+			{"lat": 68.673, "lng": -140.170},
+			{"lat": 68.471, "lng": -140.571},
+			{"lat": 68.366, "lng": -140.989},
+			{"lat": 68.199, "lng": -141.318},
+			{"lat": 68.085, "lng": -141.538},
+			{"lat": 67.953, "lng": -141.472},
+			{"lat": 67.862, "lng": -141.263}
+		]
+	},
+	{
 		"id": 35,
 		"type": "Territory Areas",
 		"title": "The Mandem Block",
@@ -711,9 +788,8 @@
 		],
 		"video": {
 			"yt_id": "Ga3RJc8W3Yc",
-			"yt_user": "zerkaa",
-			"start": "0:00",
-			"end": "2:40"
+			"yt_user_display": "Zerkaa",
+			"yt_user_link": "zerkaa"
 		}
 	},
 	{
@@ -992,7 +1068,7 @@
 	},
 	{
 		"id": 52,
-		"type": "Neutral Zones",
+		"type": "Restaurants",
 		"title": "Rooster Rest",
 		"notes": "The Rooster's Rest is a local establishment privately-owned by Lang Buddha and members of the Cleanbois. While the business mostly operates as a chalet-style restaurant (serving mainly chicken-based products and ramen bowls), The Rooster's Rest also operates as a bar and grill, music venue, nightclub, hostel, the base of operations for Rooster Cab Co., a secretive host for D&D campaigns, and as a casino, strip club and brothel on the down-low.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Rooster%27s_Rest",
@@ -1060,7 +1136,7 @@
 	},
 	{
 		"id": 56,
-		"type": "Neutral Zones",
+		"type": "Restaurants",
 		"title": "UWU Café",
 		"notes": "UwU Café is a restaurant created and owned by Ash Ketchup. Benji Ramos, Sherry Paie and Attorney James Haze each own a small percentage of the company and help run it",
 		"wiki_link": "https://nopixel.fandom.com/wiki/UwU_Caf%C3%A9",
@@ -1182,7 +1258,7 @@
 	},
 	{
 		"id": 62,
-		"type": "Neutral Zones",
+		"type": "Restaurants",
 		"title": "Maldini's Pizzeria",
 		"notes": "Maldini's Pizzeria is Co-owned by Vinny Pistone and Mr. Kebun.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Maldini%27s_Pizzeria",
@@ -1215,7 +1291,7 @@
 	},
 	{
 		"id": 64,
-		"type": "Neutral Zones",
+		"type": "Restaurants",
 		"title": "Burger Shot",
 		"notes": "Burger Shot is a chain of fast-food restaurants specializing in hamburgers. Burger Shot is the food of choice in Los Santos. The company offers many delicious menu items and is owned by Dean Watson with Shelly Smith as CEO and Cassie Cupcake as COO.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Burger_Shot",
@@ -1232,9 +1308,8 @@
 		],
 		"video": {
 			"yt_id": "O2zQEGiqtxk",
-			"yt_user": "Tongys",
-			"start": "0:00",
-			"end": "1:26"
+			"yt_user_display": "Tongys",
+			"yt_user_display": "c/tongys"
 		}
 	},
 	{
@@ -1247,23 +1322,20 @@
 		"strokecolor": "#00CAD8",
 		"fillcolor": "#00CAD8",
 		"latlngarray": [
-			{"lat": 54.980, "lng": -123.575},
-			{"lat": 57.800, "lng": -123.575},
-			{"lat": 58.069, "lng": -123.155},
-			{"lat": 58.069, "lng": -122.808},
-			{"lat": 57.601, "lng": -121.479},
-			{"lat": 54.980, "lng": -121.609}
+			{"lat": 56.738, "lng": -123.577},
+			{"lat": 56.738, "lng": -122.899},
+			{"lat": 56.338, "lng": -122.899},
+			{"lat": 56.338, "lng": -123.577}
 		],
 		"video": {
 			"yt_id": "cIf7AJA3Id4",
-			"yt_user": "TwitchFiles",
-			"start": "0:00",
-			"end": "1:16"
+			"yt_user_display": "TwitchFiles",
+			"yt_user_link": "c/twitchfiles"
 		}
 	},
 	{
 		"id": 66,
-		"type": "Neutral Zones",
+		"type": "Heists",
 		"title": "Vangelico Jewelry Store",
 		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
 		"order": 2,
@@ -1297,7 +1369,7 @@
 	},
 	{
 		"id": 68,
-		"type": "Neutral Zones",
+		"type": "Heists",
 		"title": "The City Vault",
 		"notes": "The City Vault (Pacific Standard Public Deposit Bank) is the third stage and fourth progression of bank robberies.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
@@ -1309,7 +1381,12 @@
 			{"lat": 70.590, "lng": -122.194},
 			{"lat": 70.536, "lng": -121.666},
 			{"lat": 70.284, "lng": -121.916}
-		]
+		],
+		"video": {
+			"yt_id": "WkJP51cKxEs",
+			"yt_user_display": "xQcOW",
+			"yt_user_link": "c/xqcow"
+		}
 	},
 	{
 		"id": 69,
@@ -1329,7 +1406,7 @@
 	},
 	{
 		"id": 70,
-		"type": "Neutral Zones",
+		"type": "Heists",
 		"title": "Paleto Bank",
 		"notes": "Paleto Bank (Blaine County Savings Bank) is the second stage progression of bank robberies.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
@@ -1395,9 +1472,8 @@
 		],
 		"video": {
 			"yt_id": "s_y9R9C6Jfk",
-			"yt_user": "UCZke-nfZhNhmkAaCoR_ugDg",
-			"start": "0:00",
-			"end": "4:10"
+			"yt_user_display": "LordKebun",
+			"yt_user_link": "c/lordkebun"
 		}
 	},
 	{
@@ -1411,7 +1487,7 @@
 		"fillcolor": "#0080FF",
 		"latlngarray": [
 			{"lat": 70.284, "lng": -121.916},
-			{"lat": 70.536, "lng": -121.647},
+			{"lat": 70.536, "lng": -121.666},
 			{"lat": 70.543, "lng": -121.239},
 			{"lat": 70.244, "lng": -121.570}
 		]
@@ -1434,13 +1510,13 @@
 	},
 	{
 		"id": 76,
-		"type": "Territory Areas",
+		"type": "Heists",
 		"title": "The Casino",
 		"notes": "The Casino is owned and operated by Dean Watson and ran by Chief Executive Officer Cassie Cupcakes. Originally the CEO position was given to Kevin Whipaloo by both Dean Watson & Otto Delmar which he accepted with the terms being he would resign from Burger Shot. However, the next day Kevin ran out of town and has not been seen since. The Casino Heist is the fifth stage progression of bank robberies.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Diamond_Casino_and_Resort",
 		"order": 2,
-		"strokecolor": "#FD5E53",
-		"fillcolor": "#FD5E53",
+		"strokecolor": "#FFD700",
+		"fillcolor": "#FFD700",
 		"latlngarray": [
 			{"lat": 70.011, "lng": -115.523},
 			{"lat": 69.800, "lng": -116.050},
@@ -1523,7 +1599,12 @@
 			{"lat": 68.075, "lng": -113.139},
 			{"lat": 67.935, "lng": -113.238},
 			{"lat": 67.927, "lng": -113.732}
-		]
+		],
+		"video": {
+			"yt_id": "yUNRcSbb21o",
+			"yt_user_display": "xQcOW",
+			"yt_user_link": "c/xqcow"
+		}
 	},
 	{
 		"id": 82,
@@ -1539,6 +1620,122 @@
 			{"lat": 65.330, "lng": -125.707},
 			{"lat": 65.298, "lng": -126.004},
 			{"lat": 65.316, "lng": -127.069}
+		]
+	},
+	{
+		"id": 83,
+		"type": "Neutral Zones",
+		"title": "Boe Jangles's House",
+		"notes": "Boe Jangles was a well known criminal in Los Santos and had connections across the city. He also worked for and founded the White Widow Dispensary. Boe had close ties with Chang Gang and was initiated into the gang on July 8th 2020. On July 4th, 2020 he retired and can now be found giving out hugs at his house. Reset in peace.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Boe_Jangles",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 68.460, "lng": -114.464},
+			{"lat": 68.415, "lng": -114.255},
+			{"lat": 68.347, "lng": -114.134},
+			{"lat": 68.269, "lng": -114.365},
+			{"lat": 68.387, "lng": -114.727}
+		]
+	},
+	{
+		"id": 84,
+		"type": "Territory Areas",
+		"title": "ZooMafia",
+		"notes": "New Mafia in Los Santos goes by the name ZooMafia. Italian based, where family means everything.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/ZooMafia",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 71.045, "lng": -125.590},
+			{"lat": 71.034, "lng": -125.436},
+			{"lat": 70.995, "lng": -125.304},
+			{"lat": 70.966, "lng": -125.106},
+			{"lat": 70.952, "lng": -124.908},
+			{"lat": 70.905, "lng": -124.601},
+			{"lat": 70.854, "lng": -124.392},
+			{"lat": 70.793, "lng": -124.008},
+			{"lat": 70.575, "lng": -124.282},
+			{"lat": 70.590, "lng": -124.579},
+			{"lat": 70.615, "lng": -124.821},
+			{"lat": 70.659, "lng": -125.260},
+			{"lat": 70.717, "lng": -125.644},
+			{"lat": 70.753, "lng": -125.809},
+			{"lat": 70.782, "lng": -125.875},
+			{"lat": 70.833, "lng": -125.919},
+			{"lat": 70.869, "lng": -125.908},
+			{"lat": 70.977, "lng": -125.743},
+			{"lat": 71.009, "lng": -125.721},
+			{"lat": 71.030, "lng": -125.666}
+		]
+	},
+	{
+		"id": 85,
+		"type": "Neutral Zones",
+		"title": "Red Parking Garage",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "#FF0000",
+		"fillcolor": "#FF0000",
+		"latlngarray": [
+			{"lat": 67.288, "lng": -128.186},
+			{"lat": 67.296, "lng": -127.395},
+			{"lat": 67.249, "lng": -126.944},
+			{"lat": 66.638, "lng": -127.493},
+			{"lat": 66.691, "lng": -128.164}
+		]
+	},
+	{
+		"id": 86,
+		"type": "Restaurants",
+		"title": "Up n Atom",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "#E759E1",
+		"fillcolor": "#E759E1",
+		"latlngarray": [
+			{"lat": 70.694, "lng": -123.979},
+			{"lat": 70.720, "lng": -123.858},
+			{"lat": 70.690, "lng": -123.610},
+			{"lat": 70.523, "lng": -123.781},
+			{"lat": 70.559, "lng": -124.122}
+		]
+	},
+	{
+		"id": 87,
+		"type": "Neutral Zones",
+		"title": "Kevin and Eric's Mansion",
+		"notes": "Kevin Ram and Eric Wolfenstein's mansion. Ray Mond was the third person to gain access to the  mansion.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Kevin_Ram",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 72.425, "lng": -124.389},
+			{"lat": 72.534, "lng": -124.862},
+			{"lat": 72.485, "lng": -125.301},
+			{"lat": 72.435, "lng": -125.235},
+			{"lat": 72.395, "lng": -125.268},
+			{"lat": 72.368, "lng": -125.367},
+			{"lat": 72.368, "lng": -125.576},
+			{"lat": 72.435, "lng": -125.719},
+			{"lat": 72.415, "lng": -125.785},
+			{"lat": 72.221, "lng": -126.389},
+			{"lat": 72.181, "lng": -126.048},
+			{"lat": 72.104, "lng": -125.730},
+			{"lat": 72.039, "lng": -125.334},
+			{"lat": 71.988, "lng": -125.092},
+			{"lat": 71.954, "lng": -124.719},
+			{"lat": 71.995, "lng": -124.400},
+			{"lat": 72.072, "lng": -124.257},
+			{"lat": 72.153, "lng": -124.246},
+			{"lat": 72.230, "lng": -124.312},
+			{"lat": 72.333, "lng": -124.543},
+			{"lat": 72.367, "lng": -124.543}
 		]
 	}
 ]
