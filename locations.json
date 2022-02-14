@@ -1670,5 +1670,22 @@
 			{"lat": 71.009, "lng": -125.721},
 			{"lat": 71.030, "lng": -125.666}
 		]
+	},
+	{
+		"id": 85,
+		"type": "Neutral Zones",
+		"title": "Red Parking Garage",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "#FF0000",
+		"fillcolor": "#FF0000",
+		"latlngarray": [
+			{"lat": 67.288, "lng": -128.186},
+			{"lat": 67.296, "lng": -127.395},
+			{"lat": 67.249, "lng": -126.944},
+			{"lat": 66.638, "lng": -127.493},
+			{"lat": 66.691, "lng": -128.164}
+		]
 	}
 ]
