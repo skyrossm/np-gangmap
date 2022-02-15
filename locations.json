@@ -1875,5 +1875,23 @@
 			{"lat": 72.196, "lng": -142.539},
 			{"lat": 72.125, "lng": -142.319}
 		]
+	},
+	{
+		"id": 94,
+		"type": "Neutral Zones",
+		"title": "Carmella Corset's House",
+		"notes": "Chang Gang and Clean Queens members visit here frequently.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Carmella_Corset",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 69.809, "lng": -139.642},
+			{"lat": 69.817, "lng": -139.367},
+			{"lat": 69.843, "lng": -139.137},
+			{"lat": 69.680, "lng": -139.137},
+			{"lat": 69.584, "lng": -139.521},
+			{"lat": 69.588, "lng": -139.631}
+		]
 	}
 ]
