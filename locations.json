@@ -1857,5 +1857,23 @@
 			{"lat": 69.521, "lng": -128.729},
 			{"lat": 69.651, "lng": -128.729}
 		]
+	},
+	{
+		"id": 93,
+		"type": "Neutral Zones",
+		"title": "Richman Glen Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 72.265, "lng": -141.721},
+			{"lat": 72.294, "lng": -141.924},
+			{"lat": 72.299, "lng": -142.067},
+			{"lat": 72.289, "lng": -142.198},
+			{"lat": 72.196, "lng": -142.539},
+			{"lat": 72.125, "lng": -142.319}
+		]
 	}
 ]
