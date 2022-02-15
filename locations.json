@@ -1928,5 +1928,21 @@
 			{"lat": 66.401, "lng": -130.114},
 			{"lat": 66.401, "lng": -130.693}
 		]
+	},
+	{
+		"id": 97,
+		"type": "Neutral Zones",
+		"title": "LSBN",
+		"notes": "Los Santos Broadcast Network (LSBN) is a media and entertainment organization. The company is based out of the upper floors of the LS News Center building, on the corner of Lindsay Circus and Palomino Avenue in Little Seoul.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/LSBN",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 66.401, "lng": -129.645},
+			{"lat": 66.401, "lng": -130.693},
+			{"lat": 66.216, "lng": -130.690},
+			{"lat": 66.214, "lng": -129.877}
+		]
 	}
 ]
