@@ -1757,5 +1757,23 @@
 			{"lat": 72.333, "lng": -124.543},
 			{"lat": 72.367, "lng": -124.543}
 		]
+	},
+		{
+		"id": 87,
+		"type": "Neutral Zones",
+		"title": "Cerberus Business Center",
+		"notes": "The Cerberus Business Center offers spacious offices with gorgeous cityscape views for the businesses of Los Santos. The initial idea was to bring all Cerberus executives into one building where they can all get to know each other. Cerberus tasked Cassie Cupcake to screen small businesses at Dean World and the Andi Jones Farmers Market that could occupy office space in the building. Once the business center opened, the Clean Queens brought in more businesses.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Cerberus_Business_Center",
+		"order": 2,
+		"strokecolor": "#FF0000",
+		"fillcolor": "#FF0000",
+		"latlngarray": [
+			{"lat": 67.740, "lng": -126.561},
+			{"lat": 67.748, "lng": -126.297},
+			{"lat": 67.794, "lng": -126.000},
+			{"lat": 67.794, "lng": -125.297},
+			{"lat": 67.218, "lng": -125.847},
+			{"lat": 67.358, "lng": -126.912}
+		]
 	}
 ]
