@@ -1825,5 +1825,21 @@
 			{"lat": 69.541, "lng": -128.411},
 			{"lat": 69.487, "lng": -128.477}
 		]
+	},
+	{
+		"id": 91,
+		"type": "Heists",
+		"title": "Laptop Shop",
+		"notes": "Where laptops are bought.",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 67.152, "lng": -137.920},
+			{"lat": 66.985, "lng": -137.590},
+			{"lat": 66.869, "lng": -137.964},
+			{"lat": 67.007, "lng": -138.392}
+		]
 	}
 ]
