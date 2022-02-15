@@ -163,12 +163,12 @@ header a.active {
 }
 
 .tt {
-width: 20px;
-height: 20px;
-background-image: url(icons/signpost.png);
-display: inline-block;
-background-position: 0 61px;
-float: right;
+	width: 20px;
+	height: 20px;
+	background-image: url(icons/signpost.png);
+	display: inline-block;
+	background-position: 0 61px;
+	float: right;
 }
 
 .types .details {
@@ -203,11 +203,11 @@ html { height: 100% }
 body { height: 100%; margin: 0; padding: 0 }
 #map { height: 100% }
 
-/* 
+/*
  * Mobile devices
  */
 
-@media only screen and (max-device-width: 568px) { 
+@media only screen and (max-device-width: 568px) {
 	.right {
 		/*display: none;*/
 		max-width: 300px;
@@ -226,7 +226,7 @@ body { height: 100%; margin: 0; padding: 0 }
 	}
 }
 
-/* 
+/*
  * Responsive videos
  */
 
