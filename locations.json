@@ -1944,5 +1944,21 @@
 			{"lat": 66.216, "lng": -130.690},
 			{"lat": 66.214, "lng": -129.877}
 		]
+	},
+	{
+		"id": 98,
+		"type": "Neutral Zones",
+		"title": "Wu-Chang Records",
+		"notes": "Wu-Chang Records was created by Mr. Wang Chang (Mr. Kebun) and Vinny Pistone, and established under Mr. Wang Chang's name. Vinny and Mr. Chang unofficially signed Lil Erf as the label's first artist, after the debut of his hit song Chang Gang.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Wu_Chang_Records",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 67.295, "lng": -132.897},
+			{"lat": 67.295, "lng": -132.401},
+			{"lat": 67.022, "lng": -132.401},
+			{"lat": 67.022, "lng": -132.897}
+		]
 	}
 ]
