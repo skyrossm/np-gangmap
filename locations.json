@@ -1912,5 +1912,21 @@
 			{"lat": 70.794, "lng": -135.572},
 			{"lat": 70.801, "lng": -135.144}
 		]
+	},
+	{
+		"id": 96,
+		"type": "Restaurants",
+		"title": "Lucky Pluckers",
+		"notes": "Lucky Pluckers is a chicken shop in the South-side owned by Dexx Martin and Taco Prince.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Lucky_pluckers",
+		"order": 2,
+		"strokecolor": "#E759E1",
+		"fillcolor": "#E759E1",
+		"latlngarray": [
+			{"lat": 66.613, "lng": -130.693},
+			{"lat": 66.613, "lng": -130.114},
+			{"lat": 66.401, "lng": -130.114},
+			{"lat": 66.401, "lng": -130.693}
+		]
 	}
 ]
