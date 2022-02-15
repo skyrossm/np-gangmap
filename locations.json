@@ -1893,5 +1893,24 @@
 			{"lat": 69.584, "lng": -139.521},
 			{"lat": 69.588, "lng": -139.631}
 		]
+	},
+	{
+		"id": 95,
+		"type": "Neutral Zones",
+		"title": "Queen Manor",
+		"notes": "Queen Manor is owned by Nancy Drew and co-owned by the Clean Queens, The Manor is a home for the CEO women who work for Cerberus. Nancy Drew purchased the Manor late night December 20th, 2021. The goal for the Manor is to be a community meeting spot for the CEO's and those affiliated with Cerberus. Queen Manor got it's name because it is inspired by Lang Buddha's Clean Manor.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Queen_Manor",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 70.970, "lng": -135.111},
+			{"lat": 70.981, "lng": -135.737},
+			{"lat": 70.985, "lng": -136.077},
+			{"lat": 70.870, "lng": -136.088},
+			{"lat": 70.779, "lng": -135.836},
+			{"lat": 70.794, "lng": -135.572},
+			{"lat": 70.801, "lng": -135.144}
+		]
 	}
 ]
