@@ -166,6 +166,12 @@ $(function() {
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
+		},
+		{
+			name: 'Medical',
+			icon: 'General/wall-breach.png',
+			type: 'General',
+			enabled: true
 		}
 	]);
 	var showingLabels;
