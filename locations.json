@@ -1960,6 +1960,11 @@
 			{"lat": 67.295, "lng": -132.401},
 			{"lat": 67.022, "lng": -132.401},
 			{"lat": 67.022, "lng": -132.897}
-		]
+		],
+		"video": {
+			"yt_id": "OdnK_sitSyw",
+			"yt_user_display": "elevate",
+			"yt_user_link": "channel/UC6ExUz5PDMqWCmzuXcQbEwg"
+		}
 	}
 ]
