@@ -1775,5 +1775,55 @@
 			{"lat": 67.218, "lng": -125.847},
 			{"lat": 67.358, "lng": -126.912}
 		]
+	},
+	{
+		"id": 88,
+		"type": "Heists",
+		"title": "Fleeca Bank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Fleeca_Bank",
+		"order": 2,
+		"strokecolor": "#FFD700",
+		"fillcolor": "#FFD700",
+		"latlngarray": [
+			{"lat": 77.150, "lng": -113.401},
+			{"lat": 77.149, "lng": -112.754},
+			{"lat": 77.049, "lng": -112.743},
+			{"lat": 77.049, "lng": -113.395}
+		]
+	},
+	{
+		"id": 89,
+		"type": "Heists",
+		"title": "Fleeca Bank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Fleeca_Bank",
+		"order": 2,
+		"strokecolor": "#FFD700",
+		"fillcolor": "#FFD700",
+		"latlngarray": [
+			{"lat": 71.020, "lng": -153.533},
+			{"lat": 71.013, "lng": -153.193},
+			{"lat": 70.887, "lng": -153.226},
+			{"lat": 70.898, "lng": -153.566}
+		]
+	},
+	{
+		"id": 90,
+		"type": "Heists",
+		"title": "Bank",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "#FFD700",
+		"fillcolor": "#FFD700",
+		"latlngarray": [
+			{"lat": 69.344, "lng": -127.344},
+			{"lat": 69.487, "lng": -127.256},
+			{"lat": 69.629, "lng": -128.356},
+			{"lat": 69.587, "lng": -128.356},
+			{"lat": 69.541, "lng": -128.411},
+			{"lat": 69.487, "lng": -128.477}
+		]
 	}
 ]
