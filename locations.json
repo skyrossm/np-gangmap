@@ -1841,5 +1841,21 @@
 			{"lat": 66.869, "lng": -137.964},
 			{"lat": 67.007, "lng": -138.392}
 		]
+	},
+	{
+		"id": 92,
+		"type": "Neutral Zones",
+		"title": "Chang Gang Warehouse",
+		"notes": "A Chang Gang warehouse full of DODO Logistic pallets. There is a changing room here.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
+		"order": 2,
+		"strokecolor": "#0080FF",
+		"fillcolor": "#0080FF",
+		"latlngarray": [
+			{"lat": 69.651, "lng": -129.080},
+			{"lat": 69.529, "lng": -129.102},
+			{"lat": 69.521, "lng": -128.729},
+			{"lat": 69.651, "lng": -128.729}
+		]
 	}
 ]
