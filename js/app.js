@@ -65,10 +65,10 @@ $(function() {
 
 			var marker = new google.maps.Polygon({
 				paths: polyCoords,
-				strokeColor: this.get('strokecolor'),
+				strokeColor: '#' + this.get('strokecolor'),
 				strokeOpacity: 0.8,
 				strokeWeight: 2,
-				fillColor: this.get('fillcolor'),
+				fillColor: '#' + this.get('fillcolor'),
 				fillOpacity: 0.35
 			});
 
@@ -80,7 +80,7 @@ $(function() {
 				text: this.get('title'),
 				strokeWeight: 1,
 				strokeColor: "#000",
-				fontColor: this.get('fillcolor'),
+				fontColor: '#' + this.get('fillcolor'),
 				zIndex: 10000
 			});
 
