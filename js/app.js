@@ -151,7 +151,7 @@ $(function() {
 		},
 		{
 			name: 'Neutral Zones',
-			icon: 'General/wall-breach.png',
+			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: true
 		},
@@ -163,13 +163,13 @@ $(function() {
 		},
 		{
 			name: 'Heists',
-			icon: 'General/wall-breach.png',
+			icon: 'radar/radar_heist.png',
 			type: 'General',
 			enabled: true
 		},
 		{
 			name: 'Medical',
-			icon: 'General/wall-breach.png',
+			icon: 'radar/radar_hospital.png',
 			type: 'General',
 			enabled: true
 		}
