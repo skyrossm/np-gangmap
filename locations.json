@@ -1295,22 +1295,6 @@
 		]
 	},
 	{
-		"id": 63,
-		"type": "Territory Areas",
-		"title": "Chang Gang Garage",
-		"notes": "An indoor meeting place for Chang Gang to work on their cars.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
-		"order": 2,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": 62.885, "lng": -115.320},
-			{"lat": 62.935, "lng": -116.331},
-			{"lat": 63.327, "lng": -116.232},
-			{"lat": 63.312, "lng": -115.221}
-		]
-	},
-	{
 		"id": 64,
 		"type": "Restaurants",
 		"title": "Burger Shot",
@@ -1410,11 +1394,11 @@
 		}
 	},
 	{
-		"id": 69,
+		"id": 692,
 		"type": "Neutral Zones",
-		"title": "H&O Exports",
-		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/H%26O_Exports",
+		"title": "Deluxe Car Garage/Showroom",
+		"notes": "Associated with H&O Exports",
+		"wiki_link": "",
 		"order": 2,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CADA",
@@ -1423,6 +1407,39 @@
 			{"lat": 66.567, "lng": -116.174},
 			{"lat": 66.383, "lng": -116.189},
 			{"lat": 66.383, "lng": -116.881}
+		]
+	},
+	{
+		"id": 690,
+		"type": "Neutral Zones",
+		"title": "H&O Exports",
+		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter full control of operations.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/H%26O_Exports",
+		"order": 2,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 62.203, "lng": -116.545},
+			{"lat": 62.101, "lng": -112.420},
+			{"lat": 63.300, "lng": -112.311},
+			{"lat": 63.327, "lng": -116.232},
+			{"lat": 62.616, "lng": -116.387}
+		]
+	},
+	{
+		"id": 691,
+		"type": "Neutral Zones",
+		"title": "H&O Exports Entrance",
+		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter full control of operations.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/H%26O_Exports",
+		"order": 2,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 62.885, "lng": -115.320},
+			{"lat": 62.935, "lng": -116.331},
+			{"lat": 63.327, "lng": -116.232},
+			{"lat": 63.312, "lng": -115.221}
 		]
 	},
 	{
