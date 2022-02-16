@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Ballas",
 		"notes": "Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Ballas",
@@ -29,7 +29,7 @@
 	},
 	{
 		"id": 2,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "CLean Manor",
 		"notes": "CLean Manor is owned by Lang Buddha and co-owned by the Cleanbois members. The Manor should be a neutral ground for all gang-related affairs.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Clean_Manor",
@@ -49,7 +49,7 @@
 	},
 	{
 		"id": 3,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Brogue Street Kingz",
 		"notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
@@ -65,7 +65,7 @@
 	},
 	{
 		"id": 4,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Marabunta Grande",
 		"notes": "The Marabunta Grande, are an El Salvadorian based street gang operating out of Fudge Lane, in the El Burro Heights area. Viva la Mara",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Marabunta_Grande",
@@ -98,7 +98,7 @@
 	},
 	{
 		"id": 5,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Vagos",
 		"notes": "After the passing of Jesus, Speedy is the new El Jefe and made the Vagos what they are today.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Vagos",
@@ -143,7 +143,7 @@
 	},
 	{
 		"id": 6,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Alta Street Ruff Rydaz",
 		"notes": "Alta Street Ruff Rydaz (A.K.A The Blocks/Block Gang), are a crew that will do anything and sell anything for $50. Located at the 'poor' apartments.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Alta_Street_Ruff_Rydaz",
@@ -160,7 +160,7 @@
 	},
 	{
 		"id": 7,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "The Angels",
 		"notes": "The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Angels",
@@ -179,7 +179,7 @@
 	},
 	{
 		"id": 8,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Sinister Souls MC",
 		"notes": "The Sinister Souls MC is a 1% Motorcycle Club operating out of their owned Club House in East Vinewood, Mirror Park Blvd (old QuickFix previously owned by 4EQ) in Los Santos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Sinister_Souls_MC",
@@ -195,7 +195,7 @@
 	},
 	{
 		"id": 9,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "NBC",
 		"notes": "Natural Born Crackheads, is a gang created and founded by Daquan Dumas and Guy Jones.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Natural_Born_Crackheads",
@@ -212,7 +212,7 @@
 	},
 	{
 		"id": 10,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "La Fuente Blanca",
 		"notes": "La Fuenta Blanca, also known as The Ranch, is a ranch owned by Speedy and is protected by the Vagos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/La_Fuente_Blanca",
@@ -230,7 +230,7 @@
 	},
 	{
 		"id": 11,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Lost MC Sandy Shores",
 		"notes": "Lost MC lives, breathes and owns Sandy, don't forget otherwise.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
@@ -297,7 +297,7 @@
 	},
 	{
 		"id": 13,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "The Lost MC Stab City",
 		"notes": "The Lost MCs clubhouse, situated in Stab City. Smoke on the Water grows weed here",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
@@ -374,7 +374,7 @@
 	},
 	{
 		"id": 18,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Mayhem",
 		"notes": "Once Condemned MC, Mayhem MC are trying to be like a phoenix rising out of the ashes in Paleto Bay.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Mayhem",
@@ -422,7 +422,7 @@
 	},
 	{
 		"id": 21,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Vinewood Hills",
 		"notes": "Patrolled by the HOA for house robberies",
 		"wiki_link": "https://nopixel.fandom.com/wiki/HOA",
@@ -480,7 +480,7 @@
 	},
 	{
 		"id": 22,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Balbini Crime Family",
 		"notes": "The Balbani Crime Family, (BCF) is an organized crime syndicate that operates within the City of Los Santos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Balbani_Crime_Family",
@@ -575,7 +575,7 @@
 	},
 	{
 		"id": 28,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Aztecas",
 		"notes": "Aztecas reborn under the leadership of Tom Ryan.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Aztecas",
@@ -609,7 +609,7 @@
 	},
 	{
 		"id": 30,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "The Grove Street Families",
 		"notes": "Formerly known as the Grove Street Families (GSF), now known as The Families, the gang is known for the color Green. The Families started with OG members Dexx Martin, Chef, Ghost Storm & Tyrese Tyrone. They all lived in the area of Forum Drive, The Families are made up four separate gangs consisting of Forum Drive Families, Carson Avenue Families, Davis Neighborhood Families, and Chamberlain Gangster Families.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/The_Families",
@@ -642,7 +642,7 @@
 	},
 	{
 		"id": 31,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Pawnshop",
 		"notes": "Who know who owns this place anymore",
 		"order": 2,
@@ -660,7 +660,7 @@
 	},
 	{
 		"id": 32,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Bondi Boys MC",
 		"notes": "The Bondi Boys Motor Club (BBMC) or Bondi Boys & Babes Motor Club is a criminal gang operating out of Vespucci, founded by Irwin Dundee, Barry Benson and Riley Carter (Exiled).",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
@@ -690,7 +690,7 @@
 	},
 	{
 		"id": 3301,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Chang Gang",
 		"notes": "Chang Gang (CG) is an organized crime syndicate founded on August 17th 2017. Said to be the most powerful gang in the city, usually gaining power by way of force and influence. CG has a large footprint in the criminal underworld, assisted by their consistent flow of money and weapons. Other than maintaining power, they engage in various criminal activities such as, bank robberies, murder, racketeering, drug manufacturing, gun trafficking, kidnapping, arson, gang wars, street racing, and police impersonation.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
@@ -729,7 +729,7 @@
 	},
 	{
 		"id": 33,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Little Seoul",
 		"notes": "The majority of Little Seoul is owned by Chang Gang. Their main location is at the Chang Gang compound. Mr.K has given his blessing to Sun Moon's gang, The Korean Mafia, to reside in Little Seoul. The Korean Mafia lives across the street from the Chang Gang compound.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Little_Seoul",
@@ -748,7 +748,7 @@
 	},
 	{
 		"id": 34,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Ace King",
 		"notes": "Koreans. Blackjack is hosted here.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
@@ -764,7 +764,7 @@
 	},
 	{
 		"id": 3501,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "The Mandem",
 		"notes": "The Mandem is a British gang that currently operates in Los Santos. They engage in criminal activities such as boosting, street racing, kidnapping, drug trafficking, gang wars and robbery. On August 19, 2021, Tommy was officially appointed as the leader of The Mandem.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/The_Mandem",
@@ -791,7 +791,7 @@
 	},
 	{
 		"id": 35,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "The Mandem Block",
 		"notes": "The Mandem Block, sometimes referred to as The Mandem Compound, is The Mandem's base of operations, where they live and have most of their meetings.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Mandem_Block",
@@ -814,7 +814,7 @@
 	},
 	{
 		"id": 36,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "H.O.A. / Mirror Park",
 		"notes": "Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/HOA",
@@ -836,7 +836,7 @@
 	},
 	{
 		"id": 37,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "The Scrapyard",
 		"notes": "Shared between the bikers, Ashenfell and BBC at different times of the day",
 		"order": 2,
@@ -929,7 +929,7 @@
 	},
 	{
 		"id": 43,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "The Dam",
 		"notes": "Claimed by HOA",
 		"order": 2,
@@ -946,7 +946,7 @@
 	},
 	{
 		"id": 44,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Mirror Park Railyard",
 		"notes": "Claimed by HOA",
 		"order": 2,
@@ -994,7 +994,7 @@
 	},
 	{
 		"id": 47,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Legion Square",
 		"notes": "Claimed by the Misfits, next to Creampie Creations and Cop Killer Records",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Misfits",
@@ -1010,7 +1010,7 @@
 	},
 	{
 		"id": 48,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "El Rancho",
 		"notes": "Patrolled by the vagos.",
 		"order": 2,
@@ -1031,7 +1031,7 @@
 	},
 	{
 		"id": 49,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Cop Killa Records",
 		"notes": "Headquarter and studios of CKR",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Cop_Killa_Records",
@@ -1047,7 +1047,7 @@
 	},
 	{
 		"id": 50,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "The Cemetery",
 		"notes": "Claimed by Prune Gang. It's a real monkaW place.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Prune_Gang",
@@ -1108,7 +1108,7 @@
 	},
 	{
 		"id": 53,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Oxy Shop",
 		"notes": "Who uses this place anyways? KEKW",
 		"order": 2,
@@ -1222,7 +1222,7 @@
 	},
 	{
 		"id": 59,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "Chang Gang Compound",
 		"notes": "This is where Chang Gang wakes up.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
@@ -1679,7 +1679,7 @@
 	},
 	{
 		"id": 84,
-		"type": "Territory Areas",
+		"type": "Territories",
 		"title": "ZooMafia",
 		"notes": "New Mafia in Los Santos goes by the name ZooMafia. Italian based, where family means everything.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/ZooMafia",
