@@ -157,7 +157,7 @@ $(function() {
 		},
 		{
 			name: 'Restaurants',
-			icon: 'General/wall-breach.png',
+			icon: 'General/radar_bar.png',
 			type: 'General',
 			enabled: true
 		},
