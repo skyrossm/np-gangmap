@@ -1003,8 +1003,8 @@
 		"notes": "Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
 		"order": 2,
-		"strokecolor": "002D70",
-		"fillcolor": "FFEAB9",
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": 68.434, "lng": -122.685},
 			{"lat": 68.043, "lng": -123.059},
@@ -1532,8 +1532,8 @@
 		"notes": "AirX is owned by Jackie Snow. Knowing their passion, skill, and experience for flying, Bryce Miller, Tony Corleone, and Olivia Copper were the first to be recruited into the flight school. Bryce was hired as Flight Chief/Manager and Instructor of AirX. Tony and Copper were also hired as Flight Instructors. AirX Flight School operates out of Fort Zancudo military base.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/AirX_Flight_School",
 		"order": 2,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": 78.524, "lng": -152.210},
 			{"lat": 78.243, "lng": -153.034},
@@ -1701,8 +1701,8 @@
 		"title": "Impound Lot",
 		"notes": "Where cars go when they get impounded.",
 		"order": 2,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": 65.422, "lng": -127.069},
 			{"lat": 65.422, "lng": -125.751},
