@@ -144,32 +144,44 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Territory Areas',
+			name: 'Territories',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
 		},
 		{
-			name: 'Neutral Zones',
-			icon: 'General/wall-breach.png',
+			name: 'Neutral',
+			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: true
 		},
 		{
-			name: 'Restaurants',
-			icon: 'General/wall-breach.png',
+			name: 'Automotive',
+			icon: 'radar/radar_acsr_race_hotring.png',
 			type: 'General',
 			enabled: true
 		},
 		{
 			name: 'Heists',
-			icon: 'General/wall-breach.png',
+			icon: 'radar/radar_heist.png',
+			type: 'General',
+			enabled: true
+		},
+		{
+			name: 'Legal',
+			icon: 'radar/radar_police_station.png',
 			type: 'General',
 			enabled: true
 		},
 		{
 			name: 'Medical',
-			icon: 'General/wall-breach.png',
+			icon: 'radar/radar_hospital.png',
+			type: 'General',
+			enabled: true
+		},
+		{
+			name: 'Restaurants',
+			icon: 'General/radar_bar.png',
 			type: 'General',
 			enabled: true
 		}
