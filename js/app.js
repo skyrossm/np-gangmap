@@ -162,6 +162,12 @@ $(function() {
 			enabled: true
 		},
 		{
+			name: 'Automotive',
+			icon: 'radar/radar_acsr_race_hotring.png',
+			type: 'General',
+			enabled: true
+		},
+		{
 			name: 'Heists',
 			icon: 'radar/radar_heist.png',
 			type: 'General',

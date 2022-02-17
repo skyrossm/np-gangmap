@@ -515,7 +515,7 @@
 	},
 	{
 		"id": 23,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Ottos Auto",
 		"notes": "Ottos Autos is a second-hand car dealership and mechanic shop created by Otto Delmar. The ownership of the business is split three ways between the Diamond Casino and Resort (Dean Watson and Otto), Leslie Lingberg and Marlo Stanfield. As Otto is also the creator of Diamond Hand Credit the shop is able to offer fast and easy loans to people buying cars who need a little extra cash. With Leslie Lingberg being a 33% shareholder, the business has a partnership with PDM where people looking to sell cars will be directed to Ottos Autos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Ottos_Autos",
@@ -531,7 +531,7 @@
 	},
 	{
 		"id": 24,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Hayes",
 		"notes": "The repair shop was previously owned by Igor Skovacic. Ownership has since been passed on to Shane Powers.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Hayes_Auto_Body_Repairs",
@@ -547,7 +547,7 @@
 	},
 	{
 		"id": 25,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Iron Hog Repairs",
 		"notes": "Iron Hog is owned and run by Lucille Hellman, and originally operated out of the garage at the Lost MC compound in Stab City, when it was founded in 2020. In 2021, Iron Hog was relocated to its own building at the Sandy Shores Airfield, and made its grand opening on September 11th, 2021. The shop specializes in motorcycles and is protected by the Lost MC",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Iron_Hog_Repairs",
@@ -612,7 +612,7 @@
 	},
 	{
 		"id": 29,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Harmony",
 		"notes": "Harmony Repairs Garage or Harmony to most, is a well-known repair shop owned by Jordan Walker in Northern Blaine County.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Harmony_Repairs_Garage",
@@ -1225,7 +1225,7 @@
 	},
 	{
 		"id": 58,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Little Seoul Gas Station",
 		"notes": "A very popular gas station located in Little Seoul.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Little_Seoul",
@@ -1276,7 +1276,7 @@
 	},
 	{
 		"id": 61,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "The Vinewood Racetrack",
 		"notes": "4EQ is an entertainment and event planning company operating out of East Vinewood. They own the Vinewood Racetrack, which is behind Diamond Casino and Resort, currently occupy the QuickFix near the Racetrack as one of their less official meeting locations, and were given office #3 in East Vinewood on the corner of Occupation Avenue & Power Street by Thomas Dwayne to conduct official business. They have no direct affiliation with the casino despite their sharing of a campus. 4EQ's name is a shortening of The Four Equestrians.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Alta_Street_Projects",
@@ -1338,7 +1338,7 @@
 	},
 	{
 		"id": 65,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Tuner Shop",
 		"notes": "The Tuner Shop, also known as the Tuna Shop, is a repair shop and car dealership owned by Eddie Marshall. He owns 52%. It is managed by Tommy Cruizer, and its Sales Operations are run by Mary Mushkin, Chip Wheeler and Eddie himself.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Tuner_Shop",
@@ -1375,7 +1375,7 @@
 	},
 	{
 		"id": 67,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Benny's Original Motor Works",
 		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
@@ -1414,7 +1414,7 @@
 	},
 	{
 		"id": 692,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Deluxe Car Garage/Showroom",
 		"notes": "Associated with H&O Exports",
 		"wiki_link": "",
@@ -1430,7 +1430,7 @@
 	},
 	{
 		"id": 690,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "H&O Exports",
 		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter full control of operations.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/H%26O_Exports",
@@ -1447,7 +1447,7 @@
 	},
 	{
 		"id": 691,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "H&O Exports Entrance",
 		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter full control of operations.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/H%26O_Exports",
@@ -1479,7 +1479,7 @@
 	},
 	{
 		"id": 71,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Premium Deluxe Motorsport",
 		"notes": "Premium Deluxe Motorsport, or PDM as most call it, is a car dealership run by businessman Leslie Lingberg. PDM is the place where most people buy their first car in city. PDM has a working relationship with Diamond Hand Credit who provide financing to prospective car buyers.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Premium_Deluxe_Motorsport",
@@ -1551,7 +1551,7 @@
 	},
 	{
 		"id": 75,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Strawberry Gas Station",
 		"notes": "",
 		"wiki_link": "",
@@ -1613,7 +1613,7 @@
 	},
 	{
 		"id": 79,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "San Chianski Mountain Gas Station",
 		"notes": "",
 		"order": 2,
@@ -1628,7 +1628,7 @@
 	},
 	{
 		"id": 80,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Mirror Park Gas Station",
 		"notes": "",
 		"order": 2,
@@ -1665,7 +1665,7 @@
 	},
 	{
 		"id": 82,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Impound Lot",
 		"notes": "Where cars go when they get impounded.",
 		"order": 2,
@@ -1730,7 +1730,7 @@
 	},
 	{
 		"id": 85,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Red Parking Garage",
 		"notes": "",
 		"wiki_link": "",
@@ -1897,7 +1897,7 @@
 	},
 	{
 		"id": 93,
-		"type": "Neutral Zones",
+		"type": "Automotive",
 		"title": "Richman Glen Gas Station",
 		"notes": "",
 		"wiki_link": "",
