@@ -1432,11 +1432,11 @@
 		"id": 690,
 		"type": "Automotive",
 		"title": "H&O Exports",
-		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter full control of operations.",
+		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operations.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/H%26O_Exports",
 		"order": 2,
 		"strokecolor": "00CAD8",
-		"fillcolor": "00CADA",
+		"fillcolor": "00CADAA0",
 		"latlngarray": [
 			{"lat": 62.203, "lng": -116.545},
 			{"lat": 62.101, "lng": -112.420},
@@ -1449,16 +1449,16 @@
 		"id": 691,
 		"type": "Automotive",
 		"title": "H&O Exports Entrance",
-		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter full control of operations.",
+		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operations.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/H%26O_Exports",
 		"order": 2,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CADA",
 		"latlngarray": [
-			{"lat": 62.885, "lng": -115.320},
-			{"lat": 62.935, "lng": -116.331},
-			{"lat": 63.327, "lng": -116.232},
-			{"lat": 63.312, "lng": -115.221}
+			{"lat": 63.106, "lng": -116.047},
+			{"lat": 63.081, "lng": -115.289},
+			{"lat": 62.961, "lng": -115.300},
+			{"lat": 62.996, "lng": -116.080}
 		]
 	},
 	{
