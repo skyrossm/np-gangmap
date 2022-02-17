@@ -150,7 +150,7 @@ $(function() {
 			enabled: true
 		},
 		{
-			name: 'Neutral Zones',
+			name: 'Neutral',
 			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: true

@@ -378,7 +378,7 @@
 	},
 	{
 		"id": 17,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Rich Apartments",
 		"notes": "The tier 3 apartments for high-class citizens.",
 		"order": 2,
@@ -409,7 +409,7 @@
 	},
 	{
 		"id": 19,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Deans World",
 		"notes": "Where the farmers market ends up at night, Deans world is also where you can buy stuff, hold concerts on the main stage and ride a rollercoaster.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Dean_World",
@@ -425,7 +425,7 @@
 	},
 	{
 		"id": 20,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Farmers Market",
 		"notes": "Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff. It is operational only during the day from 8am to 7pm. At night, the vendors are directed to operate at the Night Market of Dean World in Los Santos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Andi_Jones_Farmers_Market",
@@ -563,7 +563,7 @@
 	},
 	{
 		"id": 26,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "The Fence",
 		"notes": "Dont complain if you get robbed here",
 		"order": 2,
@@ -578,7 +578,7 @@
 	},
 	{
 		"id": 27,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Vultur Lé Culturé ",
 		"notes": "Vultur Lé Culturé, also known simply as the Gallery, is an art gallery and auction house founded by Ramee El-Rahman",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Vultur_L%C3%A9_Cultur%C3%A9",
@@ -870,7 +870,7 @@
 	},
 	{
 		"id": 38,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Pink Cage Motel",
 		"notes": "",
 		"order": 2,
@@ -885,7 +885,7 @@
 	},
 	{
 		"id": 39,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "West Side Motel",
 		"notes": "",
 		"order": 2,
@@ -932,7 +932,7 @@
 	},
 	{
 		"id": 42,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Vanilla Unicorn",
 		"notes": "The place used to be strip club and was owned by Liv Lassen and Dexx Martin. The club offered exclusive memberships for influential citizens allowing entrance into the Vanilla Unicorn for those who purchased a subscription. The state shut down the location after Liv Lassen was deported from the state by Federal order. Dexx repurchased the club with Jessie Jugg and have since repurposed it as a private entertainment club. The VU sold permanent VIP memberships for a limited time prior to the business's reopening. During renovation hot tubs and towel racks were installed. Additionally, camera and computer equipment was purchased for their Mitch.tv streaming deal.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
@@ -998,7 +998,7 @@
 	},
 	{
 		"id": 46,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Integrity Tower",
 		"notes": "The upgraded apartments for high-class citizens.",
 		"order": 2,
@@ -1142,7 +1142,7 @@
 	},
 	{
 		"id": 54,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "North Side Motel",
 		"notes": "",
 		"order": 2,
@@ -1157,7 +1157,7 @@
 	},
 	{
 		"id": 55,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "DODO Logistics",
 		"notes": "Randy Bullet's freight company.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/DODO_Logistics",
@@ -1195,7 +1195,7 @@
 	},
 	{
 		"id": 57,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "National Paintball Association",
 		"notes": "The National Paintball Association (NPA) is a professional paintball league in San Andreas.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/National_Paintball_Association",
@@ -1257,7 +1257,7 @@
 	},
 	{
 		"id": 60,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Alta Street Apartments",
 		"notes": "The Apartments is where new players wake up.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Alta_Street_Projects",
@@ -1515,7 +1515,7 @@
 	},
 	{
 		"id": 73,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "The Cinema",
 		"notes": "The filming spot of The Kebun Springer Show.",
 		"order": 2,
@@ -1535,7 +1535,7 @@
 	},
 	{
 		"id": 74,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Mr. Kebun's Dojo",
 		"notes": "A place to practice martial arts and swordsmanship.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Mr._Kebun",
@@ -1583,7 +1583,7 @@
 	},
 	{
 		"id": 77,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Mega Mall",
 		"notes": "A place to buy repair kits, radios, and body armor.",
 		"order": 2,
@@ -1598,7 +1598,7 @@
 	},
 	{
 		"id": 78,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "You Tool",
 		"notes": "A place to buy repair kits, radios, and body armor.",
 		"order": 2,
@@ -1644,7 +1644,7 @@
 	},
 	{
 		"id": 81,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Digital Den",
 		"notes": "The Digital Den is an electronics business owned by Jacob Harth and Erin Cox",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Digital_Den",
@@ -1681,7 +1681,7 @@
 	},
 	{
 		"id": 83,
-		"type": "Neutral Zones",
+		"type": "Medical",
 		"title": "Boe Jangles's House",
 		"notes": "Boe Jangles was a well known criminal in Los Santos and had connections across the city. He also worked for and founded the White Widow Dispensary. Boe had close ties with Chang Gang and was initiated into the gang on July 8th 2020. On July 4th, 2020 he retired and can now be found giving out hugs at his house. Reset in peace.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Boe_Jangles",
@@ -1764,7 +1764,7 @@
 	},
 	{
 		"id": 871,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Kevin and Eric's Mansion",
 		"notes": "Kevin Ram and Eric Wolfenstein's mansion. Ray Mond was the third person to gain access to the  mansion.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Kevin_Ram",
@@ -1797,7 +1797,7 @@
 	},
 		{
 		"id": 87,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Cerberus Business Center",
 		"notes": "The Cerberus Business Center offers spacious offices with gorgeous cityscape views for the businesses of Los Santos. The initial idea was to bring all Cerberus executives into one building where they can all get to know each other. Cerberus tasked Cassie Cupcake to screen small businesses at Dean World and the Andi Jones Farmers Market that could occupy office space in the building. Once the business center opened, the Clean Queens brought in more businesses.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Cerberus_Business_Center",
@@ -1881,7 +1881,7 @@
 	},
 	{
 		"id": 92,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Chang Gang Warehouse",
 		"notes": "A Chang Gang warehouse full of DODO Logistic pallets. There is a changing room here.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
@@ -1915,7 +1915,7 @@
 	},
 	{
 		"id": 94,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Carmella Corset's House",
 		"notes": "Chang Gang and Clean Queens members visit here frequently.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Carmella_Corset",
@@ -1933,7 +1933,7 @@
 	},
 	{
 		"id": 95,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Queen Manor",
 		"notes": "Queen Manor is owned by Nancy Drew and co-owned by the Clean Queens, The Manor is a home for the CEO women who work for Cerberus. Nancy Drew purchased the Manor late night December 20th, 2021. The goal for the Manor is to be a community meeting spot for the CEO's and those affiliated with Cerberus. Queen Manor got it's name because it is inspired by Lang Buddha's Clean Manor.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Queen_Manor",
@@ -1968,7 +1968,7 @@
 	},
 	{
 		"id": 97,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "LSBN",
 		"notes": "Los Santos Broadcast Network (LSBN) is a media and entertainment organization. The company is based out of the upper floors of the LS News Center building, on the corner of Lindsay Circus and Palomino Avenue in Little Seoul.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/LSBN",
@@ -1984,7 +1984,7 @@
 	},
 	{
 		"id": 98,
-		"type": "Neutral Zones",
+		"type": "Neutral",
 		"title": "Wu-Chang Records",
 		"notes": "Wu-Chang Records was created by Mr. Wang Chang (Mr. Kebun) and Vinny Pistone, and established under Mr. Wang Chang's name. Vinny and Mr. Chang unofficially signed Lil Erf as the label's first artist, after the debut of his hit song Chang Gang.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Wu_Chang_Records",
