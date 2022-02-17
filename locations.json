@@ -346,6 +346,22 @@
 		]
 	},
 	{
+		"id": 141,
+		"type": "Medical",
+		"title": "Central Los Santos Medical Center",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": 63.987, "lng": -121.453},
+			{"lat": 64.211, "lng": -122.073},
+			{"lat": 64.639, "lng": -121.233},
+			{"lat": 64.294, "lng": -120.255}
+		]
+	},
+	{
 		"id": 15,
 		"type": "Legal",
 		"title": "PBSO",
