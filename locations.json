@@ -1902,8 +1902,8 @@
 		"notes": "Where laptops are bought.",
 		"wiki_link": "",
 		"order": 2,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
 		"latlngarray": [
 			{"lat": 67.152, "lng": -137.920},
 			{"lat": 66.985, "lng": -137.590},
