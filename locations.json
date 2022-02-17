@@ -1718,14 +1718,14 @@
 		"notes": "Boe Jangles was a well known criminal in Los Santos and had connections across the city. He also worked for and founded the White Widow Dispensary. Boe had close ties with Chang Gang and was initiated into the gang on July 8th 2020. On July 4th, 2020 he retired and can now be found giving out hugs at his house. Reset in peace.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Boe_Jangles",
 		"order": 2,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
 		"latlngarray": [
-			{"lat": 68.460, "lng": -114.464},
+			{"lat": 68.431, "lng": -114.349},
 			{"lat": 68.415, "lng": -114.255},
 			{"lat": 68.347, "lng": -114.134},
 			{"lat": 68.269, "lng": -114.365},
-			{"lat": 68.387, "lng": -114.727}
+			{"lat": 68.342, "lng": -114.613}
 		]
 	},
 	{
