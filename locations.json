@@ -1881,9 +1881,9 @@
 	},
 	{
 		"id": 92,
-		"type": "Neutral",
+		"type": "Territories",
 		"title": "Chang Gang Warehouse",
-		"notes": "A Chang Gang warehouse full of DODO Logistic pallets. There is a changing room here.",
+		"notes": "A Chang Gang safe house full of DODO Logistic pallets. There is a changing room and office here.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
 		"order": 2,
 		"strokecolor": "0080FF",
