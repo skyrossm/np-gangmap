@@ -300,7 +300,7 @@
 	},
 	{
 		"id": 12,
-		"type": "Neutral Zones",
+		"type": "Legal",
 		"title": "SDSO",
 		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
@@ -347,7 +347,7 @@
 	},
 	{
 		"id": 15,
-		"type": "Neutral Zones",
+		"type": "Legal",
 		"title": "PBSO",
 		"notes": "Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Paleto_Bay_Sheriff%27s_Office",
@@ -916,7 +916,7 @@
 	},
 	{
 		"id": 41,
-		"type": "Neutral Zones",
+		"type": "Legal",
 		"title": "Mission Row PD",
 		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
 		"wiki_link":"https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
@@ -982,7 +982,7 @@
 	},
 	{
 		"id": 45,
-		"type": "Neutral Zones",
+		"type": "Legal",
 		"title": "The Courthouse",
 		"notes": "Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
@@ -1495,7 +1495,7 @@
 	},
 	{
 		"id": 72,
-		"type": "Neutral Zones",
+		"type": "Legal",
 		"title": "AirX Flight School",
 		"notes": "AirX is owned by Jackie Snow. Knowing their passion, skill, and experience for flying, Bryce Miller, Tony Corleone, and Olivia Copper were the first to be recruited into the flight school. Bryce was hired as Flight Chief/Manager and Instructor of AirX. Tony and Copper were also hired as Flight Instructors. AirX Flight School operates out of Fort Zancudo military base.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/AirX_Flight_School",
@@ -1665,7 +1665,7 @@
 	},
 	{
 		"id": 82,
-		"type": "Automotive",
+		"type": "Legal",
 		"title": "Impound Lot",
 		"notes": "Where cars go when they get impounded.",
 		"order": 2,
