@@ -1240,6 +1240,22 @@
 		]
 	},
 	{
+		"id": 581,
+		"type": "Automotive",
+		"title": "Davis Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 62.646, "lng": -124.944},
+			{"lat": 62.877, "lng": -125.545},
+			{"lat": 62.977, "lng": -125.065},
+			{"lat": 62.812, "lng": -124.636}
+		]
+	},
+	{
 		"id": 59,
 		"type": "Territories",
 		"title": "Chang Gang Compound",
