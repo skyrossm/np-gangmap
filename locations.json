@@ -1472,6 +1472,22 @@
 	{
 		"id": 3011,
 		"type": "Automotive",
+		"title": "Beekers Garage & Parts",
+		"notes": "Repair shop",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 83.337, "lng": -123.696},
+			{"lat": 83.360, "lng": -123.531},
+			{"lat": 83.322, "lng": -123.267},
+			{"lat": 83.304, "lng": -123.388}
+		]
+	},
+	{
+		"id": 3013,
+		"type": "Automotive",
 		"title": "The Vinewood Racetrack",
 		"notes": "4EQ is an entertainment and event planning company operating out of East Vinewood. They own the Vinewood Racetrack, which is behind Diamond Casino and Resort, currently occupy the QuickFix near the Racetrack as one of their less official meeting locations, and were given office #3 in East Vinewood on the corner of Occupation Avenue & Power Street by Thomas Dwayne to conduct official business. They have no direct affiliation with the casino despite their sharing of a campus. 4EQ's name is a shortening of The Four Equestrians.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Alta_Street_Projects",
@@ -1492,7 +1508,7 @@
 		]
 	},
 	{
-		"id": 3012,
+		"id": 3014,
 		"type": "Automotive",
 		"title": "Red Parking Garage",
 		"notes": "",
@@ -1509,7 +1525,7 @@
 		]
 	},
 	{
-		"id": 3013,
+		"id": 3015,
 		"type": "Automotive",
 		"title": "Little Seoul Gas Station",
 		"notes": "A very popular gas station located in Little Seoul.",
@@ -1525,7 +1541,7 @@
 		]
 	},
 	{
-		"id": 3014,
+		"id": 3016,
 		"type": "Automotive",
 		"title": "Davis Gas Station",
 		"notes": "",
@@ -1541,7 +1557,7 @@
 		]
 	},
 	{
-		"id": 3015,
+		"id": 3017,
 		"type": "Automotive",
 		"title": "Richman Glen Gas Station",
 		"notes": "",
@@ -1559,7 +1575,7 @@
 		]
 	},
 	{
-		"id": 3016,
+		"id": 3018,
 		"type": "Automotive",
 		"title": "Strawberry Gas Station",
 		"notes": "",
@@ -1575,7 +1591,7 @@
 		]
 	},
 	{
-		"id": 3017,
+		"id": 3019,
 		"type": "Automotive",
 		"title": "San Chianski Mountain Gas Station",
 		"notes": "",
@@ -1590,7 +1606,7 @@
 		]
 	},
 	{
-		"id": 3018,
+		"id": 3020,
 		"type": "Automotive",
 		"title": "Mirror Park Gas Station",
 		"notes": "",
