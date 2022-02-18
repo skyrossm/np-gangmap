@@ -1486,6 +1486,25 @@
 		]
 	},
 	{
+		"id": 3012,
+		"type": "Automotive",
+		"title": "Los Santos Customs",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 69.369, "lng": -127.886},
+			{"lat": 69.307, "lng": -127.347},
+			{"lat": 69.163, "lng": -127.468},
+			{"lat": 69.097, "lng": -127.479},
+			{"lat": 69.085, "lng": -127.710},
+			{"lat": 69.050, "lng": -128.018},
+			{"lat": 69.136, "lng": -128.149}
+		]
+	},
+	{
 		"id": 3013,
 		"type": "Automotive",
 		"title": "The Vinewood Racetrack",
