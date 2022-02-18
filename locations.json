@@ -1319,8 +1319,24 @@
 			{"lat": 65.771, "lng": -125.135}
 		]
 	},
-		{
+	{
 		"id": 3002,
+		"type": "Automotive",
+		"title": "Strawberry Benny's Original Motor Works",
+		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
+		"order": 2,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": 64.775, "lng": -126.411},
+			{"lat": 64.773, "lng": -127.077},
+			{"lat": 64.651, "lng": -127.077},
+			{"lat": 64.651, "lng": -126.418}
+		]
+	},
+	{
+		"id": 3003,
 		"type": "Automotive",
 		"title": "Premium Deluxe Motorsport",
 		"notes": "Premium Deluxe Motorsport, or PDM as most call it, is a car dealership run by businessman Leslie Lingberg. PDM is the place where most people buy their first car in city. PDM has a working relationship with Diamond Hand Credit who provide financing to prospective car buyers.",
@@ -1336,7 +1352,7 @@
 		]
 	},
 	{
-		"id": 3003,
+		"id": 3004,
 		"type": "Automotive",
 		"title": "Tuner Shop",
 		"notes": "The Tuner Shop, also known as the Tuna Shop, is a repair shop and car dealership owned by Eddie Marshall. He owns 52%. It is managed by Tommy Cruizer, and its Sales Operations are run by Mary Mushkin, Chip Wheeler and Eddie himself.",
@@ -1357,7 +1373,7 @@
 		}
 	},
 	{
-		"id": 3004,
+		"id": 3005,
 		"type": "Automotive",
 		"title": "Harmony",
 		"notes": "Harmony Repairs Garage or Harmony to most, is a well-known repair shop owned by Jordan Walker in Northern Blaine County.",
@@ -1373,7 +1389,7 @@
 		]
 	},
 	{
-		"id": 3005,
+		"id": 3006,
 		"type": "Automotive",
 		"title": "Ottos Auto",
 		"notes": "Ottos Autos is a second-hand car dealership and mechanic shop created by Otto Delmar. The ownership of the business is split three ways between the Diamond Casino and Resort (Dean Watson and Otto), Leslie Lingberg and Marlo Stanfield. As Otto is also the creator of Diamond Hand Credit the shop is able to offer fast and easy loans to people buying cars who need a little extra cash. With Leslie Lingberg being a 33% shareholder, the business has a partnership with PDM where people looking to sell cars will be directed to Ottos Autos.",
@@ -1389,7 +1405,7 @@
 		]
 	},
 	{
-		"id": 3006,
+		"id": 3007,
 		"type": "Automotive",
 		"title": "Hayes",
 		"notes": "The repair shop was previously owned by Igor Skovacic. Ownership has since been passed on to Shane Powers.",
@@ -1405,7 +1421,7 @@
 		]
 	},
 	{
-		"id": 3007,
+		"id": 3008,
 		"type": "Automotive",
 		"title": "Iron Hog Repairs",
 		"notes": "Iron Hog is owned and run by Lucille Hellman, and originally operated out of the garage at the Lost MC compound in Stab City, when it was founded in 2020. In 2021, Iron Hog was relocated to its own building at the Sandy Shores Airfield, and made its grand opening on September 11th, 2021. The shop specializes in motorcycles and is protected by the Lost MC",
@@ -1421,7 +1437,7 @@
 		]
 	},
 	{
-		"id": 3008,
+		"id": 3009,
 		"type": "Automotive",
 		"title": "H&O Exports",
 		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operations.",
@@ -1438,7 +1454,7 @@
 		]
 	},
 	{
-		"id": 3009,
+		"id": 3010,
 		"type": "Automotive",
 		"title": "H&O Exports Entrance",
 		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operatons.",
@@ -1454,7 +1470,7 @@
 		]
 	},
 	{
-		"id": 3010,
+		"id": 3011,
 		"type": "Automotive",
 		"title": "Deluxe Car Garage/Showroom",
 		"notes": "Associated with H&O Exports",
@@ -1470,7 +1486,7 @@
 		]
 	},
 	{
-		"id": 3011,
+		"id": 3012,
 		"type": "Automotive",
 		"title": "Beekers Garage & Parts",
 		"notes": "Repair shop",
@@ -1486,7 +1502,7 @@
 		]
 	},
 	{
-		"id": 3012,
+		"id": 3013,
 		"type": "Automotive",
 		"title": "Los Santos Customs",
 		"notes": "",
@@ -1505,7 +1521,7 @@
 		]
 	},
 	{
-		"id": 3013,
+		"id": 3014,
 		"type": "Automotive",
 		"title": "The Vinewood Racetrack",
 		"notes": "4EQ is an entertainment and event planning company operating out of East Vinewood. They own the Vinewood Racetrack, which is behind Diamond Casino and Resort, currently occupy the QuickFix near the Racetrack as one of their less official meeting locations, and were given office #3 in East Vinewood on the corner of Occupation Avenue & Power Street by Thomas Dwayne to conduct official business. They have no direct affiliation with the casino despite their sharing of a campus. 4EQ's name is a shortening of The Four Equestrians.",
@@ -1527,7 +1543,7 @@
 		]
 	},
 	{
-		"id": 3014,
+		"id": 3015,
 		"type": "Automotive",
 		"title": "Red Parking Garage",
 		"notes": "",
@@ -1544,7 +1560,7 @@
 		]
 	},
 	{
-		"id": 3015,
+		"id": 3016,
 		"type": "Automotive",
 		"title": "Little Seoul Gas Station",
 		"notes": "A very popular gas station located in Little Seoul.",
@@ -1560,7 +1576,7 @@
 		]
 	},
 	{
-		"id": 3016,
+		"id": 3017,
 		"type": "Automotive",
 		"title": "Davis Gas Station",
 		"notes": "",
@@ -1576,7 +1592,7 @@
 		]
 	},
 	{
-		"id": 3017,
+		"id": 3018,
 		"type": "Automotive",
 		"title": "Richman Glen Gas Station",
 		"notes": "",
@@ -1594,7 +1610,7 @@
 		]
 	},
 	{
-		"id": 3018,
+		"id": 3019,
 		"type": "Automotive",
 		"title": "Strawberry Gas Station",
 		"notes": "",
@@ -1610,7 +1626,7 @@
 		]
 	},
 	{
-		"id": 3019,
+		"id": 3020,
 		"type": "Automotive",
 		"title": "San Chianski Mountain Gas Station",
 		"notes": "",
@@ -1625,7 +1641,7 @@
 		]
 	},
 	{
-		"id": 3020,
+		"id": 3021,
 		"type": "Automotive",
 		"title": "Mirror Park Gas Station",
 		"notes": "",
@@ -1641,7 +1657,7 @@
 		]
 	},
 	{
-		"id": 3021,
+		"id": 3022,
 		"type": "Automotive",
 		"title": "Paleto Bay Gas Station",
 		"notes": "",
@@ -1656,7 +1672,7 @@
 		]
 	},
 	{
-		"id": 3022,
+		"id": 3023,
 		"type": "Automotive",
 		"title": "Downtown Vinewood Gas Station",
 		"notes": "",
