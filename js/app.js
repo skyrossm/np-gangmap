@@ -181,7 +181,7 @@ $(function() {
 		},
 		{
 			name: 'Restaurants',
-			icon: 'General/radar_bar.png',
+			icon: 'radar/radar_bar.png',
 			type: 'General',
 			enabled: true
 		}
