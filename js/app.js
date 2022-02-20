@@ -266,12 +266,21 @@ $(function() {
 			this.$el.show();
 			return this;
 		},
+
 	});
 
 	var MapView = Backbone.View.extend({
 		initialize: function() {
 			this.mapType = 'Atlas';
-			this.mapDetails = { Atlas: '#0fa8d2', Satellite: '#143d6b', Road: '#1862ad' };
+			this.mapDetails = {
+				'Atlas': '#0fa8d2',
+				'Satellite': '#143d6b',
+				'Road': '#1862ad',
+				'Atlas_Roads': '#0fa8d2',
+				'Satellite_Roads': '#143d6b',
+				'Road_Roads': '#1862ad'
+			};
+
 			this.mapOptions = {
 				center: new google.maps.LatLng(66, -125),
 				zoom: 5,

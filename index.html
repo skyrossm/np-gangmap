@@ -33,9 +33,12 @@
 					Select Map Type
 				</button>
 				<div class="dropdown-menu" aria-labelledby="ddmenu">
-					<a href="#" id="Atlas" class="active dropdown-item" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas'); $(this).addClass('active');">Atlas</a>
-					<a href="#" id="Satellite" class="dropdown-item" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite'); $(this).addClass('active');">Satellite</a>
-					<a href="#" id="Road" class="dropdown-item" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road'); $(this).addClass('active');">Road</a>
+					<a href="#" id="Atlas"           class="dropdown-item active" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas');           $(this).addClass('active');">Atlas</a>
+					<a href="#" id="Satellite"       class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite');       $(this).addClass('active');">Satellite</a>
+					<a href="#" id="Road"            class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road');            $(this).addClass('active');">Road</a>
+					<a href="#" id="Atlas_Roads"     class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas_Roads');     $(this).addClass('active');">Atlas w/ Streets</a>
+					<a href="#" id="Satellite_Roads" class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite_Roads'); $(this).addClass('active');">Satellite w/ Streets</a>
+					<a href="#" id="Road_Roads"      class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road_Roads');      $(this).addClass('active');">Road w/ Streets</a>
 				</div>
 			</div>
 
