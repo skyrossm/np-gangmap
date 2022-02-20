@@ -18,12 +18,6 @@ $(function() {
 
 	var currentMarker;
 
-	var assetsUrl = function() {
-		return 'https://skyrossm.github.io/np-gangmap/';
-	};
-
-	Handlebars.registerHelper('assetsUrl', assetsUrl);
-
 	var timestampToSeconds = function(stamp) {
 		stamp = stamp.split(':');
 		return (parseInt(stamp[0], 10) * 60) + parseInt(stamp[1], 10);
@@ -377,7 +371,7 @@ $(function() {
 			if ( ! coord) {
 				return null;
 			}
-			return assetsUrl() + 'tiles/' + this.mapType.toLowerCase() + '/' + zoomLevel + '-' + coord.x + '_' + coord.y + '.png';
+			return 'tiles/' + this.mapType.toLowerCase() + '/' + zoomLevel + '/' + coord.x + '_' + coord.y + '.png';
 		},
 
 		normalizeCoordinates: function(coord, zoom) {
