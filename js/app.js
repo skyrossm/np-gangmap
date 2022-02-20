@@ -15,32 +15,6 @@ $(function() {
 	$(window).resize(onResize);
 
 
-	// window.isTourMode = false;
-
-	// if (window.location.hash == '#tour') {
-	// 	$('body').addClass('tour');
-	// 	window.isTourMode = true;
-	// }
-	// else {
-	// 	$('body').removeClass('tour');
-	// 	window.isTourMode = false;
-	// 	// $('#map').css({position:'absolute'});
-	// }
-
-	// $(window).on('hashchange', function() {
-	// 	if (window.location.hash == '#tour') {
-	// 		$('body').addClass('tour');
-	// 		$('#map').css({position:'relative'});
-	// 		window.isTourMode = true;
-	// 		var x = locations.findWhere({ type: 'Nuclear Waste' });
-	// 		Vent.trigger('location:clicked', x, true);
-	// 	}
-	// 	else {
-	// 		$('body').removeClass('tour');
-	// 		$('#map').css({position:'absolute'});
-	// 		window.isTourMode = false;
-	// 	}
-	// });
 
 	var currentMarker;
 
