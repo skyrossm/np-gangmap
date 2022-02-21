@@ -44,7 +44,7 @@ $(function() {
 				position: bounds.getCenter(),
 				text: this.get('title'),
 				strokeWeight: 1,
-				strokeColor: '#000',
+				strokeColor: '#000000',
 				fontColor: '#' + this.get('fillcolor'),
 				zIndex: 10000,
 			});
