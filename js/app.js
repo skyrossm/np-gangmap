@@ -83,15 +83,6 @@ $(function() {
 	var CategoriesCollection = Backbone.Collection.extend({
 		model: CategoryModel,
 
-		getIcon: function(type) {
-			var o = this.findWhere({ name: type });
-			if (o) {
-				return o.get('icon');
-			}
-
-			return assetsUrl() + (o ? o.get('icon') : 'blank.png');
-		},
-
 		forView: function(type) {
 			var g = this.groupBy('type');
 			return _(g).map(function(categories, type) {
@@ -458,24 +449,6 @@ $(function() {
 		},
 
 		popupLocation: function(location, panTo) {
-			// if (window.isTourMode) {
-			// 	$('#tour-info').html(this.popupTemplate(location.toJSON()));
-			// 	var n = locations.at(locations.indexOf(location) + 1);
-			// 	if (n) {
-			// 		$('#tour-next').text(n.get('title'));
-			// 	}
-			// 	var p = locations.at(locations.indexOf(location) - 1);
-			// 	if (p) {
-			// 		$('#tour-prev').text(p.get('title'));
-			// 	}
-
-			// 	if (panTo) {
-			// 		this.map.panTo(location.get('marker').getPosition());
-			// 		this.map.setZoom(5);
-			// 	}
-			// }
-			// else {
-
 			var infoWindow = new google.maps.InfoWindow({
 				content: this.popupTemplate(location.toJSON()),
 			});
@@ -502,7 +475,6 @@ $(function() {
 
 			this.closePopupLocation();
 			this.currentInfoWindow = infoWindow;
-			// }
 		},
 
 		closePopupLocation: function() {
@@ -540,13 +512,6 @@ $(function() {
 				Vent.trigger('locations:visible', locs);
 			})
 			.value();
-	});
-
-	$('#tour-prev, #tour-next').click(function(e) {
-		e.preventDefault();
-		var navTo = $(this).text();
-		var x = locations.findWhere({ title: navTo });
-		if (x) Vent.trigger('location:clicked', x, true);
 	});
 });
 
