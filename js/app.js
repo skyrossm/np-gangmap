@@ -294,15 +294,16 @@ $(function() {
 		render: function() {
 			// Function to update coordination info windows
 			function updateCoordinationWindow(markerobject) {
+				function getContent(evt) {
+					return '</p><p>{"lat": ' + evt.latLng.lat().toFixed(3) + ', "lng": ' + evt.latLng.lng().toFixed(3) + '},</p>';
+				}
+
 				// Create new info window
 				var infoWindow = new google.maps.InfoWindow();
 
 				// onClick listener
 				google.maps.event.addListener(markerobject, 'click', function(evt) {
-					// Set content
-					infoWindow.setOptions({
-						content: '<p>' + 'Current Lat: ' + evt.latLng.lat().toFixed(3) + '<br>' + 'Current Lng: ' + evt.latLng.lng().toFixed(3) + '<br>' + 'Zoom Level: ' + map.getZoom() + '</p>',
-					});
+					infoWindow.setOptions({ content: getContent(evt) });
 
 					// Open the info window
 					infoWindow.open(map, markerobject);
@@ -310,10 +311,7 @@ $(function() {
 
 				// onDrag listener
 				google.maps.event.addListener(markerobject, 'drag', function(evt) {
-					// Set content
-					infoWindow.setOptions({
-						content: '<p>' + 'Current Lat: ' + evt.latLng.lat().toFixed(3) + '<br>' + 'Current Lng: ' + evt.latLng.lng().toFixed(3) + '<br>' + 'Zoom Level: ' + map.getZoom() + '</p>',
-					});
+					infoWindow.setOptions({ content: getContent(evt) });
 				});
 			}
 
