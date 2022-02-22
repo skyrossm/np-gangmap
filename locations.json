@@ -890,6 +890,51 @@
 			{"lat": 65.077, "lng": -120.768}
 		]
 	},
+	{
+		"id": 1037,
+		"type": "Territories",
+		"title": "Mortelle",
+		"notes": "Mortelle is an all female gang run and lead by Cindy Tipton. The gang currently runs upper Richman surrounding the Hotel and College area.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Mortelle",
+		"order": 2,
+		"strokecolor": "FF69B4",
+		"fillcolor": "FF69B4",
+		"latlngarray": [
+			{"lat": 70.125, "lng": -142.332},
+			{"lat": 70.263, "lng": -142.189},
+			{"lat": 70.407, "lng": -141.860},
+			{"lat": 70.536, "lng": -141.343},
+			{"lat": 70.620, "lng": -140.838},
+			{"lat": 70.652, "lng": -140.508},
+			{"lat": 70.652, "lng": -140.256},
+			{"lat": 70.521, "lng": -139.904},
+			{"lat": 70.455, "lng": -139.443},
+			{"lat": 70.627, "lng": -138.509},
+			{"lat": 70.766, "lng": -138.321},
+			{"lat": 70.838, "lng": -138.145},
+			{"lat": 70.906, "lng": -137.892},
+			{"lat": 70.953, "lng": -137.519},
+			{"lat": 70.975, "lng": -137.024},
+			{"lat": 70.985, "lng": -136.211},
+			{"lat": 70.842, "lng": -136.179},
+			{"lat": 70.740, "lng": -135.893},
+			{"lat": 70.650, "lng": -135.772},
+			{"lat": 70.577, "lng": -135.717},
+			{"lat": 70.485, "lng": -136.640},
+			{"lat": 70.445, "lng": -137.156},
+			{"lat": 70.437, "lng": -137.629},
+			{"lat": 70.378, "lng": -138.112},
+			{"lat": 70.569, "lng": -138.552},
+			{"lat": 70.442, "lng": -139.145},
+			{"lat": 70.361, "lng": -139.343},
+			{"lat": 70.324, "lng": -139.507},
+			{"lat": 70.170, "lng": -140.470},
+			{"lat": 70.110, "lng": -140.767},
+			{"lat": 70.016, "lng": -141.217},
+			{"lat": 69.982, "lng": -141.514},
+			{"lat": 69.975, "lng": -141.821}
+		]
+	},
 
 
 
