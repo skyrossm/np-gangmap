@@ -24,7 +24,12 @@
 			{"lat": 62.878, "lng": -125.533},
 			{"lat": 62.975, "lng": -125.072},
 			{"lat": 63.155, "lng": -124.116}
-		]
+		],
+		"video": {
+			"yt_id": "i2YIJT63HiU",
+			"yt_user_display": "Sahiiiie",
+			"yt_user_link": "channel/UCYE0RLAgQs8pbKxi8OZPl6A"
+		}
 	},
 	{
 		"id": 1002,
