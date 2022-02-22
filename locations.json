@@ -219,18 +219,20 @@
 	{
 		"id": 1009,
 		"type": "Territories",
-		"title": "NBC",
-		"notes": "Natural Born Crackheads, is a gang created and founded by Daquan Dumas and Guy Jones.",
+		"title": "Natural Born Crackheads",
+		"notes": "Natural Born Crackheads (NBC), is a gang created and founded by Daquan Dumas and Guy Jones.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Natural_Born_Crackheads",
 		"order": 2,
 		"strokecolor": "FD5E53",
 		"fillcolor": "FD5E53",
 		"latlngarray": [
-			{"lat": 70.348, "lng": -125.701},
-			{"lat": 70.374, "lng": -126.701},
-			{"lat": 70.114, "lng": -126.712},
-			{"lat": 70.088, "lng": -126.438},
-			{"lat": 69.971, "lng": -125.877}
+			{"lat": 70.503, "lng": -126.659},
+			{"lat": 70.484, "lng": -126.054},
+			{"lat": 70.514, "lng": -124.868},
+			{"lat": 70.506, "lng": -124.363},
+			{"lat": 69.828, "lng": -125.077},
+			{"lat": 70.103, "lng": -126.494},
+			{"lat": 70.118, "lng": -126.725}
 		]
 	},
 	{
