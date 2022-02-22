@@ -188,8 +188,8 @@
 		"notes": "The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Angels",
 		"order": 2,
-		"strokecolor": "000000",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": 69.318, "lng": -139.095},
 			{"lat": 69.434, "lng": -139.392},
