@@ -139,6 +139,12 @@ $(function() {
 			type: 'General',
 			enabled: true,
 		},
+		{
+			name: 'Deprecated',
+			icon: 'General/glitches.png',
+			type: 'General',
+			enabled: false,
+		},
 	]));
 
 	var showingLabels;

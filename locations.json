@@ -349,7 +349,7 @@
 	},
 	{
 		"id": 1014,
-		"type": "Territories",
+		"type": "Deprecated",
 		"title": "Vinewood Hills",
 		"notes": "Patrolled by the HOA for house robberies",
 		"wiki_link": "https://nopixel.fandom.com/wiki/HOA",
@@ -543,7 +543,7 @@
 	},
 	{
 		"id": 1020,
-		"type": "Territories",
+		"type": "Deprecated",
 		"title": "Little Seoul",
 		"notes": "The majority of Little Seoul is owned by Chang Gang. Their main location is at the Chang Gang compound. Mr.K has given his blessing to Sun Moon's gang, The Korean Mafia, to reside in Little Seoul. The Korean Mafia lives across the street from the Chang Gang compound.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Little_Seoul",
@@ -1257,7 +1257,7 @@
 	},
 	{
 		"id": 2024,
-		"type": "Neutral",
+		"type": "Deprecated",
 		"title": "Oxy Shop",
 		"notes": "",
 		"order": 2,
