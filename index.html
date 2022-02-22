@@ -3,14 +3,15 @@
 <head>
 	<meta charset="utf-8">
 	<title>NoPixel Territory Map</title>
-	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,100,300,500">
+	<link rel="icon" href="icons/favicon.ico"/>
+
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" href="fontawesome/css/font-awesome.css">
 	<link rel="stylesheet" href="style.css">
 
 	<script src="js/libs/jquery-min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 	<script src="js/libs/underscore-min.js"></script>
 	<script src="js/libs/backbone-min.js"></script>
 	<script src="js/libs/handlebars.js"></script>
@@ -32,23 +33,19 @@
 					Select Map Type
 				</button>
 				<div class="dropdown-menu" aria-labelledby="ddmenu">
-					<a href="#" id="Atlas" class="active dropdown-item" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas'); $(this).addClass('active');">Atlas</a>
-					<a href="#" id="Satellite" class="dropdown-item" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite'); $(this).addClass('active');">Satellite</a>
-					<a href="#" id="Road" class="dropdown-item" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road'); $(this).addClass('active');">Road</a>
+					<a href="#" id="Atlas"           class="dropdown-item active" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas');           $(this).addClass('active');">Atlas</a>
+					<a href="#" id="Satellite"       class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite');       $(this).addClass('active');">Satellite</a>
+					<a href="#" id="Road"            class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road');            $(this).addClass('active');">Road</a>
+					<!--a href="#" id="Atlas_Roads"     class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas_Roads');     $(this).addClass('active');">Atlas w/ Streets</a>
+					<a href="#" id="Satellite_Roads" class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite_Roads'); $(this).addClass('active');">Satellite w/ Streets</a>
+					<a href="#" id="Road_Roads"      class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road_Roads');      $(this).addClass('active');">Road w/ Streets</a-->
 				</div>
 			</div>
 
 		</ul>
 	</header>
 
-	<div id="tour-nav">
-		<a href="#" class="left">&laquo; <span id="tour-prev"></span></a>
-		<h3>Territory Tour</h3>
-		<a href="#" class="right"><span id="tour-next"></span> &raquo;</a>
-	</div>
-
 	<div id="map" style="background:rgb(43, 164, 210);"></div>
-	<div id="tour-info"></div>
 
 	<script type="x/template" id="categoriesTemplate">
 		{{#each categories}}
@@ -56,9 +53,9 @@
 				<h3>{{name}}</h3>
 				<ul>
 					{{#each types}}
-						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="{{assetsUrl}}icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a> <!--<a href="#tour" class="tt"></a>--></li>
+						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a></li>
 					{{/each}}
-					<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="{{assetsUrl}}icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a> <!--<a href="#tour" class="tt"></a>--></li>
+					<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a></li>
 
 				</ul>
 			</section>
@@ -105,15 +102,15 @@
 					{{/if}}
 					{{#if images}}
 						<br>
-			     		<h4>Images</h4>
+				 		<h4>Images</h4>
 					{{/if}}
 					{{#each images}}
 						<div class="image-{{id}}">
-					     	<span>{{headline}}</span>
-					     	<img src="{{url}}" class="image-{{id}}">
-					    </div>
-					    <br>
-			     	{{/each}}
+						 	<span>{{headline}}</span>
+						 	<img src="{{url}}" class="image-{{id}}">
+						</div>
+						<br>
+				 	{{/each}}
 					{{#if wiki_link}}
 						<hr>
 						<a target="_blank" href="{{wiki_link}}">See {{title}} on the NoPixel Wiki</a>
