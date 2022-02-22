@@ -871,6 +871,25 @@
 			{"lat": 73.638, "lng": -154.759}
 		]
 	},
+	{
+		"id": 1036,
+		"type": "Territories",
+		"title": "Gulag Gang",
+		"notes": "Gulag Gang also known as 'GG' was formed by Mickey S, Randy Bullet, Mari Posa, Curtis Swoleroid, Taco Prince, Ming Jingtai, and Jean Paul; while some members were going by their alter egos, others were operating under different names. Their connection from the gated city with Jean Paul brought them together in the early days of the purple county to set themselves as the ruling gang. At the time, Jean Paul was denied access to the gated city and named purple country as the 'gulag' which was the inspiration of the name 'Gulag Gang'. ",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Gulag_Gang",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 65.063, "lng": -122.262},
+			{"lat": 64.933, "lng": -122.273},
+			{"lat": 64.723, "lng": -122.361},
+			{"lat": 64.440, "lng": -122.856},
+			{"lat": 64.274, "lng": -122.229},
+			{"lat": 65.031, "lng": -120.746},
+			{"lat": 65.077, "lng": -120.768}
+		]
+	},
 
 
 
