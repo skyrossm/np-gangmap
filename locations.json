@@ -1850,6 +1850,27 @@
 		}
 	},
 	{
+		"id": 4003,
+		"type": "Heists",
+		"title": "VAR Heist",
+		"notes": "The VAR Heist is accessible from the roof of a building in Morningwood, using VAR headsets (obtained from the Yacht Heist) criminals can enter a virtual world to fight hostiles while attempting to hack into terminals and gain illegal data.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/VAR_Heist",
+		"order": 2,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 68.706, "lng": -126.630},
+			{"lat": 68.670, "lng": -126.419},
+			{"lat": 68.610, "lng": -126.504},
+			{"lat": 68.646, "lng": -126.716}
+		],
+		"video": {
+			"yt_id": "_ec0C13ipKE",
+			"yt_user_display": "Sykkuno",
+			"yt_user_link": "user/Sykkuno"
+		}
+	},
+	{
 		"id": 4005,
 		"type": "Heists",
 		"title": "Paleto Bank",
