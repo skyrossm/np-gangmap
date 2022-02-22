@@ -843,6 +843,34 @@
 			{"lat": 71.030, "lng": -125.666}
 		]
 	},
+	{
+		"id": 1035,
+		"type": "Territories",
+		"title": "The Guild",
+		"notes": "The Guild is a group of LARPers who play their Dungeons & Dragons characters in real life. They are commonly known as The Nerds. They originally met on a LARPing online forum and came to Los Santos to meet in real life for the first time. They do not consider themselves a gang.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/The_Guild",
+		"order": 2,
+		"strokecolor": "FFFFFF",
+		"fillcolor": "E75489",
+		"latlngarray": [
+			{"lat": 73.779, "lng": -154.636},
+			{"lat": 73.806, "lng": -155.822},
+			{"lat": 73.757, "lng": -155.932},
+			{"lat": 73.669, "lng": -156.329},
+			{"lat": 72.940, "lng": -156.747},
+			{"lat": 72.847, "lng": -156.692},
+			{"lat": 72.847, "lng": -158.670},
+			{"lat": 72.490, "lng": -158.670},
+			{"lat": 72.550, "lng": -156.472},
+			{"lat": 72.506, "lng": -156.242},
+			{"lat": 72.445, "lng": -155.841},
+			{"lat": 72.435, "lng": -155.291},
+			{"lat": 72.661, "lng": -155.375},
+			{"lat": 72.746, "lng": -155.331},
+			{"lat": 72.976, "lng": -155.023},
+			{"lat": 73.638, "lng": -154.759}
+		]
+	},
 
 
 
