@@ -994,6 +994,24 @@
 			{"lat": 67.171, "lng": -138.956}
 		]
 	},
+	{
+		"id": 1039,
+		"type": "Territories",
+		"title": "The Korean Mafia",
+		"notes": "The Korean Mafia, also known as the Sun Clan or Kkangpae was started and founded by Sun Moon. Mr. Kebun has given the Sun Clan his blessing.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 66.463, "lng": -132.366},
+			{"lat": 66.463, "lng": -131.883},
+			{"lat": 66.397, "lng": -131.883},
+			{"lat": 66.336, "lng": -131.911},
+			{"lat": 66.338, "lng": -132.366}
+		]
+	},
+
 
 
 	{
