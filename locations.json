@@ -595,22 +595,54 @@
 		"strokecolor": "882222",
 		"fillcolor": "228822",
 		"latlngarray": [
-			{"lat": 67.696, "lng": -140.670},
-			{"lat": 67.895, "lng": -140.077},
-			{"lat": 68.179, "lng": -138.879},
-			{"lat": 68.333, "lng": -138.209},
-			{"lat": 68.781, "lng": -139.247},
-			{"lat": 68.995, "lng": -139.775},
-			{"lat": 68.892, "lng": -140.049},
-			{"lat": 68.793, "lng": -140.126},
-			{"lat": 68.673, "lng": -140.170},
-			{"lat": 68.471, "lng": -140.571},
-			{"lat": 68.366, "lng": -140.989},
-			{"lat": 68.199, "lng": -141.318},
-			{"lat": 68.085, "lng": -141.538},
-			{"lat": 67.953, "lng": -141.472},
-			{"lat": 67.862, "lng": -141.263}
-		]
+			{"lat": 68.726, "lng": -133.350},
+			{"lat": 68.506, "lng": -134.492},
+			{"lat": 67.873, "lng": -133.613},
+			{"lat": 67.619, "lng": -135.195},
+			{"lat": 67.515, "lng": -135.635},
+			{"lat": 67.422, "lng": -135.942},
+			{"lat": 67.338, "lng": -136.129},
+			{"lat": 67.240, "lng": -136.624},
+			{"lat": 67.142, "lng": -137.195},
+			{"lat": 67.086, "lng": -137.645},
+			{"lat": 67.031, "lng": -138.338},
+			{"lat": 67.014, "lng": -138.876},
+			{"lat": 67.005, "lng": -139.348},
+			{"lat": 67.035, "lng": -139.656},
+			{"lat": 67.108, "lng": -140.106},
+			{"lat": 67.219, "lng": -140.689},
+			{"lat": 67.363, "lng": -141.205},
+			{"lat": 67.573, "lng": -141.908},
+			{"lat": 67.825, "lng": -142.735},
+			{"lat": 68.023, "lng": -143.471},
+			{"lat": 68.232, "lng": -144.306},
+			{"lat": 68.386, "lng": -144.789},
+			{"lat": 68.527, "lng": -145.547},
+			{"lat": 68.683, "lng": -145.404},
+			{"lat": 68.819, "lng": -145.206},
+			{"lat": 68.929, "lng": -144.921},
+			{"lat": 68.993, "lng": -144.635},
+			{"lat": 69.028, "lng": -144.371},
+			{"lat": 69.044, "lng": -144.086},
+			{"lat": 69.042, "lng": -143.662},
+			{"lat": 68.980, "lng": -143.192},
+			{"lat": 69.056, "lng": -139.570},
+			{"lat": 69.265, "lng": -138.897},
+			{"lat": 69.343, "lng": -138.568},
+			{"lat": 69.401, "lng": -138.249},
+			{"lat": 69.432, "lng": -137.952},
+			{"lat": 69.439, "lng": -137.590},
+			{"lat": 69.432, "lng": -137.282},
+			{"lat": 69.401, "lng": -137.030},
+			{"lat": 69.350, "lng": -136.711},
+			{"lat": 69.164, "lng": -135.755},
+			{"lat": 68.960, "lng": -134.678}
+		],
+		"video": {
+			"yt_id": "Rs58IJzxrCQ",
+			"yt_user_display": "Big Toe",
+			"yt_user_link": "channel/UCTtcVZdqcK8sLs-KqFlHLsA"
+		}
 	},
 	{
 		"id": 1023,
@@ -1850,6 +1882,27 @@
 		}
 	},
 	{
+		"id": 4003,
+		"type": "Heists",
+		"title": "VAR Heist",
+		"notes": "The VAR Heist is accessible from the roof of a building in Morningwood, using VAR headsets (obtained from the Yacht Heist) criminals can enter a virtual world to fight hostiles while attempting to hack into terminals and gain illegal data.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/VAR_Heist",
+		"order": 2,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 68.706, "lng": -126.630},
+			{"lat": 68.670, "lng": -126.419},
+			{"lat": 68.610, "lng": -126.504},
+			{"lat": 68.646, "lng": -126.716}
+		],
+		"video": {
+			"yt_id": "_ec0C13ipKE",
+			"yt_user_display": "Sykkuno",
+			"yt_user_link": "user/Sykkuno"
+		}
+	},
+	{
 		"id": 4005,
 		"type": "Heists",
 		"title": "Paleto Bank",
@@ -1879,6 +1932,22 @@
 			{"lat": 68.633, "lng": -130.346},
 			{"lat": 68.892, "lng": -130.774},
 			{"lat": 68.935, "lng": -131.148}
+		]
+	},
+	{
+		"id": 40070,
+		"type": "Heists",
+		"title": "Phone Dongle Shop",
+		"notes": "Where phone dongles are bought.",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 77.900, "lng": -119.981},
+			{"lat": 77.847, "lng": -119.608},
+			{"lat": 77.937, "lng": -119.344},
+			{"lat": 77.982, "lng": -119.729}
 		]
 	},
 	{
