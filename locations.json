@@ -920,7 +920,12 @@
 			{"lat": 64.274, "lng": -122.229},
 			{"lat": 65.031, "lng": -120.746},
 			{"lat": 65.077, "lng": -120.768}
-		]
+		],
+		"video": {
+			"yt_id": "5obSMupIzcw",
+			"yt_user_display": "ウサギ",
+			"yt_user_link": "channel/UCV-EQWD_ukkm7TW6Le0aaew"
+		}
 	},
 	{
 		"id": 1037,
