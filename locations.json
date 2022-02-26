@@ -967,7 +967,22 @@
 			{"lat": 69.975, "lng": -141.821}
 		]
 	},
-
+	{
+		"id": 1038,
+		"type": "Territories",
+		"title": "RoadMen",
+		"notes": "The RoadMen (RDM) is a British gang which acts as a road team for The Mandem. They are located at the West Side Motel.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Roadmen",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 67.311, "lng": -139.440},
+			{"lat": 67.497, "lng": -138.747},
+			{"lat": 67.353, "lng": -138.451},
+			{"lat": 67.171, "lng": -138.956}
+		]
+	},
 
 
 	{
@@ -1264,7 +1279,7 @@
 	},
 	{
 		"id": 2018,
-		"type": "Neutral",
+		"type": "Deprecated",
 		"title": "West Side Motel",
 		"notes": "",
 		"order": 2,
