@@ -637,7 +637,12 @@
 			{"lat": 69.350, "lng": -136.711},
 			{"lat": 69.164, "lng": -135.755},
 			{"lat": 68.960, "lng": -134.678}
-		]
+		],
+		"video": {
+			"yt_id": "Rs58IJzxrCQ",
+			"yt_user_display": "Big Toe",
+			"yt_user_link": "channel/UCTtcVZdqcK8sLs-KqFlHLsA"
+		}
 	},
 	{
 		"id": 1023,
