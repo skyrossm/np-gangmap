@@ -1935,6 +1935,22 @@
 		]
 	},
 	{
+		"id": 40070,
+		"type": "Heists",
+		"title": "Phone Dongle Shop",
+		"notes": "Where phone dongles are bought.",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 77.900, "lng": -119.981},
+			{"lat": 77.847, "lng": -119.608},
+			{"lat": 77.937, "lng": -119.344},
+			{"lat": 77.982, "lng": -119.729}
+		]
+	},
+	{
 		"id": 4007,
 		"type": "Heists",
 		"title": "Laptop Shop",
