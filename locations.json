@@ -1437,8 +1437,30 @@
 			{"lat": 72.367, "lng": -124.543}
 		]
 	},
-	{
+		{
 		"id": 2024,
+		"type": "Neutral",
+		"title": "Bean Manor",
+		"notes": "Marlo Stanfield and Fiona Stewart's mansion. It is affiliated Cleanbois.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Bean_Manor",
+		"order": 2,
+		"strokecolor": "E09573",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 70.370, "lng": -132.860},
+			{"lat": 70.359, "lng": -132.706},
+			{"lat": 70.351, "lng": -132.179},
+			{"lat": 70.362, "lng": -132.014},
+			{"lat": 70.114, "lng": -131.915},
+			{"lat": 70.136, "lng": -132.058},
+			{"lat": 70.147, "lng": -132.289},
+			{"lat": 70.147, "lng": -132.663},
+			{"lat": 70.136, "lng": -132.915},
+			{"lat": 70.207, "lng": -132.926}
+		]
+	},
+	{
+		"id": 20240,
 		"type": "Deprecated",
 		"title": "Oxy Shop",
 		"notes": "",
