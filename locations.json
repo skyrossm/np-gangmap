@@ -233,7 +233,12 @@
 			{"lat": 69.828, "lng": -125.077},
 			{"lat": 70.103, "lng": -126.494},
 			{"lat": 70.118, "lng": -126.725}
-		]
+		],
+		"video": {
+			"yt_id": "nsU0cTeo10I",
+			"yt_user_display": "NoPixel Circle",
+			"yt_user_link": "channel/UC-sXbidiR5kfoPwDmtyr9Zg"
+		}
 	},
 	{
 		"id": 1010,
@@ -791,6 +796,12 @@
 			{"lat": 66.615, "lng": -130.900},
 			{"lat": 66.350, "lng": -130.900},
 			{"lat": 66.350, "lng": -131.400}
+		],
+		"images": [
+			{
+				"headline": "House ownership on 2022/02/19 by u/Papa_Chad",
+				"url": "https://i.redd.it/omkruked1lj81.png"
+			}
 		]
 	},
 	{
@@ -920,7 +931,12 @@
 			{"lat": 64.274, "lng": -122.229},
 			{"lat": 65.031, "lng": -120.746},
 			{"lat": 65.077, "lng": -120.768}
-		]
+		],
+		"video": {
+			"yt_id": "5obSMupIzcw",
+			"yt_user_display": "ウサギ",
+			"yt_user_link": "channel/UCV-EQWD_ukkm7TW6Le0aaew"
+		}
 	},
 	{
 		"id": 1037,
@@ -965,6 +981,39 @@
 			{"lat": 70.016, "lng": -141.217},
 			{"lat": 69.982, "lng": -141.514},
 			{"lat": 69.975, "lng": -141.821}
+		]
+	},
+	{
+		"id": 1038,
+		"type": "Territories",
+		"title": "RoadMen",
+		"notes": "The RoadMen (RDM) is a British gang which acts as a road team for The Mandem. They are located at the West Side Motel.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Roadmen",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 67.311, "lng": -139.440},
+			{"lat": 67.497, "lng": -138.747},
+			{"lat": 67.353, "lng": -138.451},
+			{"lat": 67.171, "lng": -138.956}
+		]
+	},
+	{
+		"id": 1039,
+		"type": "Territories",
+		"title": "The Korean Mafia",
+		"notes": "The Korean Mafia, also known as the Sun Clan or Kkangpae was started and founded by Sun Moon. Mr. Kebun has given the Sun Clan his blessing.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 66.463, "lng": -132.366},
+			{"lat": 66.463, "lng": -131.883},
+			{"lat": 66.397, "lng": -131.883},
+			{"lat": 66.336, "lng": -131.911},
+			{"lat": 66.338, "lng": -132.366}
 		]
 	},
 
@@ -1264,7 +1313,7 @@
 	},
 	{
 		"id": 2018,
-		"type": "Neutral",
+		"type": "Deprecated",
 		"title": "West Side Motel",
 		"notes": "",
 		"order": 2,
@@ -1388,8 +1437,30 @@
 			{"lat": 72.367, "lng": -124.543}
 		]
 	},
-	{
+		{
 		"id": 2024,
+		"type": "Neutral",
+		"title": "Bean Manor",
+		"notes": "Marlo Stanfield and Fiona Stewart's mansion. It is affiliated Cleanbois.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Bean_Manor",
+		"order": 2,
+		"strokecolor": "E09573",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 70.370, "lng": -132.860},
+			{"lat": 70.359, "lng": -132.706},
+			{"lat": 70.351, "lng": -132.179},
+			{"lat": 70.362, "lng": -132.014},
+			{"lat": 70.114, "lng": -131.915},
+			{"lat": 70.136, "lng": -132.058},
+			{"lat": 70.147, "lng": -132.289},
+			{"lat": 70.147, "lng": -132.663},
+			{"lat": 70.136, "lng": -132.915},
+			{"lat": 70.207, "lng": -132.926}
+		]
+	},
+	{
+		"id": 20240,
 		"type": "Deprecated",
 		"title": "Oxy Shop",
 		"notes": "",
@@ -1425,7 +1496,7 @@
 		"id": 2026,
 		"type": "Neutral",
 		"title": "The Fence",
-		"notes": "Dont complain if you get robbed here",
+		"notes": "",
 		"order": 2,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
@@ -1434,6 +1505,89 @@
 			{"lat": 75.912, "lng": -126.982},
 			{"lat": 75.856, "lng": -127.124},
 			{"lat": 75.888, "lng": -127.366}
+		]
+	},
+	{
+		"id": 2027,
+		"type": "Neutral",
+		"title": "College",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF80",
+		"latlngarray": [
+			{"lat": 70.125, "lng": -142.332},
+			{"lat": 70.263, "lng": -142.189},
+			{"lat": 70.407, "lng": -141.860},
+			{"lat": 70.536, "lng": -141.343},
+			{"lat": 70.620, "lng": -140.838},
+			{"lat": 70.652, "lng": -140.508},
+			{"lat": 70.652, "lng": -140.256},
+			{"lat": 70.521, "lng": -139.904},
+			{"lat": 70.455, "lng": -139.443},
+			{"lat": 70.442, "lng": -139.145},
+			{"lat": 70.361, "lng": -139.343},
+			{"lat": 70.324, "lng": -139.507},
+			{"lat": 70.170, "lng": -140.470},
+			{"lat": 70.110, "lng": -140.767},
+			{"lat": 70.016, "lng": -141.217},
+			{"lat": 69.982, "lng": -141.514},
+			{"lat": 69.975, "lng": -141.821}
+		]
+	},
+	{
+		"id": 2028,
+		"type": "Neutral",
+		"title": "Golf Course",
+		"notes": "",
+		"order": 2,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 70.524, "lng": -135.170},
+			{"lat": 70.513, "lng": -135.478},
+			{"lat": 70.458, "lng": -135.961},
+			{"lat": 70.427, "lng": -136.378},
+			{"lat": 70.386, "lng": -136.730},
+			{"lat": 70.357, "lng": -137.147},
+			{"lat": 70.353, "lng": -137.598},
+			{"lat": 70.301, "lng": -138.048},
+			{"lat": 70.208, "lng": -138.301},
+			{"lat": 70.081, "lng": -138.433},
+			{"lat": 69.961, "lng": -138.422},
+			{"lat": 69.688, "lng": -138.301},
+			{"lat": 69.581, "lng": -138.279},
+			{"lat": 69.501, "lng": -138.235},
+			{"lat": 69.520, "lng": -137.960},
+			{"lat": 69.528, "lng": -137.664},
+			{"lat": 69.528, "lng": -137.257},
+			{"lat": 69.485, "lng": -136.939},
+			{"lat": 69.435, "lng": -136.642},
+			{"lat": 69.280, "lng": -135.851},
+			{"lat": 69.058, "lng": -134.632},
+			{"lat": 69.308, "lng": -133.269},
+			{"lat": 69.532, "lng": -133.632},
+			{"lat": 69.677, "lng": -133.950},
+			{"lat": 69.935, "lng": -134.379},
+			{"lat": 70.186, "lng": -134.840},
+			{"lat": 70.357, "lng": -135.093},
+			{"lat": 70.449, "lng": -135.170}
+		]
+	},
+	{
+		"id": 2501,
+		"type": "Neutral",
+		"title": "Weed Sign in",
+		"notes": "Where weed runs are started.",
+		"order": 2,
+		"strokecolor": "8000FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": 64.400, "lng": -123.754},
+			{"lat": 64.305, "lng": -123.492},
+			{"lat": 64.214, "lng": -123.668},
+			{"lat": 64.313, "lng": -123.938}
 		]
 	},
 
