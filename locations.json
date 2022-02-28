@@ -233,7 +233,12 @@
 			{"lat": 69.828, "lng": -125.077},
 			{"lat": 70.103, "lng": -126.494},
 			{"lat": 70.118, "lng": -126.725}
-		]
+		],
+		"video": {
+			"yt_id": "nsU0cTeo10I",
+			"yt_user_display": "NoPixel Circle",
+			"yt_user_link": "channel/UC-sXbidiR5kfoPwDmtyr9Zg"
+		}
 	},
 	{
 		"id": 1010,
