@@ -1016,6 +1016,26 @@
 			{"lat": 66.338, "lng": -132.366}
 		]
 	},
+	{
+		"id": 1040,
+		"type": "Territories",
+		"title": "Street Team",
+		"notes": "The Street Team is a gang that resides in Little Seoul, created May 2021. The current leader of the Street Team is Jaylen 'Lamp Post' Carter. Street Team made a quick name for themselves in the city due to their various connections. Their fierce loyalty and willingness to do anything has earned the respect of many big names, most notably, Chang Gang.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Street_Team",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 66.125, "lng": -131.964},
+			{"lat": 66.161, "lng": -131.766},
+			{"lat": 66.174, "lng": -131.503},
+			{"lat": 66.179, "lng": -131.283},
+			{"lat": 66.179, "lng": -130.887},
+			{"lat": 66.077, "lng": -130.898},
+			{"lat": 66.077, "lng": -131.244},
+			{"lat": 65.970, "lng": -131.739}
+		]
+	},
 
 
 
