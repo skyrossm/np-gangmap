@@ -1472,21 +1472,6 @@
 			{"lat": 70.449, "lng": -135.170}
 		]
 	},
-	{
-		"id": 2501,
-		"type": "Neutral",
-		"title": "Weed Sign in",
-		"notes": "Where weed runs are started.",
-		"order": 2,
-		"strokecolor": "8000FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": 64.400, "lng": -123.754},
-			{"lat": 64.305, "lng": -123.492},
-			{"lat": 64.214, "lng": -123.668},
-			{"lat": 64.313, "lng": -123.938}
-		]
-	},
 
 
 
