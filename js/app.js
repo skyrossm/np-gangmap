@@ -270,9 +270,9 @@ $(function() {
 		initialize: function() {
 			this.mapType = 'Atlas';
 			this.mapDetails = {
-				'Atlas': '#0fa8d2',
-				'Satellite': '#143d6b',
-				'Road': '#1862ad',
+				'Atlas':     '#0FA8D2',
+				'Satellite': '#143D6B',
+				'Road':      '#1862AD',
 			};
 
 			this.mapOptions = {
