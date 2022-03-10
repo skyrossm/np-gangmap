@@ -516,13 +516,13 @@ $(function() {
 });
 
 function printArray() {
-	var msg = '[\n';
+	var msg = '\t\t"latlngarray": [\n';
 	var i;
 	for (i = 0; i < window.locs.length; i++) {
-		msg += '{"lat": ' + window.locs[i].position.lat().toFixed(3) + ', "lng": ' + window.locs[i].position.lng().toFixed(3) + '}' + (window.locs.length - 1 == i ? '' : ',') + '\n';
+		msg += '\t\t\t{"lat": ' + window.locs[i].position.lat().toFixed(3) + ', "lng": ' + window.locs[i].position.lng().toFixed(3) + '}' + (window.locs.length - 1 == i ? '' : ',') + '\n';
 	}
-	msg += ']';
-	console.log(msg);
+	msg += '\t\t],';
+	alert(msg);
 }
 
 function toggleRuler() {
