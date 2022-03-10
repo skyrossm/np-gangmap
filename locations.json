@@ -355,64 +355,6 @@
 		]
 	},
 	{
-		"id": 1014,
-		"type": "Deprecated",
-		"title": "Vinewood Hills",
-		"notes": "Patrolled by the HOA for house robberies",
-		"wiki_link": "https://nopixel.fandom.com/wiki/HOA",
-		"order": 2,
-		"strokecolor": "FFA500",
-		"fillcolor": "FFA500",
-		"latlngarray": [
-			{"lat": 70.602, "lng": -135.026},
-			{"lat": 70.588, "lng": -134.015},
-			{"lat": 70.463, "lng": -132.982},
-			{"lat": 70.456, "lng": -132.125},
-			{"lat": 70.595, "lng": -131.005},
-			{"lat": 70.573, "lng": -129.752},
-			{"lat": 70.515, "lng": -128.522},
-			{"lat": 70.522, "lng": -128.082},
-			{"lat": 70.581, "lng": -127.533},
-			{"lat": 70.595, "lng": -127.050},
-			{"lat": 70.580, "lng": -126.502},
-			{"lat": 70.561, "lng": -125.766},
-			{"lat": 70.602, "lng": -124.699},
-			{"lat": 70.590, "lng": -124.579},
-			{"lat": 70.575, "lng": -124.282},
-			{"lat": 70.793, "lng": -124.008},
-			{"lat": 70.892, "lng": -123.835},
-			{"lat": 70.982, "lng": -123.560},
-			{"lat": 71.050, "lng": -123.248},
-			{"lat": 71.135, "lng": -122.369},
-			{"lat": 71.280, "lng": -122.325},
-			{"lat": 71.442, "lng": -122.084},
-			{"lat": 71.714, "lng": -122.008},
-			{"lat": 71.975, "lng": -121.744},
-			{"lat": 72.338, "lng": -121.898},
-			{"lat": 72.823, "lng": -121.555},
-			{"lat": 72.971, "lng": -125.049},
-			{"lat": 72.944, "lng": -126.232},
-			{"lat": 72.984, "lng": -126.903},
-			{"lat": 72.965, "lng": -127.343},
-			{"lat": 72.679, "lng": -127.892},
-			{"lat": 72.482, "lng": -131.495},
-			{"lat": 72.349, "lng": -131.753},
-			{"lat": 72.272, "lng": -132.796},
-			{"lat": 72.208, "lng": -133.434},
-			{"lat": 72.241, "lng": -134.149},
-			{"lat": 72.335, "lng": -134.957},
-			{"lat": 72.241, "lng": -136.107},
-			{"lat": 71.857, "lng": -137.535},
-			{"lat": 71.671, "lng": -138.375},
-			{"lat": 71.379, "lng": -139.957},
-			{"lat": 70.946, "lng": -139.941},
-			{"lat": 71.003, "lng": -138.663},
-			{"lat": 71.043, "lng": -136.839},
-			{"lat": 71.000, "lng": -134.949},
-			{"lat": 70.809, "lng": -135.004}
-		]
-	},
-	{
 		"id": 1015,
 		"type": "Territories",
 		"title": "Balbini Crime Family",
@@ -556,25 +498,6 @@
 		}
 	},
 	{
-		"id": 1020,
-		"type": "Deprecated",
-		"title": "Little Seoul",
-		"notes": "The majority of Little Seoul is owned by Chang Gang. Their main location is at the Chang Gang compound. Mr.K has given his blessing to Sun Moon's gang, The Korean Mafia, to reside in Little Seoul. The Korean Mafia lives across the street from the Chang Gang compound.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Little_Seoul",
-		"order": 2,
-		"strokecolor": "FD5E53",
-		"fillcolor": "FD5E53",
-		"latlngarray": [
-			{"lat": 67.281, "lng": -131.770},
-			{"lat": 66.221, "lng": -131.770},
-			{"lat": 66.221, "lng": -129.886},
-			{"lat": 66.485, "lng": -129.578},
-			{"lat": 66.877, "lng": -129.578},
-			{"lat": 67.093, "lng": -129.935},
-			{"lat": 67.281, "lng": -129.935}
-		]
-	},
-	{
 		"id": 1021,
 		"type": "Territories",
 		"title": "Ace King",
@@ -707,22 +630,6 @@
 			{"lat": 77.758, "lng": -101.902},
 			{"lat": 77.758, "lng": -100.836},
 			{"lat": 78.043, "lng": -100.836}
-		]
-	},
-		{
-		"id": 1026,
-		"type": "Deprecated",
-		"title": "Legion Square",
-		"notes": "Claimed by the Misfits, next to Creampie Creations and Cop Killer Records",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Misfits",
-		"order": 2,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": 66.655, "lng": -122.808},
-			{"lat": 66.056, "lng": -123.357},
-			{"lat": 65.931, "lng": -122.50},
-			{"lat": 66.528, "lng": -121.962}
 		]
 	},
 	{
@@ -1332,21 +1239,6 @@
 		]
 	},
 	{
-		"id": 2018,
-		"type": "Deprecated",
-		"title": "West Side Motel",
-		"notes": "",
-		"order": 2,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": 67.462, "lng": -138.802},
-			{"lat": 67.315, "lng": -139.424},
-			{"lat": 67.217, "lng": -139.072},
-			{"lat": 67.353, "lng": -138.578}
-		]
-	},
-	{
 		"id": 2019,
 		"type": "Neutral",
 		"title": "Pink Cage Motel",
@@ -1477,21 +1369,6 @@
 			{"lat": 70.147, "lng": -132.663},
 			{"lat": 70.136, "lng": -132.915},
 			{"lat": 70.207, "lng": -132.926}
-		]
-	},
-	{
-		"id": 20240,
-		"type": "Deprecated",
-		"title": "Oxy Shop",
-		"notes": "",
-		"order": 2,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": 63.867, "lng": -123.947},
-			{"lat": 63.526, "lng": -124.607},
-			{"lat": 63.319, "lng": -124.068},
-			{"lat": 63.565, "lng": -123.079}
 		]
 	},
 	{
