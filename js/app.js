@@ -273,9 +273,6 @@ $(function() {
 				'Atlas': '#0fa8d2',
 				'Satellite': '#143d6b',
 				'Road': '#1862ad',
-				'Atlas_Roads': '#0fa8d2',
-				'Satellite_Roads': '#143d6b',
-				'Road_Roads': '#1862ad'
 			};
 
 			this.mapOptions = {
@@ -364,7 +361,6 @@ $(function() {
 						maxZoom: 7,
 						minZoom: 3,
 						name: type,
-						tileSize: new google.maps.Size(256, 256),
 						getTileUrl: this.getTileImage,
 					};
 					map.mapTypes.set(type, new google.maps.ImageMapType(mapTypeOptions));

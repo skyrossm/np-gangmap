@@ -15,7 +15,6 @@
 	<script src="js/libs/underscore-min.js"></script>
 	<script src="js/libs/backbone-min.js"></script>
 	<script src="js/libs/handlebars.js"></script>
-	<script src="//www.google.com/jsapi"></script>
 	<script src="//maps.googleapis.com/maps/api/js?v=3.exp&key="></script>
 	<script src="js/libs/maplabel-compiled.js"></script>
 	<script src="js/app.js"></script>
@@ -36,9 +35,6 @@
 					<a href="#" id="Atlas"           class="dropdown-item active" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas');           $(this).addClass('active');">Atlas</a>
 					<a href="#" id="Satellite"       class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite');       $(this).addClass('active');">Satellite</a>
 					<a href="#" id="Road"            class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road');            $(this).addClass('active');">Road</a>
-					<!--a href="#" id="Atlas_Roads"     class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas_Roads');     $(this).addClass('active');">Atlas w/ Streets</a>
-					<a href="#" id="Satellite_Roads" class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite_Roads'); $(this).addClass('active');">Satellite w/ Streets</a>
-					<a href="#" id="Road_Roads"      class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road_Roads');      $(this).addClass('active');">Road w/ Streets</a-->
 				</div>
 			</div>
 
