@@ -277,7 +277,7 @@ $(function() {
 
 			this.mapOptions = {
 				center: new google.maps.LatLng(-60, -20),
-				zoom: 5,
+				zoom: 3,
 				disableDefaultUI: true,
 				mapTypeId: this.mapType,
 				backgroundColor: 'hsla(0, 0%, 0%, 0)',
@@ -358,8 +358,8 @@ $(function() {
 				types,
 				function(type) {
 					var mapTypeOptions = {
+						minZoom: 1,
 						maxZoom: 7,
-						minZoom: 3,
 						name: type,
 						getTileUrl: this.getTileImage,
 					};
