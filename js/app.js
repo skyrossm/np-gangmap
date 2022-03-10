@@ -276,7 +276,7 @@ $(function() {
 			};
 
 			this.mapOptions = {
-				center: new google.maps.LatLng(66, -125),
+				center: new google.maps.LatLng(-60, -20),
 				zoom: 5,
 				disableDefaultUI: true,
 				mapTypeId: this.mapType,
