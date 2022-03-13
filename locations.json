@@ -1973,8 +1973,8 @@
 	{
 		"id": 40070,
 		"type": "Heists",
-		"title": "Phone Dongle Shop",
-		"notes": "Where phone dongles are bought.",
+		"title": "Laptop Pickup",
+		"notes": "Where phone dongles and laptops are picked up.",
 		"wiki_link": "",
 		"order": 2,
 		"strokecolor": "FFD700",
