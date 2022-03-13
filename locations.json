@@ -633,27 +633,6 @@
 		]
 	},
 	{
-		"id": 1027,
-		"type": "Territories",
-		"title": "El Rancho",
-		"notes": "Patrolled by the vagos.",
-		"order": 2,
-		"strokecolor": "FFAF00",
-		"fillcolor": "FFAF00",
-		"latlngarray": [
-			{"lat": 63.723, "lng": -119.210},
-			{"lat": 62.395, "lng": -121.671},
-			{"lat": 62.031, "lng": -120.759},
-			{"lat": 62.339, "lng": -119.265},
-			{"lat": 62.445, "lng": -119.078},
-			{"lat": 62.542, "lng": -118.946},
-			{"lat": 62.934, "lng": -118.858},
-			{"lat": 63.327, "lng": -118.814},
-			{"lat": 63.538, "lng": -118.814},
-			{"lat": 63.641, "lng": -118.979}
-		]
-	},
-	{
 		"id": 1028,
 		"type": "Territories",
 		"title": "Cop Killa Records",
