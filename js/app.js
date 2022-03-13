@@ -270,17 +270,14 @@ $(function() {
 		initialize: function() {
 			this.mapType = 'Atlas';
 			this.mapDetails = {
-				'Atlas': '#0fa8d2',
-				'Satellite': '#143d6b',
-				'Road': '#1862ad',
-				'Atlas_Roads': '#0fa8d2',
-				'Satellite_Roads': '#143d6b',
-				'Road_Roads': '#1862ad'
+				'Atlas':     '#0FA8D2',
+				'Satellite': '#143D6B',
+				'Road':      '#1862AD',
 			};
 
 			this.mapOptions = {
-				center: new google.maps.LatLng(66, -125),
-				zoom: 5,
+				center: new google.maps.LatLng(-60, -20),
+				zoom: 3,
 				disableDefaultUI: true,
 				mapTypeId: this.mapType,
 				backgroundColor: 'hsla(0, 0%, 0%, 0)',
@@ -361,10 +358,9 @@ $(function() {
 				types,
 				function(type) {
 					var mapTypeOptions = {
+						minZoom: 1,
 						maxZoom: 7,
-						minZoom: 3,
 						name: type,
-						tileSize: new google.maps.Size(256, 256),
 						getTileUrl: this.getTileImage,
 					};
 					map.mapTypes.set(type, new google.maps.ImageMapType(mapTypeOptions));
@@ -520,13 +516,23 @@ $(function() {
 });
 
 function printArray() {
-	var msg = '[\n';
+	var msg = 'Submit new regions here:\nhttps://github.com/skyrossm/np-gangmap/issues\n\nRight click the map to add points to the region. Fill in the values marked "<edit here>" and title the new issue using the format: "Add <title> region". Copy and paste everything after this as the body of the issue:\n\n';
+	msg += '```json\n\t{\n\t\t"id": 0,'
+	+ '\n\t\t"type": "Territories",'
+	+ '\n\t\t"title": "<edit this>",'
+	+ '\n\t\t"notes": "<edit this>",'
+	+ '\n\t\t"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",'
+	+ '\n\t\t"order": 2,'
+	+ '\n\t\t"strokecolor": "FF0000",'
+	+ '\n\t\t"fillcolor": "FF0000",'
+	+ '\n\t\t"latlngarray": [\n';
 	var i;
 	for (i = 0; i < window.locs.length; i++) {
-		msg += '{"lat": ' + window.locs[i].position.lat().toFixed(3) + ', "lng": ' + window.locs[i].position.lng().toFixed(3) + '}' + (window.locs.length - 1 == i ? '' : ',') + '\n';
+		msg += '\t\t\t{"lat": ' + window.locs[i].position.lat().toFixed(3) + ', "lng": ' + window.locs[i].position.lng().toFixed(3) + '}' + (window.locs.length - 1 == i ? '' : ',') + '\n';
 	}
-	msg += ']';
-	console.log(msg);
+	msg += '\t\t]'
+	+ '\n\t},\n```';
+	alert(msg);
 }
 
 function toggleRuler() {
