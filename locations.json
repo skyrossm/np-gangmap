@@ -2016,6 +2016,55 @@
 		]
 	},
 	{
+		"id": 31131,
+		"type": "Automotive",
+		"title": "Refuel Hanger",
+		"notes": "Where helicopters refuel.",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -82.932, "lng": -52.405},
+			{"lat": -83.072, "lng": -50.449},
+			{"lat": -83.110, "lng": -50.702},
+			{"lat": -83.246, "lng": -51.691},
+			{"lat": -83.133, "lng": -53.372}
+		]
+	},
+	{
+		"id": 31132,
+		"type": "Automotive",
+		"title": "Repair Hanger",
+		"notes": "Where helicopters are repaired.",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -82.128, "lng": -63.573},
+			{"lat": -82.247, "lng": -62.054},
+			{"lat": -82.388, "lng": -62.658},
+			{"lat": -82.267, "lng": -64.185}
+		]
+	},
+	{
+		"id": 31133,
+		"type": "Automotive",
+		"title": "Repair Hanger",
+		"notes": "Where helicopters are repaired.",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 24.542, "lng": -67.694},
+			{"lat": 23.285, "lng": -65.288},
+			{"lat": 19.366, "lng": -67.716},
+			{"lat": 20.688, "lng": -70.144}
+		]
+	},
+
+
+
+	{
 		"id": 3501,
 		"type": "Automotive",
 		"title": "Little Seoul Gas Station",
