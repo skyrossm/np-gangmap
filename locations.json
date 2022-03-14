@@ -886,31 +886,11 @@
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
-			{"lat": -45.134, "lng": -18.047},
-			{"lat": -45.111, "lng": -17.789},
-			{"lat": -45.134, "lng": -17.547},
-			{"lat": -45.424, "lng": -17.009},
-			{"lat": -45.589, "lng": -16.284},
-			{"lat": -45.819, "lng": -15.569},
-			{"lat": -46.079, "lng": -14.800},
-			{"lat": -46.360, "lng": -14.240},
-			{"lat": -46.708, "lng": -13.163},
-			{"lat": -48.040, "lng": -13.987},
-			{"lat": -47.959, "lng": -14.559},
-			{"lat": -47.944, "lng": -14.987},
-			{"lat": -47.775, "lng": -15.701},
-			{"lat": -47.619, "lng": -16.547},
-			{"lat": -47.516, "lng": -17.042},
-			{"lat": -47.352, "lng": -17.646},
-			{"lat": -47.166, "lng": -18.195},
-			{"lat": -47.001, "lng": -18.514},
-			{"lat": -46.873, "lng": -18.679},
-			{"lat": -46.670, "lng": -18.821},
-			{"lat": -46.383, "lng": -18.860},
-			{"lat": -45.934, "lng": -18.668},
-			{"lat": -45.720, "lng": -18.525},
-			{"lat": -45.443, "lng": -18.360},
-			{"lat": -45.258, "lng": -18.217}
+			{"lat": -57.115, "lng": -17.814},
+			{"lat": -57.763, "lng": -14.547},
+			{"lat": -59.088, "lng": -15.632},
+			{"lat": -59.531, "lng": -15.885},
+			{"lat": -58.992, "lng": -18.983}
 		]
 	},
 	{
@@ -1705,6 +1685,30 @@
 			{"lat": -50.011, "lng": -55.578}
 		]
 	},
+	{
+		"id": 2029,
+		"type": "Neutral",
+		"title": "Bahama Mamas West",
+		"notes": "Bahama Mamas West is a nightclub located in Del Perro, Los Santos that is currently going through a new ownership process between Thomas Dwayne and Elena Vega.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Bahama_Mamas_West",
+		"order": 2,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -62.468, "lng": -57.117},
+			{"lat": -61.956, "lng": -55.177},
+			{"lat": -61.858, "lng": -54.913},
+			{"lat": -62.216, "lng": -54.360},
+			{"lat": -62.252, "lng": -54.387},
+			{"lat": -62.416, "lng": -54.231},
+			{"lat": -62.715, "lng": -53.781},
+			{"lat": -62.730, "lng": -53.605},
+			{"lat": -63.020, "lng": -53.210},
+			{"lat": -63.367, "lng": -54.253},
+		{"lat": -62.723, "lng": -55.344},
+			{"lat": -63.007, "lng": -56.227}
+		]
+	},
 
 
 
@@ -1929,7 +1933,7 @@
 	{
 		"id": 3111,
 		"type": "Automotive",
-		"title": "Los Santos Customs",
+		"title": "Burton Los Santos Customs",
 		"notes": "",
 		"wiki_link": "",
 		"order": 2,
@@ -1943,6 +1947,22 @@
 			{"lat": -55.942, "lng": -24.154},
 			{"lat": -56.133, "lng": -25.154},
 			{"lat": -55.584, "lng": -25.714}
+		]
+	},
+	{
+		"id": 31110,
+		"type": "Automotive",
+		"title": "International Airport Los Santos Customs",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -76.057, "lng": -48.179},
+			{"lat": -76.240, "lng": -47.382},
+			{"lat": -76.409, "lng": -48.086},
+			{"lat": -76.219, "lng": -48.877}
 		]
 	},
 	{
@@ -1995,6 +2015,55 @@
 			{"lat": -65.185, "lng": -25.698}
 		]
 	},
+	{
+		"id": 31131,
+		"type": "Automotive",
+		"title": "Refuel Hanger",
+		"notes": "Where helicopters refuel.",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -82.932, "lng": -52.405},
+			{"lat": -83.072, "lng": -50.449},
+			{"lat": -83.110, "lng": -50.702},
+			{"lat": -83.246, "lng": -51.691},
+			{"lat": -83.133, "lng": -53.372}
+		]
+	},
+	{
+		"id": 31132,
+		"type": "Automotive",
+		"title": "Repair Hanger",
+		"notes": "Where helicopters are repaired.",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -82.128, "lng": -63.573},
+			{"lat": -82.247, "lng": -62.054},
+			{"lat": -82.388, "lng": -62.658},
+			{"lat": -82.267, "lng": -64.185}
+		]
+	},
+	{
+		"id": 31133,
+		"type": "Automotive",
+		"title": "Repair Hanger",
+		"notes": "Where helicopters are repaired.",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 24.542, "lng": -67.694},
+			{"lat": 23.285, "lng": -65.288},
+			{"lat": 19.366, "lng": -67.716},
+			{"lat": 20.688, "lng": -70.144}
+		]
+	},
+
+
+
 	{
 		"id": 3501,
 		"type": "Automotive",

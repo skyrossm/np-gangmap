@@ -1,3 +1,6 @@
+let labelIndex = 0;
+
+
 $(function() {
 	var showCoordinations = true;
 	var $types = $('.types');
@@ -337,6 +340,7 @@ $(function() {
 					moveable: true,
 					draggable: true,
 					position: e.latLng,
+					label: String(labelIndex++),
 				});
 				window.locs.push(marker);
 				// Check if coords mode is enabled
