@@ -1685,6 +1685,30 @@
 			{"lat": -50.011, "lng": -55.578}
 		]
 	},
+	{
+		"id": 2029,
+		"type": "Neutral",
+		"title": "Bahama Mamas West",
+		"notes": "Bahama Mamas West is a nightclub located in Del Perro, Los Santos that is currently going through a new ownership process between Thomas Dwayne and Elena Vega.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Bahama_Mamas_West",
+		"order": 2,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -62.468, "lng": -57.117},
+			{"lat": -61.956, "lng": -55.177},
+			{"lat": -61.858, "lng": -54.913},
+			{"lat": -62.216, "lng": -54.360},
+			{"lat": -62.252, "lng": -54.387},
+			{"lat": -62.416, "lng": -54.231},
+			{"lat": -62.715, "lng": -53.781},
+			{"lat": -62.730, "lng": -53.605},
+			{"lat": -63.020, "lng": -53.210},
+			{"lat": -63.367, "lng": -54.253},
+		{"lat": -62.723, "lng": -55.344},
+			{"lat": -63.007, "lng": -56.227}
+		]
+	},
 
 
 
