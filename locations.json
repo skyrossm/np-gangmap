@@ -1933,7 +1933,7 @@
 	{
 		"id": 3111,
 		"type": "Automotive",
-		"title": "Los Santos Customs",
+		"title": "Burton Los Santos Customs",
 		"notes": "",
 		"wiki_link": "",
 		"order": 2,
@@ -1947,6 +1947,22 @@
 			{"lat": -55.942, "lng": -24.154},
 			{"lat": -56.133, "lng": -25.154},
 			{"lat": -55.584, "lng": -25.714}
+		]
+	},
+	{
+		"id": 31110,
+		"type": "Automotive",
+		"title": "International Airport Los Santos Customs",
+		"notes": "",
+		"wiki_link": "",
+		"order": 2,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -76.057, "lng": -48.179},
+			{"lat": -76.240, "lng": -47.382},
+			{"lat": -76.409, "lng": -48.086},
+			{"lat": -76.219, "lng": -48.877}
 		]
 	},
 	{
