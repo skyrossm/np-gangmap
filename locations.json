@@ -2266,6 +2266,27 @@
 		}
 	},
 	{
+		"id": 4004,
+		"type": "Heists",
+		"title": "Yacht Heist",
+		"notes": "The Yacht Heist provids VAR headsets for the VAR heist.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Category:Heist",
+		"order": 2,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -68.189, "lng": -73.584},
+			{"lat": -68.189, "lng": -71.233},
+			{"lat": -68.608, "lng": -71.233},
+			{"lat": -68.608, "lng": -73.584}
+		],
+		"video": {
+			"yt_id": "Q9qSKrflV3E",
+			"yt_user_display": "xQcOW",
+			"yt_user_link": "c/xQcOW"
+		}
+	},
+	{
 		"id": 4005,
 		"type": "Heists",
 		"title": "Paleto Bank",
