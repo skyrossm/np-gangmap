@@ -3192,6 +3192,37 @@
 		]
 	},
 	{
+		"id": 10312,
+		"type": "Territories",
+		"title": "Chang Gang Mansion",
+		"notes": "The Chang Gang mansion",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
+		"order": 2,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -51.045, "lng": -63.471},
+			{"lat": -50.655, "lng": -62.500},
+			{"lat": -49.641, "lng": -59.127},
+			{"lat": -49.021, "lng": -58.122},
+			{"lat": -48.644, "lng": -57.771},
+			{"lat": -48.207, "lng": -56.760},
+			{"lat": -49.279, "lng": -55.540},
+			{"lat": -49.636, "lng": -56.079},
+			{"lat": -50.010, "lng": -56.478},
+			{"lat": -50.425, "lng": -56.742},
+			{"lat": -50.808, "lng": -56.840},
+			{"lat": -51.643, "lng": -56.866},
+			{"lat": -51.887, "lng": -56.811},
+			{"lat": -51.989, "lng": -58.316},
+			{"lat": -52.111, "lng": -59.129},
+			{"lat": -52.144, "lng": -59.887},
+			{"lat": -52.057, "lng": -60.558},
+			{"lat": -51.887, "lng": -61.338},
+			{"lat": -51.252, "lng": -63.089}
+		]
+	},
+	{
 		"id": 1032,
 		"type": "Territories",
 		"title": "The Dam",
