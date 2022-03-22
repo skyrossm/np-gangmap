@@ -2515,7 +2515,7 @@
 			{"lat": -69.112, "lng": -22.398}
 		]
 	},
-		{
+	{
 		"id": 5006,
 		"type": "Legal",
 		"title": "AirX Flight School",
@@ -2555,6 +2555,43 @@
 			{"lat": 30.237, "lng": -99.083},
 			{"lat": 32.284, "lng": -99.325},
 			{"lat": 33.765, "lng": -98.402}
+		]
+	},
+	{
+		"id": 5007,
+		"type": "Legal",
+		"title": "Davis PD",
+		"notes": "",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -72.817, "lng": -4.484},
+			{"lat": -73.072, "lng": -5.121},
+			{"lat": -73.313, "lng": -4.099},
+			{"lat": -73.050, "lng": -3.275}
+		]
+	},
+	{
+		"id": 5008,
+		"type": "Legal",
+		"title": "Bob Smith PD",
+		"notes": "Bob Smith Police Department, formerly known as Vespucci Police Department was named after former Chief of Police Bob Smith. Who was the longest standing Chief in Los Santos, beloved by the people.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Bob_Smith_Police_Department",
+		"order": 2,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -65.418, "lng": -48.595},
+			{"lat": -64.592, "lng": -46.244},
+			{"lat": -64.802, "lng": -45.643},
+			{"lat": -64.917, "lng": -45.028},
+			{"lat": -64.992, "lng": -44.478},
+			{"lat": -65.117, "lng": -43.940},
+			{"lat": -65.452, "lng": -44.423},
+			{"lat": -65.648, "lng": -44.786},
+			{"lat": -65.873, "lng": -45.632},
+			{"lat": -66.274, "lng": -47.214}
 		]
 	},
 
@@ -2735,16 +2772,10 @@
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
-			{"lat": -65.418, "lng": -48.595},
-			{"lat": -64.592, "lng": -46.244},
-			{"lat": -64.802, "lng": -45.643},
-			{"lat": -64.917, "lng": -45.028},
-			{"lat": -64.992, "lng": -44.478},
-			{"lat": -65.117, "lng": -43.940},
-			{"lat": -65.452, "lng": -44.423},
-			{"lat": -65.648, "lng": -44.786},
-			{"lat": -65.873, "lng": -45.632},
-			{"lat": -66.274, "lng": -47.214}
+			{"lat": -66.046, "lng": -50.898},
+			{"lat": -65.492, "lng": -48.888},
+			{"lat": -66.322, "lng": -47.603},
+			{"lat": -66.828, "lng": -49.767}
 		],
 		"video": {
 			"yt_id": "O2zQEGiqtxk",
