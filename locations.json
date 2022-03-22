@@ -3470,6 +3470,22 @@
 			{"lat": -67.345, "lng": -36.231}
 		]
 	},
+	{
+		"id": 1041,
+		"type": "Territories",
+		"title": "JustUS",
+		"notes": "JustUS is an organized crime crew formed by a group of associates during December 2021. At this moment, the group is on the come up doing the grind of meeting everyone and making money doing whatever job is available. JustUS is heavily involved in the drug game and supplies coke as well as crack to various groups in the city. Besides coke, they push meth in La Mesa and run weed as well.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/JustUs",
+		"order": 2,
+		"strokecolor": "FF00FF",
+		"fillcolor": "FF00FF",
+		"latlngarray": [
+			{"lat": -47.683, "lng": -2.582},
+			{"lat": -48.632, "lng": 1.331},
+			{"lat": -51.310, "lng": -0.191},
+			{"lat": -50.408, "lng": -4.091}
+		]
+	},
 
 
 
