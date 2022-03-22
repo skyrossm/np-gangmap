@@ -3486,6 +3486,22 @@
 			{"lat": -50.408, "lng": -4.091}
 		]
 	},
+	{
+		"id": 1042,
+		"type": "Territories",
+		"title": "JustUS Safe House",
+		"notes": "A JustUS safe hosue.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/JustUs",
+		"order": 2,
+		"strokecolor": "FF00FF",
+		"fillcolor": "FF00FF",
+		"latlngarray": [
+			{"lat": -71.085, "lng": 19.665},
+			{"lat": -71.085, "lng": 20.512},
+			{"lat": -71.187, "lng": 20.615},
+			{"lat": -71.187, "lng": 19.665}
+		]
+	},
 
 
 
