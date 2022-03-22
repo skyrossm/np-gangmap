@@ -3160,7 +3160,7 @@
 	{
 		"id": 1031,
 		"type": "Territories",
-		"title": "Chang Gang Warehouse",
+		"title": "Chang Gang Warehouse Burton",
 		"notes": "A Chang Gang safe house full of DODO Logistic pallets. There is a changing room and office here.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
 		"order": 2,
@@ -3171,6 +3171,24 @@
 			{"lat": -53.171, "lng": -27.415},
 			{"lat": -53.788, "lng": -27.415},
 			{"lat": -53.788, "lng": -28.382}
+		]
+	},
+	{
+		"id": 10311,
+		"type": "Territories",
+		"title": "Chang Gang Warehouse Murrieta Heights",
+		"notes": "A Chang Gang safe house.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
+		"order": 2,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -69.547, "lng": 13.219},
+			{"lat": -69.844, "lng": 13.902},
+			{"lat": -70.480, "lng": 11.385},
+			{"lat": -70.073, "lng": 10.552},
+			{"lat": -69.922, "lng": 11.195},
+			{"lat": -69.997, "lng": 11.362}
 		]
 	},
 	{
