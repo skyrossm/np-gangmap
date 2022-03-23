@@ -4,7 +4,7 @@
 		"type": "Neighborhoods",
 		"title": "Alamo Sea",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -41,7 +41,7 @@
 		"type": "Neighborhoods",
 		"title": "Alta",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -60,7 +60,7 @@
 		"type": "Neighborhoods",
 		"title": "Banham Canyon",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -85,7 +85,7 @@
 		"type": "Neighborhoods",
 		"title": "Banham Canyon Drive",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -104,7 +104,7 @@
 		"type": "Neighborhoods",
 		"title": "Banning",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -123,7 +123,7 @@
 		"type": "Neighborhoods",
 		"title": "Bolingbroke Penitentiary",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -142,7 +142,7 @@
 		"type": "Neighborhoods",
 		"title": "Braddock Pass",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -163,7 +163,7 @@
 		"type": "Neighborhoods",
 		"title": "Burton",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -184,7 +184,7 @@
 		"type": "Neighborhoods",
 		"title": "Calafia Bridge ",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -199,7 +199,7 @@
 		"type": "Neighborhoods",
 		"title": "Cassidy Creek",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -228,7 +228,7 @@
 		"type": "Neighborhoods",
 		"title": "Chamberlain Hills",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -243,7 +243,7 @@
 		"type": "Neighborhoods",
 		"title": "Chiliad Mountain State Wilderness",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -270,7 +270,7 @@
 		"type": "Neighborhoods",
 		"title": "Chumash",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -295,7 +295,7 @@
 		"type": "Neighborhoods",
 		"title": "Cypress Flats",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -314,7 +314,7 @@
 		"type": "Neighborhoods",
 		"title": "Davis",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -337,7 +337,7 @@
 		"type": "Neighborhoods",
 		"title": "Davis Quartz",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -360,7 +360,7 @@
 		"type": "Neighborhoods",
 		"title": "Del Perro",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -391,7 +391,7 @@
 		"type": "Neighborhoods",
 		"title": "Del Perro Beach",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -436,7 +436,7 @@
 		"type": "Neighborhoods",
 		"title": "Downtown",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -453,7 +453,7 @@
 		"type": "Neighborhoods",
 		"title": "Downtown Vinewood",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -468,7 +468,7 @@
 		"type": "Neighborhoods",
 		"title": "East Vinewood",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -489,7 +489,7 @@
 		"type": "Neighborhoods",
 		"title": "El Burro Heights",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -514,7 +514,7 @@
 		"type": "Neighborhoods",
 		"title": "El Gordo Lighthouse",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -529,7 +529,7 @@
 		"type": "Neighborhoods",
 		"title": "Elysian Island",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -554,7 +554,7 @@
 		"type": "Neighborhoods",
 		"title": "Fort Zancudo",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -585,7 +585,7 @@
 		"type": "Neighborhoods",
 		"title": "GWC and Golfing Society",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -606,7 +606,7 @@
 		"type": "Neighborhoods",
 		"title": "Galilee",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -621,7 +621,7 @@
 		"type": "Neighborhoods",
 		"title": "Grand Senora Desert",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -664,7 +664,7 @@
 		"type": "Neighborhoods",
 		"title": "Grapeseed",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -687,7 +687,7 @@
 		"type": "Neighborhoods",
 		"title": "Great Chaparral",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -722,7 +722,7 @@
 		"type": "Neighborhoods",
 		"title": "Harmony",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -737,7 +737,7 @@
 		"type": "Neighborhoods",
 		"title": "Hawick",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -752,7 +752,7 @@
 		"type": "Neighborhoods",
 		"title": "Humane Labs and Research",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -767,7 +767,7 @@
 		"type": "Neighborhoods",
 		"title": "La Mesa",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -792,7 +792,7 @@
 		"type": "Neighborhoods",
 		"title": "La Puerta",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -819,7 +819,7 @@
 		"type": "Neighborhoods",
 		"title": "Lago Zancudo",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -856,7 +856,7 @@
 		"type": "Neighborhoods",
 		"title": "Legion Square",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -871,7 +871,7 @@
 		"type": "Neighborhoods",
 		"title": "Little Seoul",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -906,7 +906,7 @@
 		"type": "Neighborhoods",
 		"title": "Los Santos International Airport",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -955,7 +955,7 @@
 		"type": "Neighborhoods",
 		"title": "M.P.",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -970,7 +970,7 @@
 		"type": "Neighborhoods",
 		"title": "Maze Bank Arena",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -989,7 +989,7 @@
 		"type": "Neighborhoods",
 		"title": "Mirror Park",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1004,7 +1004,7 @@
 		"type": "Neighborhoods",
 		"title": "Mission Row",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1021,7 +1021,7 @@
 		"type": "Neighborhoods",
 		"title": "Morningwood",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1040,7 +1040,7 @@
 		"type": "Neighborhoods",
 		"title": "Mount Chiliad",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1081,7 +1081,7 @@
 		"type": "Neighborhoods",
 		"title": "Mount Gordo",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1144,7 +1144,7 @@
 		"type": "Neighborhoods",
 		"title": "Mount Josiah",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1175,7 +1175,7 @@
 		"type": "Neighborhoods",
 		"title": "Murrieta Heights",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1194,7 +1194,7 @@
 		"type": "Neighborhoods",
 		"title": "Murrieta Heights South",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1209,7 +1209,7 @@
 		"type": "Neighborhoods",
 		"title": "N.O.O.S.E",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1226,7 +1226,7 @@
 		"type": "Neighborhoods",
 		"title": "North Chumash",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1253,7 +1253,7 @@
 		"type": "Neighborhoods",
 		"title": "Pacific Bluffs",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1296,7 +1296,7 @@
 		"type": "Neighborhoods",
 		"title": "Paleto Bay",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1347,7 +1347,7 @@
 		"type": "Neighborhoods",
 		"title": "Paleto Cove",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1376,7 +1376,7 @@
 		"type": "Neighborhoods",
 		"title": "Paleto Forest",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1403,7 +1403,7 @@
 		"type": "Neighborhoods",
 		"title": "Palmer-Taylor Power Station",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1422,7 +1422,7 @@
 		"type": "Neighborhoods",
 		"title": "Palomino Highlands",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1529,7 +1529,7 @@
 		"type": "Neighborhoods",
 		"title": "Pillbox Hill",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1552,7 +1552,7 @@
 		"type": "Neighborhoods",
 		"title": "Procopio Beach",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1569,7 +1569,7 @@
 		"type": "Neighborhoods",
 		"title": "RON Alternates Wind Farm",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1612,7 +1612,7 @@
 		"type": "Neighborhoods",
 		"title": "Rancho",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1637,7 +1637,7 @@
 		"type": "Neighborhoods",
 		"title": "Raton Canyon",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1680,7 +1680,7 @@
 		"type": "Neighborhoods",
 		"title": "Redwood Lights Track",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1695,7 +1695,7 @@
 		"type": "Neighborhoods",
 		"title": "Richard Majestic",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1720,7 +1720,7 @@
 		"type": "Neighborhoods",
 		"title": "Richman",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1739,7 +1739,7 @@
 		"type": "Neighborhoods",
 		"title": "Richman Glen",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1754,7 +1754,7 @@
 		"type": "Neighborhoods",
 		"title": "Rockford Hills",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1795,7 +1795,7 @@
 		"type": "Neighborhoods",
 		"title": "S.A.",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1810,7 +1810,7 @@
 		"type": "Neighborhoods",
 		"title": "San Chianski Mountain Range",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1883,7 +1883,7 @@
 		"type": "Neighborhoods",
 		"title": "Sandy Shores",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1906,7 +1906,7 @@
 		"type": "Neighborhoods",
 		"title": "Stab City",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1925,7 +1925,7 @@
 		"type": "Neighborhoods",
 		"title": "Strawberry",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1944,7 +1944,7 @@
 		"type": "Neighborhoods",
 		"title": "Tataviam Mountains",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -1999,7 +1999,7 @@
 		"type": "Neighborhoods",
 		"title": "Terminal",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2014,7 +2014,7 @@
 		"type": "Neighborhoods",
 		"title": "Textile City",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2029,7 +2029,7 @@
 		"type": "Neighborhoods",
 		"title": "Tongva Hills",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2050,7 +2050,7 @@
 		"type": "Neighborhoods",
 		"title": "Tongva Valley",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2065,7 +2065,7 @@
 		"type": "Neighborhoods",
 		"title": "Vespucci",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2088,7 +2088,7 @@
 		"type": "Neighborhoods",
 		"title": "Vespucci Beach",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2149,7 +2149,7 @@
 		"type": "Neighborhoods",
 		"title": "Vespucci Canals",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2180,7 +2180,7 @@
 		"type": "Neighborhoods",
 		"title": "Vinewood",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2197,7 +2197,7 @@
 		"type": "Neighborhoods",
 		"title": "Vinewood Hills",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2240,7 +2240,7 @@
 		"type": "Neighborhoods",
 		"title": "Vinewood Racetrack",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2267,7 +2267,7 @@
 		"type": "Neighborhoods",
 		"title": "West Vinewood",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2284,7 +2284,7 @@
 		"type": "Neighborhoods",
 		"title": "Zancudo River",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4E5B31",
 		"fillcolor": "00000000",
 		"latlngarray": [
@@ -2374,7 +2374,7 @@
 		"title": "CLean Manor",
 		"notes": "CLean Manor is owned by Lang Buddha and co-owned by the Cleanbois members. The Manor should be a neutral ground for all gang-related affairs.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Clean_Manor",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "551A8B",
 		"fillcolor": "551A8B",
 		"latlngarray": [
@@ -2398,7 +2398,7 @@
 		"title": "Brogue Street Kingz",
 		"notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Brouge_Street_Kingz",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
@@ -2414,7 +2414,7 @@
 		"title": "Marabunta Grande",
 		"notes": "The Marabunta Grande, are an El Salvadorian based street gang operating out of Fudge Lane, in the El Burro Heights area. Viva la Mara",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Marabunta_Grande",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4169E1",
 		"fillcolor": "4169E1",
 		"latlngarray": [
@@ -2451,7 +2451,7 @@
 		"title": "Vagos",
 		"notes": "The Eastside Vagos (ESV) also known as the Vagos, is a Mexican street gang currently led by el Jefe, Arush Patel 'Speedy' Santana. They operate out of the Barrio, based in the Jamestown area. They are said to be the largest Hispanic street gang in Los Santos. The gang's main business revolves around pushing guns, drugs and various other legal and criminal activities.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Vagos",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFFF00",
 		"fillcolor": "FFFF00",
 		"latlngarray": [
@@ -2514,7 +2514,7 @@
 		"title": "Alta Street Ruff Rydaz",
 		"notes": "Alta Street Ruff Rydaz (A.K.A The Blocks/Block Gang), are a crew that will do anything and sell anything for $50. Located at the 'poor' apartments.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Alta_Street_Ruff_Rydaz",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFFF00",
 		"fillcolor": "FFFF00",
 		"latlngarray": [
@@ -2532,7 +2532,7 @@
 		"title": "The Angels",
 		"notes": "The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Angels",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "800080",
 		"fillcolor": "800080",
 		"latlngarray": [
@@ -2552,7 +2552,7 @@
 		"title": "Sinister Souls MC",
 		"notes": "The Sinister Souls MC is a 1% Motorcycle Club operating out of their owned Club House in East Vinewood, Mirror Park Blvd (old QuickFix previously owned by 4EQ) in Los Santos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Sinister_Souls_MC",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "4B0082",
 		"fillcolor": "4B0082",
 		"latlngarray": [
@@ -2570,7 +2570,7 @@
 		"title": "Natural Born Crackheads",
 		"notes": "Natural Born Crackheads (NBC), is a gang created and founded by Daquan Dumas and Guy Jones.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Natural_Born_Crackheads",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FD5E53",
 		"fillcolor": "FD5E53",
 		"latlngarray": [
@@ -2599,7 +2599,7 @@
 		"title": "La Fuente Blanca",
 		"notes": "La Fuenta Blanca, also known as The Ranch, is a ranch owned by Speedy and is protected by the Vagos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/La_Fuente_Blanca",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFFF00",
 		"fillcolor": "FFFF00",
 		"latlngarray": [
@@ -2616,7 +2616,7 @@
 		"title": "Lost MC Sandy Shores",
 		"notes": "The Lost Motorcycle Club (Lost MC) is an outlaw motorcycle club operating out of Stab City in Blaine County, and claims Sandy Shores as their territory.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FFFFFF",
 		"latlngarray": [
@@ -2659,7 +2659,7 @@
 		"title": "The Lost MC Stab City",
 		"notes": "The Lost MCs clubhouse, situated in Stab City.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Lost_MC",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FFFFFF",
 		"latlngarray": [
@@ -2682,7 +2682,7 @@
 		"title": "Mayhem",
 		"notes": "Once Condemned MC, Mayhem MC are trying to be like a phoenix rising out of the ashes in Paleto Bay.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Mayhem",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "000000",
 		"fillcolor": "FFFFFF",
 		"latlngarray": [
@@ -2728,7 +2728,7 @@
 		"title": "Balbini Crime Family",
 		"notes": "The Balbani Crime Family, (BCF) is an organized crime syndicate that operates within the City of Los Santos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Balbani_Crime_Family",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFA500",
 		"fillcolor": "FFA500",
 		"latlngarray": [
@@ -2744,7 +2744,7 @@
 		"title": "The Grove Street Families",
 		"notes": "Formerly known as the Grove Street Families (GSF), now known as The Families, the gang is known for the color Green. The Families started with OG members Dexx Martin, Chef, Ghost Storm & Tyrese Tyrone. They all lived in the area of Forum Drive, The Families are made up four separate gangs consisting of Forum Drive Families, Carson Avenue Families, Davis Neighborhood Families, and Chamberlain Gangster Families.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/The_Families",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "008000",
 		"fillcolor": "008000",
 		"latlngarray": [
@@ -2791,7 +2791,7 @@
 		"title": "Aztecas",
 		"notes": "Aztecas reborn under the leadership of Tom Ryan.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Aztecas",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -2809,7 +2809,7 @@
 		"title": "Bondi Boys MC",
 		"notes": "The Bondi Boys Motor Club (BBMC) or Bondi Boys & Babes Motor Club is a criminal gang operating out of Vespucci, founded by Irwin Dundee, Barry Benson and Riley Carter (Exiled).",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Bondi_Boys_MC",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "1560BD",
 		"fillcolor": "1560BD",
 		"latlngarray": [
@@ -2853,7 +2853,7 @@
 		"title": "Chang Gang",
 		"notes": "Chang Gang (CG) is an organized crime syndicate founded on August 17th 2017. Said to be the most powerful gang in the city, usually gaining power by way of force and influence. CG has a large footprint in the criminal underworld, assisted by their consistent flow of money and weapons. Other than maintaining power, they engage in various criminal activities such as, bank robberies, murder, racketeering, drug manufacturing, gun trafficking, kidnapping, arson, gang wars, street racing, and police impersonation.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0000FF",
 		"fillcolor": "0000FF",
 		"latlngarray": [
@@ -2903,7 +2903,7 @@
 		"title": "Ace King",
 		"notes": "Koreans. Blackjack is hosted here.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FD5E53",
 		"fillcolor": "FD5E53",
 		"latlngarray": [
@@ -2919,7 +2919,7 @@
 		"title": "The Mandem",
 		"notes": "The Mandem is a British gang that currently operates in Los Santos. They engage in criminal activities such as boosting, street racing, kidnapping, drug trafficking, gang wars and robbery. On August 19, 2021, Tommy was officially appointed as the leader of The Mandem.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/The_Mandem",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "882222",
 		"fillcolor": "228822",
 		"latlngarray": [
@@ -3001,7 +3001,7 @@
 		"title": "The Mandem Block",
 		"notes": "The Mandem Block, sometimes referred to as The Mandem Compound, is The Mandem's base of operations, where they live and have most of their meetings.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Mandem_Block",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFC0C0",
 		"fillcolor": "00FF00",
 		"latlngarray": [
@@ -3025,7 +3025,7 @@
 		"title": "H.O.A. / Mirror Park",
 		"notes": "Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/HOA",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFA500",
 		"fillcolor": "FFA500",
 		"latlngarray": [
@@ -3075,7 +3075,7 @@
 		"type": "Territories",
 		"title": "The Scrapyard",
 		"notes": "Shared between the bikers, Ashenfell and BBC at different times of the day",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "000000",
 		"fillcolor": "FFFFFF",
 		"latlngarray": [
@@ -3091,7 +3091,7 @@
 		"title": "Cop Killa Records",
 		"notes": "Headquarter and studios of CKR",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Cop_Killa_Records",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "B2951A",
 		"fillcolor": "B2951A",
 		"latlngarray": [
@@ -3108,7 +3108,7 @@
 		"title": "The Cemetery",
 		"notes": "Claimed by Prune Gang. It's a real monkaW place.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Prune_Gang",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD1DC",
 		"fillcolor": "FFD1DC",
 		"latlngarray": [
@@ -3138,7 +3138,7 @@
 		"title": "Chang Gang Compound",
 		"notes": "This is where Chang Gang wakes up.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3162,7 +3162,7 @@
 		"title": "Chang Gang Warehouse Burton",
 		"notes": "A Chang Gang safe house full of DODO Logistic pallets. There is a changing room and office here.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3178,7 +3178,7 @@
 		"title": "Chang Gang Warehouse Murrieta Heights",
 		"notes": "A Chang Gang safe house.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3196,7 +3196,7 @@
 		"title": "Chang Gang Mansion",
 		"notes": "The Chang Gang mansion",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Chang_Gang",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3226,7 +3226,7 @@
 		"type": "Territories",
 		"title": "The Dam",
 		"notes": "Claimed by HOA",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFA500",
 		"fillcolor": "FFA500",
 		"latlngarray": [
@@ -3245,7 +3245,7 @@
 		"type": "Territories",
 		"title": "Mirror Park Railyard",
 		"notes": "Claimed by HOA",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFA500",
 		"fillcolor": "FFA500",
 		"latlngarray": [
@@ -3266,7 +3266,7 @@
 		"title": "Royal Mafia",
 		"notes": "New Mafia in Los Santos goes by the name Royal Mafia (formerly ZooMafia). Italian based, where family means everything.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Royal_Mafia",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3283,7 +3283,7 @@
 		"title": "The Guild",
 		"notes": "The Guild is a group of LARPers who play their Dungeons & Dragons characters in real life. They are commonly known as The Nerds. They originally met on a LARPing online forum and came to Los Santos to meet in real life for the first time. They do not consider themselves a gang.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/The_Guild",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFFFFF",
 		"fillcolor": "E75489",
 		"latlngarray": [
@@ -3321,7 +3321,7 @@
 		"title": "Gulag Gang",
 		"notes": "Gulag Gang also known as 'GG' was formed by Mickey S, Randy Bullet, Mari Posa, Curtis Swoleroid, Taco Prince, Ming Jingtai, and Jean Paul; while some members were going by their alter egos, others were operating under different names. Their connection from the gated city with Jean Paul brought them together in the early days of the purple county to set themselves as the ruling gang. At the time, Jean Paul was denied access to the gated city and named purple country as the 'gulag' which was the inspiration of the name 'Gulag Gang'. ",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Gulag_Gang",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
@@ -3346,7 +3346,7 @@
 		"title": "Mortelle",
 		"notes": "Mortelle is an all female gang run and lead by Cindy Tipton. The gang currently runs upper Richman surrounding the Hotel and College area.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Mortelle",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF69B4",
 		"fillcolor": "FF69B4",
 		"latlngarray": [
@@ -3418,7 +3418,7 @@
 		"title": "RoadMen",
 		"notes": "The RoadMen (RDM) is a British gang which acts as a road team for The Mandem. They are located at the West Side Motel.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Roadmen",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
@@ -3437,7 +3437,7 @@
 		"title": "The Korean Mafia",
 		"notes": "The Korean Mafia, also known as the Sun Clan or Kkangpae was started and founded by Sun Moon. Mr. Kebun has given the Sun Clan his blessing.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
@@ -3454,7 +3454,7 @@
 		"title": "Street Team",
 		"notes": "The Street Team is a gang that resides in Little Seoul, created May 2021. The current leader of the Street Team is Jaylen 'Lamp Post' Carter. Street Team made a quick name for themselves in the city due to their various connections. Their fierce loyalty and willingness to do anything has earned the respect of many big names, most notably, Chang Gang.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Street_Team",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
@@ -3475,7 +3475,7 @@
 		"title": "R.U.S.T.",
 		"notes": "R.U.S.T. is a group lead by Raymond Romanov, which operates out of the La Puerta Scrapyard.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/R.U.S.T",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
@@ -3515,7 +3515,7 @@
 		"title": "JustUS",
 		"notes": "JustUS is an organized crime crew formed by a group of associates during December 2021. At this moment, the group is on the come up doing the grind of meeting everyone and making money doing whatever job is available. JustUS is heavily involved in the drug game and supplies coke as well as crack to various groups in the city. Besides coke, they push meth in La Mesa and run weed as well.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/JustUs",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF00FF",
 		"fillcolor": "FF00FF",
 		"latlngarray": [
@@ -3531,7 +3531,7 @@
 		"title": "JustUS Safe House",
 		"notes": "A JustUS safe hosue.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/JustUs",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF00FF",
 		"fillcolor": "FF00FF",
 		"latlngarray": [
@@ -3550,7 +3550,7 @@
 		"title": "Alta Street Apartments",
 		"notes": "The Apartments is where new players wake up.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Alta_Street_Projects",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "222222",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3565,7 +3565,7 @@
 		"type": "Neutral",
 		"title": "Integrity Tower",
 		"notes": "The upgraded apartments for high-class citizens.",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "222222",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3583,7 +3583,7 @@
 		"type": "Neutral",
 		"title": "Rich Apartments",
 		"notes": "The tier 3 apartments for high-class citizens.",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "222222",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3615,7 +3615,7 @@
 		"type": "Neutral",
 		"title": "You Tool",
 		"notes": "A place to buy repair kits, radios, and body armor.",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00DA7D",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3631,7 +3631,7 @@
 		"title": "Digital Den",
 		"notes": "The Digital Den is an electronics business owned by Jacob Harth and Erin Cox",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Digital_Den",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3653,7 +3653,7 @@
 		"title": "Deans World",
 		"notes": "Where the farmers market ends up at night, Deans world is also where you can buy stuff, hold concerts on the main stage and ride a rollercoaster.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Dean_World",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3669,7 +3669,7 @@
 		"title": "Farmers Market",
 		"notes": "Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff. It is operational only during the day from 8am to 7pm. At night, the vendors are directed to operate at the Night Market of Dean World in Los Santos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Andi_Jones_Farmers_Market",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3685,7 +3685,7 @@
 		"title": "DODO Logistics",
 		"notes": "Randy Bullet's freight company.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/DODO_Logistics",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3710,7 +3710,7 @@
 		"title": "Vanilla Unicorn",
 		"notes": "The place used to be strip club and was owned by Liv Lassen and Dexx Martin. The club offered exclusive memberships for influential citizens allowing entrance into the Vanilla Unicorn for those who purchased a subscription. The state shut down the location after Liv Lassen was deported from the state by Federal order. Dexx repurchased the club with Jessie Jugg and have since repurposed it as a private entertainment club. The VU sold permanent VIP memberships for a limited time prior to the business's reopening. During renovation hot tubs and towel racks were installed. Additionally, camera and computer equipment was purchased for their Mitch.tv streaming deal.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Vanilla_Unicorn_Strip_Club",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3728,7 +3728,7 @@
 		"title": "Cerberus Business Center",
 		"notes": "The Cerberus Business Center offers spacious offices with gorgeous cityscape views for the businesses of Los Santos. The initial idea was to bring all Cerberus executives into one building where they can all get to know each other. Cerberus tasked Cassie Cupcake to screen small businesses at Dean World and the Andi Jones Farmers Market that could occupy office space in the building. Once the business center opened, the Clean Queens brought in more businesses.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Cerberus_Business_Center",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3747,7 +3747,7 @@
 		"title": "Queen Manor",
 		"notes": "Queen Manor is owned by Nancy Drew and co-owned by the Clean Queens, The Manor is a home for the CEO women who work for Cerberus. Nancy Drew purchased the Manor late night December 20th, 2021. The goal for the Manor is to be a community meeting spot for the CEO's and those affiliated with Cerberus. Queen Manor got it's name because it is inspired by Lang Buddha's Clean Manor.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Queen_Manor",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E09573",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3770,7 +3770,7 @@
 		"title": "Vultur L\u00e9 Cultur\u00e9 ",
 		"notes": "Vultur L\u00e9 Cultur\u00e9, also known simply as the Gallery, is an art gallery and auction house founded by Ramee El-Rahman",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Vultur_L%C3%A9_Cultur%C3%A9",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3790,7 +3790,7 @@
 		"title": "Wu-Chang Records",
 		"notes": "Wu-Chang Records was created by Mr. Wang Chang (Mr. Kebun) and Vinny Pistone, and established under Mr. Wang Chang's name. Vinny and Mr. Chang unofficially signed Lil Erf as the label's first artist, after the debut of his hit song Chang Gang.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Wu_Chang_Records",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3810,7 +3810,7 @@
 		"type": "Neutral",
 		"title": "The Cinema",
 		"notes": "The filming spot of The Kebun Springer Show.",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3831,7 +3831,7 @@
 		"title": "Mr. Kebun's Dojo",
 		"notes": "A place to practice martial arts and swordsmanship.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Mr._Kebun",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3847,7 +3847,7 @@
 		"title": "LSBN",
 		"notes": "Los Santos Broadcast Network (LSBN) is a media and entertainment organization. The company is based out of the upper floors of the LS News Center building, on the corner of Lindsay Circus and Palomino Avenue in Little Seoul.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/LSBN",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3862,7 +3862,7 @@
 		"type": "Neutral",
 		"title": "Pink Cage Motel",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3878,7 +3878,7 @@
 		"type": "Neutral",
 		"title": "North Side Motel",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3894,7 +3894,7 @@
 		"title": "National Paintball Association",
 		"notes": "The National Paintball Association (NPA) is a professional paintball league in San Andreas.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/National_Paintball_Association",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3933,7 +3933,7 @@
 		"title": "Carmella Corset's House",
 		"notes": "Chang Gang and Clean Queens members visit here frequently.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Carmella_Corset",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E09573",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3951,7 +3951,7 @@
 		"title": "Kevin and Eric's Mansion",
 		"notes": "Kevin Ram and Eric Wolfenstein's mansion. Ray Mond was the third person to gain access to the  mansion.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Kevin_Ram",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E09573",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -3996,7 +3996,7 @@
 		"title": "Bean Manor",
 		"notes": "Marlo Stanfield and Fiona Stewart's mansion. It is affiliated Cleanbois.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Bean_Manor",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E09573",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -4017,7 +4017,7 @@
 		"type": "Neutral",
 		"title": "Pawnshop",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -4035,7 +4035,7 @@
 		"type": "Neutral",
 		"title": "The Fence",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -4052,7 +4052,7 @@
 		"title": "College",
 		"notes": "",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF80",
 		"latlngarray": [
@@ -4094,7 +4094,7 @@
 		"type": "Neutral",
 		"title": "Golf Course",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -4147,7 +4147,7 @@
 		"title": "Bahama Mamas West",
 		"notes": "Bahama Mamas West is a nightclub located in Del Perro, Los Santos that is currently going through a new ownership process between Thomas Dwayne and Elena Vega.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Bahama_Mamas_West",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
@@ -4171,7 +4171,7 @@
 		"title": "Benny's Original Motor Works",
 		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4189,7 +4189,7 @@
 		"title": "Strawberry Benny's Original Motor Works",
 		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4205,7 +4205,7 @@
 		"title": "Murrieta Heights Benny's Original Motor Works",
 		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4221,7 +4221,7 @@
 		"title": "Premium Deluxe Motorsport",
 		"notes": "Premium Deluxe Motorsport, or PDM as most call it, is a car dealership run by businessman Leslie Lingberg. PDM is the place where most people buy their first car in city. PDM has a working relationship with Diamond Hand Credit who provide financing to prospective car buyers.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Premium_Deluxe_Motorsport",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4237,7 +4237,7 @@
 		"title": "Tuner Shop",
 		"notes": "The Tuner Shop, also known as the Tuna Shop, is a repair shop and car dealership owned by Eddie Marshall. He owns 52%. It is managed by Tommy Cruizer, and its Sales Operations are run by Mary Mushkin, Chip Wheeler and Eddie himself.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Tuner_Shop",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4258,7 +4258,7 @@
 		"title": "Harmony",
 		"notes": "Harmony Repairs Garage or Harmony to most, is a well-known repair shop owned by Jordan Walker in Northern Blaine County.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Harmony_Repairs_Garage",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4274,7 +4274,7 @@
 		"title": "Ottos Auto",
 		"notes": "Ottos Autos is a second-hand car dealership and mechanic shop created by Otto Delmar. The ownership of the business is split three ways between the Diamond Casino and Resort (Dean Watson and Otto), Leslie Lingberg and Marlo Stanfield. As Otto is also the creator of Diamond Hand Credit the shop is able to offer fast and easy loans to people buying cars who need a little extra cash. With Leslie Lingberg being a 33% shareholder, the business has a partnership with PDM where people looking to sell cars will be directed to Ottos Autos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Ottos_Autos",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4290,7 +4290,7 @@
 		"title": "Hayes",
 		"notes": "The repair shop was previously owned by Igor Skovacic. Ownership has since been passed on to Shane Powers.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Hayes_Auto_Body_Repairs",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4306,7 +4306,7 @@
 		"title": "Iron Hog Repairs",
 		"notes": "Iron Hog is owned and run by Lucille Hellman, and originally operated out of the garage at the Lost MC compound in Stab City, when it was founded in 2020. In 2021, Iron Hog was relocated to its own building at the Sandy Shores Airfield, and made its grand opening on September 11th, 2021. The shop specializes in motorcycles and is protected by the Lost MC",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Iron_Hog_Repairs",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4322,7 +4322,7 @@
 		"title": "H&O Exports",
 		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operations.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/H%26O_Exports",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD880",
 		"latlngarray": [
@@ -4339,7 +4339,7 @@
 		"title": "H&O Exports Entrance",
 		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operatons.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/H%26O_Exports",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4355,7 +4355,7 @@
 		"title": "Deluxe Car Garage/Showroom",
 		"notes": "Associated with H&O Exports",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4372,7 +4372,7 @@
 		"title": "Beekers Garage & Parts",
 		"notes": "Repair shop",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4388,7 +4388,7 @@
 		"title": "Burton Los Santos Customs",
 		"notes": "",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4407,7 +4407,7 @@
 		"title": "International Airport Los Santos Customs",
 		"notes": "",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4419,11 +4419,11 @@
 	},
 	{
 		"id": 3112,
-		"type": "Automotive",
+		"type": "Neutral",
 		"title": "The Vinewood Racetrack",
 		"notes": "4EQ is an entertainment and event planning company operating out of East Vinewood. They own the Vinewood Racetrack, which is behind Diamond Casino and Resort, currently occupy the QuickFix near the Racetrack as one of their less official meeting locations, and were given office #3 in East Vinewood on the corner of Occupation Avenue & Power Street by Thomas Dwayne to conduct official business. They have no direct affiliation with the casino despite their sharing of a campus. 4EQ's name is a shortening of The Four Equestrians.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Alta_Street_Projects",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4451,11 +4451,11 @@
 	},
 	{
 		"id": 3113,
-		"type": "Automotive",
+		"type": "Neutral",
 		"title": "Red Parking Garage",
 		"notes": "",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
@@ -4522,7 +4522,7 @@
 		"title": "Little Seoul Gas Station",
 		"notes": "A very popular gas station located in Little Seoul.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Little_Seoul",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4544,7 +4544,7 @@
 		"title": "Davis Gas Station",
 		"notes": "",
 		"wiki_link": "",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4560,7 +4560,7 @@
 		"title": "Richman Glen Gas Station",
 		"notes": "",
 		"wiki_link": "",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4580,7 +4580,7 @@
 		"title": "Strawberry Gas Station",
 		"notes": "",
 		"wiki_link": "",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4596,7 +4596,7 @@
 		"type": "Automotive",
 		"title": "San Chianski Mountain Gas Station",
 		"notes": "",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4611,7 +4611,7 @@
 		"type": "Automotive",
 		"title": "Mirror Park Gas Station",
 		"notes": "",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4628,7 +4628,7 @@
 		"type": "Automotive",
 		"title": "Paleto Bay Gas Station",
 		"notes": "",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4643,7 +4643,7 @@
 		"type": "Automotive",
 		"title": "Downtown Vinewood Gas Station",
 		"notes": "",
-		"order": 2,
+		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
@@ -4660,7 +4660,7 @@
 		"title": "The Casino",
 		"notes": "The Casino is owned and operated by Dean Watson and ran by Chief Executive Officer Cassie Cupcakes. Originally the CEO position was given to Kevin Whipaloo by both Dean Watson & Otto Delmar which he accepted with the terms being he would resign from Burger Shot. However, the next day Kevin ran out of town and has not been seen since. The Casino Heist is the fifth stage progression of bank robberies.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Diamond_Casino_and_Resort",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4678,7 +4678,7 @@
 		"title": "The City Vault",
 		"notes": "The City Vault (Pacific Standard Public Deposit Bank) is the third stage and fourth progression of bank robberies.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4699,7 +4699,7 @@
 		"title": "VAR Heist",
 		"notes": "The VAR Heist is accessible from the roof of a building in Morningwood, using VAR headsets (obtained from the Yacht Heist) criminals can enter a virtual world to fight hostiles while attempting to hack into terminals and gain illegal data.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/VAR_Heist",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4720,7 +4720,7 @@
 		"title": "Yacht Heist",
 		"notes": "The Yacht Heist provids VAR headsets for the VAR heist.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Category:Heist",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4741,7 +4741,7 @@
 		"title": "Paleto Bank",
 		"notes": "Paleto Bank (Blaine County Savings Bank) is the second stage progression of bank robberies.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4756,7 +4756,7 @@
 		"type": "Heists",
 		"title": "Vangelico Jewelry Store",
 		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4773,7 +4773,7 @@
 		"title": "Laptop Pickup",
 		"notes": "Where phone dongles and laptops are picked up.",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4789,7 +4789,7 @@
 		"title": "Laptop Shop",
 		"notes": "Where laptops are bought.",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4806,7 +4806,7 @@
 		"title": "Fleeca Bank",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Fleeca_Bank",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4822,7 +4822,7 @@
 		"title": "Fleeca Bank",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Fleeca_Bank",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4838,7 +4838,7 @@
 		"title": "Fleeca Bank",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
@@ -4859,7 +4859,7 @@
 		"title": "Mission Row PD",
 		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
@@ -4875,7 +4875,7 @@
 		"title": "PBSO",
 		"notes": "Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Paleto_Bay_Sheriff%27s_Office",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
@@ -4896,7 +4896,7 @@
 		"title": "SDSO",
 		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
@@ -4912,7 +4912,7 @@
 		"title": "The Courthouse",
 		"notes": "Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
@@ -4932,7 +4932,7 @@
 		"type": "Legal",
 		"title": "Impound Lot",
 		"notes": "Where cars go when they get impounded.",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
@@ -4949,7 +4949,7 @@
 		"title": "AirX Flight School",
 		"notes": "AirX is owned by Jackie Snow. Knowing their passion, skill, and experience for flying, Bryce Miller, Tony Corleone, and Olivia Copper were the first to be recruited into the flight school. Bryce was hired as Flight Chief/Manager and Instructor of AirX. Tony and Copper were also hired as Flight Instructors. AirX Flight School operates out of Fort Zancudo military base.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/AirX_Flight_School",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
@@ -4990,7 +4990,7 @@
 		"type": "Legal",
 		"title": "Davis PD",
 		"notes": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
@@ -5006,7 +5006,7 @@
 		"title": "Bob Smith PD",
 		"notes": "Bob Smith Police Department, formerly known as Vespucci Police Department was named after former Chief of Police Bob Smith. Who was the longest standing Chief in Los Santos, beloved by the people.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Bob_Smith_Police_Department",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
 		"latlngarray": [
@@ -5031,7 +5031,7 @@
 		"title": "Pillbox Medical Center",
 		"notes": "Pillbox Medical Center is the main hospital in Los Santos. Pillbox is the center of higher medicine in the city of Los Santos. It is home to the Emergency Medical Services, however EMS is not owned or funded by the hospital. They work with the rest of the governmental agencies across the city and routinely give them necessary higher medical services.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF005A",
 		"fillcolor": "FF005A",
 		"latlngarray": [
@@ -5049,7 +5049,7 @@
 		"type": "Medical",
 		"title": "Grandma's",
 		"notes": "Where you go to pick up your gang after a shootout.",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF005A",
 		"fillcolor": "FF005A",
 		"latlngarray": [
@@ -5070,7 +5070,7 @@
 		"type": "Medical",
 		"title": "Grandpa's",
 		"notes": "Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF005A",
 		"fillcolor": "FF005A",
 		"latlngarray": [
@@ -5086,7 +5086,7 @@
 		"title": "Central Los Santos Medical Center",
 		"notes": "",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF005A",
 		"fillcolor": "FF005A",
 		"latlngarray": [
@@ -5102,7 +5102,7 @@
 		"title": "Parsons Hill",
 		"notes": "Parsons Rehabilitation Center is a psychiatric rehabilitation facility for 51-50 patients. The patients referred to this center are primarily non-violent individuals that have been determined as unsafe for themselves and/or others. Patients can be held on a three-day temporary hold, or indefinitely. After an evaluation, only an authorized psychologist or a judge can determine if the patient will be released, or remain in the center for further treatment.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Parsons_Rehabilitation_Center",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF005A",
 		"fillcolor": "FF005A",
 		"latlngarray": [
@@ -5136,7 +5136,7 @@
 		"title": "Boe Jangles's House",
 		"notes": "Boe Jangles was a well known criminal in Los Santos and had connections across the city. He also worked for and founded the White Widow Dispensary. Boe had close ties with Chang Gang and was initiated into the gang on July 8th 2020. On July 4th, 2020 he retired and can now be found giving out hugs at his house. Reset in peace.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Boe_Jangles",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "FF005A",
 		"fillcolor": "FF005A",
 		"latlngarray": [
@@ -5157,7 +5157,7 @@
 		"title": "UWU Caf\u00e9",
 		"notes": "UwU Caf\u00e9 is a restaurant created and owned by Ash Ketchup. Benji Ramos, Sherry Paie and Attorney James Haze each own a small percentage of the company and help run it",
 		"wiki_link": "https://nopixel.fandom.com/wiki/UwU_Caf%C3%A9",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
@@ -5177,7 +5177,7 @@
 		"title": "Maldini's Pizzeria",
 		"notes": "Maldini's Pizzeria is Co-owned by Vinny Pistone and Mr. Kebun.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Maldini%27s_Pizzeria",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
@@ -5196,7 +5196,7 @@
 		"title": "Burger Shot",
 		"notes": "Burger Shot is a chain of fast-food restaurants specializing in hamburgers. Burger Shot is the food of choice in Los Santos. The company offers many delicious menu items and is owned by Dean Watson with Shelly Smith as CEO and Cassie Cupcake as COO.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Burger_Shot",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
@@ -5216,7 +5216,7 @@
 		"title": "Rooster Rest",
 		"notes": "The Rooster's Rest is a local establishment privately-owned by Lang Buddha and members of the Cleanbois. While the business mostly operates as a chalet-style restaurant (serving mainly chicken-based products and ramen bowls), The Rooster's Rest also operates as a bar and grill, music venue, nightclub, hostel, the base of operations for Rooster Cab Co., a secretive host for D&D campaigns, and as a casino, strip club and brothel on the down-low.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Rooster%27s_Rest",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
@@ -5236,7 +5236,7 @@
 		"title": "Lucky Pluckers",
 		"notes": "Lucky Pluckers is a chicken shop in the South-side owned by Dexx Martin and Taco Prince.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Lucky_pluckers",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
@@ -5252,7 +5252,7 @@
 		"title": "Up n Atom",
 		"notes": "",
 		"wiki_link": "",
-		"order": 2,
+		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
