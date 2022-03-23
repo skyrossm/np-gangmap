@@ -121,25 +121,6 @@
 	{
 		"id": 1006,
 		"type": "Neighborhoods",
-		"title": "Bolingbroke Penitentiary",
-		"notes": "",
-		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "00000000",
-		"latlngarray": [
-			{"lat": 19.045, "lng": 30.489},
-			{"lat": 19.045, "lng": 39.759},
-			{"lat": 9.599, "lng": 39.759},
-			{"lat": 9.599, "lng": 39.366},
-			{"lat": 6.778, "lng": 39.366},
-			{"lat": 6.778, "lng": 37.705},
-			{"lat": 5.784, "lng": 37.705},
-			{"lat": 5.784, "lng": 30.489}
-		]
-	},
-	{
-		"id": 1007,
-		"type": "Neighborhoods",
 		"title": "Braddock Pass",
 		"notes": "",
 		"order": 0,
@@ -159,7 +140,7 @@
 		]
 	},
 	{
-		"id": 1008,
+		"id": 1007,
 		"type": "Neighborhoods",
 		"title": "Burton",
 		"notes": "",
@@ -180,7 +161,7 @@
 		]
 	},
 	{
-		"id": 1009,
+		"id": 1008,
 		"type": "Neighborhoods",
 		"title": "Calafia Bridge ",
 		"notes": "",
@@ -195,7 +176,7 @@
 		]
 	},
 	{
-		"id": 1010,
+		"id": 1009,
 		"type": "Neighborhoods",
 		"title": "Cassidy Creek",
 		"notes": "",
@@ -224,7 +205,7 @@
 		]
 	},
 	{
-		"id": 1011,
+		"id": 1010,
 		"type": "Neighborhoods",
 		"title": "Chamberlain Hills",
 		"notes": "",
@@ -239,7 +220,7 @@
 		]
 	},
 	{
-		"id": 1012,
+		"id": 1011,
 		"type": "Neighborhoods",
 		"title": "Chiliad Mountain State Wilderness",
 		"notes": "",
@@ -266,7 +247,7 @@
 		]
 	},
 	{
-		"id": 1013,
+		"id": 1012,
 		"type": "Neighborhoods",
 		"title": "Chumash",
 		"notes": "",
@@ -291,7 +272,7 @@
 		]
 	},
 	{
-		"id": 1014,
+		"id": 1013,
 		"type": "Neighborhoods",
 		"title": "Cypress Flats",
 		"notes": "",
@@ -310,7 +291,7 @@
 		]
 	},
 	{
-		"id": 1015,
+		"id": 1014,
 		"type": "Neighborhoods",
 		"title": "Davis",
 		"notes": "",
@@ -333,7 +314,7 @@
 		]
 	},
 	{
-		"id": 1016,
+		"id": 1015,
 		"type": "Neighborhoods",
 		"title": "Davis Quartz",
 		"notes": "",
@@ -356,7 +337,7 @@
 		]
 	},
 	{
-		"id": 1017,
+		"id": 1016,
 		"type": "Neighborhoods",
 		"title": "Del Perro",
 		"notes": "",
@@ -387,7 +368,7 @@
 		]
 	},
 	{
-		"id": 1018,
+		"id": 1017,
 		"type": "Neighborhoods",
 		"title": "Del Perro Beach",
 		"notes": "",
@@ -432,7 +413,7 @@
 		]
 	},
 	{
-		"id": 1019,
+		"id": 1018,
 		"type": "Neighborhoods",
 		"title": "Downtown",
 		"notes": "",
@@ -449,7 +430,7 @@
 		]
 	},
 	{
-		"id": 1020,
+		"id": 1019,
 		"type": "Neighborhoods",
 		"title": "Downtown Vinewood",
 		"notes": "",
@@ -464,7 +445,7 @@
 		]
 	},
 	{
-		"id": 1021,
+		"id": 1020,
 		"type": "Neighborhoods",
 		"title": "East Vinewood",
 		"notes": "",
@@ -485,7 +466,7 @@
 		]
 	},
 	{
-		"id": 1022,
+		"id": 1021,
 		"type": "Neighborhoods",
 		"title": "El Burro Heights",
 		"notes": "",
@@ -510,7 +491,7 @@
 		]
 	},
 	{
-		"id": 1023,
+		"id": 1022,
 		"type": "Neighborhoods",
 		"title": "El Gordo Lighthouse",
 		"notes": "",
@@ -525,7 +506,7 @@
 		]
 	},
 	{
-		"id": 1024,
+		"id": 1023,
 		"type": "Neighborhoods",
 		"title": "Elysian Island",
 		"notes": "",
@@ -550,7 +531,7 @@
 		]
 	},
 	{
-		"id": 1025,
+		"id": 1024,
 		"type": "Neighborhoods",
 		"title": "Fort Zancudo",
 		"notes": "",
@@ -581,7 +562,7 @@
 		]
 	},
 	{
-		"id": 1026,
+		"id": 1025,
 		"type": "Neighborhoods",
 		"title": "GWC and Golfing Society",
 		"notes": "",
@@ -602,7 +583,7 @@
 		]
 	},
 	{
-		"id": 1027,
+		"id": 1026,
 		"type": "Neighborhoods",
 		"title": "Galilee",
 		"notes": "",
@@ -617,7 +598,7 @@
 		]
 	},
 	{
-		"id": 1028,
+		"id": 1027,
 		"type": "Neighborhoods",
 		"title": "Grand Senora Desert",
 		"notes": "",
@@ -660,7 +641,7 @@
 		]
 	},
 	{
-		"id": 1029,
+		"id": 1028,
 		"type": "Neighborhoods",
 		"title": "Grapeseed",
 		"notes": "",
@@ -683,7 +664,7 @@
 		]
 	},
 	{
-		"id": 1030,
+		"id": 1029,
 		"type": "Neighborhoods",
 		"title": "Great Chaparral",
 		"notes": "",
@@ -718,7 +699,7 @@
 		]
 	},
 	{
-		"id": 1031,
+		"id": 1030,
 		"type": "Neighborhoods",
 		"title": "Harmony",
 		"notes": "",
@@ -733,7 +714,7 @@
 		]
 	},
 	{
-		"id": 1032,
+		"id": 1031,
 		"type": "Neighborhoods",
 		"title": "Hawick",
 		"notes": "",
@@ -748,7 +729,7 @@
 		]
 	},
 	{
-		"id": 1033,
+		"id": 1032,
 		"type": "Neighborhoods",
 		"title": "Humane Labs and Research",
 		"notes": "",
@@ -763,7 +744,7 @@
 		]
 	},
 	{
-		"id": 1034,
+		"id": 1033,
 		"type": "Neighborhoods",
 		"title": "La Mesa",
 		"notes": "",
@@ -788,7 +769,7 @@
 		]
 	},
 	{
-		"id": 1035,
+		"id": 1034,
 		"type": "Neighborhoods",
 		"title": "La Puerta",
 		"notes": "",
@@ -815,7 +796,7 @@
 		]
 	},
 	{
-		"id": 1036,
+		"id": 1035,
 		"type": "Neighborhoods",
 		"title": "Lago Zancudo",
 		"notes": "",
@@ -852,7 +833,7 @@
 		]
 	},
 	{
-		"id": 1037,
+		"id": 1036,
 		"type": "Neighborhoods",
 		"title": "Legion Square",
 		"notes": "",
@@ -867,7 +848,7 @@
 		]
 	},
 	{
-		"id": 1038,
+		"id": 1037,
 		"type": "Neighborhoods",
 		"title": "Little Seoul",
 		"notes": "",
@@ -902,7 +883,7 @@
 		]
 	},
 	{
-		"id": 1039,
+		"id": 1038,
 		"type": "Neighborhoods",
 		"title": "Los Santos International Airport",
 		"notes": "",
@@ -951,7 +932,7 @@
 		]
 	},
 	{
-		"id": 1040,
+		"id": 1039,
 		"type": "Neighborhoods",
 		"title": "M.P.",
 		"notes": "",
@@ -966,7 +947,7 @@
 		]
 	},
 	{
-		"id": 1041,
+		"id": 1040,
 		"type": "Neighborhoods",
 		"title": "Maze Bank Arena",
 		"notes": "",
@@ -985,7 +966,7 @@
 		]
 	},
 	{
-		"id": 1042,
+		"id": 1041,
 		"type": "Neighborhoods",
 		"title": "Mirror Park",
 		"notes": "",
@@ -1000,7 +981,7 @@
 		]
 	},
 	{
-		"id": 1043,
+		"id": 1042,
 		"type": "Neighborhoods",
 		"title": "Mission Row",
 		"notes": "",
@@ -1017,7 +998,7 @@
 		]
 	},
 	{
-		"id": 1044,
+		"id": 1043,
 		"type": "Neighborhoods",
 		"title": "Morningwood",
 		"notes": "",
@@ -1036,7 +1017,7 @@
 		]
 	},
 	{
-		"id": 1045,
+		"id": 1044,
 		"type": "Neighborhoods",
 		"title": "Mount Chiliad",
 		"notes": "",
@@ -1077,7 +1058,7 @@
 		]
 	},
 	{
-		"id": 1046,
+		"id": 1045,
 		"type": "Neighborhoods",
 		"title": "Mount Gordo",
 		"notes": "",
@@ -1140,7 +1121,7 @@
 		]
 	},
 	{
-		"id": 1047,
+		"id": 1046,
 		"type": "Neighborhoods",
 		"title": "Mount Josiah",
 		"notes": "",
@@ -1171,7 +1152,7 @@
 		]
 	},
 	{
-		"id": 1048,
+		"id": 1047,
 		"type": "Neighborhoods",
 		"title": "Murrieta Heights",
 		"notes": "",
@@ -1190,7 +1171,7 @@
 		]
 	},
 	{
-		"id": 1049,
+		"id": 1048,
 		"type": "Neighborhoods",
 		"title": "Murrieta Heights South",
 		"notes": "",
@@ -1205,7 +1186,7 @@
 		]
 	},
 	{
-		"id": 1050,
+		"id": 1049,
 		"type": "Neighborhoods",
 		"title": "N.O.O.S.E",
 		"notes": "",
@@ -1222,7 +1203,7 @@
 		]
 	},
 	{
-		"id": 1051,
+		"id": 1050,
 		"type": "Neighborhoods",
 		"title": "North Chumash",
 		"notes": "",
@@ -1249,7 +1230,7 @@
 		]
 	},
 	{
-		"id": 1052,
+		"id": 1051,
 		"type": "Neighborhoods",
 		"title": "Pacific Bluffs",
 		"notes": "",
@@ -1292,7 +1273,7 @@
 		]
 	},
 	{
-		"id": 1053,
+		"id": 1052,
 		"type": "Neighborhoods",
 		"title": "Paleto Bay",
 		"notes": "",
@@ -1343,7 +1324,7 @@
 		]
 	},
 	{
-		"id": 1054,
+		"id": 1053,
 		"type": "Neighborhoods",
 		"title": "Paleto Cove",
 		"notes": "",
@@ -1372,7 +1353,7 @@
 		]
 	},
 	{
-		"id": 1055,
+		"id": 1054,
 		"type": "Neighborhoods",
 		"title": "Paleto Forest",
 		"notes": "",
@@ -1399,7 +1380,7 @@
 		]
 	},
 	{
-		"id": 1056,
+		"id": 1055,
 		"type": "Neighborhoods",
 		"title": "Palmer-Taylor Power Station",
 		"notes": "",
@@ -1418,7 +1399,7 @@
 		]
 	},
 	{
-		"id": 1057,
+		"id": 1056,
 		"type": "Neighborhoods",
 		"title": "Palomino Highlands",
 		"notes": "",
@@ -1525,7 +1506,7 @@
 		]
 	},
 	{
-		"id": 1058,
+		"id": 1057,
 		"type": "Neighborhoods",
 		"title": "Pillbox Hill",
 		"notes": "",
@@ -1548,7 +1529,7 @@
 		]
 	},
 	{
-		"id": 1059,
+		"id": 1058,
 		"type": "Neighborhoods",
 		"title": "Procopio Beach",
 		"notes": "",
@@ -1565,7 +1546,7 @@
 		]
 	},
 	{
-		"id": 1060,
+		"id": 1059,
 		"type": "Neighborhoods",
 		"title": "RON Alternates Wind Farm",
 		"notes": "",
@@ -1608,7 +1589,7 @@
 		]
 	},
 	{
-		"id": 1061,
+		"id": 1060,
 		"type": "Neighborhoods",
 		"title": "Rancho",
 		"notes": "",
@@ -1633,7 +1614,7 @@
 		]
 	},
 	{
-		"id": 1062,
+		"id": 1061,
 		"type": "Neighborhoods",
 		"title": "Raton Canyon",
 		"notes": "",
@@ -1676,7 +1657,7 @@
 		]
 	},
 	{
-		"id": 1063,
+		"id": 1062,
 		"type": "Neighborhoods",
 		"title": "Redwood Lights Track",
 		"notes": "",
@@ -1691,7 +1672,7 @@
 		]
 	},
 	{
-		"id": 1064,
+		"id": 1063,
 		"type": "Neighborhoods",
 		"title": "Richard Majestic",
 		"notes": "",
@@ -1716,7 +1697,7 @@
 		]
 	},
 	{
-		"id": 1065,
+		"id": 1064,
 		"type": "Neighborhoods",
 		"title": "Richman",
 		"notes": "",
@@ -1735,7 +1716,7 @@
 		]
 	},
 	{
-		"id": 1066,
+		"id": 1065,
 		"type": "Neighborhoods",
 		"title": "Richman Glen",
 		"notes": "",
@@ -1750,7 +1731,7 @@
 		]
 	},
 	{
-		"id": 1067,
+		"id": 1066,
 		"type": "Neighborhoods",
 		"title": "Rockford Hills",
 		"notes": "",
@@ -1791,7 +1772,7 @@
 		]
 	},
 	{
-		"id": 1068,
+		"id": 1067,
 		"type": "Neighborhoods",
 		"title": "S.A.",
 		"notes": "",
@@ -1806,7 +1787,7 @@
 		]
 	},
 	{
-		"id": 1069,
+		"id": 1068,
 		"type": "Neighborhoods",
 		"title": "San Chianski Mountain Range",
 		"notes": "",
@@ -1879,7 +1860,7 @@
 		]
 	},
 	{
-		"id": 1070,
+		"id": 1069,
 		"type": "Neighborhoods",
 		"title": "Sandy Shores",
 		"notes": "",
@@ -1902,7 +1883,7 @@
 		]
 	},
 	{
-		"id": 1071,
+		"id": 1070,
 		"type": "Neighborhoods",
 		"title": "Stab City",
 		"notes": "",
@@ -1921,7 +1902,7 @@
 		]
 	},
 	{
-		"id": 1072,
+		"id": 1071,
 		"type": "Neighborhoods",
 		"title": "Strawberry",
 		"notes": "",
@@ -1940,7 +1921,7 @@
 		]
 	},
 	{
-		"id": 1073,
+		"id": 1072,
 		"type": "Neighborhoods",
 		"title": "Tataviam Mountains",
 		"notes": "",
@@ -1995,7 +1976,7 @@
 		]
 	},
 	{
-		"id": 1074,
+		"id": 1073,
 		"type": "Neighborhoods",
 		"title": "Terminal",
 		"notes": "",
@@ -2010,7 +1991,7 @@
 		]
 	},
 	{
-		"id": 1075,
+		"id": 1074,
 		"type": "Neighborhoods",
 		"title": "Textile City",
 		"notes": "",
@@ -2025,7 +2006,7 @@
 		]
 	},
 	{
-		"id": 1076,
+		"id": 1075,
 		"type": "Neighborhoods",
 		"title": "Tongva Hills",
 		"notes": "",
@@ -2046,7 +2027,7 @@
 		]
 	},
 	{
-		"id": 1077,
+		"id": 1076,
 		"type": "Neighborhoods",
 		"title": "Tongva Valley",
 		"notes": "",
@@ -2061,7 +2042,7 @@
 		]
 	},
 	{
-		"id": 1078,
+		"id": 1077,
 		"type": "Neighborhoods",
 		"title": "Vespucci",
 		"notes": "",
@@ -2084,7 +2065,7 @@
 		]
 	},
 	{
-		"id": 1079,
+		"id": 1078,
 		"type": "Neighborhoods",
 		"title": "Vespucci Beach",
 		"notes": "",
@@ -2145,7 +2126,7 @@
 		]
 	},
 	{
-		"id": 1080,
+		"id": 1079,
 		"type": "Neighborhoods",
 		"title": "Vespucci Canals",
 		"notes": "",
@@ -2176,7 +2157,7 @@
 		]
 	},
 	{
-		"id": 1081,
+		"id": 1080,
 		"type": "Neighborhoods",
 		"title": "Vinewood",
 		"notes": "",
@@ -2193,7 +2174,7 @@
 		]
 	},
 	{
-		"id": 1082,
+		"id": 1081,
 		"type": "Neighborhoods",
 		"title": "Vinewood Hills",
 		"notes": "",
@@ -2236,7 +2217,7 @@
 		]
 	},
 	{
-		"id": 1083,
+		"id": 1082,
 		"type": "Neighborhoods",
 		"title": "Vinewood Racetrack",
 		"notes": "",
@@ -2263,7 +2244,7 @@
 		]
 	},
 	{
-		"id": 1084,
+		"id": 1083,
 		"type": "Neighborhoods",
 		"title": "West Vinewood",
 		"notes": "",
@@ -2280,7 +2261,7 @@
 		]
 	},
 	{
-		"id": 1085,
+		"id": 1084,
 		"type": "Neighborhoods",
 		"title": "Zancudo River",
 		"notes": "",
@@ -2330,6 +2311,25 @@
 			{"lat": 23.639, "lng": -28.687},
 			{"lat": 27.388, "lng": -28.687},
 			{"lat": 27.388, "lng": -17.441}
+		]
+	},
+	{
+		"id": 1085,
+		"type": "Neighborhoods",
+		"title": "Bolingbroke Penitentiary",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "4E5B31",
+		"fillcolor": "00000000",
+		"latlngarray": [
+			{"lat": 19.045, "lng": 30.489},
+			{"lat": 19.045, "lng": 39.759},
+			{"lat": 9.599, "lng": 39.759},
+			{"lat": 9.599, "lng": 39.366},
+			{"lat": 6.778, "lng": 39.366},
+			{"lat": 6.778, "lng": 37.705},
+			{"lat": 5.784, "lng": 37.705},
+			{"lat": 5.784, "lng": 30.489}
 		]
 	},
 
@@ -3068,25 +3068,6 @@
 	{
 		"id": 2026,
 		"type": "Territories",
-		"title": "RoadMen",
-		"notes": "The RoadMen (RDM) is a British gang which acts as a road team for The Mandem. They are located at the West Side Motel.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Roadmen",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -63.121, "lng": -59.204},
-			{"lat": -62.892, "lng": -58.413},
-			{"lat": -62.468, "lng": -57.117},
-			{"lat": -63.007, "lng": -56.227},
-			{"lat": -63.373, "lng": -57.379},
-			{"lat": -63.584, "lng": -57.842},
-			{"lat": -63.364, "lng": -58.489}
-		]
-	},
-	{
-		"id": 2027,
-		"type": "Territories",
 		"title": "Royal Mafia",
 		"notes": "New Mafia in Los Santos goes by the name Royal Mafia (formerly ZooMafia). Italian based, where family means everything.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Royal_Mafia",
@@ -3102,7 +3083,7 @@
 		]
 	},
 	{
-		"id": 2028,
+		"id": 2027,
 		"type": "Territories",
 		"title": "Sinister Souls MC",
 		"notes": "The Sinister Souls MC is a 1% Motorcycle Club operating out of their owned Club House in East Vinewood, Mirror Park Blvd (old QuickFix previously owned by 4EQ) in Los Santos.",
@@ -3120,7 +3101,7 @@
 		]
 	},
 	{
-		"id": 2029,
+		"id": 2028,
 		"type": "Territories",
 		"title": "Street Team",
 		"notes": "The Street Team is a gang that resides in Little Seoul, created May 2021. The current leader of the Street Team is Jaylen 'Lamp Post' Carter. Street Team made a quick name for themselves in the city due to their various connections. Their fierce loyalty and willingness to do anything has earned the respect of many big names, most notably, Chang Gang.",
@@ -3141,7 +3122,7 @@
 		]
 	},
 	{
-		"id": 2030,
+		"id": 2029,
 		"type": "Territories",
 		"title": "The Angels",
 		"notes": "The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
@@ -3161,7 +3142,7 @@
 		]
 	},
 	{
-		"id": 2031,
+		"id": 2030,
 		"type": "Territories",
 		"title": "The Cemetery",
 		"notes": "Claimed by Prune Gang. It's a real monkaW place.",
@@ -3191,7 +3172,7 @@
 		]
 	},
 	{
-		"id": 2032,
+		"id": 2031,
 		"type": "Territories",
 		"title": "The Dam",
 		"notes": "Claimed by HOA",
@@ -3210,7 +3191,7 @@
 		]
 	},
 	{
-		"id": 2033,
+		"id": 2032,
 		"type": "Territories",
 		"title": "The Grove Street Families",
 		"notes": "Formerly known as the Grove Street Families (GSF), now known as The Families, the gang is known for the color Green. The Families started with OG members Dexx Martin, Chef, Ghost Storm & Tyrese Tyrone. They all lived in the area of Forum Drive, The Families are made up four separate gangs consisting of Forum Drive Families, Carson Avenue Families, Davis Neighborhood Families, and Chamberlain Gangster Families.",
@@ -3257,7 +3238,7 @@
 		}
 	},
 	{
-		"id": 2034,
+		"id": 2033,
 		"type": "Territories",
 		"title": "The Guild",
 		"notes": "The Guild is a group of LARPers who play their Dungeons & Dragons characters in real life. They are commonly known as The Nerds. They originally met on a LARPing online forum and came to Los Santos to meet in real life for the first time. They do not consider themselves a gang.",
@@ -3295,7 +3276,7 @@
 		]
 	},
 	{
-		"id": 2035,
+		"id": 2034,
 		"type": "Territories",
 		"title": "The Korean Mafia",
 		"notes": "The Korean Mafia, also known as the Sun Clan or Kkangpae was started and founded by Sun Moon. Mr. Kebun has given the Sun Clan his blessing.",
@@ -3312,7 +3293,7 @@
 		]
 	},
 	{
-		"id": 2036,
+		"id": 2035,
 		"type": "Territories",
 		"title": "The Lost MC Stab City",
 		"notes": "The Lost MCs clubhouse, situated in Stab City.",
@@ -3335,7 +3316,7 @@
 		]
 	},
 	{
-		"id": 2037,
+		"id": 2036,
 		"type": "Territories",
 		"title": "The Mandem",
 		"notes": "The Mandem is a British gang that currently operates in Los Santos. They engage in criminal activities such as boosting, street racing, kidnapping, drug trafficking, gang wars and robbery. On August 19, 2021, Tommy was officially appointed as the leader of The Mandem.",
@@ -3417,7 +3398,7 @@
 		}
 	},
 	{
-		"id": 2038,
+		"id": 2037,
 		"type": "Territories",
 		"title": "The Mandem Block",
 		"notes": "The Mandem Block, sometimes referred to as The Mandem Compound, is The Mandem's base of operations, where they live and have most of their meetings.",
@@ -3441,7 +3422,7 @@
 		}
 	},
 	{
-		"id": 2039,
+		"id": 2038,
 		"type": "Territories",
 		"title": "The Scrapyard",
 		"notes": "Shared between the bikers, Ashenfell and BBC at different times of the day",
@@ -3456,7 +3437,7 @@
 		]
 	},
 	{
-		"id": 2040,
+		"id": 2039,
 		"type": "Territories",
 		"title": "Vagos",
 		"notes": "The Eastside Vagos (ESV) also known as the Vagos, is a Mexican street gang currently led by el Jefe, Arush Patel 'Speedy' Santana. They operate out of the Barrio, based in the Jamestown area. They are said to be the largest Hispanic street gang in Los Santos. The gang's main business revolves around pushing guns, drugs and various other legal and criminal activities.",
@@ -3519,7 +3500,7 @@
 		}
 	},
 	{
-		"id": 2041,
+		"id": 2040,
 		"type": "Territories",
 		"title": "Ballas",
 		"notes": "Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
@@ -3550,6 +3531,25 @@
 			"yt_user_display": "Best GTA Highlights",
 			"yt_user_link": "c/BestGTAHighlights"
 		}
+	},
+	{
+		"id": 2041,
+		"type": "Territories",
+		"title": "RoadMen",
+		"notes": "The RoadMen (RDM) is a British gang which acts as a road team for The Mandem. They are located at the West Side Motel.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Roadmen",
+		"order": 1,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -63.121, "lng": -59.204},
+			{"lat": -62.892, "lng": -58.413},
+			{"lat": -62.468, "lng": -57.117},
+			{"lat": -63.007, "lng": -56.227},
+			{"lat": -63.373, "lng": -57.379},
+			{"lat": -63.584, "lng": -57.842},
+			{"lat": -63.364, "lng": -58.489}
+		]
 	},
 
 
