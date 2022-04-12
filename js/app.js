@@ -530,7 +530,7 @@ $(function() {
 function printArray() {
 	var msg = 'Submit new regions here:\n'
 	+ 'https://github.com/skyrossm/np-gangmap/issues\n\n'
-	+ 'Right click the map to add points to the region. You may have to toggle regions off to be able to right click on the bottom layer. Fill in the values marked "<edit here>" and title the new issue using the format: "Add <title> region". Copy and paste everything after this as the body of the issue:\n\n';
+	+ 'Right click the map to add points to the region. You may have to toggle regions off to be able to right click on the bottom layer. Fill in the values marked "<edit here>" and title the new issue using the format: "Add <title> region". Copy and paste everything below this. If your browser does not support selecting the text below press F12 to open the developer console and copy it from there. (scroll down)\n\n';
 	msg += '```json\n\t{\n\t\t"id": 0,'
 	+ '\n\t\t"type": "Territories",'
 	+ '\n\t\t"title": "<edit this>",'
@@ -547,6 +547,7 @@ function printArray() {
 	msg += '\t\t]'
 	+ '\n\t},\n```';
 	alert(msg);
+	console.log(msg);
 }
 
 function toggleRuler() {
