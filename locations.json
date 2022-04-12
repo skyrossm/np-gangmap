@@ -3069,17 +3069,19 @@
 		"id": 2026,
 		"type": "Territories",
 		"title": "Royal Mafia",
-		"notes": "New Mafia in Los Santos goes by the name Royal Mafia (formerly ZooMafia). Italian based, where family means everything.",
+		"notes": "New Mafia in Los Santos goes by the name Royal Mafia (formerly ZooMafia).",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Royal_Mafia",
 		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
 		"latlngarray": [
-			{"lat": -57.115, "lng": -17.814},
-			{"lat": -57.763, "lng": -14.547},
-			{"lat": -59.088, "lng": -15.632},
-			{"lat": -59.531, "lng": -15.885},
-			{"lat": -58.992, "lng": -18.983}
+			{"lat": -57.110, "lng": -17.807},
+			{"lat": -58.635, "lng": -10.039},
+			{"lat": -60.466, "lng": -11.347},
+			{"lat": -60.460, "lng": -12.478},
+			{"lat": -60.730, "lng": -14.500},
+			{"lat": -60.741, "lng": -18.631},
+			{"lat": -60.563, "lng": -20.048}
 		]
 	},
 	{
