@@ -5228,9 +5228,9 @@
 	{
 		"id": 8002,
 		"type": "Restaurants",
-		"title": "Lucky Pluckers",
-		"notes": "Lucky Pluckers is a chicken shop in the South-side owned by Dexx Martin and Taco Prince.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Lucky_pluckers",
+		"title": "Maldini's Pizzeria",
+		"notes": "Maldini's Pizzeria is Co-owned by Vinny Pistone and Mr. Kebun.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Maldini%27s_Pizzeria",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
@@ -5243,25 +5243,6 @@
 	},
 	{
 		"id": 8003,
-		"type": "Restaurants",
-		"title": "Maldini's Pizzeria",
-		"notes": "Maldini's Pizzeria is Co-owned by Vinny Pistone and Mr. Kebun.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Maldini%27s_Pizzeria",
-		"order": 0,
-		"strokecolor": "E759E1",
-		"fillcolor": "E759E1",
-		"latlngarray": [
-			{"lat": -63.584, "lng": 7.978},
-			{"lat": -63.653, "lng": 8.418},
-			{"lat": -63.779, "lng": 8.857},
-			{"lat": -63.968, "lng": 9.253},
-			{"lat": -64.213, "lng": 9.671},
-			{"lat": -64.379, "lng": 9.857},
-			{"lat": -64.379, "lng": 7.967}
-		]
-	},
-	{
-		"id": 8004,
 		"type": "Restaurants",
 		"title": "Rooster Rest",
 		"notes": "The Rooster's Rest is a local establishment privately-owned by Lang Buddha and members of the Cleanbois. While the business mostly operates as a chalet-style restaurant (serving mainly chicken-based products and ramen bowls), The Rooster's Rest also operates as a bar and grill, music venue, nightclub, hostel, the base of operations for Rooster Cab Co., a secretive host for D&D campaigns, and as a casino, strip club and brothel on the down-low.",
@@ -5281,7 +5262,7 @@
 		]
 	},
 	{
-		"id": 8005,
+		"id": 8004,
 		"type": "Restaurants",
 		"title": "UWU Caf\u00e9",
 		"notes": "UwU Caf\u00e9 is a restaurant created and owned by Ash Ketchup. Benji Ramos, Sherry Paie and Attorney James Haze each own a small percentage of the company and help run it",
@@ -5301,7 +5282,7 @@
 		]
 	},
 	{
-		"id": 8006,
+		"id": 8005,
 		"type": "Restaurants",
 		"title": "Up n Atom",
 		"notes": "",
