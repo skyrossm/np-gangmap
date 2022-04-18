@@ -2646,6 +2646,26 @@
 	{
 		"id": 2014,
 		"type": "Territories",
+		"title": "Da Paper Boiz",
+		"notes": "The Paper Boiz were initially created to rebel against the increasing gang presence in the Vinewood area around Rooster's Rest. This then grew into terrorizing other gangs' neighborhoods by leaving tags and TP'ing buildings.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Paper_Boiz",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -65.014, "lng": 7.947},
+			{"lat": -65.014, "lng": 9.712},
+			{"lat": -67.088, "lng": 9.712},
+			{"lat": -67.107, "lng": 8.162},
+			{"lat": -66.671, "lng": 8.14},
+			{"lat": -66.158, "lng": 8.026},
+			{"lat": -65.962, "lng": 7.949},
+			{"lat": -65.615, "lng": 7.982}
+		]
+	},
+	{
+		"id": 2015,
+		"type": "Territories",
 		"title": "Gulag Gang",
 		"notes": "Gulag Gang also known as 'GG' was formed by Mickey S, Randy Bullet, Mari Posa, Curtis Swoleroid, Taco Prince, Ming Jingtai, and Jean Paul; while some members were going by their alter egos, others were operating under different names. Their connection from the gated city with Jean Paul brought them together in the early days of the purple county to set themselves as the ruling gang. At the time, Jean Paul was denied access to the gated city and named purple country as the 'gulag' which was the inspiration of the name 'Gulag Gang'. ",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Gulag_Gang",
