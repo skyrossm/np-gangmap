@@ -3591,6 +3591,61 @@
 			{"lat": -63.364, "lng": -58.489}
 		]
 	},
+	{
+		"id": 2044,
+		"type": "Territories",
+		"title": "Seaside",
+		"notes": "Seaside is a family group that brings together individuals across both the civilian and criminal spectrum, with several visible public figures, former high ranking gang members, and a wanted terrorist.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Seaside",
+		"order": 1,
+		"strokecolor": "F073E3",
+		"fillcolor": "8DEDF7",
+		"latlngarray": [
+			{"lat": -58.426, "lng": -77.310},
+			{"lat": -58.414, "lng": -79.492},
+			{"lat": -59.320, "lng": -81.511},
+			{"lat": -60.540, "lng": -77.898},
+			{"lat": -60.781, "lng": -77.769},
+			{"lat": -61.223, "lng": -76.615},
+			{"lat": -61.470, "lng": -76.440},
+			{"lat": -61.685, "lng": -76.527},
+			{"lat": -63.105, "lng": -73.558},
+			{"lat": -65.826, "lng": -68.624},
+			{"lat": -66.239, "lng": -67.906},
+			{"lat": -66.743, "lng": -67.444},
+			{"lat": -66.968, "lng": -67.411},
+			{"lat": -67.169, "lng": -67.049},
+			{"lat": -67.982, "lng": -64.566},
+			{"lat": -66.013, "lng": -60.270},
+			{"lat": -64.867, "lng": -57.974},
+			{"lat": -64.429, "lng": -59.065},
+			{"lat": -63.762, "lng": -60.746},
+			{"lat": -63.420, "lng": -61.778},
+			{"lat": -62.839, "lng": -64.074},
+			{"lat": -62.587, "lng": -65.272},
+			{"lat": -62.185, "lng": -66.571},
+			{"lat": -61.179, "lng": -69.186},
+			{"lat": -59.641, "lng": -73.646},
+			{"lat": -59.008, "lng": -75.074}
+		],
+		"video": {"yt_id": "HjADa0q63J4"}
+	},
+	{
+		"id": 2045,
+		"type": "Territories",
+		"title": "Seaside Penthouse",
+		"notes": "Seaside is a family group that brings together individuals across both the civilian and criminal spectrum, with several visible public figures, former high ranking gang members, and a wanted terrorist.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Seaside",
+		"order": 1,
+		"strokecolor": "F073E3",
+		"fillcolor": "8DEDF7",
+		"latlngarray": [
+			{"lat": -46.201, "lng": -38.621},
+			{"lat": -47.464, "lng": -38.643},
+			{"lat": -47.486, "lng": -36.401},
+			{"lat": -46.232, "lng": -36.346}
+		]
+	},
 
 
 
