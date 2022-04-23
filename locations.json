@@ -3164,6 +3164,61 @@
 	{
 		"id": 2031,
 		"type": "Territories",
+		"title": "Seaside",
+		"notes": "Seaside is a family group that brings together individuals across both the civilian and criminal spectrum, with several visible public figures, former high ranking gang members, and a wanted terrorist.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Seaside",
+		"order": 1,
+		"strokecolor": "F073E3",
+		"fillcolor": "8DEDF7",
+		"latlngarray": [
+			{"lat": -58.426, "lng": -77.310},
+			{"lat": -58.414, "lng": -79.492},
+			{"lat": -59.320, "lng": -81.511},
+			{"lat": -60.540, "lng": -77.898},
+			{"lat": -60.781, "lng": -77.769},
+			{"lat": -61.223, "lng": -76.615},
+			{"lat": -61.470, "lng": -76.440},
+			{"lat": -61.685, "lng": -76.527},
+			{"lat": -63.105, "lng": -73.558},
+			{"lat": -65.826, "lng": -68.624},
+			{"lat": -66.239, "lng": -67.906},
+			{"lat": -66.743, "lng": -67.444},
+			{"lat": -66.968, "lng": -67.411},
+			{"lat": -67.169, "lng": -67.049},
+			{"lat": -67.982, "lng": -64.566},
+			{"lat": -66.013, "lng": -60.270},
+			{"lat": -64.867, "lng": -57.974},
+			{"lat": -64.429, "lng": -59.065},
+			{"lat": -63.762, "lng": -60.746},
+			{"lat": -63.420, "lng": -61.778},
+			{"lat": -62.839, "lng": -64.074},
+			{"lat": -62.587, "lng": -65.272},
+			{"lat": -62.185, "lng": -66.571},
+			{"lat": -61.179, "lng": -69.186},
+			{"lat": -59.641, "lng": -73.646},
+			{"lat": -59.008, "lng": -75.074}
+		],
+		"video": {"yt_id": "HjADa0q63J4"}
+	},
+	{
+		"id": 2032,
+		"type": "Territories",
+		"title": "Seaside Penthouse",
+		"notes": "Seaside is a family group that brings together individuals across both the civilian and criminal spectrum, with several visible public figures, former high ranking gang members, and a wanted terrorist.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Seaside",
+		"order": 1,
+		"strokecolor": "F073E3",
+		"fillcolor": "8DEDF7",
+		"latlngarray": [
+			{"lat": -46.201, "lng": -38.621},
+			{"lat": -47.464, "lng": -38.643},
+			{"lat": -47.486, "lng": -36.401},
+			{"lat": -46.232, "lng": -36.346}
+		]
+	},
+	{
+		"id": 2033,
+		"type": "Territories",
 		"title": "The Angels",
 		"notes": "The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Angels",
@@ -3182,7 +3237,7 @@
 		]
 	},
 	{
-		"id": 2032,
+		"id": 2034,
 		"type": "Territories",
 		"title": "The Cemetery",
 		"notes": "Claimed by Prune Gang. It's a real monkaW place.",
@@ -3212,7 +3267,7 @@
 		]
 	},
 	{
-		"id": 2033,
+		"id": 2035,
 		"type": "Territories",
 		"title": "The Dam",
 		"notes": "Claimed by HOA",
@@ -3231,7 +3286,7 @@
 		]
 	},
 	{
-		"id": 2034,
+		"id": 2036,
 		"type": "Territories",
 		"title": "The Grove Street Families",
 		"notes": "Formerly known as the Grove Street Families (GSF), now known as The Families, the gang is known for the color Green. The Families started with OG members Dexx Martin, Chef, Ghost Storm & Tyrese Tyrone. They all lived in the area of Forum Drive, The Families are made up four separate gangs consisting of Forum Drive Families, Carson Avenue Families, Davis Neighborhood Families, and Chamberlain Gangster Families.",
@@ -3278,7 +3333,7 @@
 		}
 	},
 	{
-		"id": 2035,
+		"id": 2037,
 		"type": "Territories",
 		"title": "The Guild",
 		"notes": "The Guild is a group of LARPers who play their Dungeons & Dragons characters in real life. They are commonly known as The Nerds. They originally met on a LARPing online forum and came to Los Santos to meet in real life for the first time. They do not consider themselves a gang.",
@@ -3316,7 +3371,7 @@
 		]
 	},
 	{
-		"id": 2036,
+		"id": 2038,
 		"type": "Territories",
 		"title": "The Korean Mafia",
 		"notes": "The Korean Mafia, also known as the Sun Clan or Kkangpae was started and founded by Sun Moon. Mr. Kebun has given the Sun Clan his blessing.",
@@ -3333,7 +3388,7 @@
 		]
 	},
 	{
-		"id": 2037,
+		"id": 2039,
 		"type": "Territories",
 		"title": "The Lost MC Stab City",
 		"notes": "The Lost MCs clubhouse, situated in Stab City.",
@@ -3356,7 +3411,7 @@
 		]
 	},
 	{
-		"id": 2038,
+		"id": 2040,
 		"type": "Territories",
 		"title": "The Mandem",
 		"notes": "The Mandem is a British gang that currently operates in Los Santos. They engage in criminal activities such as boosting, street racing, kidnapping, drug trafficking, gang wars and robbery. On August 19, 2021, Tommy was officially appointed as the leader of The Mandem.",
@@ -3438,7 +3493,7 @@
 		}
 	},
 	{
-		"id": 2039,
+		"id": 2041,
 		"type": "Territories",
 		"title": "The Mandem Block",
 		"notes": "The Mandem Block, sometimes referred to as The Mandem Compound, is The Mandem's base of operations, where they live and have most of their meetings.",
@@ -3462,7 +3517,7 @@
 		}
 	},
 	{
-		"id": 2040,
+		"id": 2042,
 		"type": "Territories",
 		"title": "The Scrapyard",
 		"notes": "Shared between the bikers, Ashenfell and BBC at different times of the day",
@@ -3477,7 +3532,7 @@
 		]
 	},
 	{
-		"id": 2041,
+		"id": 2043,
 		"type": "Territories",
 		"title": "Vagos",
 		"notes": "The Eastside Vagos (ESV) also known as the Vagos, is a Mexican street gang currently led by el Jefe, Arush Patel 'Speedy' Santana. They operate out of the Barrio, based in the Jamestown area. They are said to be the largest Hispanic street gang in Los Santos. The gang's main business revolves around pushing guns, drugs and various other legal and criminal activities.",
@@ -3540,7 +3595,7 @@
 		}
 	},
 	{
-		"id": 2042,
+		"id": 2044,
 		"type": "Territories",
 		"title": "Ballas",
 		"notes": "Ballas are one of the largest South Side street gangs operating out of the Cul-de-sac on Grove Street, Davis.",
@@ -3573,7 +3628,7 @@
 		}
 	},
 	{
-		"id": 2043,
+		"id": 2045,
 		"type": "Territories",
 		"title": "RoadMen",
 		"notes": "The RoadMen (RDM) is a British gang which acts as a road team for The Mandem. They are located at the West Side Motel.",
@@ -3591,61 +3646,7 @@
 			{"lat": -63.364, "lng": -58.489}
 		]
 	},
-	{
-		"id": 2044,
-		"type": "Territories",
-		"title": "Seaside",
-		"notes": "Seaside is a family group that brings together individuals across both the civilian and criminal spectrum, with several visible public figures, former high ranking gang members, and a wanted terrorist.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Seaside",
-		"order": 1,
-		"strokecolor": "F073E3",
-		"fillcolor": "8DEDF7",
-		"latlngarray": [
-			{"lat": -58.426, "lng": -77.310},
-			{"lat": -58.414, "lng": -79.492},
-			{"lat": -59.320, "lng": -81.511},
-			{"lat": -60.540, "lng": -77.898},
-			{"lat": -60.781, "lng": -77.769},
-			{"lat": -61.223, "lng": -76.615},
-			{"lat": -61.470, "lng": -76.440},
-			{"lat": -61.685, "lng": -76.527},
-			{"lat": -63.105, "lng": -73.558},
-			{"lat": -65.826, "lng": -68.624},
-			{"lat": -66.239, "lng": -67.906},
-			{"lat": -66.743, "lng": -67.444},
-			{"lat": -66.968, "lng": -67.411},
-			{"lat": -67.169, "lng": -67.049},
-			{"lat": -67.982, "lng": -64.566},
-			{"lat": -66.013, "lng": -60.270},
-			{"lat": -64.867, "lng": -57.974},
-			{"lat": -64.429, "lng": -59.065},
-			{"lat": -63.762, "lng": -60.746},
-			{"lat": -63.420, "lng": -61.778},
-			{"lat": -62.839, "lng": -64.074},
-			{"lat": -62.587, "lng": -65.272},
-			{"lat": -62.185, "lng": -66.571},
-			{"lat": -61.179, "lng": -69.186},
-			{"lat": -59.641, "lng": -73.646},
-			{"lat": -59.008, "lng": -75.074}
-		],
-		"video": {"yt_id": "HjADa0q63J4"}
-	},
-	{
-		"id": 2045,
-		"type": "Territories",
-		"title": "Seaside Penthouse",
-		"notes": "Seaside is a family group that brings together individuals across both the civilian and criminal spectrum, with several visible public figures, former high ranking gang members, and a wanted terrorist.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Seaside",
-		"order": 1,
-		"strokecolor": "F073E3",
-		"fillcolor": "8DEDF7",
-		"latlngarray": [
-			{"lat": -46.201, "lng": -38.621},
-			{"lat": -47.464, "lng": -38.643},
-			{"lat": -47.486, "lng": -36.401},
-			{"lat": -46.232, "lng": -36.346}
-		]
-	},
+	
 
 
 
