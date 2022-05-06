@@ -3150,8 +3150,7 @@
 		"strokecolor": "F073E3",
 		"fillcolor": "8DEDF7",
 		"latlngarray": [
-			{"lat": -58.426, "lng": -77.309},
-			{"lat": -58.414, "lng": -79.492},
+			
 			{"lat": -59.659, "lng": -82.061},
 			{"lat": -60.567, "lng": -79.402},
 			{"lat": -61.135, "lng": -77.996},
@@ -3182,7 +3181,11 @@
 			{"lat": -62.185, "lng": -66.571},
 			{"lat": -61.179, "lng": -69.186},
 			{"lat": -59.641, "lng": -73.646},
-			{"lat": -59.008, "lng": -75.074}
+			{"lat": -59.119, "lng": -74.284},
+			{"lat": -58.789, "lng": -74.363},
+			{"lat": -57.854, "lng": -74.209},
+			{"lat": -57.678, "lng": -76.934},
+			{"lat": -57.633, "lng": -77.997}
 		],
 		"video": {
 			"yt_id": "HjADa0q63J4"
@@ -3447,8 +3450,9 @@
 		"strokecolor": "882222",
 		"fillcolor": "228822",
 		"latlngarray": [
-			{"lat": -58.414, "lng": -77.328},
-			{"lat": -57.769, "lng": -76.988},
+			{"lat": -58.789, "lng": -74.363},
+			{"lat": -57.854, "lng": -74.209},
+			{"lat": -57.678, "lng": -76.934},
 			{"lat": -57.214, "lng": -76.459},
 			{"lat": -56.739, "lng": -75.647},
 			{"lat": -56.357, "lng": -74.669},
@@ -3504,7 +3508,7 @@
 			{"lat": -61.184, "lng": -69.161},
 			{"lat": -60.526, "lng": -71.106},
 			{"lat": -59.637, "lng": -73.655},
-			{"lat": -59.004, "lng": -75.083}
+			{"lat": -59.119, "lng": -74.284}
 		],
 		"video": {
 			"yt_id": "Rs58IJzxrCQ",
@@ -4741,6 +4745,27 @@
 	{
 		"id": 4024,
 		"type": "Automotive",
+		"title": "OwO Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -58.703, "lng": -74.577},
+			{"lat": -58.029, "lng": -74.478},
+			{"lat": -57.942, "lng": -74.643},
+			{"lat": -57.770, "lng": -76.898},
+			{"lat": -57.968, "lng": -77.030},
+			{"lat": -58.125, "lng": -77.041},
+			{"lat": -58.420, "lng": -76.887},
+			{"lat": -58.595, "lng": -76.603},
+			{"lat": -58.970, "lng": -75.291}
+		]
+	},
+	{
+		"id": 4025,
+		"type": "Automotive",
 		"title": "Refuel Hanger",
 		"notes": "Where helicopters refuel.",
 		"order": 2,
@@ -4755,7 +4780,7 @@
 		]
 	},
 	{
-		"id": 4025,
+		"id": 4026,
 		"type": "Automotive",
 		"title": "Repair Hanger",
 		"notes": "Where helicopters are repaired.",
@@ -4770,7 +4795,7 @@
 		]
 	},
 	{
-		"id": 4026,
+		"id": 4027,
 		"type": "Automotive",
 		"title": "Repair Hanger",
 		"notes": "Where helicopters are repaired.",
