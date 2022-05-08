@@ -3150,7 +3150,7 @@
 		"strokecolor": "F073E3",
 		"fillcolor": "8DEDF7",
 		"latlngarray": [
-			
+
 			{"lat": -59.659, "lng": -82.061},
 			{"lat": -60.567, "lng": -79.402},
 			{"lat": -61.135, "lng": -77.996},
@@ -3169,8 +3169,13 @@
 			{"lat": -66.794, "lng": -57.268},
 			{"lat": -65.388, "lng": -54.038},
 			{"lat": -64.322, "lng": -50.891},
-			{"lat": -63.083, "lng": -52.979},	
-			{"lat": -61.753, "lng": -54.825},
+			
+			{"lat": -63.064, "lng": -53.021},
+			{"lat": -62.154, "lng": -50.473},
+			{"lat": -60.898, "lng": -52.714},
+			{"lat": -61.731, "lng": -54.867},
+
+
 			{"lat": -62.381, "lng": -57.286},
 			{"lat": -63.001, "lng": -56.489},
 			{"lat": -64.099, "lng": -59.931},
@@ -3492,11 +3497,13 @@
 			{"lat": -61.772, "lng": -45.366},
 			{"lat": -62.339, "lng": -47.616},
 			{"lat": -62.744, "lng": -48.779},
-			{"lat": -64.119, "lng": -46.141},
-			{"lat": -65.15, "lng": -49.063},
-			{"lat": -65.208, "lng": -49.125},
-			{"lat": -63.083, "lng": -52.979},	
-			{"lat": -61.753, "lng": -54.825},
+			
+
+			
+			{"lat": -62.154, "lng": -50.473},
+			{"lat": -60.898, "lng": -52.714},
+			{"lat": -61.731, "lng": -54.867},
+
 			{"lat": -62.381, "lng": -57.286},
 			{"lat": -63.001, "lng": -56.489},
 			{"lat": -64.063, "lng": -59.952},
@@ -4147,6 +4154,22 @@
 	{
 		"id": 3022,
 		"type": "Neutral",
+		"title": "Seaside Seaquarium",
+		"notes": "Here will stand Seaquarium once the construction is finished.",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -58.864, "lng": -79.597},
+			{"lat": -59.299, "lng": -80.179},
+			{"lat": -60.053, "lng": -77.806},
+			{"lat": -59.399, "lng": -76.509},
+			{"lat": -58.932, "lng": -77.883}
+		]
+	},
+	{
+		"id": 3023,
+		"type": "Neutral",
 		"title": "The Cinema",
 		"notes": "The filming spot of The Kebun Springer Show.",
 		"order": 0,
@@ -4165,7 +4188,7 @@
 		}
 	},
 	{
-		"id": 3023,
+		"id": 3024,
 		"type": "Neutral",
 		"title": "The Fence",
 		"notes": "",
@@ -4181,7 +4204,7 @@
 		]
 	},
 	{
-		"id": 3024,
+		"id": 3025,
 		"type": "Neutral",
 		"title": "The Vinewood Racetrack",
 		"notes": "4EQ is an entertainment and event planning company operating out of East Vinewood. They own the Vinewood Racetrack, which is behind Diamond Casino and Resort, currently occupy the QuickFix near the Racetrack as one of their less official meeting locations, and were given office #3 in East Vinewood on the corner of Occupation Avenue & Power Street by Thomas Dwayne to conduct official business. They have no direct affiliation with the casino despite their sharing of a campus. 4EQ's name is a shortening of The Four Equestrians.",
@@ -4213,7 +4236,7 @@
 		]
 	},
 	{
-		"id": 3025,
+		"id": 3026,
 		"type": "Neutral",
 		"title": "Vanilla Unicorn",
 		"notes": "The place used to be strip club and was owned by Liv Lassen and Dexx Martin. The club offered exclusive memberships for influential citizens allowing entrance into the Vanilla Unicorn for those who purchased a subscription. The state shut down the location after Liv Lassen was deported from the state by Federal order. Dexx repurchased the club with Jessie Jugg and have since repurposed it as a private entertainment club. The VU sold permanent VIP memberships for a limited time prior to the business's reopening. During renovation hot tubs and towel racks were installed. Additionally, camera and computer equipment was purchased for their Mitch.tv streaming deal.",
@@ -4231,7 +4254,7 @@
 		]
 	},
 	{
-		"id": 3026,
+		"id": 3027,
 		"type": "Neutral",
 		"title": "Vultur L\u00e9 Cultur\u00e9 ",
 		"notes": "Vultur L\u00e9 Cultur\u00e9, also known simply as the Gallery, is an art gallery and auction house founded by Ramee El-Rahman",
@@ -4251,7 +4274,7 @@
 		]
 	},
 	{
-		"id": 3027,
+		"id": 3028,
 		"type": "Neutral",
 		"title": "Wu-Chang Records",
 		"notes": "Wu-Chang Records was created by Mr. Wang Chang (Mr. Kebun) and Vinny Pistone, and established under Mr. Wang Chang's name. Vinny and Mr. Chang unofficially signed Lil Erf as the label's first artist, after the debut of his hit song Chang Gang.",
@@ -4272,7 +4295,7 @@
 		}
 	},
 	{
-		"id": 3028,
+		"id": 3029,
 		"type": "Neutral",
 		"title": "You Tool",
 		"notes": "A place to buy repair kits, radios, and body armor.",
@@ -4287,7 +4310,7 @@
 		]
 	},
 	{
-		"id": 3029,
+		"id": 3030,
 		"type": "Neutral",
 		"title": "Carmella Corset's House",
 		"notes": "Chang Gang and Clean Queens members visit here frequently.",
@@ -4305,7 +4328,7 @@
 		]
 	},
 	{
-		"id": 3030,
+		"id": 3031,
 		"type": "Neutral",
 		"title": "Kevin and Eric's Mansion",
 		"notes": "Kevin Ram and Eric Wolfenstein's mansion. Ray Mond was the third person to gain access to the  mansion.",
@@ -4639,6 +4662,27 @@
 	{
 		"id": 4018,
 		"type": "Automotive",
+		"title": "Great Ocean Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -58.703, "lng": -74.577},
+			{"lat": -58.029, "lng": -74.478},
+			{"lat": -57.942, "lng": -74.643},
+			{"lat": -57.770, "lng": -76.898},
+			{"lat": -57.968, "lng": -77.030},
+			{"lat": -58.125, "lng": -77.041},
+			{"lat": -58.420, "lng": -76.887},
+			{"lat": -58.595, "lng": -76.603},
+			{"lat": -58.970, "lng": -75.291}
+		]
+	},
+	{
+		"id": 4019,
+		"type": "Automotive",
 		"title": "Little Seoul Gas Station",
 		"notes": "A very popular gas station located in Little Seoul.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Little_Seoul",
@@ -4659,7 +4703,7 @@
 		]
 	},
 	{
-		"id": 4019,
+		"id": 4020,
 		"type": "Automotive",
 		"title": "Mirror Park Gas Station",
 		"notes": "",
@@ -4676,7 +4720,7 @@
 		]
 	},
 	{
-		"id": 4020,
+		"id": 4021,
 		"type": "Automotive",
 		"title": "Paleto Bay Gas Station",
 		"notes": "",
@@ -4691,7 +4735,7 @@
 		]
 	},
 	{
-		"id": 4021,
+		"id": 4022,
 		"type": "Automotive",
 		"title": "Richman Glen Gas Station",
 		"notes": "",
@@ -4711,7 +4755,7 @@
 		]
 	},
 	{
-		"id": 4022,
+		"id": 4023,
 		"type": "Automotive",
 		"title": "San Chianski Mountain Gas Station",
 		"notes": "",
@@ -4726,7 +4770,7 @@
 		]
 	},
 	{
-		"id": 4023,
+		"id": 4024,
 		"type": "Automotive",
 		"title": "Strawberry Gas Station",
 		"notes": "",
@@ -4740,27 +4784,6 @@
 			{"lat": -70.249, "lng": -6.545},
 			{"lat": -70.258, "lng": -8.175},
 			{"lat": -70.029, "lng": -8.042}
-		]
-	},
-	{
-		"id": 4024,
-		"type": "Automotive",
-		"title": "OwO Gas Station",
-		"notes": "",
-		"wiki_link": "",
-		"order": 1,
-		"strokecolor": "00DA7D",
-		"fillcolor": "00CADA",
-		"latlngarray": [
-			{"lat": -58.703, "lng": -74.577},
-			{"lat": -58.029, "lng": -74.478},
-			{"lat": -57.942, "lng": -74.643},
-			{"lat": -57.770, "lng": -76.898},
-			{"lat": -57.968, "lng": -77.030},
-			{"lat": -58.125, "lng": -77.041},
-			{"lat": -58.420, "lng": -76.887},
-			{"lat": -58.595, "lng": -76.603},
-			{"lat": -58.970, "lng": -75.291}
 		]
 	},
 	{
