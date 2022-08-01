@@ -2877,6 +2877,47 @@
 	{
 		"id": 2018,
 		"type": "Territories",
+		"title": "Hydra Gang Wall",
+		"notes": "Hydra Wall made to shield Angels from R.U.S.T.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Hydra_Gang",
+		"order": 0,
+		"strokecolor": "FFBF00",
+		"fillcolor": "FFBF00",
+		"latlngarray": [
+			{"lat": -75.054, "lng": -47.226},
+			{"lat": -75.605, "lng": -46.127},
+			{"lat": -75.676, "lng": -45.973},
+			{"lat": -76.324, "lng": -43.622},
+			{"lat": -76.173, "lng": -39.953},
+			{"lat": -76.809, "lng": -36.041},
+			{"lat": -77.325, "lng": -36.239},
+			{"lat": -77.578, "lng": -34.416},
+			{"lat": -77.887, "lng": -32.570},
+			{"lat": -77.757, "lng": -31.999},
+			{"lat": -77.859, "lng": -29.977},
+			{"lat": -77.933, "lng": -29.428},
+			{"lat": -78.160, "lng": -29.955},
+			{"lat": -78.272, "lng": -30.285},
+			{"lat": -78.945, "lng": -33.229},
+			{"lat": -78.568, "lng": -35.734},
+			{"lat": -77.933, "lng": -38.678},
+			{"lat": -77.421, "lng": -38.261},
+			{"lat": -77.043, "lng": -41.249},
+			{"lat": -77.121, "lng": -42.479},
+			{"lat": -77.436, "lng": -46.632},
+			{"lat": -77.238, "lng": -49.950},
+			{"lat": -76.236, "lng": -51.818},
+			{"lat": -75.934, "lng": -51.203},
+			{"lat": -75.763, "lng": -50.302},
+			{"lat": -75.698, "lng": -49.708},
+			{"lat": -75.600, "lng": -49.335},
+			{"lat": -75.240, "lng": -48.720},
+			{"lat": -75.065, "lng": -47.577}
+		]
+	},
+	{
+		"id": 2019,
+		"type": "Territories",
 		"title": "JustUS",
 		"notes": "JustUS is an organized crime crew formed by a group of associates during December 2021. At this moment, the group is on the come up doing the grind of meeting everyone and making money doing whatever job is available. JustUS is heavily involved in the drug game and supplies coke as well as crack to various groups in the city. Besides coke, they push meth in La Mesa and run weed as well.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/JustUs",
@@ -2891,7 +2932,7 @@
 		]
 	},
 	{
-		"id": 2019,
+		"id": 2020,
 		"type": "Territories",
 		"title": "JustUS Safe House",
 		"notes": "A JustUS safe hosue.",
@@ -2907,7 +2948,7 @@
 		]
 	},
 	{
-		"id": 2020,
+		"id": 2021,
 		"type": "Territories",
 		"title": "La Fuente Blanca",
 		"notes": "La Fuenta Blanca, also known as The Ranch, is a ranch owned by Speedy and is protected by the Vagos.",
@@ -2924,7 +2965,7 @@
 		]
 	},
 	{
-		"id": 2021,
+		"id": 2022,
 		"type": "Territories",
 		"title": "Lost MC Sandy Shores",
 		"notes": "The Lost Motorcycle Club (Lost MC) is an outlaw motorcycle club operating out of Stab City in Blaine County, and claims Sandy Shores as their territory.",
@@ -2967,7 +3008,7 @@
 		]
 	},
 	{
-		"id": 2022,
+		"id": 2023,
 		"type": "Territories",
 		"title": "Marabunta Grande",
 		"notes": "The Marabunta Grande, are an El Salvadorian based street gang operating out of Fudge Lane, in the El Burro Heights area. Viva la Mara",
@@ -3004,7 +3045,7 @@
 		]
 	},
 	{
-		"id": 2023,
+		"id": 2024,
 		"type": "Territories",
 		"title": "Mayhem",
 		"notes": "Once Condemned MC, Mayhem MC are trying to be like a phoenix rising out of the ashes in Paleto Bay.",
@@ -3050,7 +3091,7 @@
 		]
 	},
 	{
-		"id": 2024,
+		"id": 2025,
 		"type": "Territories",
 		"title": "Mirror Park Railyard",
 		"notes": "Claimed by HOA",
@@ -3070,7 +3111,7 @@
 		]
 	},
 	{
-		"id": 2025,
+		"id": 2026,
 		"type": "Territories",
 		"title": "Mortelle",
 		"notes": "Mortelle is an all female gang run and lead by Cindy Tipton. The gang currently runs upper Richman surrounding the Hotel and College area.",
@@ -3142,7 +3183,7 @@
 		]
 	},
 	{
-		"id": 2026,
+		"id": 2027,
 		"type": "Territories",
 		"title": "Natural Born Crackheads",
 		"notes": "Natural Born Crackheads (NBC), is a gang created and founded by Daquan Dumas and Guy Jones.",
@@ -3168,7 +3209,7 @@
 		}
 	},
 	{
-		"id": 2027,
+		"id": 2028,
 		"type": "Territories",
 		"title": "R.U.S.T.",
 		"notes": "R.U.S.T. is a group lead by Raymond Romanov, which operates out of the La Puerta Scrapyard.",
@@ -3231,7 +3272,7 @@
 		]
 	},
 	{
-		"id": 2028,
+		"id": 2029,
 		"type": "Territories",
 		"title": "Royal Mafia",
 		"notes": "New Mafia in Los Santos goes by the name Royal Mafia (formerly ZooMafia).",
@@ -3250,7 +3291,7 @@
 		]
 	},
 	{
-		"id": 2029,
+		"id": 2030,
 		"type": "Territories",
 		"title": "Seaside",
 		"notes": "Seaside is a family group that brings together individuals across both the civilian and criminal spectrum, with several visible public figures, former high ranking gang members, and a wanted terrorist.",
@@ -3314,7 +3355,7 @@
 		}
 	},
 	{
-		"id": 2030,
+		"id": 2031,
 		"type": "Territories",
 		"title": "Seaside Penthouse",
 		"notes": "Seaside is a family group that brings together individuals across both the civilian and criminal spectrum, with several visible public figures, former high ranking gang members, and a wanted terrorist.",
@@ -3330,7 +3371,7 @@
 		]
 	},
 	{
-		"id": 2031,
+		"id": 2032,
 		"type": "Territories",
 		"title": "Save Our Souls",
 		"notes": "Save Our Souls (SOS) is a criminal street gang operating out of Playa Vista in northwest Los Santos. ",
@@ -3349,7 +3390,7 @@
 		]
 	},
 	{
-		"id": 2032,
+		"id": 2033,
 		"type": "Territories",
 		"title": "Sinister Souls MC",
 		"notes": "The Sinister Souls MC is a 1% Motorcycle Club operating out of their owned Club House in East Vinewood, Mirror Park Blvd (old QuickFix previously owned by 4EQ) in Los Santos.",
@@ -3367,7 +3408,7 @@
 		]
 	},
 	{
-		"id": 2033,
+		"id": 2034,
 		"type": "Territories",
 		"title": "Street Team",
 		"notes": "The Street Team is a gang that resides in Little Seoul, created May 2021. The current leader of the Street Team is Jaylen 'Lamp Post' Carter. Street Team made a quick name for themselves in the city due to their various connections. Their fierce loyalty and willingness to do anything has earned the respect of many big names, most notably, Chang Gang.",
@@ -3388,7 +3429,7 @@
 		]
 	},
 	{
-		"id": 2034,
+		"id": 2035,
 		"type": "Territories",
 		"title": "The Angels",
 		"notes": "The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
@@ -3408,7 +3449,7 @@
 		]
 	},
 	{
-		"id": 2035,
+		"id": 2036,
 		"type": "Territories",
 		"title": "The Cemetery",
 		"notes": "Claimed by Prune Gang. It's a real monkaW place.",
@@ -3438,7 +3479,7 @@
 		]
 	},
 	{
-		"id": 2036,
+		"id": 2037,
 		"type": "Territories",
 		"title": "The Dam",
 		"notes": "Claimed by HOA",
@@ -3457,7 +3498,7 @@
 		]
 	},
 	{
-		"id": 2037,
+		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
 		"notes": "Formerly known as the Grove Street Families (GSF), now known as The Families, the gang is known for the color Green. The Families started with OG members Dexx Martin, Chef, Ghost Storm & Tyrese Tyrone. They all lived in the area of Forum Drive, The Families are made up four separate gangs consisting of Forum Drive Families, Carson Avenue Families, Davis Neighborhood Families, and Chamberlain Gangster Families.",
@@ -3504,7 +3545,7 @@
 		}
 	},
 	{
-		"id": 2038,
+		"id": 2039,
 		"type": "Territories",
 		"title": "The Guild",
 		"notes": "The Guild is a group of LARPers who play their Dungeons & Dragons characters in real life. They are commonly known as The Nerds. They originally met on a LARPing online forum and came to Los Santos to meet in real life for the first time. They do not consider themselves a gang.",
@@ -3542,7 +3583,7 @@
 		]
 	},
 	{
-		"id": 2039,
+		"id": 2040,
 		"type": "Territories",
 		"title": "The Korean Mafia",
 		"notes": "The Korean Mafia, also known as the Sun Clan or Kkangpae was started and founded by Sun Moon. Mr. Kebun has given the Sun Clan his blessing.",
@@ -3559,7 +3600,7 @@
 		]
 	},
 	{
-		"id": 2040,
+		"id": 2041,
 		"type": "Territories",
 		"title": "The Lost MC Stab City",
 		"notes": "The Lost MCs clubhouse, situated in Stab City.",
@@ -3582,7 +3623,7 @@
 		]
 	},
 	{
-		"id": 2041,
+		"id": 2042,
 		"type": "Territories",
 		"title": "The Mandem",
 		"notes": "The Mandem is a British gang that currently operates in Los Santos. They engage in criminal activities such as boosting, street racing, kidnapping, drug trafficking, gang wars and robbery. On August 19, 2021, Tommy was officially appointed as the leader of The Mandem.",
@@ -3634,7 +3675,7 @@
 		}
 	},
 	{
-		"id": 2042,
+		"id": 2043,
 		"type": "Territories",
 		"title": "The Mandem Block",
 		"notes": "The Mandem Block, sometimes referred to as The Mandem Compound, is The Mandem's base of operations, where they live and have most of their meetings.",
@@ -3658,7 +3699,7 @@
 		}
 	},
 	{
-		"id": 2043,
+		"id": 2044,
 		"type": "Territories",
 		"title": "The Scrapyard",
 		"notes": "Shared between the bikers, Ashenfell and BBC at different times of the day",
@@ -3673,7 +3714,7 @@
 		]
 	},
 	{
-		"id": 2044,
+		"id": 2045,
 		"type": "Territories",
 		"title": "Vagos",
 		"notes": "The Eastside Vagos (ESV) also known as the Vagos, is a Mexican street gang currently led by el Jefe, Arush Patel 'Speedy' Santana. They operate out of the Barrio, based in the Jamestown area. They are said to be the largest Hispanic street gang in Los Santos. The gang's main business revolves around pushing guns, drugs and various other legal and criminal activities.",
@@ -3736,7 +3777,7 @@
 		}
 	},
 	{
-		"id": 2045,
+		"id": 2046,
 		"type": "Territories",
 		"title": "Ballas",
 		"notes": "Grove Street Ballas are one of the strongest South Side street gangs and primarily operate out of Davis.",
