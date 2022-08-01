@@ -2760,8 +2760,8 @@
 		"notes": "Gulag Gang also known as 'GG' was formed by Mickey S, Randy Bullet, Mari Posa, Curtis Swoleroid, Taco Prince, Ming Jingtai, and Jean Paul; while some members were going by their alter egos, others were operating under different names. Their connection from the gated city with Jean Paul brought them together in the early days of the purple county to set themselves as the ruling gang. At the time, Jean Paul was denied access to the gated city and named purple country as the 'gulag' which was the inspiration of the name 'Gulag Gang'. ",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Gulag_Gang",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "FF0044",
+		"fillcolor": "FF0044",
 		"latlngarray": [
 			{"lat": -71.196, "lng": -9.806},
 			{"lat": -70.737, "lng": -8.752},
@@ -3321,8 +3321,8 @@
 		"notes": "R.U.S.T. is a group lead by Raymond Romanov, which operates out of the La Puerta Scrapyard.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/R.U.S.T",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "AA2255",
+		"fillcolor": "AA2255",
 		"latlngarray": [
 			{"lat": -72.407, "lng": -33.897},
 			{"lat": -72.341, "lng": -32.699},
