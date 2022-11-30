@@ -4555,7 +4555,23 @@
 			{"lat": -35.264, "lng": -18.759}
 		]
 	},
-
+	{
+		"id": 3032,
+		"type": "Neutral",
+		"title": "MDM Records",
+		"notes": "MDM Records is a British record label based in Los Santos.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/MDM_Records",
+		"order": 0,
+		"strokecolor": "0080FF",
+		"fillcolor": "0080FF",
+		"latlngarray": [
+			{"lat": -60.734, "lng": -56.669},
+			{"lat": -61.256, "lng": -58.174},
+			{"lat": -62.121, "lng": -56.922},
+			{"lat": -61.702, "lng": -55.329}
+		]
+	},
+	
 
 
 	{
