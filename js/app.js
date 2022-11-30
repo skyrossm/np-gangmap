@@ -36,6 +36,7 @@ $(function() {
 				strokeWeight: 2,
 				fillColor: '#' + this.get('fillcolor'),
 				fillOpacity: 0.35,
+				zIndex: this.get('order') || 0,
 			});
 
 			var bounds = new google.maps.LatLngBounds();
