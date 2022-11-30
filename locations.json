@@ -1,6 +1,5 @@
 [
 	{
-		"id": 1001,
 		"type": "Neighborhoods",
 		"title": "Alamo Sea",
 		"notes": "",
@@ -37,7 +36,6 @@
 		]
 	},
 	{
-		"id": 1002,
 		"type": "Neighborhoods",
 		"title": "Alta",
 		"notes": "",
@@ -56,7 +54,6 @@
 		]
 	},
 	{
-		"id": 1003,
 		"type": "Neighborhoods",
 		"title": "Banham Canyon",
 		"notes": "",
@@ -81,7 +78,6 @@
 		]
 	},
 	{
-		"id": 1004,
 		"type": "Neighborhoods",
 		"title": "Banham Canyon Drive",
 		"notes": "",
@@ -100,7 +96,6 @@
 		]
 	},
 	{
-		"id": 1005,
 		"type": "Neighborhoods",
 		"title": "Banning",
 		"notes": "",
@@ -119,7 +114,6 @@
 		]
 	},
 	{
-		"id": 1006,
 		"type": "Neighborhoods",
 		"title": "Braddock Pass",
 		"notes": "",
@@ -140,7 +134,6 @@
 		]
 	},
 	{
-		"id": 1007,
 		"type": "Neighborhoods",
 		"title": "Burton",
 		"notes": "",
@@ -161,7 +154,6 @@
 		]
 	},
 	{
-		"id": 1008,
 		"type": "Neighborhoods",
 		"title": "Calafia Bridge ",
 		"notes": "",
@@ -176,7 +168,6 @@
 		]
 	},
 	{
-		"id": 1009,
 		"type": "Neighborhoods",
 		"title": "Cassidy Creek",
 		"notes": "",
@@ -205,7 +196,6 @@
 		]
 	},
 	{
-		"id": 1010,
 		"type": "Neighborhoods",
 		"title": "Chamberlain Hills",
 		"notes": "",
@@ -220,7 +210,6 @@
 		]
 	},
 	{
-		"id": 1011,
 		"type": "Neighborhoods",
 		"title": "Chiliad Mountain State Wilderness",
 		"notes": "",
@@ -247,7 +236,6 @@
 		]
 	},
 	{
-		"id": 1012,
 		"type": "Neighborhoods",
 		"title": "Chumash",
 		"notes": "",
@@ -272,7 +260,6 @@
 		]
 	},
 	{
-		"id": 1013,
 		"type": "Neighborhoods",
 		"title": "Cypress Flats",
 		"notes": "",
@@ -291,7 +278,6 @@
 		]
 	},
 	{
-		"id": 1014,
 		"type": "Neighborhoods",
 		"title": "Davis",
 		"notes": "",
@@ -314,7 +300,6 @@
 		]
 	},
 	{
-		"id": 1015,
 		"type": "Neighborhoods",
 		"title": "Davis Quartz",
 		"notes": "",
@@ -337,7 +322,6 @@
 		]
 	},
 	{
-		"id": 1016,
 		"type": "Neighborhoods",
 		"title": "Del Perro",
 		"notes": "",
@@ -368,7 +352,6 @@
 		]
 	},
 	{
-		"id": 1017,
 		"type": "Neighborhoods",
 		"title": "Del Perro Beach",
 		"notes": "",
@@ -413,7 +396,6 @@
 		]
 	},
 	{
-		"id": 1018,
 		"type": "Neighborhoods",
 		"title": "Downtown",
 		"notes": "",
@@ -430,7 +412,6 @@
 		]
 	},
 	{
-		"id": 1019,
 		"type": "Neighborhoods",
 		"title": "Downtown Vinewood",
 		"notes": "",
@@ -445,7 +426,6 @@
 		]
 	},
 	{
-		"id": 1020,
 		"type": "Neighborhoods",
 		"title": "East Vinewood",
 		"notes": "",
@@ -466,7 +446,6 @@
 		]
 	},
 	{
-		"id": 1021,
 		"type": "Neighborhoods",
 		"title": "El Burro Heights",
 		"notes": "",
@@ -491,7 +470,6 @@
 		]
 	},
 	{
-		"id": 1022,
 		"type": "Neighborhoods",
 		"title": "El Gordo Lighthouse",
 		"notes": "",
@@ -506,7 +484,6 @@
 		]
 	},
 	{
-		"id": 1023,
 		"type": "Neighborhoods",
 		"title": "Elysian Island",
 		"notes": "",
@@ -531,7 +508,6 @@
 		]
 	},
 	{
-		"id": 1024,
 		"type": "Neighborhoods",
 		"title": "Fort Zancudo",
 		"notes": "",
@@ -562,7 +538,6 @@
 		]
 	},
 	{
-		"id": 1025,
 		"type": "Neighborhoods",
 		"title": "GWC and Golfing Society",
 		"notes": "",
@@ -583,7 +558,6 @@
 		]
 	},
 	{
-		"id": 1026,
 		"type": "Neighborhoods",
 		"title": "Galilee",
 		"notes": "",
@@ -598,7 +572,6 @@
 		]
 	},
 	{
-		"id": 1027,
 		"type": "Neighborhoods",
 		"title": "Grand Senora Desert",
 		"notes": "",
@@ -641,7 +614,6 @@
 		]
 	},
 	{
-		"id": 1028,
 		"type": "Neighborhoods",
 		"title": "Grapeseed",
 		"notes": "",
@@ -664,7 +636,6 @@
 		]
 	},
 	{
-		"id": 1029,
 		"type": "Neighborhoods",
 		"title": "Great Chaparral",
 		"notes": "",
@@ -699,7 +670,6 @@
 		]
 	},
 	{
-		"id": 1030,
 		"type": "Neighborhoods",
 		"title": "Harmony",
 		"notes": "",
@@ -714,7 +684,6 @@
 		]
 	},
 	{
-		"id": 1031,
 		"type": "Neighborhoods",
 		"title": "Hawick",
 		"notes": "",
@@ -729,7 +698,6 @@
 		]
 	},
 	{
-		"id": 1032,
 		"type": "Neighborhoods",
 		"title": "Humane Labs and Research",
 		"notes": "",
@@ -744,7 +712,6 @@
 		]
 	},
 	{
-		"id": 1033,
 		"type": "Neighborhoods",
 		"title": "La Mesa",
 		"notes": "",
@@ -769,7 +736,6 @@
 		]
 	},
 	{
-		"id": 1034,
 		"type": "Neighborhoods",
 		"title": "La Puerta",
 		"notes": "",
@@ -796,7 +762,6 @@
 		]
 	},
 	{
-		"id": 1035,
 		"type": "Neighborhoods",
 		"title": "Lago Zancudo",
 		"notes": "",
@@ -833,7 +798,6 @@
 		]
 	},
 	{
-		"id": 1036,
 		"type": "Neighborhoods",
 		"title": "Legion Square",
 		"notes": "",
@@ -848,7 +812,6 @@
 		]
 	},
 	{
-		"id": 1037,
 		"type": "Neighborhoods",
 		"title": "Little Seoul",
 		"notes": "",
@@ -883,7 +846,6 @@
 		]
 	},
 	{
-		"id": 1038,
 		"type": "Neighborhoods",
 		"title": "Los Santos International Airport",
 		"notes": "",
@@ -932,7 +894,6 @@
 		]
 	},
 	{
-		"id": 1039,
 		"type": "Neighborhoods",
 		"title": "M.P.",
 		"notes": "",
@@ -947,7 +908,6 @@
 		]
 	},
 	{
-		"id": 1040,
 		"type": "Neighborhoods",
 		"title": "Maze Bank Arena",
 		"notes": "",
@@ -966,7 +926,6 @@
 		]
 	},
 	{
-		"id": 1041,
 		"type": "Neighborhoods",
 		"title": "Mirror Park",
 		"notes": "",
@@ -981,7 +940,6 @@
 		]
 	},
 	{
-		"id": 1042,
 		"type": "Neighborhoods",
 		"title": "Mission Row",
 		"notes": "",
@@ -998,7 +956,6 @@
 		]
 	},
 	{
-		"id": 1043,
 		"type": "Neighborhoods",
 		"title": "Morningwood",
 		"notes": "",
@@ -1017,7 +974,6 @@
 		]
 	},
 	{
-		"id": 1044,
 		"type": "Neighborhoods",
 		"title": "Mount Chiliad",
 		"notes": "",
@@ -1058,7 +1014,6 @@
 		]
 	},
 	{
-		"id": 1045,
 		"type": "Neighborhoods",
 		"title": "Mount Gordo",
 		"notes": "",
@@ -1121,7 +1076,6 @@
 		]
 	},
 	{
-		"id": 1046,
 		"type": "Neighborhoods",
 		"title": "Mount Josiah",
 		"notes": "",
@@ -1152,7 +1106,6 @@
 		]
 	},
 	{
-		"id": 1047,
 		"type": "Neighborhoods",
 		"title": "Murrieta Heights",
 		"notes": "",
@@ -1171,7 +1124,6 @@
 		]
 	},
 	{
-		"id": 1048,
 		"type": "Neighborhoods",
 		"title": "Murrieta Heights South",
 		"notes": "",
@@ -1186,7 +1138,6 @@
 		]
 	},
 	{
-		"id": 1049,
 		"type": "Neighborhoods",
 		"title": "N.O.O.S.E",
 		"notes": "",
@@ -1203,7 +1154,6 @@
 		]
 	},
 	{
-		"id": 1050,
 		"type": "Neighborhoods",
 		"title": "North Chumash",
 		"notes": "",
@@ -1230,7 +1180,6 @@
 		]
 	},
 	{
-		"id": 1051,
 		"type": "Neighborhoods",
 		"title": "Pacific Bluffs",
 		"notes": "",
@@ -1273,7 +1222,6 @@
 		]
 	},
 	{
-		"id": 1052,
 		"type": "Neighborhoods",
 		"title": "Paleto Bay",
 		"notes": "",
@@ -1324,7 +1272,6 @@
 		]
 	},
 	{
-		"id": 1053,
 		"type": "Neighborhoods",
 		"title": "Paleto Cove",
 		"notes": "",
@@ -1353,7 +1300,6 @@
 		]
 	},
 	{
-		"id": 1054,
 		"type": "Neighborhoods",
 		"title": "Paleto Forest",
 		"notes": "",
@@ -1380,7 +1326,6 @@
 		]
 	},
 	{
-		"id": 1055,
 		"type": "Neighborhoods",
 		"title": "Palmer-Taylor Power Station",
 		"notes": "",
@@ -1399,7 +1344,6 @@
 		]
 	},
 	{
-		"id": 1056,
 		"type": "Neighborhoods",
 		"title": "Palomino Highlands",
 		"notes": "",
@@ -1506,7 +1450,6 @@
 		]
 	},
 	{
-		"id": 1057,
 		"type": "Neighborhoods",
 		"title": "Pillbox Hill",
 		"notes": "",
@@ -1529,7 +1472,6 @@
 		]
 	},
 	{
-		"id": 1058,
 		"type": "Neighborhoods",
 		"title": "Procopio Beach",
 		"notes": "",
@@ -1546,7 +1488,6 @@
 		]
 	},
 	{
-		"id": 1059,
 		"type": "Neighborhoods",
 		"title": "RON Alternates Wind Farm",
 		"notes": "",
@@ -1589,7 +1530,6 @@
 		]
 	},
 	{
-		"id": 1060,
 		"type": "Neighborhoods",
 		"title": "Rancho",
 		"notes": "",
@@ -1614,7 +1554,6 @@
 		]
 	},
 	{
-		"id": 1061,
 		"type": "Neighborhoods",
 		"title": "Raton Canyon",
 		"notes": "",
@@ -1657,7 +1596,6 @@
 		]
 	},
 	{
-		"id": 1062,
 		"type": "Neighborhoods",
 		"title": "Redwood Lights Track",
 		"notes": "",
@@ -1672,7 +1610,6 @@
 		]
 	},
 	{
-		"id": 1063,
 		"type": "Neighborhoods",
 		"title": "Richard Majestic",
 		"notes": "",
@@ -1697,7 +1634,6 @@
 		]
 	},
 	{
-		"id": 1064,
 		"type": "Neighborhoods",
 		"title": "Richman",
 		"notes": "",
@@ -1716,7 +1652,6 @@
 		]
 	},
 	{
-		"id": 1065,
 		"type": "Neighborhoods",
 		"title": "Richman Glen",
 		"notes": "",
@@ -1731,7 +1666,6 @@
 		]
 	},
 	{
-		"id": 1066,
 		"type": "Neighborhoods",
 		"title": "Rockford Hills",
 		"notes": "",
@@ -1772,7 +1706,6 @@
 		]
 	},
 	{
-		"id": 1067,
 		"type": "Neighborhoods",
 		"title": "S.A.",
 		"notes": "",
@@ -1787,7 +1720,6 @@
 		]
 	},
 	{
-		"id": 1068,
 		"type": "Neighborhoods",
 		"title": "San Chianski Mountain Range",
 		"notes": "",
@@ -1860,7 +1792,6 @@
 		]
 	},
 	{
-		"id": 1069,
 		"type": "Neighborhoods",
 		"title": "Sandy Shores",
 		"notes": "",
@@ -1883,7 +1814,6 @@
 		]
 	},
 	{
-		"id": 1070,
 		"type": "Neighborhoods",
 		"title": "Stab City",
 		"notes": "",
@@ -1902,7 +1832,6 @@
 		]
 	},
 	{
-		"id": 1071,
 		"type": "Neighborhoods",
 		"title": "Strawberry",
 		"notes": "",
@@ -1921,7 +1850,6 @@
 		]
 	},
 	{
-		"id": 1072,
 		"type": "Neighborhoods",
 		"title": "Tataviam Mountains",
 		"notes": "",
@@ -1976,7 +1904,6 @@
 		]
 	},
 	{
-		"id": 1073,
 		"type": "Neighborhoods",
 		"title": "Terminal",
 		"notes": "",
@@ -1991,7 +1918,6 @@
 		]
 	},
 	{
-		"id": 1074,
 		"type": "Neighborhoods",
 		"title": "Textile City",
 		"notes": "",
@@ -2006,7 +1932,6 @@
 		]
 	},
 	{
-		"id": 1075,
 		"type": "Neighborhoods",
 		"title": "Tongva Hills",
 		"notes": "",
@@ -2027,7 +1952,6 @@
 		]
 	},
 	{
-		"id": 1076,
 		"type": "Neighborhoods",
 		"title": "Tongva Valley",
 		"notes": "",
@@ -2042,7 +1966,6 @@
 		]
 	},
 	{
-		"id": 1077,
 		"type": "Neighborhoods",
 		"title": "Vespucci",
 		"notes": "",
@@ -2065,7 +1988,6 @@
 		]
 	},
 	{
-		"id": 1078,
 		"type": "Neighborhoods",
 		"title": "Vespucci Beach",
 		"notes": "",
@@ -2126,7 +2048,6 @@
 		]
 	},
 	{
-		"id": 1079,
 		"type": "Neighborhoods",
 		"title": "Vespucci Canals",
 		"notes": "",
@@ -2157,7 +2078,6 @@
 		]
 	},
 	{
-		"id": 1080,
 		"type": "Neighborhoods",
 		"title": "Vinewood",
 		"notes": "",
@@ -2174,7 +2094,6 @@
 		]
 	},
 	{
-		"id": 1081,
 		"type": "Neighborhoods",
 		"title": "Vinewood Hills",
 		"notes": "",
@@ -2217,7 +2136,6 @@
 		]
 	},
 	{
-		"id": 1082,
 		"type": "Neighborhoods",
 		"title": "Vinewood Racetrack",
 		"notes": "",
@@ -2244,7 +2162,6 @@
 		]
 	},
 	{
-		"id": 1083,
 		"type": "Neighborhoods",
 		"title": "West Vinewood",
 		"notes": "",
@@ -2261,7 +2178,6 @@
 		]
 	},
 	{
-		"id": 1084,
 		"type": "Neighborhoods",
 		"title": "Zancudo River",
 		"notes": "",
@@ -2314,7 +2230,6 @@
 		]
 	},
 	{
-		"id": 1085,
 		"type": "Neighborhoods",
 		"title": "Bolingbroke Penitentiary",
 		"notes": "",
@@ -2336,7 +2251,6 @@
 
 
 	{
-		"id": 2001,
 		"type": "Territories",
 		"title": "Ace King",
 		"notes": "Koreans. Blackjack is hosted here.",
@@ -2352,7 +2266,6 @@
 		]
 	},
 	{
-		"id": 2002,
 		"type": "Territories",
 		"title": "Alta Street Ruff Rydaz",
 		"notes": "Alta Street Ruff Rydaz (A.K.A The Blocks/Block Gang), are a crew that will do anything and sell anything for $50. Located at the 'poor' apartments.",
@@ -2370,7 +2283,6 @@
 		]
 	},
 	{
-		"id": 2003,
 		"type": "Territories",
 		"title": "Aztecas",
 		"notes": "Aztecas reborn under the leadership of Tom Ryan.",
@@ -2388,7 +2300,6 @@
 		]
 	},
 	{
-		"id": 2004,
 		"type": "Territories",
 		"title": "Balbini Crime Family",
 		"notes": "The Balbani Crime Family, (BCF) is an organized crime syndicate that operates within the City of Los Santos.",
@@ -2404,7 +2315,6 @@
 		]
 	},
 	{
-		"id": 2005,
 		"type": "Territories",
 		"title": "Bondi Boys MC",
 		"notes": "The Bondi Boys Motor Club (BBMC) or Bondi Boys & Babes Motor Club is a criminal gang operating out of Vespucci, founded by Irwin Dundee, Barry Benson and Riley Carter (Exiled).",
@@ -2463,7 +2373,6 @@
 		]
 	},
 	{
-		"id": 2006,
 		"type": "Territories",
 		"title": "Brogue Street Kingz",
 		"notes": "Brouge Street Kingz (B$K) is a gang formed by Outto-Tune Tyrone after he left the Ballas with Bobby Schmiguel and Aaron Alexander after the betrayal of Mando Thompson.",
@@ -2520,7 +2429,6 @@
 		]
 	},
 	{
-		"id": 2007,
 		"type": "Territories",
 		"title": "CLean Manor",
 		"notes": "CLean Manor is owned by Lang Buddha and co-owned by the Cleanbois members. The Manor should be a neutral ground for all gang-related affairs.",
@@ -2544,7 +2452,6 @@
 		]
 	},
 	{
-		"id": 2008,
 		"type": "Territories",
 		"title": "Chang Gang",
 		"notes": "Chang Gang (CG) is an organized crime syndicate founded on August 17th 2017. Said to be the most powerful gang in the city, usually gaining power by way of force and influence. CG has a large footprint in the criminal underworld, assisted by their consistent flow of money and weapons. Other than maintaining power, they engage in various criminal activities such as, bank robberies, murder, racketeering, drug manufacturing, gun trafficking, kidnapping, arson, gang wars, street racing, and police impersonation.",
@@ -2628,7 +2535,6 @@
 		}
 	},
 	{
-		"id": 2009,
 		"type": "Territories",
 		"title": "Chang Gang Compound",
 		"notes": "This is where Chang Gang wakes up.",
@@ -2652,7 +2558,6 @@
 		]
 	},
 	{
-		"id": 2010,
 		"type": "Territories",
 		"title": "Chang Gang Mansion",
 		"notes": "The Chang Gang mansion",
@@ -2683,7 +2588,6 @@
 		]
 	},
 	{
-		"id": 2011,
 		"type": "Territories",
 		"title": "Chang Gang Warehouse Burton",
 		"notes": "A Chang Gang safe house full of DODO Logistic pallets. There is a changing room and office here.",
@@ -2699,7 +2603,6 @@
 		]
 	},
 	{
-		"id": 2012,
 		"type": "Territories",
 		"title": "Chang Gang Warehouse Murrieta Heights",
 		"notes": "A Chang Gang safe house.",
@@ -2717,7 +2620,6 @@
 		]
 	},
 	{
-		"id": 2013,
 		"type": "Territories",
 		"title": "Cop Killa Records",
 		"notes": "Headquarter and studios of CKR",
@@ -2734,7 +2636,6 @@
 		]
 	},
 	{
-		"id": 2014,
 		"type": "Territories",
 		"title": "Da Paper Boiz",
 		"notes": "The Paper Boiz were initially created to rebel against the increasing gang presence in the Vinewood area around Rooster's Rest. This then grew into terrorizing other gangs' neighborhoods by leaving tags and TP'ing buildings.",
@@ -2754,7 +2655,6 @@
 		]
 	},
 	{
-		"id": 2015,
 		"type": "Territories",
 		"title": "Gulag Gang",
 		"notes": "Gulag Gang also known as 'GG' was formed by Mickey S, Randy Bullet, Mari Posa, Curtis Swoleroid, Taco Prince, Ming Jingtai, and Jean Paul; while some members were going by their alter egos, others were operating under different names. Their connection from the gated city with Jean Paul brought them together in the early days of the purple county to set themselves as the ruling gang. At the time, Jean Paul was denied access to the gated city and named purple country as the 'gulag' which was the inspiration of the name 'Gulag Gang'. ",
@@ -2809,7 +2709,6 @@
 		}
 	},
 	{
-		"id": 2016,
 		"type": "Territories",
 		"title": "H.O.A. / Mirror Park",
 		"notes": "Homeowners of Mirror Park. Pay the fee or be harassed out of the neighborhood.",
@@ -2860,7 +2759,6 @@
 		]
 	},
 	{
-		"id": 2017,
 		"type": "Territories",
 		"title": "Hydra Gang",
 		"notes": "Flippy, also known as Juan Carlos Hernandez, established Hydra Gang in September of 2020, alongside Mario, Raul and Susie sometime after leaving the Vagos.",
@@ -2949,7 +2847,6 @@
 		]
 	},
 	{
-		"id": 2018,
 		"type": "Territories",
 		"title": "Hydra Gang Wall",
 		"notes": "Hydra Wall made to shield Angels from R.U.S.T.",
@@ -2990,7 +2887,6 @@
 		]
 	},
 	{
-		"id": 2019,
 		"type": "Territories",
 		"title": "JustUS",
 		"notes": "JustUS is an organized crime crew formed by a group of associates during December 2021. At this moment, the group is on the come up doing the grind of meeting everyone and making money doing whatever job is available. JustUS is heavily involved in the drug game and supplies coke as well as crack to various groups in the city. Besides coke, they push meth in La Mesa and run weed as well.",
@@ -3006,7 +2902,6 @@
 		]
 	},
 	{
-		"id": 2020,
 		"type": "Territories",
 		"title": "JustUS Safe House",
 		"notes": "A JustUS safe hosue.",
@@ -3022,7 +2917,6 @@
 		]
 	},
 	{
-		"id": 2021,
 		"type": "Territories",
 		"title": "La Fuente Blanca",
 		"notes": "La Fuenta Blanca, also known as The Ranch, is a ranch owned by Speedy and is protected by the Vagos.",
@@ -3039,7 +2933,6 @@
 		]
 	},
 	{
-		"id": 2022,
 		"type": "Territories",
 		"title": "Lost MC Sandy Shores",
 		"notes": "The Lost Motorcycle Club (Lost MC) is an outlaw motorcycle club operating out of Stab City in Blaine County, and claims Sandy Shores as their territory.",
@@ -3082,7 +2975,6 @@
 		]
 	},
 	{
-		"id": 2023,
 		"type": "Territories",
 		"title": "Marabunta Grande",
 		"notes": "The Marabunta Grande, are an El Salvadorian based street gang operating out of Fudge Lane, in the El Burro Heights area. Viva la Mara",
@@ -3119,7 +3011,6 @@
 		]
 	},
 	{
-		"id": 2024,
 		"type": "Territories",
 		"title": "Mayhem",
 		"notes": "Once Condemned MC, Mayhem MC are trying to be like a phoenix rising out of the ashes in Paleto Bay.",
@@ -3165,7 +3056,6 @@
 		]
 	},
 	{
-		"id": 2025,
 		"type": "Territories",
 		"title": "Mirror Park Railyard",
 		"notes": "Claimed by HOA",
@@ -3185,7 +3075,6 @@
 		]
 	},
 	{
-		"id": 2026,
 		"type": "Territories",
 		"title": "Mortelle",
 		"notes": "Mortelle is an all female gang run and lead by Cindy Tipton. The gang currently runs upper Richman surrounding the Hotel and College area.",
@@ -3257,7 +3146,6 @@
 		]
 	},
 	{
-		"id": 2027,
 		"type": "Territories",
 		"title": "Natural Born Crackheads",
 		"notes": "Natural Born Crackheads (NBC), is a gang created and founded by Daquan Dumas and Guy Jones.",
@@ -3315,7 +3203,6 @@
 		}
 	},
 	{
-		"id": 2028,
 		"type": "Territories",
 		"title": "R.U.S.T.",
 		"notes": "R.U.S.T. is a group lead by Raymond Romanov, which operates out of the La Puerta Scrapyard.",
@@ -3378,7 +3265,6 @@
 		]
 	},
 	{
-		"id": 2029,
 		"type": "Territories",
 		"title": "Royal Mafia",
 		"notes": "New Mafia in Los Santos goes by the name Royal Mafia (formerly ZooMafia).",
@@ -3397,7 +3283,6 @@
 		]
 	},
 	{
-		"id": 2030,
 		"type": "Territories",
 		"title": "Seaside",
 		"notes": "Seaside is a family group that brings together individuals across both the civilian and criminal spectrum, with several visible public figures, former high ranking gang members, and a wanted terrorist.",
@@ -3461,7 +3346,6 @@
 		}
 	},
 	{
-		"id": 2031,
 		"type": "Territories",
 		"title": "Seaside Penthouse",
 		"notes": "Seaside is a family group that brings together individuals across both the civilian and criminal spectrum, with several visible public figures, former high ranking gang members, and a wanted terrorist.",
@@ -3477,7 +3361,6 @@
 		]
 	},
 	{
-		"id": 2032,
 		"type": "Territories",
 		"title": "Save Our Souls",
 		"notes": "Save Our Souls (SOS) is a criminal street gang operating out of Playa Vista in northwest Los Santos. ",
@@ -3496,7 +3379,6 @@
 		]
 	},
 	{
-		"id": 2033,
 		"type": "Territories",
 		"title": "Sinister Souls MC",
 		"notes": "The Sinister Souls MC is a 1% Motorcycle Club operating out of their owned Club House in East Vinewood, Mirror Park Blvd (old QuickFix previously owned by 4EQ) in Los Santos.",
@@ -3514,7 +3396,6 @@
 		]
 	},
 	{
-		"id": 2034,
 		"type": "Territories",
 		"title": "Street Team",
 		"notes": "The Street Team is a gang that resides in Little Seoul, created May 2021. The current leader of the Street Team is Jaylen 'Lamp Post' Carter. Street Team made a quick name for themselves in the city due to their various connections. Their fierce loyalty and willingness to do anything has earned the respect of many big names, most notably, Chang Gang.",
@@ -3535,7 +3416,6 @@
 		]
 	},
 	{
-		"id": 2035,
 		"type": "Territories",
 		"title": "The Angels",
 		"notes": "The Angels were the first girl gang formed in Los Santos, with male members joining afterwards.",
@@ -3600,7 +3480,6 @@
 		]
 	},
 	{
-		"id": 2036,
 		"type": "Territories",
 		"title": "The Cemetery",
 		"notes": "Claimed by Prune Gang. It's a real monkaW place.",
@@ -3630,7 +3509,6 @@
 		]
 	},
 	{
-		"id": 2037,
 		"type": "Territories",
 		"title": "The Dam",
 		"notes": "Claimed by HOA",
@@ -3649,7 +3527,6 @@
 		]
 	},
 	{
-		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
 		"notes": "Formerly known as the Grove Street Families (GSF), now known as The Families, the gang is known for the color Green. The Families started with OG members Dexx Martin, Chef, Ghost Storm & Tyrese Tyrone. They all lived in the area of Forum Drive, The Families are made up four separate gangs consisting of Forum Drive Families, Carson Avenue Families, Davis Neighborhood Families, and Chamberlain Gangster Families.",
@@ -3687,7 +3564,6 @@
 		}
 	},
 	{
-		"id": 2039,
 		"type": "Territories",
 		"title": "The Guild",
 		"notes": "The Guild is a group of LARPers who play their Dungeons & Dragons characters in real life. They are commonly known as The Nerds. They originally met on a LARPing online forum and came to Los Santos to meet in real life for the first time. They do not consider themselves a gang.",
@@ -3725,7 +3601,6 @@
 		]
 	},
 	{
-		"id": 2040,
 		"type": "Territories",
 		"title": "The Korean Mafia",
 		"notes": "The Korean Mafia, also known as the Sun Clan or Kkangpae was started and founded by Sun Moon. Mr. Kebun has given the Sun Clan his blessing.",
@@ -3742,7 +3617,6 @@
 		]
 	},
 	{
-		"id": 2041,
 		"type": "Territories",
 		"title": "The Lost MC Stab City",
 		"notes": "The Lost MCs clubhouse, situated in Stab City.",
@@ -3765,7 +3639,6 @@
 		]
 	},
 	{
-		"id": 2042,
 		"type": "Territories",
 		"title": "The Mandem",
 		"notes": "The Mandem is a British gang that currently operates in Los Santos. They engage in criminal activities such as boosting, street racing, kidnapping, drug trafficking, gang wars and robbery. On August 19, 2021, Tommy was officially appointed as the leader of The Mandem.",
@@ -3817,7 +3690,6 @@
 		}
 	},
 	{
-		"id": 2043,
 		"type": "Territories",
 		"title": "The Mandem Block",
 		"notes": "The Mandem Block, sometimes referred to as The Mandem Compound, is The Mandem's base of operations, where they live and have most of their meetings.",
@@ -3841,7 +3713,6 @@
 		}
 	},
 	{
-		"id": 2044,
 		"type": "Territories",
 		"title": "The Scrapyard",
 		"notes": "Shared between the bikers, Ashenfell and BBC at different times of the day",
@@ -3856,7 +3727,6 @@
 		]
 	},
 	{
-		"id": 2045,
 		"type": "Territories",
 		"title": "Vagos",
 		"notes": "The Eastside Vagos (ESV) also known as the Vagos, is a Mexican street gang currently led by el Jefe, Arush Patel 'Speedy' Santana. They operate out of the Barrio, based in the Jamestown area. They are said to be the largest Hispanic street gang in Los Santos. The gang's main business revolves around pushing guns, drugs and various other legal and criminal activities.",
@@ -3919,7 +3789,6 @@
 		}
 	},
 	{
-		"id": 2046,
 		"type": "Territories",
 		"title": "Ballas",
 		"notes": "Grove Street Ballas are one of the strongest South Side street gangs and primarily operate out of Davis.",
@@ -3989,7 +3858,6 @@
 	},
 
 	{
-		"id": 3001,
 		"type": "Neutral",
 		"title": "Alta Street Apartments",
 		"notes": "The Apartments is where new players wake up.",
@@ -4005,7 +3873,6 @@
 		]
 	},
 	{
-		"id": 3002,
 		"type": "Neutral",
 		"title": "Bahama Mamas West",
 		"notes": "Bahama Mamas West is a nightclub located in Del Perro, Los Santos that is currently going through a new ownership process between Thomas Dwayne and Elena Vega.",
@@ -4029,7 +3896,6 @@
 		]
 	},
 	{
-		"id": 3003,
 		"type": "Neutral",
 		"title": "Bean Manor",
 		"notes": "Marlo Stanfield and Fiona Stewart's mansion. It is affiliated Cleanbois.",
@@ -4051,7 +3917,6 @@
 		]
 	},
 	{
-		"id": 3004,
 		"type": "Neutral",
 		"title": "Cerberus Business Center",
 		"notes": "The Cerberus Business Center offers spacious offices with gorgeous cityscape views for the businesses of Los Santos. The initial idea was to bring all Cerberus executives into one building where they can all get to know each other. Cerberus tasked Cassie Cupcake to screen small businesses at Dean World and the Andi Jones Farmers Market that could occupy office space in the building. Once the business center opened, the Clean Queens brought in more businesses.",
@@ -4070,7 +3935,6 @@
 		]
 	},
 	{
-		"id": 3005,
 		"type": "Neutral",
 		"title": "College",
 		"notes": "",
@@ -4113,7 +3977,6 @@
 		]
 	},
 	{
-		"id": 3006,
 		"type": "Neutral",
 		"title": "DODO Logistics",
 		"notes": "Randy Bullet's freight company.",
@@ -4138,7 +4001,6 @@
 		]
 	},
 	{
-		"id": 3007,
 		"type": "Neutral",
 		"title": "Deans World",
 		"notes": "Where the farmers market ends up at night, Deans world is also where you can buy stuff, hold concerts on the main stage and ride a rollercoaster.",
@@ -4154,7 +4016,6 @@
 		]
 	},
 	{
-		"id": 3008,
 		"type": "Neutral",
 		"title": "Digital Den",
 		"notes": "The Digital Den is an electronics business owned by Jacob Harth and Erin Cox",
@@ -4176,7 +4037,6 @@
 		}
 	},
 	{
-		"id": 3009,
 		"type": "Neutral",
 		"title": "Farmers Market",
 		"notes": "Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff. It is operational only during the day from 8am to 7pm. At night, the vendors are directed to operate at the Night Market of Dean World in Los Santos.",
@@ -4192,7 +4052,6 @@
 		]
 	},
 	{
-		"id": 3010,
 		"type": "Neutral",
 		"title": "Golf Course",
 		"notes": "",
@@ -4244,7 +4103,6 @@
 		]
 	},
 	{
-		"id": 3011,
 		"type": "Neutral",
 		"title": "Integrity Tower",
 		"notes": "The upgraded apartments for high-class citizens.",
@@ -4262,7 +4120,6 @@
 		]
 	},
 	{
-		"id": 3012,
 		"type": "Neutral",
 		"title": "LSBN",
 		"notes": "Los Santos Broadcast Network (LSBN) is a media and entertainment organization. The company is based out of the upper floors of the LS News Center building, on the corner of Lindsay Circus and Palomino Avenue in Little Seoul.",
@@ -4278,7 +4135,6 @@
 		]
 	},
 	{
-		"id": 3013,
 		"type": "Neutral",
 		"title": "Mega Mall",
 		"notes": "A place to buy repair kits, radios, and body armor.",
@@ -4296,7 +4152,6 @@
 		"order": 0
 	},
 	{
-		"id": 3014,
 		"type": "Neutral",
 		"title": "Mr. Kebun's Dojo",
 		"notes": "A place to practice martial arts and swordsmanship.",
@@ -4312,7 +4167,6 @@
 		]
 	},
 	{
-		"id": 3015,
 		"type": "Neutral",
 		"title": "National Paintball Association",
 		"notes": "The National Paintball Association (NPA) is a professional paintball league in San Andreas.",
@@ -4351,7 +4205,6 @@
 		]
 	},
 	{
-		"id": 3016,
 		"type": "Neutral",
 		"title": "North Side Motel",
 		"notes": "",
@@ -4366,7 +4219,6 @@
 		]
 	},
 	{
-		"id": 3017,
 		"type": "Neutral",
 		"title": "Pawnshop",
 		"notes": "",
@@ -4384,7 +4236,6 @@
 		]
 	},
 	{
-		"id": 3018,
 		"type": "Neutral",
 		"title": "Pink Cage Motel",
 		"notes": "",
@@ -4400,7 +4251,6 @@
 		]
 	},
 	{
-		"id": 3019,
 		"type": "Neutral",
 		"title": "Queen Manor",
 		"notes": "Queen Manor is owned by Nancy Drew and co-owned by the Clean Queens, The Manor is a home for the CEO women who work for Cerberus. Nancy Drew purchased the Manor late night December 20th, 2021. The goal for the Manor is to be a community meeting spot for the CEO's and those affiliated with Cerberus. Queen Manor got it's name because it is inspired by Lang Buddha's Clean Manor.",
@@ -4423,7 +4273,6 @@
 		]
 	},
 	{
-		"id": 3020,
 		"type": "Neutral",
 		"title": "Red Parking Garage",
 		"notes": "",
@@ -4441,7 +4290,6 @@
 		]
 	},
 	{
-		"id": 3021,
 		"type": "Neutral",
 		"title": "Rich Apartments",
 		"notes": "The tier 3 apartments for high-class citizens.",
@@ -4456,7 +4304,6 @@
 		]
 	},
 	{
-		"id": 3022,
 		"type": "Neutral",
 		"title": "Seaside Seaquarium",
 		"notes": "Here will stand Seaquarium once the construction is finished.",
@@ -4472,7 +4319,6 @@
 		]
 	},
 	{
-		"id": 3023,
 		"type": "Neutral",
 		"title": "The Cinema",
 		"notes": "The filming spot of The Kebun Springer Show.",
@@ -4492,7 +4338,6 @@
 		}
 	},
 	{
-		"id": 3024,
 		"type": "Neutral",
 		"title": "The Fence",
 		"notes": "",
@@ -4508,7 +4353,6 @@
 		]
 	},
 	{
-		"id": 3025,
 		"type": "Neutral",
 		"title": "The Vinewood Racetrack",
 		"notes": "4EQ is an entertainment and event planning company operating out of East Vinewood. They own the Vinewood Racetrack, which is behind Diamond Casino and Resort, currently occupy the QuickFix near the Racetrack as one of their less official meeting locations, and were given office #3 in East Vinewood on the corner of Occupation Avenue & Power Street by Thomas Dwayne to conduct official business. They have no direct affiliation with the casino despite their sharing of a campus. 4EQ's name is a shortening of The Four Equestrians.",
@@ -4540,7 +4384,6 @@
 		]
 	},
 	{
-		"id": 3026,
 		"type": "Neutral",
 		"title": "Vanilla Unicorn",
 		"notes": "The place used to be strip club and was owned by Liv Lassen and Dexx Martin. The club offered exclusive memberships for influential citizens allowing entrance into the Vanilla Unicorn for those who purchased a subscription. The state shut down the location after Liv Lassen was deported from the state by Federal order. Dexx repurchased the club with Jessie Jugg and have since repurposed it as a private entertainment club. The VU sold permanent VIP memberships for a limited time prior to the business's reopening. During renovation hot tubs and towel racks were installed. Additionally, camera and computer equipment was purchased for their Mitch.tv streaming deal.",
@@ -4558,7 +4401,6 @@
 		]
 	},
 	{
-		"id": 3027,
 		"type": "Neutral",
 		"title": "Vultur L\u00e9 Cultur\u00e9 ",
 		"notes": "Vultur L\u00e9 Cultur\u00e9, also known simply as the Gallery, is an art gallery and auction house founded by Ramee El-Rahman",
@@ -4578,7 +4420,6 @@
 		]
 	},
 	{
-		"id": 3028,
 		"type": "Neutral",
 		"title": "Wu-Chang Records",
 		"notes": "Wu-Chang Records was created by Mr. Wang Chang (Mr. Kebun) and Vinny Pistone, and established under Mr. Wang Chang's name. Vinny and Mr. Chang unofficially signed Lil Erf as the label's first artist, after the debut of his hit song Chang Gang.",
@@ -4599,7 +4440,6 @@
 		}
 	},
 	{
-		"id": 3029,
 		"type": "Neutral",
 		"title": "You Tool",
 		"notes": "A place to buy repair kits, radios, and body armor.",
@@ -4614,7 +4454,6 @@
 		]
 	},
 	{
-		"id": 3030,
 		"type": "Neutral",
 		"title": "Carmella Corset's House",
 		"notes": "Chang Gang and Clean Queens members visit here frequently.",
@@ -4632,7 +4471,6 @@
 		]
 	},
 	{
-		"id": 3031,
 		"type": "Neutral",
 		"title": "Kevin and Eric's Mansion",
 		"notes": "Kevin Ram and Eric Wolfenstein's mansion. Ray Mond was the third person to gain access to the  mansion.",
@@ -4680,7 +4518,6 @@
 
 
 	{
-		"id": 4001,
 		"type": "Automotive",
 		"title": "Beekers Garage & Parts",
 		"notes": "Repair shop",
@@ -4696,7 +4533,6 @@
 		]
 	},
 	{
-		"id": 4002,
 		"type": "Automotive",
 		"title": "Benny's Original Motor Works",
 		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
@@ -4714,7 +4550,6 @@
 		]
 	},
 	{
-		"id": 4003,
 		"type": "Automotive",
 		"title": "Burton Los Santos Customs",
 		"notes": "",
@@ -4733,7 +4568,6 @@
 		]
 	},
 	{
-		"id": 4004,
 		"type": "Automotive",
 		"title": "Deluxe Car Garage/Showroom",
 		"notes": "Associated with H&O Exports",
@@ -4750,7 +4584,6 @@
 		]
 	},
 	{
-		"id": 4005,
 		"type": "Automotive",
 		"title": "H&O Exports",
 		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operations.",
@@ -4767,7 +4600,6 @@
 		]
 	},
 	{
-		"id": 4006,
 		"type": "Automotive",
 		"title": "H&O Exports Entrance",
 		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operatons.",
@@ -4783,7 +4615,6 @@
 		]
 	},
 	{
-		"id": 4007,
 		"type": "Automotive",
 		"title": "Harmony",
 		"notes": "Harmony Repairs Garage or Harmony to most, is a well-known repair shop owned by Jordan Walker in Northern Blaine County.",
@@ -4799,7 +4630,6 @@
 		]
 	},
 	{
-		"id": 4008,
 		"type": "Automotive",
 		"title": "Hayes",
 		"notes": "The repair shop was previously owned by Igor Skovacic. Ownership has since been passed on to Shane Powers.",
@@ -4815,7 +4645,6 @@
 		]
 	},
 	{
-		"id": 4009,
 		"type": "Automotive",
 		"title": "International Airport Los Santos Customs",
 		"notes": "",
@@ -4831,7 +4660,6 @@
 		]
 	},
 	{
-		"id": 4010,
 		"type": "Automotive",
 		"title": "Iron Hog Repairs",
 		"notes": "Iron Hog is owned and run by Lucille Hellman, and originally operated out of the garage at the Lost MC compound in Stab City, when it was founded in 2020. In 2021, Iron Hog was relocated to its own building at the Sandy Shores Airfield, and made its grand opening on September 11th, 2021. The shop specializes in motorcycles and is protected by the Lost MC",
@@ -4847,7 +4675,6 @@
 		]
 	},
 	{
-		"id": 4011,
 		"type": "Automotive",
 		"title": "Murrieta Heights Benny's Original Motor Works",
 		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
@@ -4863,7 +4690,6 @@
 		]
 	},
 	{
-		"id": 4012,
 		"type": "Automotive",
 		"title": "Ottos Auto",
 		"notes": "Ottos Autos is a second-hand car dealership and mechanic shop created by Otto Delmar. The ownership of the business is split three ways between the Diamond Casino and Resort (Dean Watson and Otto), Leslie Lingberg and Marlo Stanfield. As Otto is also the creator of Diamond Hand Credit the shop is able to offer fast and easy loans to people buying cars who need a little extra cash. With Leslie Lingberg being a 33% shareholder, the business has a partnership with PDM where people looking to sell cars will be directed to Ottos Autos.",
@@ -4879,7 +4705,6 @@
 		]
 	},
 	{
-		"id": 4013,
 		"type": "Automotive",
 		"title": "Premium Deluxe Motorsport",
 		"notes": "Premium Deluxe Motorsport, or PDM as most call it, is a car dealership run by businessman Leslie Lingberg. PDM is the place where most people buy their first car in city. PDM has a working relationship with Diamond Hand Credit who provide financing to prospective car buyers.",
@@ -4895,7 +4720,6 @@
 		]
 	},
 	{
-		"id": 4014,
 		"type": "Automotive",
 		"title": "Strawberry Benny's Original Motor Works",
 		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
@@ -4911,7 +4735,6 @@
 		]
 	},
 	{
-		"id": 4015,
 		"type": "Automotive",
 		"title": "Tuner Shop",
 		"notes": "The Tuner Shop, also known as the Tuna Shop, is a repair shop and car dealership owned by Eddie Marshall. He owns 52%. It is managed by Tommy Cruizer, and its Sales Operations are run by Mary Mushkin, Chip Wheeler and Eddie himself.",
@@ -4932,7 +4755,6 @@
 		}
 	},
 	{
-		"id": 4016,
 		"type": "Automotive",
 		"title": "Davis Gas Station",
 		"notes": "",
@@ -4948,7 +4770,6 @@
 		]
 	},
 	{
-		"id": 4017,
 		"type": "Automotive",
 		"title": "Downtown Vinewood Gas Station",
 		"notes": "",
@@ -4964,7 +4785,6 @@
 		]
 	},
 	{
-		"id": 4018,
 		"type": "Automotive",
 		"title": "Great Ocean Gas Station",
 		"notes": "",
@@ -4985,7 +4805,6 @@
 		]
 	},
 	{
-		"id": 4019,
 		"type": "Automotive",
 		"title": "Little Seoul Gas Station",
 		"notes": "A very popular gas station located in Little Seoul.",
@@ -5007,7 +4826,6 @@
 		]
 	},
 	{
-		"id": 4020,
 		"type": "Automotive",
 		"title": "Mirror Park Gas Station",
 		"notes": "",
@@ -5024,7 +4842,6 @@
 		]
 	},
 	{
-		"id": 4021,
 		"type": "Automotive",
 		"title": "Paleto Bay Gas Station",
 		"notes": "",
@@ -5039,7 +4856,6 @@
 		]
 	},
 	{
-		"id": 4022,
 		"type": "Automotive",
 		"title": "Richman Glen Gas Station",
 		"notes": "",
@@ -5059,7 +4875,6 @@
 		]
 	},
 	{
-		"id": 4023,
 		"type": "Automotive",
 		"title": "San Chianski Mountain Gas Station",
 		"notes": "",
@@ -5074,7 +4889,6 @@
 		]
 	},
 	{
-		"id": 4024,
 		"type": "Automotive",
 		"title": "Strawberry Gas Station",
 		"notes": "",
@@ -5091,7 +4905,6 @@
 		]
 	},
 	{
-		"id": 4025,
 		"type": "Automotive",
 		"title": "Refuel Hanger",
 		"notes": "Where helicopters refuel.",
@@ -5107,7 +4920,6 @@
 		]
 	},
 	{
-		"id": 4026,
 		"type": "Automotive",
 		"title": "Repair Hanger",
 		"notes": "Where helicopters are repaired.",
@@ -5122,7 +4934,6 @@
 		]
 	},
 	{
-		"id": 4027,
 		"type": "Automotive",
 		"title": "Repair Hanger",
 		"notes": "Where helicopters are repaired.",
@@ -5140,7 +4951,6 @@
 
 
 	{
-		"id": 5001,
 		"type": "Heists",
 		"title": "Fleeca Bank",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
@@ -5156,7 +4966,6 @@
 		]
 	},
 	{
-		"id": 5002,
 		"type": "Heists",
 		"title": "Fleeca Bank",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
@@ -5172,7 +4981,6 @@
 		]
 	},
 	{
-		"id": 5003,
 		"type": "Heists",
 		"title": "Fleeca Bank",
 		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
@@ -5190,7 +4998,6 @@
 		]
 	},
 	{
-		"id": 5004,
 		"type": "Heists",
 		"title": "Laptop Pickup",
 		"notes": "Where phone dongles and laptops are picked up.",
@@ -5206,7 +5013,6 @@
 		]
 	},
 	{
-		"id": 5005,
 		"type": "Heists",
 		"title": "Laptop Shop",
 		"notes": "Where laptops are bought.",
@@ -5223,7 +5029,6 @@
 		]
 	},
 	{
-		"id": 5006,
 		"type": "Heists",
 		"title": "Paleto Bank",
 		"notes": "Paleto Bank (Blaine County Savings Bank) is the second stage progression of bank robberies.",
@@ -5239,7 +5044,6 @@
 		]
 	},
 	{
-		"id": 5007,
 		"type": "Heists",
 		"title": "The Casino",
 		"notes": "The Casino is owned and operated by Dean Watson and ran by Chief Executive Officer Cassie Cupcakes. Originally the CEO position was given to Kevin Whipaloo by both Dean Watson & Otto Delmar which he accepted with the terms being he would resign from Burger Shot. However, the next day Kevin ran out of town and has not been seen since. The Casino Heist is the fifth stage progression of bank robberies.",
@@ -5257,7 +5061,6 @@
 		]
 	},
 	{
-		"id": 5008,
 		"type": "Heists",
 		"title": "The City Vault",
 		"notes": "The City Vault (Pacific Standard Public Deposit Bank) is the third stage and fourth progression of bank robberies.",
@@ -5278,7 +5081,6 @@
 		}
 	},
 	{
-		"id": 5009,
 		"type": "Heists",
 		"title": "VAR Heist",
 		"notes": "The VAR Heist is accessible from the roof of a building in Morningwood, using VAR headsets (obtained from the Yacht Heist) criminals can enter a virtual world to fight hostiles while attempting to hack into terminals and gain illegal data.",
@@ -5299,7 +5101,6 @@
 		}
 	},
 	{
-		"id": 5010,
 		"type": "Heists",
 		"title": "Vangelico Jewelry Store",
 		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
@@ -5315,7 +5116,6 @@
 		]
 	},
 	{
-		"id": 5011,
 		"type": "Heists",
 		"title": "Yacht Heist",
 		"notes": "The Yacht Heist provids VAR headsets for the VAR heist.",
@@ -5339,7 +5139,6 @@
 
 
 	{
-		"id": 6001,
 		"type": "Legal",
 		"title": "AirX Flight School",
 		"notes": "AirX is owned by Jackie Snow. Knowing their passion, skill, and experience for flying, Bryce Miller, Tony Corleone, and Olivia Copper were the first to be recruited into the flight school. Bryce was hired as Flight Chief/Manager and Instructor of AirX. Tony and Copper were also hired as Flight Instructors. AirX Flight School operates out of Fort Zancudo military base.",
@@ -5381,7 +5180,6 @@
 		]
 	},
 	{
-		"id": 6002,
 		"type": "Legal",
 		"title": "Bob Smith PD",
 		"notes": "Bob Smith Police Department, formerly known as Vespucci Police Department was named after former Chief of Police Bob Smith. Who was the longest standing Chief in Los Santos, beloved by the people.",
@@ -5403,7 +5201,6 @@
 		]
 	},
 	{
-		"id": 6003,
 		"type": "Legal",
 		"title": "Davis PD",
 		"notes": "",
@@ -5418,7 +5215,6 @@
 		]
 	},
 	{
-		"id": 6004,
 		"type": "Legal",
 		"title": "Impound Lot",
 		"notes": "Where cars go when they get impounded.",
@@ -5434,7 +5230,6 @@
 		]
 	},
 	{
-		"id": 6005,
 		"type": "Legal",
 		"title": "Mission Row PD",
 		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
@@ -5450,7 +5245,6 @@
 		]
 	},
 	{
-		"id": 6006,
 		"type": "Legal",
 		"title": "PBSO",
 		"notes": "Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
@@ -5471,7 +5265,6 @@
 		]
 	},
 	{
-		"id": 6007,
 		"type": "Legal",
 		"title": "SDSO",
 		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
@@ -5487,7 +5280,6 @@
 		]
 	},
 	{
-		"id": 6008,
 		"type": "Legal",
 		"title": "The Courthouse",
 		"notes": "Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
@@ -5511,7 +5303,6 @@
 
 
 	{
-		"id": 7001,
 		"type": "Medical",
 		"title": "Boe Jangles's House",
 		"notes": "Boe Jangles was a well known criminal in Los Santos and had connections across the city. He also worked for and founded the White Widow Dispensary. Boe had close ties with Chang Gang and was initiated into the gang on July 8th 2020. On July 4th, 2020 he retired and can now be found giving out hugs at his house. Reset in peace.",
@@ -5529,7 +5320,6 @@
 		]
 	},
 	{
-		"id": 7002,
 		"type": "Medical",
 		"title": "Central Los Santos Medical Center",
 		"notes": "",
@@ -5545,7 +5335,6 @@
 		]
 	},
 	{
-		"id": 7003,
 		"type": "Medical",
 		"title": "Grandma's",
 		"notes": "Where you go to pick up your gang after a shootout.",
@@ -5566,7 +5355,6 @@
 		]
 	},
 	{
-		"id": 7004,
 		"type": "Medical",
 		"title": "Grandpa's",
 		"notes": "Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
@@ -5581,7 +5369,6 @@
 		]
 	},
 	{
-		"id": 7005,
 		"type": "Medical",
 		"title": "Parsons Hill",
 		"notes": "Parsons Rehabilitation Center is a psychiatric rehabilitation facility for 51-50 patients. The patients referred to this center are primarily non-violent individuals that have been determined as unsafe for themselves and/or others. Patients can be held on a three-day temporary hold, or indefinitely. After an evaluation, only an authorized psychologist or a judge can determine if the patient will be released, or remain in the center for further treatment.",
@@ -5615,7 +5402,6 @@
 		]
 	},
 	{
-		"id": 7006,
 		"type": "Medical",
 		"title": "Pillbox Medical Center",
 		"notes": "Pillbox Medical Center is the main hospital in Los Santos. Pillbox is the center of higher medicine in the city of Los Santos. It is home to the Emergency Medical Services, however EMS is not owned or funded by the hospital. They work with the rest of the governmental agencies across the city and routinely give them necessary higher medical services.",
@@ -5637,7 +5423,6 @@
 
 
 	{
-		"id": 8001,
 		"type": "Restaurants",
 		"title": "Burger Shot",
 		"notes": "Burger Shot is a chain of fast-food restaurants specializing in hamburgers. Burger Shot is the food of choice in Los Santos. The company offers many delicious menu items and is owned by Dean Watson with Shelly Smith as CEO and Cassie Cupcake as COO.",
@@ -5657,7 +5442,6 @@
 		}
 	},
 	{
-		"id": 8002,
 		"type": "Restaurants",
 		"title": "Maldini's Pizzeria",
 		"notes": "Maldini's Pizzeria is Co-owned by Vinny Pistone and Mr. Kebun.",
@@ -5673,7 +5457,6 @@
 		]
 	},
 	{
-		"id": 8003,
 		"type": "Restaurants",
 		"title": "Rooster Rest",
 		"notes": "The Rooster's Rest is a local establishment privately-owned by Lang Buddha and members of the Cleanbois. While the business mostly operates as a chalet-style restaurant (serving mainly chicken-based products and ramen bowls), The Rooster's Rest also operates as a bar and grill, music venue, nightclub, hostel, the base of operations for Rooster Cab Co., a secretive host for D&D campaigns, and as a casino, strip club and brothel on the down-low.",
@@ -5693,7 +5476,6 @@
 		]
 	},
 	{
-		"id": 8004,
 		"type": "Restaurants",
 		"title": "UWU Caf\u00e9",
 		"notes": "UwU Caf\u00e9 is a restaurant created and owned by Ash Ketchup. Benji Ramos, Sherry Paie and Attorney James Haze each own a small percentage of the company and help run it",
@@ -5713,7 +5495,6 @@
 		]
 	},
 	{
-		"id": 8005,
 		"type": "Restaurants",
 		"title": "Up n Atom",
 		"notes": "",

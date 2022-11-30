@@ -104,7 +104,7 @@ $(function() {
 			name: 'Neighborhoods',
 			icon: 'radar/radar_warehouse.png',
 			type: 'General',
-			enabled: true,
+			enabled: false,
 		},
 		{
 			name: 'Territories',
@@ -245,7 +245,7 @@ $(function() {
 		},
 
 		showMarker: function(e) {
-			var location = locations.get($(e.currentTarget).data('id'));
+			var location = locations.findWhere({ title: $(e.currentTarget).text() });
 			location.highlightMarker();
 			var bounds = new google.maps.LatLngBounds();
 			location
@@ -531,8 +531,7 @@ function printArray() {
 	var msg = 'Submit new regions here:\n'
 	+ 'https://github.com/skyrossm/np-gangmap/issues\n\n'
 	+ 'Right click the map to add points to the region. You may have to toggle regions off to be able to right click on the bottom layer. Fill in the values marked "<edit here>" and title the new issue using the format: "Add <title> region". Copy and paste everything below this. If your browser does not support selecting the text below press F12 to open the developer console and copy it from there. (scroll down)\n\n';
-	msg += '```json\n\t{\n\t\t"id": 0,'
-	+ '\n\t\t"type": "Territories",'
+	msg += '```json\n\t{\n\t\t"type": "Territories",'
 	+ '\n\t\t"title": "<edit this>",'
 	+ '\n\t\t"notes": "<edit this>",'
 	+ '\n\t\t"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",'
@@ -567,10 +566,7 @@ function addruler(map) {
 		draggable: true,
 	});
 
-	var ruler1label = new Label({ map: map });
-	var ruler2label = new Label({ map: map });
-	ruler1label.bindTo('position', ruler1, 'position');
-	ruler2label.bindTo('position', ruler2, 'position');
+	var ruler1label = new Label({ map: map, position: map.getCenter(), text: '0m' });
 
 	rulerpoly = new google.maps.Polyline({
 		path: [ruler1.position, ruler2.position],
@@ -580,19 +576,15 @@ function addruler(map) {
 	});
 	rulerpoly.setMap(map);
 
-	ruler1label.set('text', '0m');
-	ruler2label.set('text', '0m');
-
 	google.maps.event.addListener(ruler1, 'drag', function() {
+		ruler1label.set('position', ruler1.position);
 		rulerpoly.setPath([ruler1.getPosition(), ruler2.getPosition()]);
 		ruler1label.set('text', distance(ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
-		ruler2label.set('text', distance(ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
 	});
 
 	google.maps.event.addListener(ruler2, 'drag', function() {
 		rulerpoly.setPath([ruler1.getPosition(), ruler2.getPosition()]);
 		ruler1label.set('text', distance(ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
-		ruler2label.set('text', distance(ruler1.getPosition().lat(), ruler1.getPosition().lng(), ruler2.getPosition().lat(), ruler2.getPosition().lng()));
 	});
 
 	ruler1.setVisible(true);
@@ -602,7 +594,7 @@ function addruler(map) {
 
 function distance(lat1, lon1, lat2, lon2) {
 	var um = 'km'; // km | ft (choose the constant)
-	var R = 6371;
+	var R = 1800;
 	if (um == 'ft') {
 		R = 20924640; // ft
 	}
@@ -611,15 +603,7 @@ function distance(lat1, lon1, lat2, lon2) {
 	var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos((lat1 * Math.PI) / 180) * Math.cos((lat2 * Math.PI) / 180) * Math.sin(dLon / 2) * Math.sin(dLon / 2);
 	var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 	var d = R * c * 4;
-	if (um == 'km') {
-		if (d > 1000) {
-			return Math.round(d / 1000) + 'km';
-		} else if (d > 1) {
-			return Math.round(d) + 'm';
-		}
-	}
-
-	return d;
+	return Math.round(d) + 'm';
 }
 
 // Define the overlay, derived from google.maps.OverlayView
