@@ -184,17 +184,32 @@ $(function() {
 				type = $e.val(),
 				showLocations = $e.is(':checked'),
 				models = locations.where({ type: type });
-			allLocations = locations.filter(function(loc) {
-				return loc.get('marker').visible !== false;
-			});
+
+			allLocations = categories.chain()
+				.filter(function(c) {
+					return c.get('enabled');
+				})
+				.map(function(c) {
+					return c.get('name');
+				})
+				.map(function(name) {
+					return locations.where({ type: name });
+				})
+				.flatten()
+				.value();
 
 			if (type == 'labels' && showLocations) {
 				Vent.trigger('labels:visible', allLocations);
 				showingLabels = true;
+				return;
 			} else if (type == 'labels') {
 				Vent.trigger('labels:invisible', allLocations);
 				showingLabels = false;
+				return;
 			}
+
+			const cat = categories.findWhere({ name: $e.val() });
+			cat.set('enabled', showLocations);
 
 			if (showLocations) {
 				Vent.trigger('locations:visible', models);
@@ -456,7 +471,11 @@ $(function() {
 
 		hideLabels: function(locations) {
 			_.each(locations, function(location) {
-				location.get('label').set('fontSize', 0);
+				var label = location.get('label');
+				if (!label.getMap()) {
+					label.setMap(this.map);
+				}
+				label.set('fontSize', 0);
 			});
 		},
 
