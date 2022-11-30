@@ -3897,6 +3897,21 @@
 			"yt_user_link": "c/BestGTAHighlights"
 		}
 	},
+	{
+		"type": "Territories",
+		"title": "The Block Traphouse",
+		"notes": "Owned by deputy Charlotte Fairfield, the Block Traphouse is the new home for the Block family. They definitely do not sell guns and drugs out of the house and definitely have permission to live on Brouge.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Mike_Block",
+		"order": 0,
+		"strokecolor": "f70518",
+		"fillcolor": "f70518",
+		"latlngarray": [
+			{"lat": -75.229, "lng": -12.018},
+			{"lat": -75.263, "lng": -11.689},
+			{"lat": -75.405, "lng": -11.909},
+			{"lat": -75.346, "lng": -12.337}
+		]
+	},
 
 	{
 		"type": "Neutral",
@@ -5497,7 +5512,37 @@
 			{"lat": -62.371, "lng": -7.168}
 		]
 	},
-
+	{
+		"type": "Medical",
+		"title": "El Burro Heights Fire Station",
+		"notes": "El Burro Heights Fire Station is an official office of EMS.",
+		"wiki_ling": "https://nopixel.fandom.com/wiki/Emergency_Medical_Services",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -71.716, "lng": 21.124},
+			{"lat": -71.735, "lng": 18.447},
+			{"lat": -72.255, "lng": 18.458},
+			{"lat": -72.282, "lng": 21.732}
+		]
+	},
+	{
+		"type": "Medical",
+		"title": "Viceroy Medical Center",
+		"notes": "Viceroy Medical Center is a secondary hospital in Los Santos.",
+		"wiki_ling": "https://nopixel.fandom.com/wiki/Viceroy_Medical_Center?so=search",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -68.741, "lng": -37.279},
+			{"lat": -69.352, "lng": -40.693},
+			{"lat": -69.956, "lng": -39.550},
+			{"lat": -70.110, "lng": -37.221},
+			{"lat": -69.533, "lng": -35.592}
+		]
+	},
 
 
 	{
