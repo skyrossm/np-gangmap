@@ -35,16 +35,3 @@ python -m http.server
 
 To [danharper](https://github.com/danharper/) for [his work](https://github.com/danharper/GTAV) on the GTA V map.
 To [gta5-map](https://github.com/gta5-map) for [their work](https://github.com/gta5-map/gta5-map.github.io) on the GTA V map.
-
-## Star History
-
-By starring this repository you attract contributors to invest time into maintaing it.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=skyrossm/np-gangmap&type=Date)](https://star-history.com/#skyrossm/np-gangmap)
-
-## Screenshots
-
-![screenshot-1](https://i.imgur.com/VavAdiG.jpg)
-![screenshot-2](https://i.imgur.com/978UDPW.jpg)
-![screenshot-3](https://i.imgur.com/ijtZIHO.jpg)
-![screenshot-4](https://i.imgur.com/VMuDSrK.png)

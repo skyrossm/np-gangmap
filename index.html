@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>NoPixel Territory Map</title>
-	<link rel="icon" href="icons/favicon.ico"/>
+	<title>LGN Met Police Evidence Map</title>
+	<!--<link rel="icon" href="icons/favicon.ico"/> -->
 
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" href="fontawesome/css/font-awesome.css">
@@ -23,10 +23,9 @@
 </head>
 <body>
 	<header>
-		<p class="left" style="padding-top: 5px;"><a href="">NoPixel Territory Map</a></p>
+		<p class="left" style="padding-top: 5px;"><a href="">LGN Met Police Evidence Map</a></p>
 		<ul class="right">
 			<div class="dropdown">
-				<a href="https://github.com/skyrossm/np-gangmap/graphs/contributors" target="_blank"><button class="btn btn-primary">Contributors</button></a>
 				<button class="btn btn-primary" id="toggleruler" onclick="toggleRuler();$(this).css('display', 'none');">Add Distance Ruler</button>
 				<button class="btn btn-primary" id="createzone" onclick="printArray()">Add New Region</button>
 				<button class="btn btn-secondary dropdown-toggle" type="button" id="ddmenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -34,8 +33,6 @@
 				</button>
 				<div class="dropdown-menu" aria-labelledby="ddmenu">
 					<a href="#" id="Atlas"           class="dropdown-item active" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas');           $(this).addClass('active');">Atlas</a>
-					<a href="#" id="Satellite"       class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite');       $(this).addClass('active');">Satellite</a>
-					<a href="#" id="Road"            class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road');            $(this).addClass('active');">Road</a>
 				</div>
 			</div>
 
