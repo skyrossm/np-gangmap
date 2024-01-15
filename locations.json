@@ -1,16 +1,17 @@
 [
 	{
-		"type": "South Los Santos",
+		"type": "Downtown",
 		"title": "W/S Cash Gang Crips",
 		"notes": "",
 		"order": 0,
-		"strokecolor": "4E5B31",
+		"strokecolor": "1851AD",
 		"fillcolor": "00000000",
 		"latlngarray": [
-			{"lat": 459.4791, "lng": -1612.2515},
-			{"lat": 473.1149, "lng": -1594.4852},
-			{"lat": 490.2784, "lng": -1554.6177},
-			{"lat": 454.6962, "lng": -1524.3363}
+			{"lat": -74.756, "lng": -1.492},
+			{"lat": -74.576, "lng": -0.833},
+			{"lat": -73.779, "lng": -0.064},
+			{"lat": -73.494, "lng": -1.273},
+			{"lat": -74.257, "lng": -3.580}
 		]
 	}
 ]
