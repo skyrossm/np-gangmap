@@ -1,0 +1,176 @@
+[
+	{
+		"title": "Fleeca Bank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Fleeca_Bank",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 16.073, "lng": 18.341},
+			{"lat": 16.073, "lng": 20.179},
+			{"lat": 14.999, "lng": 20.179},
+			{"lat": 14.999, "lng": 18.341}
+		]
+	},
+	{
+		"title": "Fleeca Bank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Fleeca_Bank",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -45.449, "lng": -101.214},
+			{"lat": -45.491, "lng": -100.449},
+			{"lat": -46.043, "lng": -100.531},
+			{"lat": -45.983, "lng": -101.288}
+		]
+	},
+	{
+		"title": "Fleeca Bank",
+		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -53.246, "lng": -26.209},
+			{"lat": -53.949, "lng": -22.806},
+			{"lat": -54.757, "lng": -23.103},
+			{"lat": -54.015, "lng": -26.608},
+			{"lat": -53.801, "lng": -26.399},
+			{"lat": -53.514, "lng": -26.245}
+		]
+	},
+	{
+		"title": "Laptop Pickup",
+		"notes": "Where phone dongles and laptops are picked up.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 25.902, "lng": -1.105},
+			{"lat": 27.082, "lng": -0.226},
+			{"lat": 26.532, "lng": 0.719},
+			{"lat": 25.297, "lng": -0.127}
+		]
+	},
+	{
+		"title": "Laptop Shop",
+		"notes": "Where laptops are bought.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -64.154, "lng": -56.186},
+			{"lat": -63.918, "lng": -55.471},
+			{"lat": -63.666, "lng": -54.691},
+			{"lat": -64.254, "lng": -53.659},
+			{"lat": -64.648, "lng": -54.878}
+		]
+	},
+	{
+		"title": "Paleto Bank",
+		"notes": "Paleto Bank (Blaine County Savings Bank) is the second stage progression of bank robberies.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": 77.001, "lng": -19.252},
+			{"lat": 77.257, "lng": -18.059},
+			{"lat": 77.015, "lng": -17.055},
+			{"lat": 76.758, "lng": -18.198}
+		]
+	},
+	{
+		"title": "The Casino",
+		"notes": "The Casino is owned and operated by Dean Watson and ran by Chief Executive Officer Cassie Cupcakes. Originally the CEO position was given to Kevin Whipaloo by both Dean Watson & Otto Delmar which he accepted with the terms being he would resign from Burger Shot. However, the next day Kevin ran out of town and has not been seen since. The Casino Heist is the fifth stage progression of bank robberies.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Diamond_Casino_and_Resort",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -50.986, "lng": 12.406},
+			{"lat": -51.849, "lng": 14.548},
+			{"lat": -53.409, "lng": 12.911},
+			{"lat": -52.447, "lng": 10.442},
+			{"lat": -51.947, "lng": 11.181},
+			{"lat": -51.339, "lng": 12.015}
+		]
+	},
+	{
+		"title": "The City Vault",
+		"notes": "The City Vault (Pacific Standard Public Deposit Bank) is the third stage and fourth progression of bank robberies.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/City_Vault_(Pacific_Standard_Public_Deposit_Bank)",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -47.911, "lng": -7.819},
+			{"lat": -48.286, "lng": -6.359},
+			{"lat": -49.684, "lng": -7.149},
+			{"lat": -49.335, "lng": -8.622}
+		],
+		"video": {
+			"yt_id": "WkJP51cKxEs",
+			"yt_user_display": "xQcOW",
+			"yt_user_link": "c/xqcow"
+		}
+	},
+	{
+		"title": "VAR Heist",
+		"notes": "The VAR Heist is accessible from the roof of a building in Morningwood, using VAR headsets (obtained from the Yacht Heist) criminals can enter a virtual world to fight hostiles while attempting to hack into terminals and gain illegal data.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/VAR_Heist",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -57.785, "lng": -21.025},
+			{"lat": -57.904, "lng": -20.552},
+			{"lat": -58.087, "lng": -20.716},
+			{"lat": -57.971, "lng": -21.189}
+		],
+		"video": {
+			"yt_id": "_ec0C13ipKE",
+			"yt_user_display": "Sykkuno",
+			"yt_user_link": "user/Sykkuno"
+		}
+	},
+	{
+		"title": "Vangelico Jewelry Store",
+		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -56.639, "lng": -34.579},
+			{"lat": -56.184, "lng": -33.101},
+			{"lat": -57.782, "lng": -31.405},
+			{"lat": -57.993, "lng": -32.087},
+			{"lat": -56.851, "lng": -33.394}
+		]
+	},
+	{
+		"title": "Yacht Heist",
+		"notes": "The Yacht Heist provids VAR headsets for the VAR heist.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Category:Heist",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -68.189, "lng": -73.584},
+			{"lat": -68.189, "lng": -71.233},
+			{"lat": -68.608, "lng": -71.233},
+			{"lat": -68.608, "lng": -73.584}
+		],
+		"video": {
+			"yt_id": "Q9qSKrflV3E",
+			"yt_user_display": "xQcOW",
+			"yt_user_link": "c/xQcOW"
+		}
+	}
+]

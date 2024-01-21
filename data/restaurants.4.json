@@ -1,0 +1,18 @@
+[
+	{
+		"title": "Snr. Buns",
+		"notes": "Senior Buns is a chain of fast-food restaurants specializing in hamburgers.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Snr._Buns",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -63.219, "lng": -30.462},
+			{"lat": -63.219, "lng": -29.374},
+			{"lat": -64.364, "lng": -29.352},
+			{"lat": -64.082, "lng": -29.825},
+			{"lat": -63.773, "lng": -30.341},
+			{"lat": -63.500, "lng": -30.506}
+		]
+	}
+]

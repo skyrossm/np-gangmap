@@ -1,0 +1,58 @@
+[
+	{
+		"title": "404 Casino",
+		"notes": "Owned by Marty Banks, the 404 Casino is a player run casino with roulette, blackjack, and other games.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -74.584, "lng": -16.835},
+			{"lat": -74.372, "lng": -16.055},
+			{"lat": -74.429, "lng": -15.649},
+			{"lat": -74.666, "lng": -16.484}
+		]
+	},
+	{
+		"title": "Larry's House",
+		"notes": "Larry, Mama, Oscar, etc",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -75.334, "lng": -14.300},
+			{"lat": -75.481, "lng": -14.850},
+			{"lat": -75.392, "lng": -15.311},
+			{"lat": -75.242, "lng": -14.795}
+		]
+	},
+	{
+		"title": "Balla's House",
+		"notes": "Grove Street Ballas are one of the strongest South Side street gangs and primarily operate out of Davis.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Ballas",
+		"order": 0,
+		"strokecolor": "551A8B",
+		"fillcolor": "551A8B",
+		"latlngarray": [
+			{"lat": -75.717, "lng": -12.518},
+			{"lat": -75.900, "lng": -13.255},
+			{"lat": -75.819, "lng": -13.672},
+			{"lat": -75.635, "lng": -12.936}
+		]
+	},
+	{
+		"title": "notMDM House",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -75.714, "lng": -12.536},
+			{"lat": -75.876, "lng": -13.338},
+			{"lat": -75.945, "lng": -13.063},
+			{"lat": -75.784, "lng": -12.382}
+		]
+	}
+]
