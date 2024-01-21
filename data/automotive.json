@@ -1,0 +1,290 @@
+[
+	{
+		"title": "Paleto Benny's Original Motor Works",
+		"notes": "Repair shop",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 78.059, "lng": -12.004},
+			{"lat": 77.942, "lng": -11.414},
+			{"lat": 77.875, "lng": -11.738},
+			{"lat": 77.991, "lng": -12.329}
+		]
+	},
+	{
+		"title": "Benny's Original Motor Works",
+		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": -67.373, "lng": -16.101},
+			{"lat": -67.791, "lng": -13.025},
+			{"lat": -68.502, "lng": -13.805},
+			{"lat": -68.552, "lng": -15.474},
+			{"lat": -68.077, "lng": -14.979},
+			{"lat": -67.887, "lng": -16.617}
+		]
+	},
+	{
+		"title": "Los Santos Customs",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -54.519, "lng": -24.945},
+			{"lat": -54.888, "lng": -23.143},
+			{"lat": -55.609, "lng": -23.528},
+			{"lat": -55.911, "lng": -23.539},
+			{"lat": -55.942, "lng": -24.154},
+			{"lat": -56.133, "lng": -25.154},
+			{"lat": -55.584, "lng": -25.714}
+		]
+	},
+	{
+		"title": "Harmony",
+		"notes": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Harmony_Repairs_Garage",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": 14.563, "lng": 18.867},
+			{"lat": 14.563, "lng": 20.295},
+			{"lat": 13.177, "lng": 20.295},
+			{"lat": 13.177, "lng": 18.867}
+		]
+	},
+	{
+		"title": "Hayes",
+		"notes": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Hayes_Auto_Body_Repairs",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": -60.132, "lng": -56.756},
+			{"lat": -59.581, "lng": -55.031},
+			{"lat": -59.819, "lng": -54.679},
+			{"lat": -60.394, "lng": -56.359}
+		]
+	},
+	{
+		"title": "International Airport Los Santos Customs",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -76.057, "lng": -48.179},
+			{"lat": -76.239, "lng": -47.382},
+			{"lat": -76.409, "lng": -48.086},
+			{"lat": -76.219, "lng": -48.877}
+		]
+	},
+	{
+		"title": "Murrieta Heights Benny's Original Motor Works",
+		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": -66.732, "lng": 11.959},
+			{"lat": -66.732, "lng": 12.851},
+			{"lat": -67.021, "lng": 12.851},
+			{"lat": -67.038, "lng": 11.959}
+		]
+	},
+	{
+		"title": "Strawberry Benny's Original Motor Works",
+		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Benny%27s_Original_Motor_Works",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CAD8",
+		"latlngarray": [
+			{"lat": -70.414, "lng": -22.409},
+			{"lat": -70.414, "lng": -20.399},
+			{"lat": -70.697, "lng": -20.399},
+			{"lat": -70.697, "lng": -22.409}
+		]
+	},
+	{
+		"title": "Davis Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -74.115, "lng": -16.375},
+			{"lat": -74.407, "lng": -15.122},
+			{"lat": -74.693, "lng": -16.023},
+			{"lat": -74.279, "lng": -17.836}
+		]
+	},
+	{
+		"title": "Downtown Vinewood Gas Station",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -47.199, "lng": 3.419},
+			{"lat": -48.102, "lng": 4.507},
+			{"lat": -48.909, "lng": 3.914},
+			{"lat": -48.504, "lng": 1.914},
+			{"lat": -47.623, "lng": 2.475}
+		]
+	},
+	{
+		"title": "Great Ocean Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -58.703, "lng": -74.577},
+			{"lat": -58.029, "lng": -74.478},
+			{"lat": -57.942, "lng": -74.643},
+			{"lat": -57.770, "lng": -76.898},
+			{"lat": -57.968, "lng": -77.030},
+			{"lat": -58.125, "lng": -77.041},
+			{"lat": -58.420, "lng": -76.887},
+			{"lat": -58.595, "lng": -76.603},
+			{"lat": -58.970, "lng": -75.291}
+		]
+	},
+	{
+		"title": "Little Seoul Gas Station",
+		"notes": "A very popular gas station located in Little Seoul.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Little_Seoul",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -66.216, "lng": -36.488},
+			{"lat": -66.216, "lng": -35.123},
+			{"lat": -66.615, "lng": -35.123},
+			{"lat": -66.634, "lng": -35.624},
+			{"lat": -66.643, "lng": -35.997},
+			{"lat": -66.656, "lng": -36.359},
+			{"lat": -66.634, "lng": -36.514},
+			{"lat": -66.573, "lng": -36.623},
+			{"lat": -66.451, "lng": -36.634},
+			{"lat": -66.309, "lng": -36.536}
+		]
+	},
+	{
+		"title": "Mirror Park Gas Station",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -58.109, "lng": 18.361},
+			{"lat": -58.009, "lng": 19.623},
+			{"lat": -58.277, "lng": 19.816},
+			{"lat": -58.599, "lng": 19.861},
+			{"lat": -58.856, "lng": 19.794},
+			{"lat": -58.689, "lng": 18.475}
+		]
+	},
+	{
+		"title": "Paleto Bay Gas Station",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 77.852, "lng": -10.207},
+			{"lat": 77.879, "lng": -9.372},
+			{"lat": 77.791, "lng": -9.284},
+			{"lat": 77.756, "lng": -10.091}
+		]
+	},
+	{
+		"title": "Richman Glen Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -36.946, "lng": -68.484},
+			{"lat": -36.232, "lng": -67.429},
+			{"lat": -36.108, "lng": -67.055},
+			{"lat": -36.126, "lng": -66.583},
+			{"lat": -36.249, "lng": -66.242},
+			{"lat": -36.382, "lng": -66.012},
+			{"lat": -37.139, "lng": -67.132},
+			{"lat": -37.567, "lng": -67.824}
+		]
+	},
+	{
+		"title": "San Chianski Mountain Gas Station",
+		"notes": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 31.578, "lng": 62.236},
+			{"lat": 30.925, "lng": 63.579},
+			{"lat": 29.733, "lng": 62.775},
+			{"lat": 30.463, "lng": 61.511}
+		]
+	},
+	{
+		"title": "Strawberry Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -69.698, "lng": -8.042},
+			{"lat": -69.694, "lng": -6.545},
+			{"lat": -70.249, "lng": -6.545},
+			{"lat": -70.258, "lng": -8.175},
+			{"lat": -70.029, "lng": -8.042}
+		]
+	},
+	{
+		"title": "Sandy Shores Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 42.016, "lng": 43.872},
+			{"lat": 41.565, "lng": 42.839},
+			{"lat": 42.358, "lng": 42.235},
+			{"lat": 42.827, "lng": 43.246}
+		]
+	},
+	{
+		"title": "Grapeseed Gas Station",
+		"notes": "",
+		"wiki_link": "",
+		"order": 1,
+		"strokecolor": "00DA7D",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": 61.684, "lng": 34.233},
+			{"lat": 62.154, "lng": 34.958},
+			{"lat": 62.425, "lng": 34.178},
+			{"lat": 62.262, "lng": 33.684},
+			{"lat": 62.072, "lng": 33.442},
+			{"lat": 61.891, "lng": 33.387}
+		]
+	}
+]

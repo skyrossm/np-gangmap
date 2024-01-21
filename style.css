@@ -45,6 +45,20 @@ header a.active {
 	color: white;
 }
 
+.btn-primary {
+	background: #27b298;
+	border-color: #00b888;
+}
+
+.btn-primary:hover {
+	background: #00b888;
+	border-color: #00b888;
+}
+
+.dropdown-item.active {
+	background: #27b298;
+}
+
 #map {
 	position: absolute;
 	top: 0;
@@ -143,6 +157,8 @@ header a.active {
 
 .types .type label {
 	cursor: pointer;
+	vertical-align: middle;
+	margin-top: 4px;
 }
 
 .types .type input {
@@ -152,7 +168,6 @@ header a.active {
 .types .type img {
 	width: 16px;
 	position: relative;
-	top: 4px;
 	-webkit-filter: grayscale(1);
 	opacity: .2;
 }
@@ -175,7 +190,7 @@ header a.active {
 	color: #777;
 	text-decoration: none;
 	float: right;
-	margin-top: 3px;
+	margin-top: 4px;
 }
 
 .types .details:hover {

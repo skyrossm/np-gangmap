@@ -1,0 +1,113 @@
+[
+	{
+		"title": "Vespucci Police Department",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -65.418, "lng": -48.595},
+			{"lat": -64.592, "lng": -46.244},
+			{"lat": -64.802, "lng": -45.643},
+			{"lat": -64.917, "lng": -45.028},
+			{"lat": -64.992, "lng": -44.478},
+			{"lat": -65.117, "lng": -43.939},
+			{"lat": -65.452, "lng": -44.423},
+			{"lat": -65.648, "lng": -44.786},
+			{"lat": -65.873, "lng": -45.632},
+			{"lat": -66.274, "lng": -47.214}
+		]
+	},
+	{
+		"title": "Davis PD",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -72.817, "lng": -4.484},
+			{"lat": -73.072, "lng": -5.121},
+			{"lat": -73.313, "lng": -4.099},
+			{"lat": -73.049, "lng": -3.275}
+		]
+	},
+	{
+		"title": "Impound Lot",
+		"notes": "Where cars go when they get impounded.",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -70.814, "lng": -22.400},
+			{"lat": -71.398, "lng": -22.444},
+			{"lat": -71.384, "lng": -21.818},
+			{"lat": -71.433, "lng": -21.466},
+			{"lat": -71.108, "lng": -19.873},
+			{"lat": -70.800, "lng": -20.434}
+		]
+	},
+	{
+		"title": "Mission Row PD",
+		"notes": "The Los Santos Police Department, along with the Sheriff's Office, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -66.807, "lng": -2.858},
+			{"lat": -66.789, "lng": -0.738},
+			{"lat": -67.452, "lng": -0.727},
+			{"lat": -67.549, "lng": -2.924}
+		]
+	},
+	{
+		"title": "PBSO",
+		"notes": "Paleto Bay Sheriff's Office headquarters.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Paleto_Bay_Sheriff%27s_Office",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 73.978, "lng": -29.654},
+			{"lat": 74.135, "lng": -27.689},
+			{"lat": 73.795, "lng": -27.251},
+			{"lat": 73.678, "lng": -27.119},
+			{"lat": 73.511, "lng": -27.129},
+			{"lat": 73.426, "lng": -27.196},
+			{"lat": 73.237, "lng": -27.404},
+			{"lat": 72.972, "lng": -28.085},
+			{"lat": 73.426, "lng": -29.919}
+		]
+	},
+	{
+		"title": "SDSO",
+		"notes": "The Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 40.127, "lng": 37.054},
+			{"lat": 40.912, "lng": 38.801},
+			{"lat": 40.061, "lng": 39.428},
+			{"lat": 39.274, "lng": 37.692}
+		]
+	},
+	{
+		"title": "The Courthouse",
+		"notes": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -72.999, "lng": -8.914},
+			{"lat": -74.103, "lng": -4.343},
+			{"lat": -73.574, "lng": -2.772},
+			{"lat": -73.073, "lng": -5.222},
+			{"lat": -72.747, "lng": -4.497},
+			{"lat": -72.438, "lng": -5.673}
+		]
+	}
+]

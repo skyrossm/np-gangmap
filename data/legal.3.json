@@ -1,0 +1,155 @@
+[
+	{
+		"title": "AirX Flight School",
+		"notes": "AirX is owned by Jackie Snow. Knowing their passion, skill, and experience for flying, Bryce Miller, Tony Corleone, and Olivia Copper were the first to be recruited into the flight school. Bryce was hired as Flight Chief/Manager and Instructor of AirX. Tony and Copper were also hired as Flight Instructors. AirX Flight School operates out of Fort Zancudo military base.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/AirX_Flight_School",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 34.319, "lng": -95.567},
+			{"lat": 33.653, "lng": -91.306},
+			{"lat": 33.909, "lng": -87.636},
+			{"lat": 34.599, "lng": -84.209},
+			{"lat": 34.581, "lng": -80.715},
+			{"lat": 33.893, "lng": -75.128},
+			{"lat": 34.002, "lng": -71.766},
+			{"lat": 33.048, "lng": -67.708},
+			{"lat": 31.694, "lng": -64.807},
+			{"lat": 29.901, "lng": -62.719},
+			{"lat": 27.551, "lng": -62.434},
+			{"lat": 25.703, "lng": -63.248},
+			{"lat": 22.778, "lng": -62.721},
+			{"lat": 20.822, "lng": -62.237},
+			{"lat": 19.131, "lng": -63.049},
+			{"lat": 17.671, "lng": -64.786},
+			{"lat": 16.273, "lng": -67.895},
+			{"lat": 16.357, "lng": -72.245},
+			{"lat": 17.241, "lng": -76.222},
+			{"lat": 18.749, "lng": -79.194},
+			{"lat": 20.158, "lng": -81.719},
+			{"lat": 20.191, "lng": -84.017},
+			{"lat": 20.205, "lng": -86.971},
+			{"lat": 21.294, "lng": -88.531},
+			{"lat": 23.669, "lng": -89.454},
+			{"lat": 25.463, "lng": -91.959},
+			{"lat": 27.978, "lng": -96.566},
+			{"lat": 30.237, "lng": -99.083},
+			{"lat": 32.284, "lng": -99.325},
+			{"lat": 33.765, "lng": -98.402}
+		]
+	},
+	{
+		"title": "Bob Smith PD",
+		"notes": "Bob Smith Police Department, formerly known as Vespucci Police Department was named after former Chief of Police Bob Smith. Who was the longest standing Chief in Los Santos, beloved by the people.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Bob_Smith_Police_Department",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -65.418, "lng": -48.595},
+			{"lat": -64.592, "lng": -46.244},
+			{"lat": -64.802, "lng": -45.643},
+			{"lat": -64.917, "lng": -45.028},
+			{"lat": -64.992, "lng": -44.478},
+			{"lat": -65.117, "lng": -43.939},
+			{"lat": -65.452, "lng": -44.423},
+			{"lat": -65.648, "lng": -44.786},
+			{"lat": -65.873, "lng": -45.632},
+			{"lat": -66.274, "lng": -47.214}
+		]
+	},
+	{
+		"title": "Davis PD",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -72.817, "lng": -4.484},
+			{"lat": -73.072, "lng": -5.121},
+			{"lat": -73.313, "lng": -4.099},
+			{"lat": -73.049, "lng": -3.275}
+		]
+	},
+	{
+		"title": "Impound Lot",
+		"notes": "Where cars go when they get impounded.",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -68.824, "lng": -22.398},
+			{"lat": -68.799, "lng": -18.344},
+			{"lat": -69.088, "lng": -18.355},
+			{"lat": -69.151, "lng": -19.146},
+			{"lat": -69.112, "lng": -22.398}
+		]
+	},
+	{
+		"title": "Mission Row PD",
+		"notes": "The Los Santos Police Department, along with the Paleto Bay Sheriff's Office, the Senora Desert Sheriff's Office, the San Andreas State Police and the San Andreas State Park Rangers, makes up the executive branch of Los Santos; together they ensure that the law is upheld and enforced.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Los_Santos_Police_Department",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -66.807, "lng": -2.858},
+			{"lat": -66.789, "lng": -0.738},
+			{"lat": -67.452, "lng": -0.727},
+			{"lat": -67.549, "lng": -2.924}
+		]
+	},
+	{
+		"title": "PBSO",
+		"notes": "Paleto Bay Sheriff's Office headquarters ran by Kyle Pred.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Paleto_Bay_Sheriff%27s_Office",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 73.978, "lng": -29.654},
+			{"lat": 74.135, "lng": -27.689},
+			{"lat": 73.795, "lng": -27.251},
+			{"lat": 73.678, "lng": -27.119},
+			{"lat": 73.511, "lng": -27.129},
+			{"lat": 73.426, "lng": -27.196},
+			{"lat": 73.237, "lng": -27.404},
+			{"lat": 72.972, "lng": -28.085},
+			{"lat": 73.426, "lng": -29.919}
+		]
+	},
+	{
+		"title": "SDSO",
+		"notes": "Run by Chief Toretti, the Senora Desert Sheriff's Office ensures crime is upheld and enforced.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Senora_Desert_Sheriff's_Office",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": 40.127, "lng": 37.054},
+			{"lat": 40.912, "lng": 38.801},
+			{"lat": 40.061, "lng": 39.428},
+			{"lat": 39.274, "lng": 37.692}
+		]
+	},
+	{
+		"title": "The Courthouse",
+		"notes": "Usually find randoms chilling here, but also has had some gunfights. Ran by Dennis LaBarrio",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Department_of_Justice",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -58.778, "lng": -9.293},
+			{"lat": -59.214, "lng": -7.029},
+			{"lat": -59.326, "lng": -6.546},
+			{"lat": -59.421, "lng": -6.315},
+			{"lat": -59.549, "lng": -6.216},
+			{"lat": -59.849, "lng": -6.183},
+			{"lat": -60.053, "lng": -6.282},
+			{"lat": -60.434, "lng": -6.557},
+			{"lat": -60.456, "lng": -10.523}
+		]
+	}
+]

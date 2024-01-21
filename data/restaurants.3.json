@@ -1,0 +1,85 @@
+[
+	{
+		"title": "Burger Shot",
+		"notes": "Burger Shot is a chain of fast-food restaurants specializing in hamburgers. Burger Shot is the food of choice in Los Santos. The company offers many delicious menu items and is owned by Dean Watson with Shelly Smith as CEO and Cassie Cupcake as COO.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Burger_Shot",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -66.046, "lng": -50.898},
+			{"lat": -65.492, "lng": -48.888},
+			{"lat": -66.322, "lng": -47.603},
+			{"lat": -66.828, "lng": -49.767}
+		],
+		"video": {
+			"yt_id": "O2zQEGiqtxk",
+			"yt_user_display": "c/tongys"
+		}
+	},
+	{
+		"title": "Maldini's Pizzeria",
+		"notes": "Maldini's Pizzeria is Co-owned by Vinny Pistone and Mr. Kebun.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Maldini%27s_Pizzeria",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -65.419, "lng": -33.103},
+			{"lat": -65.419, "lng": -31.476},
+			{"lat": -66.087, "lng": -31.476},
+			{"lat": -66.087, "lng": -33.103}
+		]
+	},
+	{
+		"title": "Rooster Rest",
+		"notes": "The Rooster's Rest is a local establishment privately-owned by Lang Buddha and members of the Cleanbois. While the business mostly operates as a chalet-style restaurant (serving mainly chicken-based products and ramen bowls), The Rooster's Rest also operates as a bar and grill, music venue, nightclub, hostel, the base of operations for Rooster Cab Co., a secretive host for D&D campaigns, and as a casino, strip club and brothel on the down-low.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Rooster%27s_Rest",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -46.792, "lng": -21.512},
+			{"lat": -46.792, "lng": -19.018},
+			{"lat": -47.077, "lng": -18.754},
+			{"lat": -48.099, "lng": -18.699},
+			{"lat": -48.107, "lng": -19.358},
+			{"lat": -48.048, "lng": -20.182},
+			{"lat": -47.989, "lng": -20.644},
+			{"lat": -47.967, "lng": -21.512}
+		]
+	},
+	{
+		"title": "UWU Caf\u00e9",
+		"notes": "UwU Caf\u00e9 is a restaurant created and owned by Ash Ketchup. Benji Ramos, Sherry Paie and Attorney James Haze each own a small percentage of the company and help run it",
+		"wiki_link": "https://nopixel.fandom.com/wiki/UwU_Caf%C3%A9",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -66.759, "lng": -33.115},
+			{"lat": -66.759, "lng": -30.808},
+			{"lat": -68.069, "lng": -30.775},
+			{"lat": -68.069, "lng": -32.857},
+			{"lat": -67.746, "lng": -33.895},
+			{"lat": -67.506, "lng": -33.467},
+			{"lat": -67.216, "lng": -33.221},
+			{"lat": -66.985, "lng": -33.133}
+		]
+	},
+	{
+		"title": "Up n Atom",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "E759E1",
+		"fillcolor": "E759E1",
+		"latlngarray": [
+			{"lat": -47.178, "lng": -12.779},
+			{"lat": -47.387, "lng": -11.978},
+			{"lat": -48.388, "lng": -12.538},
+			{"lat": -48.118, "lng": -13.626},
+			{"lat": -47.333, "lng": -13.133}
+		]
+	}
+]

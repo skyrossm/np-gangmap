@@ -23,7 +23,9 @@
 </head>
 <body>
 	<header>
-		<p class="left" style="padding-top: 5px;"><a href="">NoPixel Territory Map</a></p>
+		<p class="left" style="padding-top: 5px;">
+			<a href="">NoPixel Territory Map</a>
+		</p>
 		<ul class="right">
 			<div class="dropdown">
 				<a href="https://github.com/skyrossm/np-gangmap/graphs/contributors" target="_blank"><button class="btn btn-primary">Contributors</button></a>
@@ -44,15 +46,17 @@
 
 	<div id="map" style="background:rgb(43, 164, 210);"></div>
 
-	<script type="x/template" id="categoriesTemplate">
-		{{#each categories}}
+	<script type="x/template" id="sectionTemplate">
+		{{#each sections as | section |}}
 			<section class="type">
 				<h3>{{name}}</h3>
 				<ul>
-					{{#each types}}
-						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a></li>
-					{{/each}}
-					<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a></li>
+					{{#each categories}}
+						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}" data-section="{{section.name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-section="{{section.name}}" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a></li>
+					{{/each}}					
+					{{#ifEquals name "General"}}
+						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a></li>
+					{{/ifEquals}}
 
 				</ul>
 			</section>
@@ -61,11 +65,13 @@
 
 	<script type="x/template" id="categoryDetailsTemplate">
 		<section class="type">
-			<h3><a href="#" class="back details"><i class="icon-chevron-sign-left"></i></a> {{type.name}}</h3>
+			<h3><a href="#" class="back details"><i class="icon-chevron-sign-left"></i></a> {{category}}</h3>
 			<ul class="listview">
+				{{#with this as | root |}}
 				{{#each locations}}
-					<li><div style="height:20px;width:20px;background-color:#{{fillcolor}};border: 3px solid #{{strokecolor}}; display:inline-block;margin-right:10px;"></div><label>{{title}}</label></li>
+					<li data-section="{{root.section}}" data-name="{{root.category}}"><div style="height:20px;width:20px;background-color:#{{fillcolor}};border: 3px solid #{{strokecolor}}; display:inline-block;margin-right:10px;"></div><label>{{title}}</label></li>
 				{{/each}}
+				{{/with}}
 			</ul>
 		</section>
 	</script>

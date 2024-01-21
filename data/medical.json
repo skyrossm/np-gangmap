@@ -1,0 +1,126 @@
+[
+	{
+		"title": "Central Los Santos Medical Center",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": -70.724, "lng": -4.978},
+			{"lat": -71.513, "lng": -2.066},
+			{"lat": -72.157, "lng": -5.626},
+			{"lat": -71.673, "lng": -7.439}
+		]
+	},
+	{
+		"title": "Grandma's",
+		"notes": "(3.0 Only) Where you go to pick up your gang after a shootout.",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": 63.316, "lng": 56.517},
+			{"lat": 63.175, "lng": 56.776},
+			{"lat": 63.051, "lng": 56.918},
+			{"lat": 62.976, "lng": 56.907},
+			{"lat": 62.801, "lng": 56.787},
+			{"lat": 62.725, "lng": 56.721},
+			{"lat": 62.614, "lng": 56.501},
+			{"lat": 62.319, "lng": 55.864},
+			{"lat": 62.197, "lng": 55.556},
+			{"lat": 62.523, "lng": 54.864}
+		]
+	},
+	{
+		"title": "Grandpa's",
+		"notes": "(3.0 Only) Similar to Grandma's, Lesser known grandpa's is another place where you can ressurect people.",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": 61.701, "lng": -44.224},
+			{"lat": 61.445, "lng": -42.851},
+			{"lat": 60.787, "lng": -43.369},
+			{"lat": 61.056, "lng": -44.839}
+		]
+	},
+	{
+		"title": "Parsons Hill",
+		"notes": "Parsons Rehabilitation Center is a psychiatric rehabilitation facility for 51-50 patients. The patients referred to this center are primarily non-violent individuals that have been determined as unsafe for themselves and/or others. Patients can be held on a three-day temporary hold, or indefinitely. After an evaluation, only an authorized psychologist or a judge can determine if the patient will be released, or remain in the center for further treatment.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Parsons_Rehabilitation_Center",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": -34.315, "lng": -58.779},
+			{"lat": -33.942, "lng": -58.132},
+			{"lat": -34.115, "lng": -57.889},
+			{"lat": -34.359, "lng": -57.692},
+			{"lat": -34.722, "lng": -57.495},
+			{"lat": -34.974, "lng": -57.393},
+			{"lat": -36.154, "lng": -57.096},
+			{"lat": -36.464, "lng": -56.976},
+			{"lat": -37.289, "lng": -59.118},
+			{"lat": -37.552, "lng": -59.448},
+			{"lat": -38.202, "lng": -61.205},
+			{"lat": -38.159, "lng": -61.623},
+			{"lat": -37.734, "lng": -61.887},
+			{"lat": -37.412, "lng": -61.799},
+			{"lat": -37.289, "lng": -61.359},
+			{"lat": -36.939, "lng": -61.216},
+			{"lat": -36.216, "lng": -61.612},
+			{"lat": -35.834, "lng": -61.392},
+			{"lat": -35.432, "lng": -60.678},
+			{"lat": -35.073, "lng": -60.162},
+			{"lat": -34.704, "lng": -59.689},
+			{"lat": -34.541, "lng": -59.184}
+		]
+	},
+	{
+		"title": "Pillbox Medical Center",
+		"notes": "Pillbox Medical Center is the main hospital in Los Santos. Pillbox is the center of higher medicine in the city of Los Santos. It is home to the Emergency Medical Services, however EMS is not owned or funded by the hospital. They work with the rest of the governmental agencies across the city and routinely give them necessary higher medical services.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": -61.606, "lng": -6.451},
+			{"lat": -61.663, "lng": -5.034},
+			{"lat": -61.715, "lng": -4.034},
+			{"lat": -61.731, "lng": -3.199},
+			{"lat": -62.405, "lng": -4.111},
+			{"lat": -62.765, "lng": -4.475},
+			{"lat": -62.371, "lng": -7.168}
+		]
+	},
+	{
+		"title": "El Burro Heights Fire Station",
+		"notes": "El Burro Heights Fire Station is an official office of EMS.",
+		"wiki_ling": "https://nopixel.fandom.com/wiki/Emergency_Medical_Services",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -71.716, "lng": 21.124},
+			{"lat": -71.735, "lng": 18.447},
+			{"lat": -72.255, "lng": 18.458},
+			{"lat": -72.282, "lng": 21.732}
+		]
+	},
+	{
+		"title": "Viceroy Medical Center",
+		"notes": "Viceroy Medical Center is a secondary hospital in Los Santos.",
+		"wiki_ling": "https://nopixel.fandom.com/wiki/Viceroy_Medical_Center",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -68.741, "lng": -37.279},
+			{"lat": -69.352, "lng": -40.693},
+			{"lat": -69.956, "lng": -39.550},
+			{"lat": -70.110, "lng": -37.221},
+			{"lat": -69.533, "lng": -35.592}
+		]
+	}
+]
