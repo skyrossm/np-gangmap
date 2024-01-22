@@ -14,7 +14,7 @@
 		]
 	},
 	{
-		"title": "Larry's House",
+		"title": "Larry and Co",
 		"notes": "Larry, Mama, Oscar, etc",
 		"wiki_link": "",
 		"order": 0,
@@ -35,10 +35,10 @@
 		"strokecolor": "551A8B",
 		"fillcolor": "551A8B",
 		"latlngarray": [
-			{"lat": -75.717, "lng": -12.518},
-			{"lat": -75.900, "lng": -13.255},
-			{"lat": -75.819, "lng": -13.672},
-			{"lat": -75.635, "lng": -12.936}
+			{"lat": -75.628, "lng": -12.898},
+			{"lat": -75.704, "lng": -12.547},
+			{"lat": -75.874, "lng": -13.316},
+			{"lat": -75.793, "lng": -13.810}
 		]
 	},
 	{
@@ -49,10 +49,323 @@
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
 		"latlngarray": [
-			{"lat": -75.714, "lng": -12.536},
-			{"lat": -75.876, "lng": -13.338},
+			{"lat": -75.704, "lng": -12.547},
+			{"lat": -75.874, "lng": -13.316},
 			{"lat": -75.945, "lng": -13.063},
 			{"lat": -75.784, "lng": -12.382}
+		]
+	},
+	{
+		"title": "notHydra House",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF00",
+		"fillcolor": "00FF00",
+		"latlngarray": [
+			{"lat": -75.218, "lng": -12.024},
+			{"lat": -75.260, "lng": -11.629},
+			{"lat": -75.495, "lng": -12.277},
+			{"lat": -75.418, "lng": -12.628}
+		]
+	},
+	{
+		"title": "The Besties",
+		"notes": "4Head, AK, Fanny, Ming, Desmon",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "EC61FF",
+		"fillcolor": "EC61FF",
+		"latlngarray": [
+			{"lat": -75.391, "lng": -11.969},
+			{"lat": -75.447, "lng": -11.540},
+			{"lat": -75.589, "lng": -11.837},
+			{"lat": -75.502, "lng": -12.244}
+		]
+	},
+	{
+		"title": "Section K Rental #2",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFFF44",
+		"fillcolor": "FFFF44",
+		"latlngarray": [
+			{"lat": -75.455, "lng": -11.483},
+			{"lat": -75.510, "lng": -11.098},
+			{"lat": -75.645, "lng": -11.538},
+			{"lat": -75.593, "lng": -11.790}
+		]
+	},
+	{
+		"title": "notCG House",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -75.652, "lng": -11.505},
+			{"lat": -75.507, "lng": -11.066},
+			{"lat": -75.586, "lng": -10.670},
+			{"lat": -75.649, "lng": -10.429},
+			{"lat": -75.755, "lng": -11.022},
+			{"lat": -75.760, "lng": -11.417}
+		]
+	},
+	{
+		"title": "OldBois",
+		"notes": "Lang, Harry, Speedy, Luciano, Goofy, Yuno",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "964B00",
+		"fillcolor": "964B00",
+		"latlngarray": [
+			{"lat": -75.779, "lng": -11.062},
+			{"lat": -75.921, "lng": -10.403},
+			{"lat": -75.977, "lng": -10.546},
+			{"lat": -75.862, "lng": -11.348}
+		]
+	},
+	{
+		"title": "Section K Rental #1",
+		"notes": "Rented to PD",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -75.309, "lng": -11.198},
+			{"lat": -75.356, "lng": -10.781},
+			{"lat": -75.503, "lng": -11.077},
+			{"lat": -75.442, "lng": -11.495}
+		]
+	},
+	{
+		"title": "Nino & Co",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "6F6F6F",
+		"fillcolor": "6F6F6F",
+		"latlngarray": [
+			{"lat": -75.359, "lng": -10.741},
+			{"lat": -75.434, "lng": -10.027},
+			{"lat": -75.582, "lng": -10.631},
+			{"lat": -75.508, "lng": -11.016}
+		]
+	},
+	{
+		"title": "Polen & Co",
+		"notes": "Jason, Raia, Nunu, Eugene",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "33FFE3",
+		"fillcolor": "33FFE3",
+		"latlngarray": [
+			{"lat": -75.263, "lng": -9.903},
+			{"lat": -75.100, "lng": -9.595},
+			{"lat": -75.235, "lng": -8.881},
+			{"lat": -75.360, "lng": -9.156},
+			{"lat": -75.307, "lng": -9.507}
+		]
+	},
+	{
+		"title": "Polish Gang",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "A35E19",
+		"fillcolor": "A35E19",
+		"latlngarray": [
+			{"lat": -74.075, "lng": -7.830},
+			{"lat": -74.282, "lng": -6.973},
+			{"lat": -74.371, "lng": -7.292},
+			{"lat": -74.183, "lng": -8.149}
+		]
+	},
+	{
+		"title": "ADMC",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "1953A3",
+		"fillcolor": "1953A3",
+		"latlngarray": [
+			{"lat": -74.271, "lng": -6.664},
+			{"lat": -74.501, "lng": -5.675},
+			{"lat": -74.592, "lng": -5.983},
+			{"lat": -74.339, "lng": -6.983}
+		]
+	},
+	{
+		"title": "Saints",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "353535",
+		"fillcolor": "353535",
+		"latlngarray": [
+			{"lat": -74.439, "lng": -0.352},
+			{"lat": -74.439, "lng": 0.538},
+			{"lat": -74.550, "lng": 0.549},
+			{"lat": -74.559, "lng": -0.275}
+		]
+	},
+	{
+		"title": "Kaneshiro Clain",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF5050",
+		"fillcolor": "FF5050",
+		"latlngarray": [
+			{"lat": -74.747, "lng": -0.658},
+			{"lat": -74.925, "lng": 0.144},
+			{"lat": -74.971, "lng": -0.065},
+			{"lat": -75.022, "lng": -0.427},
+			{"lat": -74.943, "lng": -0.614},
+			{"lat": -74.860, "lng": -1.010}
+		]
+	},
+	{
+		"title": "exBSK",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF5050",
+		"fillcolor": "FF5050",
+		"latlngarray": [
+			{"lat": -73.419, "lng": 19.806},
+			{"lat": -73.671, "lng": 20.366},
+			{"lat": -73.751, "lng": 19.718},
+			{"lat": -73.531, "lng": 19.257}
+		]
+	},
+	{
+		"title": "C4",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -73.220, "lng": 20.718},
+			{"lat": -73.137, "lng": 21.146},
+			{"lat": -73.460, "lng": 21.751},
+			{"lat": -73.556, "lng": 21.212}
+		]
+	},
+	{
+		"title": "The Raiders",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -73.907, "lng": 23.727},
+			{"lat": -73.696, "lng": 23.408},
+			{"lat": -73.541, "lng": 24.199},
+			{"lat": -73.822, "lng": 24.946}
+		]
+	},
+	{
+		"title": "notSeaside",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "33FFE3",
+		"fillcolor": "33FFE3",
+		"latlngarray": [
+			{"lat": -72.633, "lng": 22.958},
+			{"lat": -72.336, "lng": 22.584},
+			{"lat": -72.252, "lng": 23.485},
+			{"lat": -72.535, "lng": 23.672}
+		]
+	},
+	{
+		"title": "Tess Crew",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -72.754, "lng": 23.101},
+			{"lat": -72.650, "lng": 23.848},
+			{"lat": -72.725, "lng": 24.045},
+			{"lat": -72.861, "lng": 23.309}
+		]
+	},
+	{
+		"title": "The Pack",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "353535",
+		"fillcolor": "353535",
+		"latlngarray": [
+			{"lat": -72.868, "lng": 23.342},
+			{"lat": -73.035, "lng": 23.782},
+			{"lat": -72.907, "lng": 24.430},
+			{"lat": -72.741, "lng": 24.001}
+		]
+	},
+	{
+		"title": "Lumber Union",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "964B00",
+		"fillcolor": "964B00",
+		"latlngarray": [
+			{"lat": -72.357, "lng": 25.676},
+			{"lat": -72.320, "lng": 26.028},
+			{"lat": -72.095, "lng": 25.632},
+			{"lat": -72.139, "lng": 25.336}
+		]
+	},
+	{
+		"title": "Unknown #2",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ECECEC",
+		"fillcolor": "ECECEC",
+		"latlngarray": [
+			{"lat": -72.290, "lng": 26.390},
+			{"lat": -72.320, "lng": 26.028},
+			{"lat": -72.095, "lng": 25.632},
+			{"lat": -72.011, "lng": 26.072}
+		]
+	},
+	{
+		"title": "Unknown #1",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ECECEC",
+		"fillcolor": "ECECEC",
+		"latlngarray": [
+			{"lat": -75.369, "lng": -9.121},
+			{"lat": -75.241, "lng": -8.846},
+			{"lat": -75.327, "lng": -8.330},
+			{"lat": -75.435, "lng": -8.681}
+		]
+	},
+	{
+		"title": "The Company",
+		"notes": "Jean Paul, OTT, Raymond Romanov, Benji Ramos, Mickey Sinclair",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -75.108, "lng": -6.233},
+			{"lat": -74.983, "lng": -5.827},
+			{"lat": -75.187, "lng": -4.893},
+			{"lat": -75.301, "lng": -5.332}
 		]
 	}
 ]

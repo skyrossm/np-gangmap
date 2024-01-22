@@ -117,6 +117,19 @@
 		]
 	},
 	{
+		"title": "Mosley Auto Service",
+		"notes": "Mosley Auto Service is an auto dealership and service and repair shop",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -73.288, "lng": -15.577},
+			{"lat": -73.626, "lng": -14.160},
+			{"lat": -74.054, "lng": -17.851}
+		]
+	},
+	{
 		"title": "Davis Gas Station",
 		"notes": "",
 		"wiki_link": "",
@@ -124,10 +137,11 @@
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
 		"latlngarray": [
-			{"lat": -74.115, "lng": -16.375},
-			{"lat": -74.407, "lng": -15.122},
-			{"lat": -74.693, "lng": -16.023},
-			{"lat": -74.279, "lng": -17.836}
+			{"lat": -74.314, "lng": -17.559},
+			{"lat": -74.204, "lng": -16.515},
+			{"lat": -74.323, "lng": -15.944},
+			{"lat": -74.559, "lng": -16.768},
+			{"lat": -74.361, "lng": -17.611}
 		]
 	},
 	{
