@@ -165,6 +165,12 @@ $(function() {
 					url: 'data/territories.4.json',
 				}),
 				new CategoryModel({
+					name: 'Weed Turf',
+					icon: 'radar/radar_weed_stash.png',
+					enabled: true,
+					url: 'data/weed_turf.json',
+				}),
+				new CategoryModel({
 					name: 'Heists',
 					icon: 'radar/radar_heist.png',
 					enabled: true,
