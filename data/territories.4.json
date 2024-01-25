@@ -355,6 +355,20 @@
 		]
 	},
 	{
+		"title": "The Hidden",
+		"notes": "Commonly seen in urban camo.",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "3b3b3b",
+		"fillcolor": "3b3b3b",
+		"latlngarray": [
+			{"lat": -59.803, "lng": 16.819},
+			{"lat": -59.792, "lng": 17.544},
+			{"lat": -60.210, "lng": 17.445},
+			{"lat": -60.232, "lng": 16.665}
+		]
+	},
+	{
 		"title": "The Company",
 		"notes": "Jean Paul, OTT, Raymond Romanov, Benji Ramos, Mickey Sinclair",
 		"wiki_link": "",
