@@ -171,6 +171,20 @@
 		]
 	},
 	{
+		"title": "Pigeon",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "33FFE3",
+		"fillcolor": "33FFE3",
+		"latlngarray": [
+			{"lat": 75.109, "lng": -26.592},
+			{"lat": 75.246, "lng": -25.999},
+			{"lat": 75.049, "lng": -25.219},
+			{"lat": 74.913, "lng": -25.801}
+		]
+	},
+	{
 		"title": "Polish Gang",
 		"notes": "",
 		"wiki_link": "",
