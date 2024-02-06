@@ -401,8 +401,8 @@
 		"notes": "Golden Castle",
 		"wiki_link": "https://nopixel.fandom.com/wiki/The_Kaneshiro_Clan",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "FF5050",
+		"fillcolor": "FF5050",
 		"latlngarray": [
 			{"lat": -62.318, "lng": 11.136},
 			{"lat": -62.608, "lng": 11.960},
