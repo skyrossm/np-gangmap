@@ -395,5 +395,20 @@
 			{"lat": -75.187, "lng": -4.893},
 			{"lat": -75.301, "lng": -5.332}
 		]
-	}
+	},
+	{
+		"title": "Kaneshiro Clan",
+		"notes": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/The_Kaneshiro_Clan",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -62.318, "lng": 11.136},
+			{"lat": -62.608, "lng": 11.960},
+			{"lat": -62.964, "lng": 11.191},
+			{"lat": -62.673, "lng": 10.477}
+		]
+	},
+
 ]
