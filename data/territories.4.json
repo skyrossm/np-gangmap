@@ -228,8 +228,8 @@
 	},
 	{
 		"title": "Kaneshiro Clan",
-		"notes": "",
-		"wiki_link": "",
+		"notes": "Mosley's Parts House",
+		"wiki_link": "https://nopixel.fandom.com/wiki/The_Kaneshiro_Clan",
 		"order": 0,
 		"strokecolor": "FF5050",
 		"fillcolor": "FF5050",
@@ -398,7 +398,7 @@
 	},
 	{
 		"title": "Kaneshiro Clan",
-		"notes": "",
+		"notes": "Golden Castle",
 		"wiki_link": "https://nopixel.fandom.com/wiki/The_Kaneshiro_Clan",
 		"order": 0,
 		"strokecolor": "FF0000",
