@@ -58,7 +58,7 @@
 	{
 		"title": "notHydra House",
 		"notes": "",
-		"wiki_link": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Hydra_Gang",
 		"order": 0,
 		"strokecolor": "00FF00",
 		"fillcolor": "00FF00",
@@ -67,6 +67,20 @@
 			{"lat": -75.260, "lng": -11.629},
 			{"lat": -75.495, "lng": -12.277},
 			{"lat": -75.418, "lng": -12.628}
+		]
+	},
+	{
+		"title": "notHydra House",
+		"notes": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Hydra_Gang",
+		"order": 0,
+		"strokecolor": "00FF00",
+		"fillcolor": "00FF00",
+		"latlngarray": [
+			{"lat": -62.051, "lng": 23.920},
+			{"lat": -62.465, "lng": 23.304},
+			{"lat": -62.693, "lng": 24.030},
+			{"lat": -62.241, "lng": 24.282}
 		]
 	},
 	{
