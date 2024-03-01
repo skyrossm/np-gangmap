@@ -99,7 +99,7 @@
 	},
 	{
 		"title": "Section K Rental #2",
-		"notes": "",
+		"notes": "Wu-Chang House",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFFF44",
@@ -112,7 +112,21 @@
 		]
 	},
 	{
-		"title": "notCG House",
+		"title": "Section K Rental #3",
+		"notes": "Popular Motorworks (Vinny, Ellie, Chip, Arrowhead) Rent-To-Own",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFFF44",
+		"fillcolor": "FFFF44",
+		"latlngarray": [
+			{"lat": -74.135, "lng": -9.308},
+			{"lat": -74.096, "lng": -8.901},
+			{"lat": -73.975, "lng": -9.198},
+			{"lat": -74.008, "lng": -9.583}
+		]
+	},
+	{
+		"title": "Chang Gang",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
@@ -143,7 +157,7 @@
 	},
 	{
 		"title": "Section K Rental #1",
-		"notes": "Rented to PD",
+		"notes": "Formerly rented to PD, now Rent-To-Own",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "0000FF",
@@ -355,6 +369,20 @@
 		]
 	},
 	{
+		"title": "Lumber Union Showroom",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "964B00",
+		"fillcolor": "964B00",
+		"latlngarray": [
+			{"lat": -72.909, "lng": 22.425},
+			{"lat": -73.041, "lng": 21.776},
+			{"lat": -73.352, "lng": 22.348},
+			{"lat": -73.220, "lng": 23.029}
+		]
+	},
+	{
 		"title": "Unknown #2",
 		"notes": "",
 		"wiki_link": "",
@@ -398,7 +426,7 @@
 	},
 	{
 		"title": "The Company",
-		"notes": "Jean Paul, OTT, Raymond Romanov, Benji Ramos, Mickey Sinclair",
+		"notes": "OTT, Raymond Romanov, Benji Ramos, Mickey Sinclair",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
@@ -422,6 +450,121 @@
 			{"lat": -62.608, "lng": 11.960},
 			{"lat": -62.964, "lng": 11.191},
 			{"lat": -62.673, "lng": 10.477}
+		]
+	},
+	{
+		"title": "Kaneshiro Clan",
+		"notes": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/The_Kaneshiro_Clan",
+		"order": 0,
+		"strokecolor": "FF5050",
+		"fillcolor": "FF5050",
+		"latlngarray": [
+			{"lat": -62.615, "lng": 11.986},
+			{"lat": -62.756, "lng": 12.470},
+			{"lat": -63.131, "lng": 11.657},
+			{"lat": -62.972, "lng": 11.228}
+		]
+	},
+	{
+		"title": "Kaneshiro Clan",
+		"notes": "",
+		"wiki_link": "https://nopixel.fandom.com/wiki/The_Kaneshiro_Clan",
+		"order": 0,
+		"strokecolor": "FF5050",
+		"fillcolor": "FF5050",
+		"latlngarray": [
+			{"lat": -62.912, "lng": 13.477},
+			{"lat": -62.555, "lng": 12.895},
+			{"lat": -62.362, "lng": 13.576},
+			{"lat": -62.448, "lng": 14.290},
+			{"lat": -62.771, "lng": 14.147}
+		]
+	},
+	{
+		"title": "PD",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "3b3b3b",
+		"fillcolor": "3b3b3b",
+		"latlngarray": [
+			{"lat": -62.150, "lng": 10.511},
+			{"lat": -62.308, "lng": 11.127},
+			{"lat": -62.669, "lng": 10.478},
+			{"lat": -62.466, "lng": 9.885}
+		]
+	},
+	{
+		"title": "Cloak",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "3b3b3b",
+		"fillcolor": "3b3b3b",
+		"latlngarray": [
+			{"lat": -61.928, "lng": 10.039},
+			{"lat": -61.601, "lng": 9.940},
+			{"lat": -61.700, "lng": 8.710},
+			{"lat": -62.026, "lng": 8.743},
+			{"lat": -62.257, "lng": 9.149}
+		]
+	},
+	{
+		"title": "Cau Mau (Company)",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -61.601, "lng": 9.940},
+			{"lat": -61.700, "lng": 8.710},
+			{"lat": -61.191, "lng": 8.721},
+			{"lat": -61.095, "lng": 9.127},
+			{"lat": -61.328, "lng": 9.984}
+		]
+	},
+	{
+		"title": "notAngels",
+		"notes": "Former Angels plus Kaiba",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ECECEC",
+		"fillcolor": "ECECEC",
+		"latlngarray": [
+			{"lat": -75.077, "lng": -11.571},
+			{"lat": -75.139, "lng": -10.967},
+			{"lat": -75.012, "lng": -10.637},
+			{"lat": -74.929, "lng": -11.044}
+		]
+	},
+	{
+		"title": "Dex",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "329930",
+		"fillcolor": "329930",
+		"latlngarray": [
+			{"lat": -60.829, "lng": 21.779},
+			{"lat": -60.500, "lng": 22.020},
+			{"lat": -60.500, "lng": 20.922},
+			{"lat": -60.711, "lng": 20.823}
+		]
+	},
+	{
+		"title": "Julian",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "EC61FF",
+		"fillcolor": "EC61FF",
+		"latlngarray": [
+			{"lat": -60.048, "lng": 14.219},
+			{"lat": -60.305, "lng": 13.483},
+			{"lat": -59.906, "lng": 12.978},
+			{"lat": -59.657, "lng": 13.736}
 		]
 	}
 ]
