@@ -552,5 +552,19 @@
 			{"lat": -60.500, "lng": 20.922},
 			{"lat": -60.711, "lng": 20.823}
 		]
+	},
+	{
+		"title": "Julian",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "EC61FF",
+		"fillcolor": "EC61FF",
+		"latlngarray": [
+			{"lat": -60.048, "lng": 14.219},
+			{"lat": -60.305, "lng": 13.483},
+			{"lat": -59.906, "lng": 12.978},
+			{"lat": -59.657, "lng": 13.736}
+		]
 	}
 ]
