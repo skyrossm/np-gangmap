@@ -42,7 +42,7 @@
 		]
 	},
 	{
-		"title": "notMDM House",
+		"title": "Manor House",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
@@ -56,8 +56,8 @@
 		]
 	},
 	{
-		"title": "notHydra House",
-		"notes": "",
+		"title": "Hydra House",
+		"notes": "Owned by Flippy",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Hydra_Gang",
 		"order": 0,
 		"strokecolor": "00FF00",
@@ -70,8 +70,8 @@
 		]
 	},
 	{
-		"title": "notHydra House",
-		"notes": "",
+		"title": "Hydra House",
+		"notes": "Flippy's House, owned by Susie",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Hydra_Gang",
 		"order": 0,
 		"strokecolor": "00FF00",
@@ -184,7 +184,7 @@
 		]
 	},
 	{
-		"title": "Polen & Co",
+		"title": "Civ Gang",
 		"notes": "Jason, Raia, Nunu, Eugene",
 		"wiki_link": "",
 		"order": 0,
@@ -483,7 +483,7 @@
 	},
 	{
 		"title": "PD",
-		"notes": "",
+		"notes": "Viv, Suarez, Nekoda",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "3b3b3b",
@@ -527,7 +527,7 @@
 	},
 	{
 		"title": "notAngels",
-		"notes": "Former Angels plus Kaiba",
+		"notes": "Former Angels plus Kaiba and Phantom",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "ECECEC",
@@ -565,6 +565,48 @@
 			{"lat": -60.305, "lng": 13.483},
 			{"lat": -59.906, "lng": 12.978},
 			{"lat": -59.657, "lng": 13.736}
+		]
+	},
+	{
+		"title": "Kiki Pendragon (ADMC)",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "1953A3",
+		"fillcolor": "1953A3",
+		"latlngarray": [
+			{"lat": -63.741, "lng": 20.169},
+			{"lat": -63.702, "lng": 21.026},
+			{"lat": -64.093, "lng": 21.048},
+			{"lat": -64.156, "lng": 20.191}
+		]
+	},
+	{
+		"title": "OldBois",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "964B00",
+		"fillcolor": "964B00",
+		"latlngarray": [
+			{"lat": -56.148, "lng": 9.209},
+			{"lat": -55.798, "lng": 9.660},
+			{"lat": -56.007, "lng": 10.308},
+			{"lat": -56.392, "lng": 9.858}
+		]
+	},
+	{
+		"title": "Hydra House",
+		"notes": "Chas' house, owned by Jenna (his wife)",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00FF00",
+		"fillcolor": "00FF00",
+		"latlngarray": [
+			{"lat": -61.862, "lng": 24.962},
+			{"lat": -61.722, "lng": 24.379},
+			{"lat": -61.350, "lng": 24.643},
+			{"lat": -61.513, "lng": 25.390}
 		]
 	}
 ]
